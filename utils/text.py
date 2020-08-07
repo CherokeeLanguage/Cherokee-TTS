@@ -88,7 +88,7 @@ def to_phoneme(text, ignore_punctuation, language, phoneme_dictionary=None):
 def _phonemize(text, language):
     try:
         seperators = Separator(word=' ', phone='')
-        phonemes = phonemize(text, separator=seperators, backend='espeak', language=language)           
+        phonemes = phonemize(text, separator=seperators, backend='espeak', with_stress=True, language=language)           
     except RuntimeError:
         epi = epitran.Epitran(language)
         phonemes = epi.transliterate(text, normpunc=True)
