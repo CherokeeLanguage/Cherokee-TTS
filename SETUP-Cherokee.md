@@ -6,7 +6,7 @@ Example steps to run this project
 
 ```bash
 cd ~/git
-git clone git@github.com:Tomiinek/Multilingual_Text_to_Speech.git
+git clone git@github.com:CherokeeLanguage/Multilingual_Text_to_Speech.git
 ```
 
 ## Virtual Environment
