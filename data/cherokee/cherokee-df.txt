@@ -1,0 +1,10 @@
+100001|durbin-feeling|chr|./ma-tracks/Track_20.wav|||Dẹ²gạ²de¹yo²³hṿ²sgo³ɂi. Dị²gạ²de¹yo⁴hṿ²sgi.|
+100002|durbin-feeling|chr|./ma-tracks/Track_23.wav|||Ạ²da. Ạɂ⁴da.|
+100003|durbin-feeling|chr|./ma-tracks/Track_25.wav|||Gạ²no²hạ²li²³do³²ha. Gạ²no²hạ²li²do⁴hi.|
+100004|durbin-feeling|chr|./ma-tracks/Track_26.wav|||Ka²³hwi sgị²ne²hṿ²si!|
+100005|durbin-feeling|chr|./ma-tracks/Track_27.wav|||Hị²sdu¹hv¹ga gạ²lo²hị²sdi⁴ɂi!|
+100006|durbin-feeling|chr|./ma-tracks/Track_28.wav|||Jạ²lạ²gi gvh⁴di hnị³wi!|
+100007|durbin-feeling|chr|./ma-tracks/Track_30.wav|||Do²nạ²da²go²hv²ɂi!|
+100008|durbin-feeling|chr|./ma-tracks/Track_31.wav|||Gạ²dọ² u²sdi u²³ha?|
+100009|durbin-feeling|chr|./ma-tracks/Track_32.wav|||Hị²ɂạ²nạ²s du²yu²kdṿ³ɂi?|
+100010|durbin-feeling|chr|./ma-tracks/Track_44.wav|||Gạ²dọ² u²sdi ga²tih²ga?|
