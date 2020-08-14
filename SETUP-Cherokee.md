@@ -91,7 +91,7 @@ code generated_training_low_memory.json
 
 ```diff
 -	"batch_size": 60,
-+	"batch_size": 20,
++	"batch_size": 10,
 
 -	"version": "GENERATED-TRAINING"
 +	"version": "GENERATED-TRAINING-LOW-MEMORY"

@@ -1,0 +1,29 @@
+{
+	"balanced_sampling": true,
+	"batch_size": 9,
+	"case_sensitive": false,
+	"characters": " ¹²³⁴ạẹịọụṿ1234ɂabcdefghijklmnopqrstuvwxyzçèéßäöōǎǐíǒàáǔüèéìūòóùúāēěīâêôûñőűабвгдежзийклмнопрстуфхцчшщъыьэюяёάέήίαβγδεζηθικλμνξοπρςíστυφχψωόύώ",
+	"checkpoint_each_epochs": 1,
+	"dataset": "cherokee",
+	"encoder_dimension": 256,
+	"encoder_type": "generated",
+	"epochs": 300,
+	"generator_bottleneck_dim": 8,
+	"generator_dim": 20,
+	"languages": [
+		"cherokee",
+		"french",
+		"spanish"
+	],
+	"language_embedding_dimension": 32,
+	"learning_rate": 0.001,
+	"learning_rate_decay_each": 10000,
+	"learning_rate_decay_start": 10000,
+	"multi_language": true,
+	"multi_speaker": true,
+	"perfect_sampling": true,
+	"predict_linear": false,
+	"version": "GENERATED-TRAINING-LOW-MEMORY-CHEROKEE",
+	"phonemes": "˦˧˨˩ɒ̃ẽĩõũə̃'iyɨʉɯuɪʏʊeøɘəɵɤoɛœɜɞʌɔæɐaɶɑɒᵻʘɓǀɗǃʄǂɠǁʛpbtdʈɖcɟkɡqɢʔɴŋɲɳnɱmʙrʀⱱɾɽɸβfvθðszʃʒʂʐçʝxɣχʁħʕhɦɬɮʋɹɻjɰlɭʎʟˈˌːˑʍwɥʜʢʡɕʑɺɧ ɚ˞ɫ'",
+	"use_phonemes": false
+}

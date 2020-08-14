@@ -39,6 +39,7 @@ from modules.tacotron2 import Tacotron
 def synthesize(model, input_data, force_cpu=False):
 
     item = input_data.split('|')
+    print(item)
     clean_text = item[1]
 
     if not hp.use_punctuation: 
@@ -106,10 +107,9 @@ if __name__ == '__main__':
 
     spectrograms = []
     for i, item in enumerate(inputs):
+        print(f'Synthesizing({i+1}/{len(inputs)}): "{item}"')
 
-        print(f'Synthesizing({i+1}/{len(inputs)}): "{item[1]}"')
-
-        s = synthesize(model, item[1], args.cpu)
+        s = synthesize(model, item, args.cpu)
 
         if not os.path.exists(args.output):
             os.makedirs(args.output)
