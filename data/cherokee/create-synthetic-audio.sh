@@ -78,7 +78,7 @@ rm c1.txt c2.txt c3.txt c4.txt c5.txt c6.txt c7.txt c8.txt
 
 wavCounter=0;
 echo "Creating synthetic Cherokee"
-MAX_PER_SYNTH=100
+MAX_PER_SYNTH=15
 
 set +o pipefail
 
@@ -168,7 +168,7 @@ cut -f 999 -d '|' "$tmpFile" > blank
 paste -d "|" tmp1 tmp2 tmp3 tmp4 blank blank tmp5 blank >> all.tmp 
 rm tmp1 tmp2 tmp3 tmp4 tmp5 blank
 
-cat "$SYNFRENCH" >> all.tmp
+#cat "$SYNFRENCH" >> all.tmp
 
 wavCounter=300000
 
@@ -197,7 +197,7 @@ shuf "nl.txt" | cut -f 5 -d '|' | egrep -v '^$' | tail -n $MAX_PER_SYNTH | while
     printf "%06d|espk-f2|nl|%s|||%s|%s\n" "$wavCounter" "$wavFile" "$estext" "" >> "$SYNDUTCH"
 done
 
-tmpFile="fr.txt"
+tmpFile="nl.txt"
 cut -f 1 -d '|' "$tmpFile" > tmp1 #id
 cut -f 2 -d '|' "$tmpFile" > tmp2 #speaker
 cut -f 3 -d '|' "$tmpFile" > tmp3 #language

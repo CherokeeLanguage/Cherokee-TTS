@@ -18,18 +18,24 @@ chr="Na³hnv³ gạ²lo¹gwe³ ga²ne⁴hi u²dlv²³kwsạ²ti ge¹se³, ạ²l
 #chr="Ụ²wo²³dị³ge⁴ɂi."
 
 printf "1|%s|durbin-feeling|chr\n" "$chr" | \
-	python synthesize.py --save_spec --checkpoint "checkpoints/$cp" #--cpu
+	python synthesize.py --save_spec --checkpoint "checkpoints/$cp" --cpu
 
 printf "2|%s|02-fr|chr\n" "$chr" | \
-	python synthesize.py --save_spec --checkpoint "checkpoints/$cp" #--cpu
+	python synthesize.py --save_spec --checkpoint "checkpoints/$cp" --cpu
 
 printf "3|%s|04-fr|chr\n" "$chr" | \
-	python synthesize.py --save_spec --checkpoint "checkpoints/$cp" #--cpu
+	python synthesize.py --save_spec --checkpoint "checkpoints/$cp" --cpu
 
-printf "4|%s|05-fr|chr\n" "$chr" | \
-	python synthesize.py --save_spec --checkpoint "checkpoints/$cp" #--cpu	
+printf "4|%s|22-fr|chr\n" "$chr" | \
+	python synthesize.py --save_spec --checkpoint "checkpoints/$cp" --cpu	
 
-printf "5|%s|06-fr|chr\n" "$chr" | \
-	python synthesize.py --save_spec --checkpoint "checkpoints/$cp" #--cpu
+printf "5|%s|espk-f2|chr\n" "$chr" | \
+	python synthesize.py --save_spec --checkpoint "checkpoints/$cp" --cpu
+
+printf "6|%s|espk-default|chr\n" "$chr" | \
+	python synthesize.py --save_spec --checkpoint "checkpoints/$cp" --cpu
+
+printf "7|%s|espk-f2|chr\n" "$chr" | \
+	python synthesize.py --save_spec --checkpoint "checkpoints/$cp" --cpu
 
 xdg-open .
