@@ -1,1 +1,0 @@
-id|speaker|language|audio_file_path|mel_spectrogram_path|linear_spectrogram_path|text|phonemicized_text

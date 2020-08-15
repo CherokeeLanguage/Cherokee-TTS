@@ -25,7 +25,6 @@ def cos_decay(global_step, decay_steps):
     global_step = min(global_step, decay_steps)
     return 0.5 * (1 + math.cos(math.pi * global_step / decay_steps))
 
-
 def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
     """Main training procedure.
     
@@ -226,7 +225,7 @@ if __name__ == '__main__':
     if args.checkpoint:
         checkpoint = os.path.join(checkpoint_dir, args.checkpoint)
         checkpoint_state = torch.load(checkpoint, map_location='cpu')
-        hp.load_state_dict(checkpoint_state['parameters'])      
+        hp.load_state_dict(checkpoint_state['parameters'])
 
     # load hyperparameters
     if args.hyper_parameters is not None:
@@ -269,7 +268,7 @@ if __name__ == '__main__':
         if hp.parallelization and args.max_gpus > 1 and torch.cuda.device_count() > 1:
             model = DataParallelPassthrough(model, device_ids=list(range(args.max_gpus)))
     else: model = Tacotron()
-
+    
     # instantiate optimizer and scheduler
     optimizer = torch.optim.Adam(model.parameters(), lr=hp.learning_rate, weight_decay=hp.weight_decay)
     if hp.encoder_optimizer:
@@ -322,3 +321,5 @@ if __name__ == '__main__':
                 'criterion': criterion.state_dict()
             }
             torch.save(state_dict, checkpoint_file)
+            
+            
