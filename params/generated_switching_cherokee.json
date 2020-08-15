@@ -7,7 +7,7 @@
 	"dataset": "cherokee",
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
-	"epochs": 300,
+	"epochs": 1000,
 	"generator_bottleneck_dim": 4,
 	"generator_dim": 10,	
 	"languages": ["chr", "fr", "nl"],
