@@ -1,10 +1,180 @@
-100001|durbin-feeling|chr|./ma-tracks/Track_20.wav|||Dẹ²gạ²de¹yo²³hṿ²sgo³ɂi. Dị²gạ²de¹yo⁴hṿ²sgi.|
-100002|durbin-feeling|chr|./ma-tracks/Track_23.wav|||Ạ²da. Ạɂ⁴da.|
-100003|durbin-feeling|chr|./ma-tracks/Track_25.wav|||Gạ²no²hạ²li²³do³²ha. Gạ²no²hạ²li²do⁴hi.|
-100004|durbin-feeling|chr|./ma-tracks/Track_26.wav|||Ka²³hwi sgị²ne²hṿ²si!|
-100005|durbin-feeling|chr|./ma-tracks/Track_27.wav|||Hị²sdu¹hv¹ga gạ²lo²hị²sdi⁴ɂi!|
-100006|durbin-feeling|chr|./ma-tracks/Track_28.wav|||Jạ²lạ²gi gvh⁴di hnị³wi!|
-100007|durbin-feeling|chr|./ma-tracks/Track_30.wav|||Do²nạ²da²go²hv²ɂi!|
-100008|durbin-feeling|chr|./ma-tracks/Track_31.wav|||Gạ²dọ² u²sdi u²³ha?|
-100009|durbin-feeling|chr|./ma-tracks/Track_32.wav|||Hị²ɂạ²nạ²s du²yu²kdṿ³ɂi?|
-100010|durbin-feeling|chr|./ma-tracks/Track_44.wav|||Gạ²dọ² u²sdi ga²tih²ga?|
+090001|durbin-feeling|chr|ma-split/Track_01-001.wav|||do:sa.|
+090002|durbin-feeling|chr|ma-split/Track_01-002.wav|||tohga.|
+090003|durbin-feeling|chr|ma-split/Track_01-003.wav|||gi:hli.|
+090004|durbin-feeling|chr|ma-split/Track_01-004.wav|||kǎ:hwi.|
+090005|durbin-feeling|chr|ma-split/Track_01-005.wav|||dla:me:ha.|
+090006|durbin-feeling|chr|ma-split/Track_01-006.wav|||tla.|
+090007|durbin-feeling|chr|ma-split/Track_01-007.wav|||à:gwadu:li.|
+090008|durbin-feeling|chr|ma-split/Track_01-008.wav|||kwana.|
+090009|durbin-feeling|chr|ma-split/Track_01-009.wav|||jalagi.|
+090010|durbin-feeling|chr|ma-split/Track_01-010.wav|||chuhga.|
+090011|durbin-feeling|chr|ma-split/Track_01-011.wav|||jayě:tsa.|
+090012|durbin-feeling|chr|ma-split/Track_01-012.wav|||lo:lo.|
+090013|durbin-feeling|chr|ma-split/Track_01-013.wav|||o:hla.|
+090014|durbin-feeling|chr|ma-split/Track_01-014.wav|||waló:si.|
+090015|durbin-feeling|chr|ma-split/Track_01-015.wav|||go:hwe:li.|
+090016|durbin-feeling|chr|ma-split/Track_01-016.wav|||yijadǔ:las?|
+090017|durbin-feeling|chr|ma-split/Track_01-017.wav|||hyade:hlohgwa.|
+090018|durbin-feeling|chr|ma-split/Track_01-018.wav|||nohji.|
+090019|durbin-feeling|chr|ma-split/Track_01-019.wav|||hnadv̀:ga.|
+090020|durbin-feeling|chr|ma-split/Track_01-020.wav|||Hawi:ya. Sǔ:dali.|
+090021|durbin-feeling|chr|ma-split/Track_01-021.wav|||mě:li.|
+090022|durbin-feeling|chr|ma-split/Track_01-022.wav|||hiɂa.|
+090023|durbin-feeling|chr|ma-split/Track_02-001.wav|||joɂi.|
+090024|durbin-feeling|chr|ma-split/Track_02-002.wav|||à:gíɂa.|
+090025|durbin-feeling|chr|ma-split/Track_02-003.wav|||goɂi.|
+090026|durbin-feeling|chr|ma-split/Track_02-004.wav|||taɂli.|
+090027|durbin-feeling|chr|ma-split/Track_03-001.wav|||hihlihó:ɂi.|
+090028|durbin-feeling|chr|ma-split/Track_03-002.wav|||gahlgwǒ:gi.|
+090029|durbin-feeling|chr|ma-split/Track_03-003.wav|||kv̌:hli.|
+090030|durbin-feeling|chr|ma-split/Track_03-004.wav|||gi:hli.|
+090031|durbin-feeling|chr|ma-split/Track_04-001.wav|||tla.|
+090032|durbin-feeling|chr|ma-split/Track_04-002.wav|||gi:tli.|
+090035|durbin-feeling|chr|ma-split/Track_05-001.wav|||gv:hna.|
+090036|durbin-feeling|chr|ma-split/Track_05-002.wav|||gv́:na.|
+090037|durbin-feeling|chr|ma-split/Track_05-003.wav|||à:ně:ha.|
+090038|durbin-feeling|chr|ma-split/Track_05-004.wav|||à:hneha.|
+090039|durbin-feeling|chr|ma-split/Track_05-005.wav|||à:hyé:ga.|
+090040|durbin-feeling|chr|ma-split/Track_05-006.wav|||à:yé:ga.|
+090041|durbin-feeling|chr|ma-split/Track_06-001.wav|||go:hwe:li.|
+090042|durbin-feeling|chr|ma-split/Track_06-002.wav|||ù:hwasga.|
+090043|durbin-feeling|chr|ma-split/Track_06-003.wav|||jahwahi.|
+090044|durbin-feeling|chr|ma-split/Track_07-001.wav|||hyahtě:na.|
+090046|durbin-feeling|chr|ma-split/Track_07-003.wav|||hyehgahli.|
+090047|durbin-feeling|chr|ma-split/Track_08-001.wav|||gv:hnv̋:ɂi.|
+090048|durbin-feeling|chr|ma-split/Track_08-002.wav|||hnv́:hndági.|
+090049|durbin-feeling|chr|ma-split/Track_08-003.wav|||sohně:la.|
+090050|durbin-feeling|chr|ma-split/Track_09-001.wav|||ì:ji:hné:ga.|
+090051|durbin-feeling|chr|ma-split/Track_09-002.wav|||hihne':ga.|
+090052|durbin-feeling|chr|ma-split/Track_09-003.wav|||kané:ga.|
+090053|durbin-feeling|chr|ma-split/Track_100-001.wav|||jalagi hyade̋:hlgwaɂa|
+090054|durbin-feeling|chr|ma-split/Track_100-002.wav|||yijahnta.|
+090055|durbin-feeling|chr|ma-split/Track_10-001.wav|||joɂi.|
+090056|durbin-feeling|chr|ma-split/Track_10-002.wav|||jalagi.|
+090057|durbin-feeling|chr|ma-split/Track_10-003.wav|||jo:hiyuhas?|
+090058|durbin-feeling|chr|ma-split/Track_10-004.wav|||jadaksesdé:sdi.|
+090059|durbin-feeling|chr|ma-split/Track_10-005.wav|||jiɂǐ:da.|
+090060|durbin-feeling|chr|ma-split/Track_10-006.wav|||jadu:li.|
+090061|durbin-feeling|chr|ma-split/Track_10-007.wav|||jayó:siha.|
+090062|durbin-feeling|chr|ma-split/Track_101-001.wav|||Jo:jadě:hlgwà:sgi digo:hwe:li dò:gaksesdi.|
+090063|durbin-feeling|chr|ma-split/Track_102-001.wav|||Hiɂina jő:ksdi.|
+090066|durbin-feeling|chr|ma-split/Track_103-001.wav|||Ő:sda di:kino:gì:sdíɂi.|
+090067|durbin-feeling|chr|ma-split/Track_103-002.wav|||Ase ő:sda di:kino:gi̋:sdi.|
+090068|durbin-feeling|chr|ma-split/Track_104-001.wav|||ani:yv:wi:ya|
+090069|durbin-feeling|chr|ma-split/Track_104-002.wav|||amáyé:hli aně:hiya̋:ɂi.|
+090070|durbin-feeling|chr|ma-split/Track_105-001.wav|||U:yo:hu:sv́.|
+090071|durbin-feeling|chr|ma-split/Track_105-002.wav|||Ù:yo:hu:sv.|
+090072|durbin-feeling|chr|ma-split/Track_106-001.wav|||Guhgwe ju:ni̋:hyóhi.|
+090073|durbin-feeling|chr|ma-split/Track_106-002.wav|||iyv̌:da:ha.|
+090074|durbin-feeling|chr|ma-split/Track_106-003.wav|||dǎ:nada:yo:sdóhdisgóɂi.|
+090075|durbin-feeling|chr|ma-split/Track_107-001.wav|||Gadō ù:lsdá:si jaji?|
+090076|durbin-feeling|chr|ma-split/Track_11-001.wav|||ama.|
+090077|durbin-feeling|chr|ma-split/Track_11-002.wav|||á:ma.|
+090078|durbin-feeling|chr|ma-split/Track_11-003.wav|||ǔ:gáma.|
+090079|durbin-feeling|chr|ma-split/Track_11-004.wav|||ama:yi.|
+090080|durbin-feeling|chr|ma-split/Track_11-005.wav|||amé:gwő:ɂi.|
+090081|durbin-feeling|chr|ma-split/Track_11-006.wav|||tama:hli.|
+090082|durbin-feeling|chr|ma-split/Track_11-007.wav|||kama:ma.|
+090083|durbin-feeling|chr|ma-split/Track_11-008.wav|||da:mága.|
+090084|durbin-feeling|chr|ma-split/Track_11-009.wav|||o:galahǒ:ma.|
+090085|durbin-feeling|chr|ma-split/Track_11-010.wav|||mě:li.|
+090086|durbin-feeling|chr|ma-split/Track_11-011.wav|||kě:míli.|
+090087|durbin-feeling|chr|ma-split/Track_12-001.wav|||kǎ:hwi.|
+090088|durbin-feeling|chr|ma-split/Track_12-002.wav|||sě:di.|
+090089|durbin-feeling|chr|ma-split/Track_12-003.wav|||i:sa.|
+090090|durbin-feeling|chr|ma-split/Track_12-004.wav|||o:síyo.|
+090091|durbin-feeling|chr|ma-split/Track_12-005.wav|||nǔ:na.|
+090092|durbin-feeling|chr|ma-split/Track_12-006.wav|||u:nv̌:di.|
+090093|durbin-feeling|chr|ma-split/Track_13-001.wav|||jigo:hwtíha.|
+090094|durbin-feeling|chr|ma-split/Track_13-002.wav|||ji:go:hwtíha.|
+090095|durbin-feeling|chr|ma-split/Track_13-003.wav|||ama.|
+090096|durbin-feeling|chr|ma-split/Track_13-004.wav|||á:ma.|
+090097|durbin-feeling|chr|ma-split/Track_14-001.wav|||yansi.|
+090098|durbin-feeling|chr|ma-split/Track_14-002.wav|||hida.|
+090099|durbin-feeling|chr|ma-split/Track_14-003.wav|||owǎ:sa.|
+090100|durbin-feeling|chr|ma-split/Track_14-004.wav|||à:gv:halíha.|
+090101|durbin-feeling|chr|ma-split/Track_14-005.wav|||gi:hli.|
+090102|durbin-feeling|chr|ma-split/Track_14-006.wav|||o:hla.|
+090104|durbin-feeling|chr|ma-split/Track_15-002.wav|||gáɂluhga.|
+090105|durbin-feeling|chr|ma-split/Track_15-003.wav|||o:síyo.|
+090106|durbin-feeling|chr|ma-split/Track_15-004.wav|||gv́:na.|
+090107|durbin-feeling|chr|ma-split/Track_15-005.wav|||i:né:ga.|
+090108|durbin-feeling|chr|ma-split/Track_15-006.wav|||kó:ga.|
+090109|durbin-feeling|chr|ma-split/Track_16-001.wav|||gǎ:da.|
+090110|durbin-feeling|chr|ma-split/Track_16-002.wav|||yǒ:na.|
+090111|durbin-feeling|chr|ma-split/Track_16-003.wav|||wǎ:ji.|
+090112|durbin-feeling|chr|ma-split/Track_16-004.wav|||gǐ:ga.|
+090113|durbin-feeling|chr|ma-split/Track_17-001.wav|||wǐ:li.|
+090114|durbin-feeling|chr|ma-split/Track_17-002.wav|||kǎ:hwi.|
+090115|durbin-feeling|chr|ma-split/Track_17-003.wav|||wǎ:ji.|
+090116|durbin-feeling|chr|ma-split/Track_17-004.wav|||jǐ:sa.|
+090117|durbin-feeling|chr|ma-split/Track_17-005.wav|||o:galahǒ:ma.|
+090118|durbin-feeling|chr|ma-split/Track_17-006.wav|||mě:li.|
+090119|durbin-feeling|chr|ma-split/Track_17-007.wav|||kě:míli.|
+090120|durbin-feeling|chr|ma-split/Track_17-008.wav|||mǎ:gi.|
+090121|durbin-feeling|chr|ma-split/Track_18-001.wav|||nv:wô:ti.|
+090122|durbin-feeling|chr|ma-split/Track_18-002.wav|||jǐ:sgwôgwo.|
+090123|durbin-feeling|chr|ma-split/Track_18-003.wav|||kiyû:ga.|
+090124|durbin-feeling|chr|ma-split/Track_18-004.wav|||ù:hnuwa.|
+090125|durbin-feeling|chr|ma-split/Track_19-001.wav|||e̋:gwa.|
+090126|durbin-feeling|chr|ma-split/Track_19-002.wav|||agi̋:na.|
+090127|durbin-feeling|chr|ma-split/Track_19-003.wav|||ga:ge̋:da.|
+090128|durbin-feeling|chr|ma-split/Track_19-004.wav|||ő:sda.|
+090129|durbin-feeling|chr|ma-split/Track_20-001.wav|||degadê:yǒ:hvsgó:ɂi.|
+090131|durbin-feeling|chr|ma-split/Track_21-001.wav|||nv̌:ya.|
+090132|durbin-feeling|chr|ma-split/Track_21-002.wav|||sv̌:gi.|
+090133|durbin-feeling|chr|ma-split/Track_21-003.wav|||gù:gu.|
+090134|durbin-feeling|chr|ma-split/Track_21-004.wav|||agǐ:sdi.|
+090135|durbin-feeling|chr|ma-split/Track_22-001.wav|||geɂi.|
+090136|durbin-feeling|chr|ma-split/Track_22-002.wav|||ge:líɂa.|
+090137|durbin-feeling|chr|ma-split/Track_22-003.wav|||ji:yò:séha.|
+090138|durbin-feeling|chr|ma-split/Track_22-004.wav|||gé:ga.|
+090139|durbin-feeling|chr|ma-split/Track_22-005.wav|||kě:míli.|
+090140|durbin-feeling|chr|ma-split/Track_22-006.wav|||haliyê:su:stv́sga.|
+090141|durbin-feeling|chr|ma-split/Track_22-007.wav|||hè:na.|
+090142|durbin-feeling|chr|ma-split/Track_22-008.wav|||go:ge̋:yi.|
+090143|durbin-feeling|chr|ma-split/Track_23-001.wav|||ada.|
+090144|durbin-feeling|chr|ma-split/Track_23-002.wav|||áɂda.|
+090145|durbin-feeling|chr|ma-split/Track_24-001.wav|||de:jadó:ɂa.|
+090146|durbin-feeling|chr|ma-split/Track_24-002.wav|||jayě:tsa.|
+090147|durbin-feeling|chr|ma-split/Track_24-003.wav|||chaněla.|
+090148|durbin-feeling|chr|ma-split/Track_25-001.wav|||gano:halǐ:dô:ha.|
+090149|durbin-feeling|chr|ma-split/Track_25-002.wav|||gano:hali:dő:hi.|
+090150|durbin-feeling|chr|ma-split/Track_26-001.wav|||Kǎ:hwi sgine:hvsi!|
+090152|durbin-feeling|chr|ma-split/Track_28-001.wav|||Jalagi gv́hdi hniwi!|
+090154|durbin-feeling|chr|ma-split/Track_29-002.wav|||Jadaksesdé:sdi!|
+090155|durbin-feeling|chr|ma-split/Track_30-001.wav|||Do:nada:go:hv:ɂi!|
+090156|durbin-feeling|chr|ma-split/Track_31-001.wav|||Gadō ǔ:sdi ǔ:ha?|
+090157|durbin-feeling|chr|ma-split/Track_32-001.wav|||Hiɂanas du:yu:kdv́ɂi?|
+090158|durbin-feeling|chr|ma-split/Track_33-001.wav|||O:yu ő:sda di:de:hlgwa:sdi̋:ɂi.|
+090159|durbin-feeling|chr|ma-split/Track_34-001.wav|||Àginv̌:lv̂hvsgo jalagi agiwo:nǐ:hísdi̋:ɂi.|
+090160|durbin-feeling|chr|ma-split/Track_35-001.wav|||Wigi!|
+090161|durbin-feeling|chr|ma-split/Track_35-002.wav|||Hwěna!|
+090162|durbin-feeling|chr|ma-split/Track_36-001.wav|||Yijadu:li̋:ha.|
+090163|durbin-feeling|chr|ma-split/Track_36-002.wav|||Yì:jadu:li̋:ha.|
+090164|durbin-feeling|chr|ma-split/Track_37-001.wav|||Sǐ:gwu ji:nǐ:hiwi!|
+090165|durbin-feeling|chr|ma-split/Track_38-001.wav|||Sǐ:gwu ji:hádi:ta!|
+090166|durbin-feeling|chr|ma-split/Track_39-001.wav|||Gadō ad jalagi gv́hdi?|
+090167|durbin-feeling|chr|ma-split/Track_40-001.wav|||à:dawó:sgó:ɂi.|
+090168|durbin-feeling|chr|ma-split/Track_40-002.wav|||adawő:sgi.|
+090169|durbin-feeling|chr|ma-split/Track_41-001.wav|||adǐ:tasdi.|
+090170|durbin-feeling|chr|ma-split/Track_41-002.wav|||di:dǐ:tasdi.|
+090171|durbin-feeling|chr|ma-split/Track_42-001.wav|||ada.|
+090172|durbin-feeling|chr|ma-split/Track_42-002.wav|||a:li.|
+090173|durbin-feeling|chr|ma-split/Track_42-003.wav|||aɂni.|
+090175|durbin-feeling|chr|ma-split/Track_42-005.wav|||dlahyga.|
+090176|durbin-feeling|chr|ma-split/Track_42-006.wav|||do:sa.|
+090177|durbin-feeling|chr|ma-split/Track_42-007.wav|||dili.|
+090178|durbin-feeling|chr|ma-split/Track_42-008.wav|||gi:hli.|
+090179|durbin-feeling|chr|ma-split/Track_42-009.wav|||gǐ:ga.|
+090180|durbin-feeling|chr|ma-split/Track_42-010.wav|||goɂi.|
+090181|durbin-feeling|chr|ma-split/Track_42-011.wav|||guhgwe.|
+090182|durbin-feeling|chr|ma-split/Track_42-012.wav|||gu:gu.|
+090183|durbin-feeling|chr|ma-split/Track_42-013.wav|||jǒ:la.|
+090184|durbin-feeling|chr|ma-split/Track_42-014.wav|||nohji.|
+090185|durbin-feeling|chr|ma-split/Track_42-015.wav|||o:hla.|
+090186|durbin-feeling|chr|ma-split/Track_42-016.wav|||sa:sa.|
+090187|durbin-feeling|chr|ma-split/Track_42-017.wav|||sě:lu.|
+090188|durbin-feeling|chr|ma-split/Track_42-018.wav|||tina.|
+090189|durbin-feeling|chr|ma-split/Track_42-019.wav|||wě:sa.|
+090190|durbin-feeling|chr|ma-split/Track_42-020.wav|||yǒ:na.|

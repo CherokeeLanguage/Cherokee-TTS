@@ -48,10 +48,13 @@ y.append(np.load(TACOTRON_FOLDER + "/1.npy"))
 y.append(np.load(TACOTRON_FOLDER + "/2.npy"))
 y.append(np.load(TACOTRON_FOLDER + "/3.npy"))
 y.append(np.load(TACOTRON_FOLDER + "/4.npy"))
-y.append(np.load(TACOTRON_FOLDER + "/5.npy"))
+#y.append(np.load(TACOTRON_FOLDER + "/5.npy"))
+#y.append(np.load(TACOTRON_FOLDER + "/6.npy"))
+#y.append(np.load(TACOTRON_FOLDER + "/7.npy"))
 
 waveforms = [generate(model, s, hp.voc_gen_batched,
                       hp.voc_target, hp.voc_overlap) for s in y]
+
 for idx, w in enumerate(waveforms):
     sf.write("wg-"+str(idx)+".wav", w, hp.sample_rate)
 
