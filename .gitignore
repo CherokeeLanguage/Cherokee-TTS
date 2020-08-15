@@ -1,4 +1,6 @@
 # ignore datasets
+/?.npy
+/?.wav
 data/ljspeech
 data/my_blizzard
 data/comvoi
