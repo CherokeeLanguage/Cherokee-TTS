@@ -33,5 +33,5 @@
 	"reversal_gradient_clipping": 0.25,
 	"speaker_embedding_dimension": 32,
 	"use_punctuation": true,
-	"version": "GENERATED-SWITCHING-CHEROKEE3"
+	"version": "GENERATED-SWITCHING-CHEROKEE4"
 }
