@@ -15,3 +15,7 @@
 /ru/
 /zh/
 /ma-split.zip
+/*.zip
+/cv-corpus-*/
+mogrified-common-voice-clean.txt
+ma-tracks.txt

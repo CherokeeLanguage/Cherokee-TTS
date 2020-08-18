@@ -32,6 +32,9 @@ cut -f 4 -d '|' "$tmpFile" > tmp4 #source wav
 cut -f 5 -d '|' "$tmpFile" > tmp5 #text
 cut -f 999 -d '|' "$tmpFile" > blank
 
+#point to the original data the common voice clean was pulled from
+sed -i 's|^|../comvoi_clean/' tmp4
+
 paste -d "-" tmp2 tmp3 > tmp6
 
 paste -d "|" tmp1 tmp6 tmp3 tmp4 blank blank tmp5 blank >> all.tmp 

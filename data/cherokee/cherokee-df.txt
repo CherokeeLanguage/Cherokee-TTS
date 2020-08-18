@@ -254,7 +254,7 @@
 100282|01-chr|chr|ma-split/Track_78-002.wav|||è:sdagà:tǒ:sdi.|
 100283|01-chr|chr|ma-split/Track_78-003.wav|||è:jagà:tǒ:sdi.|
 100284|01-chr|chr|ma-split/Track_79-002.wav|||sdaktǒ:sdi.|
-100284|01-chr|chr|ma-split/Track_79-003.wav|||ì:jaktǒ:sdi.|
+100285|01-chr|chr|ma-split/Track_79-003.wav|||ì:jaktǒ:sdi.|
 100286|01-chr|chr|ma-split/Track_80-002.wav|||gv:yagà:tǒ:sdi.|
 100293|01-chr|chr|ma-split/Track_81-001.wav|||Jiginadu:li:sgv́ adladí:tlaɂi gá:yù:la kilo ù:hwaseɂi.|
 100294|01-chr|chr|ma-split/Track_81-002.wav|||Ahnawo jisginv́:ne:lv́.|

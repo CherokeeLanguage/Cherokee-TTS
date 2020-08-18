@@ -45,7 +45,7 @@
 100048|durbin-feeling|chr|ma-split/Track_08-002.wav|||hnv́:hndági.|
 100049|durbin-feeling|chr|ma-split/Track_08-003.wav|||sohně:la.|
 100050|durbin-feeling|chr|ma-split/Track_09-001.wav|||ì:ji:hné:ga.|
-100051|durbin-feeling|chr|ma-split/Track_09-002.wav|||hihne':ga.|
+100051|durbin-feeling|chr|ma-split/Track_09-002.wav|||hihné:ga.|
 100052|durbin-feeling|chr|ma-split/Track_09-003.wav|||kané:ga.|
 100053|durbin-feeling|chr|ma-split/Track_100-001.wav|||jalagi hyade̋:hlgwaɂa|
 100054|durbin-feeling|chr|ma-split/Track_100-002.wav|||yijahnta.|
@@ -213,12 +213,12 @@
 100228|durbin-feeling|chr|ma-split/Track_52-001.wav|||Ji:goɂv̌:ɂi gihli dasihwisgv́.|
 100229|durbin-feeling|chr|ma-split/Track_53-001.wav|||u:gő:sida.|
 100230|durbin-feeling|chr|ma-split/Track_53-002.wav|||ù:go:sga.|
-100232|durbin-feeling|chr|ma-split/Track_54-002.wav|||jigǎ:tiya.|
+100232|durbin-feeling|chr|ma-split/Track_54-002.wav|||jigǎ:tǐ:ya.|
 100233|durbin-feeling|chr|ma-split/Track_55-002.wav|||gadǐ:tli.|
 100234|durbin-feeling|chr|ma-split/Track_56-001.wav|||hi:yě:wa.|
 100235|durbin-feeling|chr|ma-split/Track_56-002.wav|||ji:yewi:sga.|
 100236|durbin-feeling|chr|ma-split/Track_56-003.wav|||ga:yewsga.|
-100237|durbin-feeling|chr|ma-split/Track_57-001.wav|||ji:tli:sǐ:ha.|
+100237|durbin-feeling|chr|ma-split/Track_57-001.wav|||jí:tli:sǐ:ha.|
 100238|durbin-feeling|chr|ma-split/Track_57-002.wav|||i:dí:tlisǐ:ha.|
 100240|durbin-feeling|chr|ma-split/Track_58-002.wav|||digv̌:tladǐ:sgi.|
 100242|durbin-feeling|chr|ma-split/Track_59-002.wav|||Gagwiyíha. Hahkwiyíha.|

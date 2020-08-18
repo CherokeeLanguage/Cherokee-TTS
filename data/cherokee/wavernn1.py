@@ -38,7 +38,7 @@ from models.fatchord_version import WaveRNN
 hp.configure(WAVERNN_FOLDER+'/hparams.py')
 model = WaveRNN(rnn_dims=hp.voc_rnn_dims, fc_dims=hp.voc_fc_dims, bits=hp.bits, pad=hp.voc_pad, upsample_factors=hp.voc_upsample_factors,
                 feat_dims=hp.num_mels, compute_dims=hp.voc_compute_dims, res_out_dims=hp.voc_res_out_dims, res_blocks=hp.voc_res_blocks,
-                hop_length=hp.hop_length, sample_rate=hp.sample_rate, mode=hp.voc_mode).to('cpu')
+                hop_length=hp.hop_length, sample_rate=hp.sample_rate, mode=hp.voc_mode).to('cuda')
 model.load(CHECKPOINTS_FOLDER + "/" + wavernn_chpt)
 
 y = []
@@ -48,15 +48,16 @@ y.append(np.load(TACOTRON_FOLDER + "/1.npy"))
 y.append(np.load(TACOTRON_FOLDER + "/2.npy"))
 y.append(np.load(TACOTRON_FOLDER + "/3.npy"))
 y.append(np.load(TACOTRON_FOLDER + "/4.npy"))
-#y.append(np.load(TACOTRON_FOLDER + "/5.npy"))
-#y.append(np.load(TACOTRON_FOLDER + "/6.npy"))
-#y.append(np.load(TACOTRON_FOLDER + "/7.npy"))
+y.append(np.load(TACOTRON_FOLDER + "/5.npy"))
+y.append(np.load(TACOTRON_FOLDER + "/6.npy"))
+y.append(np.load(TACOTRON_FOLDER + "/7.npy"))
+y.append(np.load(TACOTRON_FOLDER + "/8.npy"))
 
 waveforms = [generate(model, s, hp.voc_gen_batched,
                       hp.voc_target, hp.voc_overlap) for s in y]
 
 for idx, w in enumerate(waveforms):
-    sf.write("wg-"+str(idx)+".wav", w, hp.sample_rate)
+    sf.write("wg-"+str(idx+1)+".wav", w, hp.sample_rate)
 
 
 
