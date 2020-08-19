@@ -6,6 +6,9 @@ set -o pipefail
 cd "$(dirname "$0")"
 z="$(pwd)"
 
+rm *.npy 2> /dev/null || true
+rm *.wav 2> /dev/null || true
+
 cd ../../..
 
 source ~/miniconda3/etc/profile.d/conda.sh
@@ -25,23 +28,22 @@ cp /dev/null "$tmp"
 
 ix=0
 syn=""
-cut -f 2 animals-game-mco.tsv | while read critter; do
+cut -f 2 "$z/animals-game-mco.tsv" | while read critter; do
 	ix=$(($ix+1))
-	printf "%d|%s|01-chr|chr\n" "$ix" "${critter}." >> "$tmp.txt"
+	printf "%d|%s|01-chr|chr\n" "$ix" "${critter}." >> "$tmp"
 done
 
-cat "$tmp" | python synthesize.py --save_spec --checkpoint "checkpoints/$cp" #--cpu
-mv *.wav "$z"/
-mv -v *.npy "$z"/
+cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
 
-python wavernn1.py
+xdg-open .
+
+cd "$z"
+python wavernnx.py
 
 ix=0
-cat animals-game-mco-tsv | while read line; do
+cat "$z/animals-game-mco-tsv" | while read line; do
 	ix="$(($ix+1))"
 	rm "$ix".wav
 	rm "$ix".npy
 done
-
-xdg-open .
 

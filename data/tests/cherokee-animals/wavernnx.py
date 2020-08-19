@@ -45,15 +45,17 @@ y = []
 
 ix=1
 while os.path.exists(CHR_FOLDER+"/"+str(ix)+".npy"):
-    print("Loading", CHR_FOLDER+"/"+str(ix)+".npy")
+    print("Found", CHR_FOLDER+"/"+str(ix)+".npy")
     y.append(np.load(CHR_FOLDER+"/"+str(ix)+".npy"))
     ix+=1
 
-waveforms = [generate(model, s, hp.voc_gen_batched,
-                      hp.voc_target, hp.voc_overlap) for s in y]
-
-for idx, w in enumerate(waveforms):
-    sf.write("wg-"+str(idx+1)+".wav", w, hp.sample_rate)
+idx=1
+for s in y:
+    waveform = generate(model, s, hp.voc_gen_batched,
+                      hp.voc_target, hp.voc_overlap)
+    sf.write("wg-"+str(idx)+".wav", waveform, hp.sample_rate)
+    idx+=1
+    
 
 
 
