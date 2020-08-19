@@ -108,6 +108,8 @@ if __name__ == '__main__':
     spectrograms = []
     for i, item in enumerate(inputs):
         print(f'Synthesizing({i+1}/{len(inputs)}): "{item}"')
+        
+        id = item.split("|")[0]
 
         s = synthesize(model, item, args.cpu)
 
@@ -115,8 +117,8 @@ if __name__ == '__main__':
             os.makedirs(args.output)
 
         if args.save_spec:
-            np.save(os.path.join(args.output, f'{item[0]}.npy'), s)
+            np.save(os.path.join(args.output, f'{id}.npy'), s)
 
         if not args.ignore_wav:
             w = audio.inverse_spectrogram(s, not hp.predict_linear)
-            audio.save(w, os.path.join(args.output, f'{item[0]}.wav'))
+            audio.save(w, os.path.join(args.output, f'{id}.wav'))
