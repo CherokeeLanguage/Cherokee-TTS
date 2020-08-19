@@ -70,6 +70,8 @@ class Logger:
         # log classifier accuracy
         if hp.reversal_classifier:
             Logger._sw.add_scalar(f'Train/classifier', classifier, train_step)
+            
+        plt.close("all")#plotting done, free memory back up
 
     @staticmethod
     def evaluation(eval_step, losses, mcd, source_len, target_len, source, target, prediction_forced, prediction, stop_prediction, stop_target, alignment, classifier):
@@ -135,6 +137,8 @@ class Logger:
         # log reversal language classifier accuracy
         if hp.reversal_classifier:
             Logger._sw.add_scalar(f'Eval/classifier', classifier, eval_step)
+            
+        plt.close("all") #plotting done, free memory back up
 
 
     @staticmethod
