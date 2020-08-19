@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 
 set -e
 set -o pipefail
@@ -26,11 +26,13 @@ fr="Mouton."
 tmp="$z/tmp.txt"
 cp /dev/null "$tmp"
 
+voice="12-de"
+
 ix=0
 syn=""
 cut -f 2 "$z/animals-game-mco.tsv" | while read critter; do
 	ix=$(($ix+1))
-	printf "%d|%s|01-chr|chr\n" "$ix" "${critter}." >> "$tmp"
+	printf "%d|%s|%s|chr\n" "$ix" "${critter}." "$voice" >> "$tmp"
 done
 
 cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
@@ -40,8 +42,12 @@ xdg-open .
 cd "$z"
 python wavernnx.py
 
+rm -r wg 2> /dev/null || true
+mkdir wg
+mv -v wg*.wav wg/.
+
 ix=0
-cat "$z/animals-game-mco-tsv" | while read line; do
+cat "$z/animals-game-mco.tsv" | while read line; do
 	ix="$(($ix+1))"
 	rm "$ix".wav
 	rm "$ix".npy
