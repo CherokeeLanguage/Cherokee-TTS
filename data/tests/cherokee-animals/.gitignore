@@ -21,3 +21,4 @@ mogrified-common-voice-clean.txt
 ma-tracks.txt
 /*.npy
 tmp.txt
+/wg/
