@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 set -e
 set -o pipefail
 set -u
@@ -42,17 +42,17 @@ echo "Pasting gibberish Cherokee sentences"
 cp /dev/null cx.txt
 cp /dev/null dx.txt
 
-paste -d ' ' c1.txt c2.txt | tail -n 40 >> cx.txt
-paste -d ' ' c3.txt c4.txt c5.txt | tail -n 40 >> cx.txt
-paste -d ' ' c1.txt c2.txt c3.txt c4.txt | tail -n 40 >> cx.txt
-paste -d ' ' c2.txt c3.txt c4.txt c5.txt c6.txt | tail -n 40 >> cx.txt
-paste -d ' ' c3.txt c4.txt c5.txt c6.txt c7.txt c8.txt | tail -n 40 >> cx.txt
+paste -d ' ' c1.txt c2.txt  >> cx.txt
+paste -d ' ' c3.txt c4.txt c5.txt  >> cx.txt
+paste -d ' ' c1.txt c2.txt c3.txt c4.txt  >> cx.txt
+paste -d ' ' c2.txt c3.txt c4.txt c5.txt c6.txt  >> cx.txt
+paste -d ' ' c3.txt c4.txt c5.txt c6.txt c7.txt c8.txt  >> cx.txt
 
-paste -d ' ' d1.txt d2.txt | tail -n 40 >> dx.txt
-paste -d ' ' d3.txt d4.txt d5.txt | tail -n 40 >> dx.txt
-paste -d ' ' d1.txt d2.txt d3.txt d4.txt | tail -n 40 >> dx.txt
-paste -d ' ' d2.txt d3.txt d4.txt d5.txt d6.txt | tail -n 40 >> dx.txt
-paste -d ' ' d3.txt d4.txt d5.txt d6.txt d7.txt d8.txt | tail -n 40 >> dx.txt
+paste -d ' ' d1.txt d2.txt  >> dx.txt
+paste -d ' ' d3.txt d4.txt d5.txt  >> dx.txt
+paste -d ' ' d1.txt d2.txt d3.txt d4.txt  >> dx.txt
+paste -d ' ' d2.txt d3.txt d4.txt d5.txt d6.txt  >> dx.txt
+paste -d ' ' d3.txt d4.txt d5.txt d6.txt d7.txt d8.txt  >> dx.txt
 
 rm c1.txt c2.txt c3.txt c4.txt c5.txt c6.txt c7.txt c8.txt
 rm d1.txt d2.txt d3.txt d4.txt d5.txt d6.txt d7.txt d8.txt
@@ -63,7 +63,7 @@ rm cx.txt dx.txt
 
 wavCounter=0;
 echo "Creating synthetic Cherokee"
-MAX_PER_SYNTH=100
+MAX_PER_SYNTH=1000
 
 wavCounter=100000
 shuf "$chr" | tail -n $MAX_PER_SYNTH > tmp.txt
