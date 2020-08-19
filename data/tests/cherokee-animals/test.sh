@@ -56,13 +56,14 @@ done
 
 cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
 
-xdg-open .
+rm -r wg 2> /dev/null || true
+mkdir wg
+
+xdg-open "$z/"
 
 cd "$z"
 python wavernnx.py
 
-rm -r wg 2> /dev/null || true
-mkdir wg
 mv wg*.wav wg/.
 
 ix=0
