@@ -22,7 +22,8 @@ cat ma-tracks-annotated.txt | sed 's|durbin-feeling|01-chr|' | sed 's|ma-tracks/
 cat ../cherokee-syn/syn-chr.txt | sed 's|./wav/|../cherokee-syn/wav/|' >> all.tmp
 
 comvoi="comvoi-subset.txt"
-egrep -vi '^.*?\|.*?\|.*?\|.*?\|.*?v.*?' ../comvoi_clean/all.txt > "$comvoi"
+#egrep -vi '^.*?\|.*?\|.*?\|.*?\|.*?v.*?' ../comvoi_clean/all.txt > "$comvoi"
+cat ../comvoi_clean/all.txt > "$comvoi"
 
 cut -f 1 -d '|' "$comvoi" > tmp1 #id
 cut -f 2 -d '|' "$comvoi" > tmp2 #speaker
