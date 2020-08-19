@@ -18,6 +18,9 @@ cp /dev/null all.tmp
 cat ma-split-annotated.txt | sed 's|durbin-feeling|01-chr|' | sed 's|ma-split/|../cherokee/ma-split/|'  >> all.tmp
 cat ma-tracks-annotated.txt | sed 's|durbin-feeling|01-chr|' | sed 's|ma-tracks/|../cherokee/ma-tracks/|' >> all.tmp
 
+#syn cherokee
+cat ../cherokee-syn/syn-chr.txt | sed 's|./wav/|../cherokee-syn/wav/|' >> all.tmp
+
 comvoi="comvoi-subset.txt"
 egrep -vi '^.*?\|.*?\|.*?\|.*?\|.*?v.*?' ../comvoi_clean/all.txt > "$comvoi"
 
