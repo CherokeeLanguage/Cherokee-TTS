@@ -27,9 +27,9 @@ cp /dev/null "$tmp"
 shuf "$z"/all-voices.txt | tail -n 4 > "$z"/voices.txt
 echo "01-chr" >> voices.txt
 
-for x in ced-[0-9][0-9]-*; do
-	if [ ! -d "$z/$x" ]; then continue; fi
-	rm -r "$z/$x"
+for x in "$z"/ced-[0-9][0-9]-*; do
+	if [ ! -d "$x" ]; then continue; fi
+	rm -r "$x"
 done
 
 v=($(cat "$z"/voices.txt))
