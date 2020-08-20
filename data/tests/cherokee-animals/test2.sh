@@ -26,20 +26,10 @@ fr="Mouton."
 tmp="$z/tmp.txt"
 cp /dev/null "$tmp"
 
-v=( "01-chr" # Cherokee - DF
-	"01-syn-chr" # espeak male
-	"02-syn-chr" # espeak female
-	"14-de" # German - female
-	"46-de" # German - male
-	"51-de" # German - female
-	"22-fr" # French - female *
-	"19-fr" # French - female
-	"18-fr" # French - female
-	"14-fr" # French - female
-	"05-fr" # French - male
-	"04-fr" # French - female
+v=( "14-de" # German - female
 	"02-fr" # French - female
 	"12-nl" # Dutch - male
+	"01-chr" # DF
 	)
 
 vmod="${#v[@]}"
@@ -56,15 +46,15 @@ done
 
 cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
 
-rm -r animals-wg 2> /dev/null || true
-mkdir animals-wg
+rm -r wg 2> /dev/null || true
+mkdir wg
 
 xdg-open "$z/"
 
 cd "$z"
 python wavernnx.py
 
-mv wg*.wav animals-wg/.
+mv wg*.wav wg/.
 
 ix=0
 cat "$z/animals-game-mco.tsv" | while read line; do
