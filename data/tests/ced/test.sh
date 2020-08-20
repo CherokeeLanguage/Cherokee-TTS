@@ -25,7 +25,7 @@ selected="$z/selected.txt"
 cp /dev/null "$tmp"
 
 shuf "$z"/all-voices.txt | tail -n 4 > "$z"/voices.txt
-echo "01-chr" >> voices.txt
+echo "01-chr" >> "$z"/voices.txt
 
 for x in "$z"/ced-[0-9][0-9]-*; do
 	if [ ! -d "$x" ]; then continue; fi
