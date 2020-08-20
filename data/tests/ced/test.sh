@@ -28,8 +28,8 @@ shuf "$z"/all-voices.txt | tail -n 4 > "$z"/voices.txt
 echo "01-chr" >> voices.txt
 
 for x in ced-[0-9][0-9]-*; do
-	if [ ! -d "$x" ]; then continue; fi
-	rm -r "$x"
+	if [ ! -d "$z/$x" ]; then continue; fi
+	rm -r "$z/$x"
 done
 
 v=($(cat "$z"/voices.txt))
@@ -45,7 +45,8 @@ for voice in "${v[@]}"; do
 	cut -f 2 -d '|' "$text" | shuf | tail -n 10 > "$selected"
 	ix=0
 	syn=""
-	 cat "$selected" | while read phrase; do
+	cp /dev/null "$tmp"
+	cat "$selected" | while read phrase; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
 	done
