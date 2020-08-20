@@ -1,6 +1,7 @@
-/ced-??-*/
+/osiyo*-??-*/
 /weights/
 /selected.txt
 /voices.txt
 /tmp.txt
-/*.zip
+/*.npy
+/*.wav
