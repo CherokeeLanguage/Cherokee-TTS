@@ -10,6 +10,7 @@ rm *.npy 2> /dev/null || true
 rm *.wav 2> /dev/null || true
 
 cd ../../..
+y="$(pwd)"
 
 source ~/miniconda3/etc/profile.d/conda.sh
 
@@ -19,57 +20,63 @@ cp="$(ls -1tr checkpoints/|tail -n 1)"
 
 printf "Using checkpoint: $cp\n"
 
-#fr="On les a gardés pour que le taulier les voie ce matin."
-#fr="Brebis. Mouton."
-fr="Mouton."
-
 tmp="$z/tmp.txt"
+selected="$z/selected.txt"
 cp /dev/null "$tmp"
 
-v=( "01-chr" # Cherokee - DF
-	"01-syn-chr" # espeak male
-	"02-syn-chr" # espeak female
-	"14-de" # German - female
-	"46-de" # German - male
-	"51-de" # German - female
-	"22-fr" # French - female *
-	"19-fr" # French - female
-	"18-fr" # French - female
-	"14-fr" # French - female
-	"05-fr" # French - male
-	"04-fr" # French - female
-	"02-fr" # French - female
-	"12-nl" # Dutch - male
-	)
+cp /dev/null "$z"/voices.txt
 
-vmod="${#v[@]}"
-vcounter=0
+(
+	echo "08-fr"
+	echo "26-fr"
+) >> "$z"/voices.txt
 
-ix=0
-syn=""
-cut -f 2 "$z/animals-game-mco.tsv" | while read critter; do
-	voice="${v[$vcounter]}"
-	vcounter=$((($vcounter+1) % $vmod))
-	ix=$(($ix+1))
-	printf "%d|%s|%s|chr\n" "$ix" "${critter}." "$voice" >> "$tmp"
+#cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
+
+for x in "$z"/ced-[0-9][0-9]-*; do
+	if [ ! -d "$x" ]; then continue; fi
+	rm -r "$x"
 done
 
-cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
+v=($(cat "$z"/voices.txt))
+vsize="${#v[@]}"
 
-rm -r animals-wg 2> /dev/null || true
-mkdir animals-wg
+printf "\nTotal voice count: %d\n\n" "$vsize"
 
-xdg-open "$z/"
+wg="animals"
+text="$z/animals-game-mco.txt"
 
-cd "$z"
-python wavernnx.py
+for voice in "${v[@]}"; do
+	printf "Generating audio for %s\n" "$voice"
+	cut -f 2 "$text" | sort > "$selected"
+	ix=0
+	syn=""
+	cp /dev/null "$tmp"
+	cat "$selected" | while read phrase; do
+		ix=$(($ix+1))
+		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
+	done
 
-mv wg*.wav animals-wg/.
+	cd "$y"
+	
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" #--cpu
 
-ix=0
-cat "$z/animals-game-mco.tsv" | while read line; do
-	ix="$(($ix+1))"
-	rm "$ix".wav
-	rm "$ix".npy
+	cd "$z"
+	
+	rm -r "$wg"-"$voice" 2> /dev/null || true
+	mkdir "$wg"-"$voice"
+	cp -p "$selected" "$wg"-"$voice"
+	
+	python wavernnx.py
+
+	mv wg*.wav "$wg"-"$voice"/
+	xdg-open "$wg"-"$voice"
+	
+	ix=0
+	cat "$selected" | while read line; do
+		ix="$(($ix+1))"
+		rm "$ix".wav || true
+		rm "$ix".npy || true
+	done
+	printf "\n\n"
 done
-
