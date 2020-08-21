@@ -22,3 +22,6 @@ ma-tracks.txt
 /*.npy
 tmp.txt
 /wg/
+/animals-??-*/
+/selected.txt
+/voices.txt
