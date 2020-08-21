@@ -16,7 +16,7 @@ cp /dev/null all.tmp
 
 #add in what little 1st person speaker audio I have
 cat ma-split-annotated.txt | sed 's|durbin-feeling|01-chr|' | sed 's|ma-split/|../cherokee/ma-split/|'  >> all.tmp
-cat ma-tracks-annotated.txt | sed 's|durbin-feeling|01-chr|' | sed 's|ma-tracks/|../cherokee/ma-tracks/|' >> all.tmp
+#cat ma-tracks-annotated.txt | sed 's|durbin-feeling|01-chr|' | sed 's|ma-tracks/|../cherokee/ma-tracks/|' >> all.tmp
 
 #syn cherokee
 cat ../cherokee-syn/syn-chr.txt | sed 's|./wav/|../cherokee-syn/wav/|' >> all.tmp
