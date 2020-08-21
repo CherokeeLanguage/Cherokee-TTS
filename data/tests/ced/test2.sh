@@ -26,10 +26,13 @@ cp /dev/null "$tmp"
 
 cp /dev/null "$z"/voices.txt
 
-shuf "$z"/all-voices.txt | grep 'de' | tail -n 2 >> "$z"/voices.txt
-shuf "$z"/all-voices.txt | grep 'fr' | tail -n 4 >> "$z"/voices.txt
-shuf "$z"/all-voices.txt | grep 'nl' | tail -n 2 >> "$z"/voices.txt
+#shuf "$z"/all-voices.txt | grep 'de' | tail -n 2 >> "$z"/voices.txt
+#shuf "$z"/all-voices.txt | grep 'fr' | tail -n 2 >> "$z"/voices.txt
+#shuf "$z"/all-voices.txt | grep 'nl' | tail -n 2 >> "$z"/voices.txt
 
+echo "07-fr" >>  "$z"/voices.txt
+echo "01-syn-chr" >> "$z"/voices.txt
+echo "02-syn-chr" >> "$z"/voices.txt
 echo "01-chr" >> "$z"/voices.txt
 
 for x in "$z"/ced-[0-9][0-9]-*; do
@@ -43,11 +46,11 @@ vsize="${#v[@]}"
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
 wg="ced"
-text="$z/ced-multi.txt"
+text="$z/../../cherokee-syn/syn-chr.txt"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
-	cut -f 2 -d '|' "$text" | shuf | tail -n 10 > "$selected"
+	cut -f 7 -d '|' "$text" | grep -v ' ' | shuf | tail -n 10 > "$selected"
 	ix=0
 	syn=""
 	cp /dev/null "$tmp"
