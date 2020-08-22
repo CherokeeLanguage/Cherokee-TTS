@@ -6,6 +6,9 @@ import numpy as np
 import torch
 from torch.utils.data import DataLoader
 
+import matplotlib
+matplotlib.use("Qt5Agg")
+
 from dataset.dataset import TextToSpeechDatasetCollection, TextToSpeechCollate
 from params.params import Params as hp
 from utils import audio, text
