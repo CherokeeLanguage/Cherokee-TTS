@@ -4,3 +4,5 @@
 /voices.txt
 /tmp.txt
 /*.zip
+/*.npy
+/*.wav
