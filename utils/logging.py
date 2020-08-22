@@ -71,8 +71,6 @@ class Logger:
         if hp.reversal_classifier:
             Logger._sw.add_scalar(f'Train/classifier', classifier, train_step)
             
-        plt.close("all")#plotting done, free memory back up
-
     @staticmethod
     def evaluation(eval_step, losses, mcd, source_len, target_len, source, target, prediction_forced, prediction, stop_prediction, stop_target, alignment, classifier):
         """Log evaluation results.
@@ -110,9 +108,18 @@ class Logger:
             predicted_spec = audio.denormalize_spectrogram(predicted_spec, not hp.predict_linear)
             f_predicted_spec = audio.denormalize_spectrogram(f_predicted_spec, not hp.predict_linear)
             target_spec = audio.denormalize_spectrogram(target_spec, not hp.predict_linear)
-        Logger._sw.add_figure(f"Predicted/generated", Logger._plot_spectrogram(predicted_spec), eval_step)
-        Logger._sw.add_figure(f"Predicted/forced", Logger._plot_spectrogram(f_predicted_spec), eval_step)
-        Logger._sw.add_figure(f"Target/eval", Logger._plot_spectrogram(target_spec), eval_step) 
+        
+        f = Logger._plot_spectrogram(predicted_spec)
+        Logger._sw.add_figure(f"Predicted/generated", f, eval_step)
+        plt.close(f)
+        
+        f = Logger._plot_spectrogram(f_predicted_spec)
+        Logger._sw.add_figure(f"Predicted/forced", f, eval_step)
+        plt.close(f)
+        
+        f = Logger._plot_spectrogram(target_spec)
+        Logger._sw.add_figure(f"Target/eval", f, eval_step) 
+        plt.close(f)
         
         # log audio
         waveform = audio.inverse_spectrogram(predicted_spec, not hp.predict_linear)
@@ -122,14 +129,19 @@ class Logger:
         
         # log alignment
         alignment = alignment[idx, :target_len[idx], :source_len[idx]].data.cpu().numpy().T
-        Logger._sw.add_figure(f"Alignment/eval", Logger._plot_alignment(alignment), eval_step)                
+        
+        f=Logger._plot_alignment(alignment)
+        Logger._sw.add_figure(f"Alignment/eval", f, eval_step)
+        plt.close(f)                
         
         # log source text
         utterance = text.to_text(source[idx].data.cpu().numpy()[:source_len[idx]], hp.use_phonemes)
         Logger._sw.add_text(f"Text/eval", utterance, eval_step)      
         
         # log stop tokens
-        Logger._sw.add_figure(f"Stop/eval", Logger._plot_stop_tokens(stop_target[idx].data.cpu().numpy(), stop_prediction[idx].data.cpu().numpy()), eval_step) 
+        f = Logger._plot_stop_tokens(stop_target[idx].data.cpu().numpy(), stop_prediction[idx].data.cpu().numpy())
+        Logger._sw.add_figure(f"Stop/eval", f, eval_step) 
+        plt.close(f)
         
         # log mel cepstral distorsion
         Logger._sw.add_scalar(f'Eval/mcd', mcd, eval_step)
@@ -138,9 +150,6 @@ class Logger:
         if hp.reversal_classifier:
             Logger._sw.add_scalar(f'Eval/classifier', classifier, eval_step)
             
-        plt.close("all") #plotting done, free memory back up
-
-
     @staticmethod
     def _plot_spectrogram(s):
         fig = plt.figure(figsize=(16, 4))
