@@ -9,6 +9,11 @@ z="$(pwd)"
 rm *.npy 2> /dev/null || true
 rm *.wav 2> /dev/null || true
 
+for x in "$z"/*-[0-9][0-9]-*; do
+	if [ ! -d "$x" ]; then continue; fi
+	rm -r "$x"
+done
+
 cd ../../..
 y="$(pwd)"
 
@@ -23,7 +28,8 @@ printf "Using checkpoint: $cp\n"
 tmp="$z/tmp.txt"
 cp /dev/null "$tmp"
 
-v=($(cat "$z"/voices.txt))
+#v=($(cat "$z"/voices.txt))
+v=("08-fr" "26-fr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -41,7 +47,7 @@ for voice in "${v[@]}"; do
 
 	cd "$y"
 	
-	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" #--cpu
 
 	cd "$z"
 	
