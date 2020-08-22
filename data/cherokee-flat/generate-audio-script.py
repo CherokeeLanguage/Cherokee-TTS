@@ -3,6 +3,7 @@ import os
 import sys
 import string
 import unicodedata as ud
+import random
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
@@ -11,7 +12,8 @@ v_notwanted = ["á", "é", "í", "ó", "ú", "v́", "a̋", "e̋",
                "ù", "v̀", "ǎ", "ě", "ǐ", "ǒ", "ǔ", "v̌",
                "â", "ê", "î", "ô", "û", "v̂"]
 
-script = []
+scripta:list = []
+scriptb:list = []
 
 with open("ced-multi.txt", "r") as f:
     entries: list = []
@@ -30,6 +32,8 @@ with open("ced-multi.txt", "r") as f:
             
 for text in entries:
     text=ud.normalize('NFC', text)
+    if "hgw" in text:
+        continue
     if " " in text:
         continue
     if "b" in text:
@@ -39,6 +43,8 @@ for text in entries:
     if "hl" in text:
         continue
     if "tl" in text:
+        continue
+    if "hdl" in text:
         continue
     if "wh" in text:
         continue
@@ -50,6 +56,8 @@ for text in entries:
         continue
     if "nhd" in text:
         continue
+    if "nhg" in text:
+        continue
     if text[-2:-1] == "dl":
         continue
     for v in v_notwanted:
@@ -58,7 +66,7 @@ for text in entries:
             break
     else:
         if text[-1] in "aeiouv":
-            script.append(ud.normalize('NFC',text+"̄"))
+            scripta.append(ud.normalize('NFC',text+"̄"))
             ytext = text
             while ytext[-1] in "aeiouv":
                 ytext = ytext[:-1]
@@ -68,14 +76,61 @@ for text in entries:
                 continue
             if ytext[-2:] == "dl":
                 continue
+            if ytext[-2:] == "dt":
+                continue
+            if ytext[-2:] == "td":
+                continue
             if ytext[-2:-1] == "h":
                 continue
             if ytext[-2:-1] == "ɂ":
                 continue
-            script.append(ytext)
+            scriptb.append(ytext)
         else:
-            script.append(ud.normalize("NFC", text))
+            scripta.append(ud.normalize("NFC", text))
 
-for text in script:
-    print(text)
+scripta += scriptb
+
+for x in [1, 2, 3, 4]:
+
+    random.Random(x).shuffle(scripta)
+    line:str = ""
+    cntr:int=1
+    
+    script:str = "# Script for low-tone only words.\n"
+    script+="\n"
+    script+="The macron on trailing vowels means keep the vowel at a low tone and to not use the normal high-fall.\n"
+    script+="\n"
+    script+="Please read each line like a sentence with appropriate pauses based on punctuation.\n"
+    script+="\n"
+    script+="If you can manage it (not required):\n"
+    script+="\n"
+    script+="* Final vowels should be nasalized.\n"
+    script+="* Vowels preceeded by 'n' or 'm' should be nasalized.\n"
+    script+="* Correct cadence between long and short vowels is the most important consideration.\n"
+    script+="\n"
+    script+="Each line needs to be recorded into a separate file with the filename indicating the script number as well as the line number.\n"
+    script+="* Example for script 1, line 12: 1-12.mp3\n"
+    script+="\n"
+    script+="If you don't like your pronunciation for any line, skip it.\n"
+    script+="\n"
+    script+="Note: Enclosed vowels followed by an 'h', such as in the word 'tehgā' should be pronounced\n"
+    script+="double-short with an equal length h sound following.\n"
+    script+="\n\n"
+    script+="## Script "+str(x)
+    script+="\n\n"
+    for text in scripta:
+        if len(line) + len(text) > 30:
+            script += str(cntr)+") "+line+".\n" 
+            line=""
+            cntr+=1
+        else:
+            if len(line)>0:
+                line+=", "
+            line+=text
+    if len(line)>0:
+        script += str(cntr)+") "+line+".\n"
+        
+    with open("script-"+str(x)+".txt", "w") as w:
+        w.write(script)
+
 sys.exit()
