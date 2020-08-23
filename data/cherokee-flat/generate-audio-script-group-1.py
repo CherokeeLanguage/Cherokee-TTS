@@ -4,8 +4,19 @@ import sys
 import string
 import unicodedata as ud
 import random
+import re
 
 os.chdir(os.path.dirname(sys.argv[0]))
+
+clist=" abcdefghijklmnopqrstuvwxyzçèéßäöōǎǐíǒàáǔüèéìūòóùúāēěīâêôûñőűабвгдежзийклмнопрстуфхцчшщъыьэюяёɂāēīōūv̄àèìòùv̀ǎěǐǒǔv̌âêîôûv̂áéíóúv́a̋e̋i̋őűv̋¹²³⁴ạẹịọụṿ"
+#print("CLIST")
+#print(ud.normalize('NFC',clist))
+xlist = ""
+for c in clist:
+    if c not in xlist:
+        xlist += c
+#print("XLIST")
+#print(ud.normalize('NFC',xlist))
 
 v_notwanted = ["á", "é", "í", "ó", "ú", "v́", "a̋", "e̋",
                "i̋", "ő", "ű", "v̋", "à", "è", "ì", "ò",
@@ -65,6 +76,8 @@ for text in entries:
         if v in text:
             break
     else:
+        if re.match(".*?[aeiouv]h.*", text):
+            continue
         if text[-1] in "aeiouv":
             scripta.append(ud.normalize('NFC',text+"̄"))
             ytext = text
@@ -91,8 +104,10 @@ for text in entries:
 scripta += scriptb
 
 for x in [1, 2, 3, 4]:
-
-    random.Random(x).shuffle(scripta)
+    
+    random.Random(x).shuffle(scripta) #fixed shuffle based on script no, for reproducibility
+    randx = random.Random(x) #fixed random number set based on script no, for reproducibility
+    
     line:str = ""
     cntr:int=1
     
@@ -126,19 +141,41 @@ for x in [1, 2, 3, 4]:
     script+="\n\n"
     script+="## Script "+str(x)
     script+="\n\n"
+    wordCntr:int=0
+    wordCommand:int=0
     for text in scripta:
-        if len(line) + len(text) > 30:
-            script += str(cntr)+") "+line+".\n" 
+        if wordCntr==0:
+            #basic bell curve, range: 1 to 11, for word count per "sentence".
+            lineLength:int=0
+            for _ in range(10):
+                lineLength += randx.randint(0, 1) + 1
+            lineLength -= 9
+            wordComma=randx.randint(2,10) #random clause marks
+        if wordCntr >= lineLength:
+            script += str(cntr)+". "+line+".\n" 
             line=""
+            lineLength=0
+            wordCntr=0
             cntr+=1
         else:
-            if len(line)>0:
-                line+=", "
+            wordCntr += 1
+            if len(line)==0:
+                text=text.capitalize()
+            if len(line)>0 and wordCntr==wordComma:
+                if randx.randint(0,1)==0:
+                    line+=", "
+                else:
+                    line+=". "
+                    text=text.capitalize()
+            else:
+                line+=" "
             line+=text
     if len(line)>0:
-        script += str(cntr)+") "+line+".\n"
+        script += str(cntr)+". "+line+".\n"
         
     with open("script-"+str(x)+".txt", "w") as w:
+        w.write(script)
+    with open("script-"+str(x)+".md", "w") as w:
         w.write(script)
 
 sys.exit()
