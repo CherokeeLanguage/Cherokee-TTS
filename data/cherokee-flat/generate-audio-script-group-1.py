@@ -6,6 +6,8 @@ import unicodedata as ud
 import random
 import re
 
+from md2pdf.core import md2pdf
+
 os.chdir(os.path.dirname(sys.argv[0]))
 
 clist=" abcdefghijklmnopqrstuvwxyzçèéßäöōǎǐíǒàáǔüèéìūòóùúāēěīâêôûñőűабвгдежзийклмнопрстуфхцчшщъыьэюяёɂāēīōūv̄àèìòùv̀ǎěǐǒǔv̌âêîôûv̂áéíóúv́a̋e̋i̋őűv̋¹²³⁴ạẹịọụṿ"
@@ -68,6 +70,10 @@ for text in entries:
     if "nhd" in text:
         continue
     if "nhg" in text:
+        continue
+    if re.match("(?i).*[yw][cdghjklmnst].*", text):
+        continue
+    if re.match("(?i).*[cdghjklmnst]{3,}.*", text):
         continue
     if text[-2:-1] == "dl":
         continue
@@ -173,9 +179,9 @@ for x in [1, 2, 3, 4]:
     if len(line)>0:
         script += str(cntr)+". "+line+".\n"
         
-    with open("script-"+str(x)+".txt", "w") as w:
+    with open("scripts/script-"+str(x)+".txt", "w") as w:
         w.write(script)
-    with open("script-"+str(x)+".md", "w") as w:
+    with open("scripts/script-"+str(x)+".md", "w") as w:
         w.write(script)
-
+    md2pdf("scripts/script-"+str(x)+".pdf", script.replace("## Script", "<div style=\"page-break-after: always\"></div>\n\n## Script"))
 sys.exit()
