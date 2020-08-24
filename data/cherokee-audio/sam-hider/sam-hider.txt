@@ -1,0 +1,24 @@
+syllabary-01-aeiouv.mp3|a. e. i. o. u. v.
+syllabary-02-aeiouv.mp3|a. e. i. o. u. v.
+syllabary-03-gagv.mp3|ga. ka. ge. gi. go. gu. gv.
+syllabary-04-gagv.mp3|ga. ka. ge. gi. go. gu. gv.
+syllabary-05-hahv.mp3|ha. he. hi. ho. hu. hv.
+syllabary-06-hahv.mp3|ha. he. hi. ho. hu. hv.
+syllabary-07-lalv.mp3|la. le. li. lo. lu. lv.
+syllabary-08-mamu.mp3|ma. me. mi. mo. mu.
+syllabary-09-mamu.mp3|ma. me. mi. mo. mu.
+syllabary-10-nanv.mp3|na. hna. nah. ne. ni. no .nu .nv
+syllabary-11-nanv.mp3|na. hna. nah. ne. ni. no .nu .nv
+syllabary-12-kwakwv.mp3|kwa. kwe. kwi. kwo. kwu. kwv.
+syllabary-13-kwakwv.mp3|kwa. kwe. kwi. kwo. kwu. kwv.
+syllabary-14-sasv.mp3|s. sa. se. si. so. su. sv.
+syllabary-15-dadv.mp3|da. ta. de. te. di. ti. do. du. dv.
+syllabary-16-dadv.mp3|da. ta. de. te. di. ti. do. du. dv.
+syllabary-17-tlatlv.mp3|dla. tla. tle. tli. tlo. tlu. tlv.
+syllabary-18-tlatlv.mp3|dla. tla. tle. tli. tlo. tlu. tlv.
+syllabary-19-jajv.mp3|ja. je. ji. jo. ju. jv.
+syllabary-20-jajv.mp3|ja. je. ji. jo. ju. jv.
+syllabary-21-wawv.mp3|wa. we. wi. wo. wu. wv.
+syllabary-22-wawv.mp3|wa. we. wi. wo. wu. wv.
+syllabary-23-yayv.mp3|ya. ye. yi. yo. yu. yv.
+syllabary-24-yayv.mp3|ya. ye. yi. yo. yu. yv.
