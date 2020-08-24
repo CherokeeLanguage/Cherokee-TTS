@@ -94,3 +94,21 @@ mp3/months-of-the-year-11a.mp3|Nv:dadě:wi.
 mp3/months-of-the-year-11b.mp3|Nv:dadě:wi.
 mp3/months-of-the-year-12a.mp3|V̌:sgíhyi.
 mp3/months-of-the-year-12b.mp3|V̌:sgíhyi.
+mp3/days-of-the-week-fri-a.mp3|Junhgi:lő:sdi.
+mp3/days-of-the-week-fri-b.mp3|Junhgi:lő:sdi.
+mp3/days-of-the-week-fri-c.mp3|Junhgi:lő:sdi.
+mp3/days-of-the-week-mon-a.mp3|Ù:nadǒ:dágwohnvɂi.
+mp3/days-of-the-week-mon-b.mp3|Ù:nadǒ:dágwohnvɂi.
+mp3/days-of-the-week-mon-c.mp3|Ù:nadǒ:dágwohnvɂi.
+mp3/days-of-the-week-sat-a.mp3|Ù:nadǒ:dágwi:de̋:na.
+mp3/days-of-the-week-sat-b.mp3|Ù:nadǒ:dágwi:de̋:na.
+mp3/days-of-the-week-sun-a.mp3|Ù:nadǒ:dágwà:sgv̋:ɂi.
+mp3/days-of-the-week-sun-b.mp3|Ù:nadǒ:dágwà:sgv̋:ɂi.
+mp3/days-of-the-week-thu-a.mp3|Nvhgi:ne̋ Iɂga.
+mp3/days-of-the-week-thu-b.mp3|Nvhgi:ne̋ Iɂga.
+mp3/days-of-the-week-tue-a.mp3|Taɂli:ne̋ I:ga.
+mp3/days-of-the-week-tue-b.mp3|Taɂli:ne̋ I:ga.
+mp3/days-of-the-week-tue-c.mp3|Taɂli:ne̋ I:ga.
+mp3/days-of-the-week-wed-a.mp3|Joɂi:ne̋ I:ga.
+mp3/days-of-the-week-wed-b.mp3|Joɂi:ne̋ I:ga.
+mp3/days-of-the-week-wed-c.mp3|Joɂi:ne̋ I:ga.
