@@ -16,7 +16,9 @@ source ~/miniconda3/etc/profile.d/conda.sh
 
 conda activate ./env
 
-cp="$(ls -1tr checkpoints/|tail -n 1)"
+#cp="$(ls -1tr checkpoints/*CHEROKEE4*|tail -n 1)"
+cp="$(ls -1tr checkpoints/*CHEROKEE*|tail -n 1)"
+cp="$(basename "$cp")"
 
 printf "Using checkpoint: $cp\n"
 
@@ -27,8 +29,7 @@ cp /dev/null "$tmp"
 cp /dev/null "$z"/voices.txt
 
 (
-	echo "02-fr"
-	echo "26-fr"
+	echo "01-chr"
 ) >> "$z"/voices.txt
 
 #cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
@@ -46,14 +47,13 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-shuf "$text" | tail -n 5 > "$selected"
-
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
+	cut -f 2 "$text" | sort > "$selected"
 	ix=0
 	syn=""
 	cp /dev/null "$tmp"
-	cut -f 2 "$selected" | while read phrase; do
+	cat "$selected" | while read phrase; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
 	done
@@ -71,24 +71,21 @@ for voice in "${v[@]}"; do
 	python wavernnx.py
 
 	mv wg*.wav "$wg"-"$voice"/
-	
 	ix=0
-	mp3s=($(cut -f 3 "$selected" | sed 's/ /_/g'))
-	for mp3 in "${mp3s[@]}"; do
+	cut -f 3 "$text" | while read mp3; do
 		ix="$(($ix+1))"
-		wav="$wg"-"$voice/wg-$ix.wav"
+		wav="$wg"-"$voice/$ix.wav"
 		mp3="$wg"-"$voice/$mp3"
-		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3"
-		rm "$wav"
+		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" && rm "$wav"
 	done
 	
 	xdg-open "$wg"-"$voice"
 	
 	ix=0
-	cut -f 3 "$selected" | while read line; do
+	cat "$selected" | while read line; do
 		ix="$(($ix+1))"
-		rm "$ix".wav 2> /dev/null || true
-		rm "$ix".npy 2> /dev/null || true
+		rm "$ix".wav || true
+		rm "$ix".npy || true
 	done
 	printf "\n\n"
 done

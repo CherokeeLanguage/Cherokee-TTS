@@ -63,20 +63,20 @@ rm cx.txt dx.txt
 
 wavCounter=0;
 echo "Creating synthetic Cherokee"
-MAX_PER_SYNTH=1000
+MAX_PER_SYNTH=50
 
 wavCounter=100000
 shuf "$chr" | tail -n $MAX_PER_SYNTH > tmp.txt
 
 voice="chr"
 cut -f 1 -d '|' tmp.txt | while read cedtext; do
-    if [ $voice = "chr" ]; then
-    	voice="chr+f2"
-    	id="02-syn-chr"
-    else
+    #if [ $voice = "chr" ]; then
+    #	voice="chr+f2"
+    #	id="02-syn-chr"
+    #else
     	voice="chr"
     	id="01-syn-chr"
-    fi
+    #fi
     wavCounter=$(($wavCounter + 1))
     wavFile="$(printf "%s/%06d.wav" "$WAV" $wavCounter)"
     $espeakng -z -v $voice -w "$wavFile" -x "$cedtext"
@@ -84,13 +84,13 @@ done
 
 voice="chr"
 cut -f 2 -d '|' tmp.txt | while read mcotext; do
-	 if [ $voice = "chr" ]; then
-    	voice="chr+f2"
-    	id="02-syn-chr"
-    else
+	 #if [ $voice = "chr" ]; then
+    #	voice="chr+f2"
+    #	id="02-syn-chr"
+    #else
     	voice="chr"
     	id="01-syn-chr"
-    fi
+    #fi
     wavCounter=$(($wavCounter + 1))
     wavFile="$(printf "%s/%06d.wav" "$WAV" $wavCounter)"
     printf "%06d|%s|chr|%s|||%s.|%s\n" "$wavCounter" "$id" "$wavFile" "$mcotext" "" >> "$CHEROKEE"
@@ -100,13 +100,13 @@ voice="chr"
 wavCounter=110000
 shuf ex.txt | tail -n $MAX_PER_SYNTH > tmp.txt
 cut -f 1 -d '|' tmp.txt | while read cedtext; do
-    if [ $voice = "chr" ]; then
-    	voice="chr+f2"
-    	id="02-syn-chr"
-    else
+    #if [ $voice = "chr" ]; then
+    #	voice="chr+f2"
+    #	id="02-syn-chr"
+    #else
     	voice="chr"
     	id="01-syn-chr"
-    fi
+    #fi
     wavCounter=$(($wavCounter + 1))
     wavFile="$(printf "%s/%06d.wav" "$WAV" $wavCounter)"
     $espeakng -z -v $voice -w "$wavFile" -x "$cedtext"
@@ -114,13 +114,13 @@ done
 
 voice="chr"
 cut -f 2 -d '|' tmp.txt | while read cedtext; do
-    if [ $voice = "chr" ]; then
-    	voice="chr+f2"
-    	id="02-syn-chr"
-    else
+    #if [ $voice = "chr" ]; then
+    #	voice="chr+f2"
+    #	id="02-syn-chr"
+    #else
     	voice="chr"
     	id="01-syn-chr"
-    fi
+    #fi
     wavCounter=$(($wavCounter + 1))
     wavFile="$(printf "%s/%06d.wav" "$WAV" $wavCounter)"
     printf "%06d|%s|chr|%s|||%s.|%s\n" "$wavCounter" "$id" "$wavFile" "$cedtext" "" >> "$CHEROKEE"

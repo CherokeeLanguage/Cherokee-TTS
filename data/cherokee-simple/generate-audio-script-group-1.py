@@ -5,8 +5,100 @@ import string
 import unicodedata as ud
 import random
 import re
+import csv
+
+from chrutils.chrutils import ced2mco
+from chrutils.chrutils import ascii_ced2mco
 
 os.chdir(os.path.dirname(sys.argv[0]))
+
+CED:str="ced_202008231250.csv"
+
+ASCII_CED_TONES=["nounadjpluraltone", "vfirstprestone", "vsecondimpertone", "vthirdinftone", "vthirdpasttone", "vthirdprestone"]
+
+trans2ced = {}
+
+CGRAVEACCENT="\u0300"
+CACUTEACCENT="\u0301"
+CCARON="\u0302"
+CMACRON="\u0304"
+CDOUBLEACUTE="\u030b"
+CCIRCUMFLEX="\u030c"
+CMACRONBELOW="\u0331"
+
+#Build guessing pronunciation lookup for transliterated text
+with open(CED, newline='') as csvfile:
+    rows = csv.DictReader(csvfile)
+    for row in rows:
+        for key in ASCII_CED_TONES:
+            value:str = row[key]
+            if (value == ""):
+                continue
+            value=ud.normalize("NFD", ascii_ced2mco(value)).lower()
+            cedKey:str=re.sub("(?i)[^a-z.,;?! ]", "", value).lower()
+            if cedKey=="":
+                continue
+            
+            trans2ced[cedKey]=value
+            trans2ced[cedKey.capitalize()]=value.capitalize()
+            
+            #some common clitics
+            trans2ced[cedKey+"s"]=value+"s"
+            trans2ced[cedKey.capitalize()+"s"]=value.capitalize()+"s"
+            
+            if cedKey[-1] in "aeiouv":
+                cedKey2=cedKey[:-1]
+                value2=value[:-1]
+                if value2[-1] == "ɂ":
+                    value2=value2[:-1]
+                if value2[-1] == ":":
+                    value2=value2[:-1]
+                if value2[-1] == CCARON:
+                    value2 = value2[:-1] + CACUTEACCENT
+                if value2[-1] == CCIRCUMFLEX:
+                    value2 = value2[:-1] + CACUTEACCENT
+                if value2[-1] == CGRAVEACCENT:
+                    value2 = value2[:-1]+CMACRON
+                #some common clitics
+                trans2ced[cedKey+"s"]=value+"s"
+                trans2ced[cedKey.capitalize()+"s"]=value.capitalize()+"s"
+                
+with open(CED, newline='') as csvfile:
+    rows = csv.DictReader(csvfile)
+    for row in rows:
+        sentence:str = row["sentenceq"]
+        
+        if sentence.strip() == "":
+            continue
+        
+        sentence = sentence.replace(".", " .")
+        sentence = sentence.replace(",", " ,")
+        sentence = sentence.replace("?", " ?")
+        sentence = sentence.replace("!", " !")
+        
+        sentence = " " + sentence + " "
+        
+        sentence = re.sub("<.*?>", "", sentence)
+        
+        newSentence = sentence
+        found:bool = False
+        for word in sentence.split(" "):
+            if word.strip()=="":
+                continue
+            if word in ".,!?:;0123456789()\"'$%:":
+                continue
+            if word not in trans2ced:
+                badWord = re.sub("(.)", "\\1"+CMACRONBELOW, word)
+                newSentence=newSentence.replace(word+" ", badWord+" ")
+            else:
+                found = True
+                newSentence=newSentence.replace(word+" ", trans2ced[word]+" ")
+                #if k+" " in newSentence:
+                #    newSentence = newSentence.replace(k+" ", v+" ")
+        if (found):
+            print(newSentence)
+
+sys.exit()
 
 clist=" abcdefghijklmnopqrstuvwxyzçèéßäöōǎǐíǒàáǔüèéìūòóùúāēěīâêôûñőűабвгдежзийклмнопрстуфхцчшщъыьэюяёɂāēīōūv̄àèìòùv̀ǎěǐǒǔv̌âêîôûv̂áéíóúv́a̋e̋i̋őűv̋¹²³⁴ạẹịọụṿ"
 #print("CLIST")

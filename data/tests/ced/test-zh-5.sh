@@ -26,14 +26,9 @@ cp /dev/null "$tmp"
 
 cp /dev/null "$z"/voices.txt
 
-(
-	echo "02-fr"
-	echo "26-fr"
-) >> "$z"/voices.txt
+cut -f 2 -d '|' "$y"/data/cherokee6/train.txt | sort | uniq | grep 'zh' | shuf | tail -n 5 >> "$z"/voices.txt
 
-#cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
-
-for x in "$z"/animals-[0-9][0-9]-*; do
+for x in "$z"/ced-[0-9][0-9]-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
@@ -43,24 +38,23 @@ vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
-wg="animals"
-text="$z/animals-game-mco.txt"
+wg="ced"
+text="$z/../../cherokee-syn/syn-chr.txt"
 
-shuf "$text" | tail -n 5 > "$selected"
-
+cut -f 7 -d '|' "$text" | grep -v ' ' | shuf | tail -n 5 > "$selected"
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
 	ix=0
 	syn=""
 	cp /dev/null "$tmp"
-	cut -f 2 "$selected" | while read phrase; do
+	cat "$selected" | while read phrase; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
 	done
 
 	cd "$y"
 	
-	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" #--cpu
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
 
 	cd "$z"
 	
@@ -71,24 +65,13 @@ for voice in "${v[@]}"; do
 	python wavernnx.py
 
 	mv wg*.wav "$wg"-"$voice"/
-	
-	ix=0
-	mp3s=($(cut -f 3 "$selected" | sed 's/ /_/g'))
-	for mp3 in "${mp3s[@]}"; do
-		ix="$(($ix+1))"
-		wav="$wg"-"$voice/wg-$ix.wav"
-		mp3="$wg"-"$voice/$mp3"
-		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3"
-		rm "$wav"
-	done
-	
 	xdg-open "$wg"-"$voice"
 	
 	ix=0
-	cut -f 3 "$selected" | while read line; do
+	cat "$selected" | while read line; do
 		ix="$(($ix+1))"
-		rm "$ix".wav 2> /dev/null || true
-		rm "$ix".npy 2> /dev/null || true
+		rm "$ix".wav || true
+		rm "$ix".npy || true
 	done
 	printf "\n\n"
 done

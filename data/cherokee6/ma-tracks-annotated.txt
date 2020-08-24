@@ -1,0 +1,82 @@
+101006|durbin-feeling|chr|ma-tracks/Track_06.wav|||go:hwe:li. ù:hwasga. jahwahi.|
+101007|durbin-feeling|chr|ma-tracks/Track_07.wav|||hyahtě:na. hyahtő:tli. hyehgahli.|
+101008|durbin-feeling|chr|ma-tracks/Track_08.wav|||gv:hnv̋:ɂi. hnv́:hndági. sohně:la.|
+101009|durbin-feeling|chr|ma-tracks/Track_09.wav|||ì:ji:hné:ga. hihné:ga. kané:ga.|
+101010|durbin-feeling|chr|ma-tracks/Track_100.wav|||Jalagi hyade̋:hlgwaɂa yijahnta.|
+101011|durbin-feeling|chr|ma-tracks/Track_101.wav|||Jo:jadě:hlgwà:sgi digo:hwe:li dò:gaksesdi.|
+101013|durbin-feeling|chr|ma-tracks/Track_103.wav|||Ő:sda di:kino:gì:sdíɂi ase ő:sda di:kino:gi̋:sdi.|
+101014|durbin-feeling|chr|ma-tracks/Track_104.wav|||Ani:yv:wi:ya amáyé:hli aně:hiya̋:ɂi.|
+101015|durbin-feeling|chr|ma-tracks/Track_105.wav|||U:yo:hu:sv́. Ù:yo:hu:sv.|
+101016|durbin-feeling|chr|ma-tracks/Track_106.wav|||Guhgwe ju:ni̋:hyóhi iyv̌:da:ha dǎ:nada:yo:sdóhdisgóɂi.|
+101017|durbin-feeling|chr|ma-tracks/Track_107.wav|||Gadō ù:lsdá:si jaji?|
+101026|durbin-feeling|chr|ma-tracks/Track_18.wav|||nv:wô:ti. jǐ:sgwôgwo. kiyû:ga. ù:hnuwa.|
+101027|durbin-feeling|chr|ma-tracks/Track_19.wav|||e̋:gwa. agi̋:na. ga:ge̋:da. ő:sda.|
+101028|durbin-feeling|chr|ma-tracks/Track_20.wav|||degadê:yǒ:hvsgó:ɂi. digadê:yő:hvsgi.|
+101029|durbin-feeling|chr|ma-tracks/Track_21.wav|||nv̌:ya. sv̌:gi. gù:gu. agǐ:sdi.|
+101031|durbin-feeling|chr|ma-tracks/Track_23.wav|||ada. áɂda.|
+101032|durbin-feeling|chr|ma-tracks/Track_24.wav|||de:jadó:ɂa. jayě:tsa. chaněla.|
+101033|durbin-feeling|chr|ma-tracks/Track_25.wav|||gano:halǐ:dô:ha. gano:hali:dő:hi.|
+101034|durbin-feeling|chr|ma-tracks/Track_26.wav|||Kǎ:hwi sgine:hvsi!|
+101035|durbin-feeling|chr|ma-tracks/Track_27.wav|||Hisdù:hv̌:ga galo:hisdi̋:ɂi!|
+101036|durbin-feeling|chr|ma-tracks/Track_28.wav|||Jalagi gv́hdi hniwi!|
+101037|durbin-feeling|chr|ma-tracks/Track_29.wav|||Tstvdasdé:sdi! Jadaksesdé:sdi!|
+101038|durbin-feeling|chr|ma-tracks/Track_30.wav|||Do:nada:go:hv:ɂi!|
+101039|durbin-feeling|chr|ma-tracks/Track_31.wav|||Gadō ǔ:sdi ǔ:ha?|
+101040|durbin-feeling|chr|ma-tracks/Track_32.wav|||Hiɂanas du:yu:kdv́ɂi?|
+101041|durbin-feeling|chr|ma-tracks/Track_33.wav|||O:yu ő:sda di:de:hlgwa:sdi̋:ɂi.|
+101042|durbin-feeling|chr|ma-tracks/Track_34.wav|||Àginv̌:lv̂hvsgo jalagi agiwo:nǐ:hísdi̋:ɂi.|
+101043|durbin-feeling|chr|ma-tracks/Track_35.wav|||Wigi! Hwěna!|
+101044|durbin-feeling|chr|ma-tracks/Track_36.wav|||Yijadu:li̋:ha. Yì:jadu:li̋:ha.|
+101045|durbin-feeling|chr|ma-tracks/Track_37.wav|||Sǐ:gwu ji:nǐ:hiwi!|
+101046|durbin-feeling|chr|ma-tracks/Track_38.wav|||Sǐ:gwu ji:hádi:ta!|
+101047|durbin-feeling|chr|ma-tracks/Track_39.wav|||Gadō ad jalagi gv́hdi?|
+101048|durbin-feeling|chr|ma-tracks/Track_40.wav|||à:dawó:sgó:ɂi. adawő:sgi.|
+101049|durbin-feeling|chr|ma-tracks/Track_41.wav|||adǐ:tasdi. di:dǐ:tasdi.|
+101052|durbin-feeling|chr|ma-tracks/Track_44.wav|||Gadō ű:sdi ga:tihga?|
+101056|durbin-feeling|chr|ma-tracks/Track_48.wav|||Sǐ:gwu ji:ni:hiwi u:sgano:li:ge̋:ɂi.|
+101057|durbin-feeling|chr|ma-tracks/Track_49.wav|||Gadō u:sdi chvsi na u:dǎ:naɂni?|
+101058|durbin-feeling|chr|ma-tracks/Track_50.wav|||à:kinv̌:wâ:ga.|
+101059|durbin-feeling|chr|ma-tracks/Track_51.wav|||Chanǎ:lâ:jv̌:ɂi.|
+101060|durbin-feeling|chr|ma-tracks/Track_52.wav|||Ji:goɂv̌:ɂi gihli dasihwisgv́.|
+101061|durbin-feeling|chr|ma-tracks/Track_53.wav|||u:gő:sida. ù:go:sga.|
+101062|durbin-feeling|chr|ma-tracks/Track_54.wav|||à:ktǐ:ya. jigǎ:tǐ:ya.|
+101063|durbin-feeling|chr|ma-tracks/Track_55.wav|||à:tli. gadǐ:tli.|
+101064|durbin-feeling|chr|ma-tracks/Track_56.wav|||hi:yě:wa. ji:yewi:sga. ga:yewsga.|
+101065|durbin-feeling|chr|ma-tracks/Track_57.wav|||jí:tli:sǐ:ha. i:dí:tlisǐ:ha.|
+101066|durbin-feeling|chr|ma-tracks/Track_58.wav|||diktladî:sgi. digv̌:tladǐ:sgi.|
+101067|durbin-feeling|chr|ma-tracks/Track_59.wav|||à:kwiyíha. gagwiyíha. hahkwiyíha.|
+101068|durbin-feeling|chr|ma-tracks/Track_60.wav|||tskv́hisdi. sdi̋:kvhisdi.|
+101069|durbin-feeling|chr|ma-tracks/Track_61.wav|||gvɂihlv́sga. kihlv́sga. ì:dvhitlv́sga.|
+101070|durbin-feeling|chr|ma-tracks/Track_62.wav|||ge:ju:dalě:ɂa. ge:ju:dalě:ɂa.|
+101071|durbin-feeling|chr|ma-tracks/Track_63.wav|||ksdê:la.|
+101072|durbin-feeling|chr|ma-tracks/Track_64.wav|||e:li̋:gwus galo:hisdi yiksdúɂi:si?|
+101073|durbin-feeling|chr|ma-tracks/Track_65.wav|||Gidu:wá ju:ni:kwanyo:sdi adě:la yidv:dasvhna.|
+101074|durbin-feeling|chr|ma-tracks/Track_66.wav|||gáɂni:yi:sgo. di:da:nǐ:yi̋:sgi.|
+101075|durbin-feeling|chr|ma-tracks/Track_67.wav|||a:se è:no:ɂǐ:nv̋:sdi hiɂa agayv̌:lige.|
+101076|durbin-feeling|chr|ma-tracks/Track_68.wav|||ju:dlo:gale̋:da e:sdi:go:ɂv́ è:sdi:yǒ:lî:lv:ɂi.|
+101077|durbin-feeling|chr|ma-tracks/Track_69.wav|||gő:sdigwu i:jadǎ:hntehdi ì:jv:ne:ha.|
+101078|durbin-feeling|chr|ma-tracks/Track_70.wav|||kano:héha. jì:no:héha.|
+101079|durbin-feeling|chr|ma-tracks/Track_71.wav|||gohlga. golì:ga.|
+101080|durbin-feeling|chr|ma-tracks/Track_72.wav|||kdǐ:sgo. gv̀:dǐ:sgo.|
+101081|durbin-feeling|chr|ma-tracks/Track_73.wav|||Sě:lu ju:da aye̋:hli di̋:ksgwalsdi.|
+101082|durbin-feeling|chr|ma-tracks/Track_74.wav|||Gadō chanagi:ɂa? Chi:yagǎ:tâ:sdà:si.|
+101083|durbin-feeling|chr|ma-tracks/Track_75.wav|||Dù:yu:kdv yijadvhndi ge̋:tssehehdi. È:tsdohydi nigǒ:lv hatuɂisdi̋:sgo:ɂi.|
+101084|durbin-feeling|chr|ma-tracks/Track_76.wav|||jì:yv:ső:li. hihyv:ső:li. kayv:ső:li.|
+101085|durbin-feeling|chr|ma-tracks/Track_77.wav|||haktǒ:sdi. sdaktǒ:sdi. ì:jaktǒ:sdi.|
+101086|durbin-feeling|chr|ma-tracks/Track_78.wav|||hi:yagà:tǒ:sdi. è:sdagà:tǒ:sdi. è:jagà:tǒ:sdi.|
+101087|durbin-feeling|chr|ma-tracks/Track_79.wav|||jaktǒ:sdi. sdaktǒ:sdi. ì:jaktǒ:sdi.|
+101088|durbin-feeling|chr|ma-tracks/Track_80.wav|||sgwaktǒ:sdi. gv:yagà:tǒ:sdi. sdv:yagà:tǒ:sdi.|
+101090|durbin-feeling|chr|ma-tracks/Track_82.wav|||Gadō he:lî:sgv jihniwi?|
+101091|durbin-feeling|chr|ma-tracks/Track_83.wav|||Nu:yó:si:sgv̋:na à:lsdâ:yv:hvsga.|
+101093|durbin-feeling|chr|ma-tracks/Track_85.wav|||Do:dî:sgo:sga.|
+101094|durbin-feeling|chr|ma-tracks/Track_86.wav|||Amáyé:hli di:gwe:nv:sv́ɂi. Sóɂi dikanv́:su:lv wà:yv̌:ha.|
+101095|durbin-feeling|chr|ma-tracks/Track_87.wav|||Gà:yő:hli jalagi jiwó:ni:sgo.|
+101096|durbin-feeling|chr|ma-tracks/Track_88.wav|||Ù:nadu:lis jalagi u:ni:wo:nǐ:hisdi?|
+101097|durbin-feeling|chr|ma-tracks/Track_89.wav|||Ama u:di̋:táha ù:dlv́:jvɂi.|
+101098|durbin-feeling|chr|ma-tracks/Track_90.wav|||Na asgaya jo:jahlnohe:sgv́ à:hnigi.|
+101099|durbin-feeling|chr|ma-tracks/Track_91.wav|||Hasu:yagi i:yű:sdi jadu:li:sgv̋:ɂi.|
+101100|durbin-feeling|chr|ma-tracks/Track_92.wav|||Jò:la iyű:sdi kdóhdi u:lv̌:da yu:da̋:tloja.|
+101101|durbin-feeling|chr|ma-tracks/Track_93.wav|||Ju:gahnde̋:na gv̋:hnisdóhdi higv:halù:ya. Ha:dlv na achű:ja u:sű:hwisdi jigi à:sǒ:yv:ɂi?|
+101102|durbin-feeling|chr|ma-tracks/Track_94.wav|||À:gwv:kewsv i:yv́ à:gwahnigi:sv.|
+101103|durbin-feeling|chr|ma-tracks/Track_95.wav|||Gadehlgwa di:wo:hweě:lô:di dijalagi.|
+101104|durbin-feeling|chr|ma-tracks/Track_96.wav|||À:gwadu:li gv:go:wahtv́hdi.|
