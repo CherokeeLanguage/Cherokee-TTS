@@ -216,3 +216,92 @@ mp3/page-13-vocabulary-watch-a.mp3|Wǎ:ji.
 mp3/page-13-vocabulary-watch-b.mp3|Wǎ:ji.
 mp3/page-13-vocabulary-wolf-a.mp3|Wahya.
 mp3/page-13-vocabulary-wolf-b.mp3|Wahya.
+mp3/page-14-vocabulary-apple-a.mp3|Sv̌:kta.
+mp3/page-14-vocabulary-apple-b.mp3|Sv̌:kta.
+mp3/page-14-vocabulary-apple-c.mp3|Sv̌:kta.
+mp3/page-14-vocabulary-apple-d.mp3|Sv̌:kta.
+mp3/page-14-vocabulary-arrow-a.mp3|Gá:hlida.
+mp3/page-14-vocabulary-arrow-b.mp3|Gá:hlida.
+mp3/page-14-vocabulary-arrow-c.mp3|Gá:hlida.
+mp3/page-14-vocabulary-bird-a.mp3|Jí:sgwa.
+mp3/page-14-vocabulary-bird-b.mp3|Jí:sgwa.
+mp3/page-14-vocabulary-boat-a.mp3|Jǐ:yu.
+mp3/page-14-vocabulary-boat-b.mp3|Jǐ:yu.
+mp3/page-14-vocabulary-bullet-a.mp3|Gáɂni.
+mp3/page-14-vocabulary-bullet-b.mp3|Gáɂni.
+mp3/page-14-vocabulary-cane-a.mp3|
+mp3/page-14-vocabulary-cane-b.mp3|
+mp3/page-14-vocabulary-cherry-a.mp3|
+mp3/page-14-vocabulary-cherry-b.mp3|
+mp3/page-14-vocabulary-chickadee-a.mp3|Jigiɂlili.
+mp3/page-14-vocabulary-chickadee-b.mp3|Jigiɂlili.
+mp3/page-14-vocabulary-chicken-a.mp3|Jitǎ:ga.
+mp3/page-14-vocabulary-chicken-b.mp3|Jitǎ:ga.
+mp3/page-14-vocabulary-come-over-a.mp3|*Hè:na.
+mp3/page-14-vocabulary-come-over-b.mp3|*Hè:na.
+mp3/page-14-vocabulary-cow-a.mp3|Wahga.
+mp3/page-14-vocabulary-cow-b.mp3|Wahga.
+mp3/page-14-vocabulary-dress-a.mp3|À:sano.
+mp3/page-14-vocabulary-dress-b.mp3|À:sano.
+mp3/page-14-vocabulary-goose-a.mp3|Sa:sa.
+mp3/page-14-vocabulary-goose-b.mp3|Sa:sa.
+mp3/page-14-vocabulary-men-a.mp3|Ani:sgaya.
+mp3/page-14-vocabulary-men-b.mp3|Ani:sgaya.
+mp3/page-14-vocabulary-monday-a.mp3|Ù:nadǒ:dágwohnvɂi.
+mp3/page-14-vocabulary-monday-b.mp3|Ù:nadǒ:dágwohnvɂi.
+mp3/page-14-vocabulary-nail-a.mp3|Yv:gi.
+mp3/page-14-vocabulary-nail-b.mp3|Yv:gi.
+mp3/page-14-vocabulary-nail-c.mp3|Yv:gi.
+mp3/page-14-vocabulary-onion-a.mp3|Sv̀:gi.
+mp3/page-14-vocabulary-onion-b.mp3|Sv̀:gi.
+mp3/page-14-vocabulary-potato-a.mp3|Nǔ:na.
+mp3/page-14-vocabulary-potato-b.mp3|Nǔ:na.
+mp3/page-14-vocabulary-pumpkin-a.mp3|I:ya.
+mp3/page-14-vocabulary-pumpkin-b.mp3|I:ya.
+mp3/page-14-vocabulary-quail-a.mp3|Gu:hgwe.
+mp3/page-14-vocabulary-quail-b.mp3|Gu:hgwe.
+mp3/page-14-vocabulary-quail-c.mp3|Gu:hgwe.
+mp3/page-14-vocabulary-sheep-a.mp3|U:nò:de̋:na.
+mp3/page-14-vocabulary-sheep-b.mp3|U:nò:de̋:na.
+mp3/page-14-vocabulary-shovel-a.mp3|Akǒ:de̋:sdi.
+mp3/page-14-vocabulary-shovel-b.mp3|Akǒ:de̋:sdi.
+mp3/page-14-vocabulary-shovel-c.mp3|Akǒ:de̋:sdi.
+mp3/page-14-vocabulary-smoking-pipe-a.mp3|Ganv:no:wa.
+mp3/page-14-vocabulary-smoking-pipe-b.mp3|Ganv:no:wa.
+mp3/page-14-vocabulary-trap-a.mp3|Sadv́:di.
+mp3/page-14-vocabulary-trap-b.mp3|Sadv́:di.
+mp3/page-14-vocabulary-trap-c.mp3|Sadv́:di.
+mp3/page-14-vocabulary-tue-a.mp3|Taɂli:ne̋ I:ga.
+mp3/page-14-vocabulary-tue-b.mp3|Taɂli:ne̋ I:ga.
+mp3/page-14-vocabulary-woman-a.mp3|Agě:hya.
+mp3/page-14-vocabulary-woman-b.mp3|Agě:hya.
+mp3/page-14-vocabulary-world-a.mp3|E:lohi.
+mp3/page-14-vocabulary-world-b.mp3|E:lohi.
+mp3/page-15-sentences-1-a.mp3|Kò:hi̋ i:ga Ànsgv:ti sǔ:dáli.
+mp3/page-15-sentences-1-b.mp3|Kò:hi̋ i:ga Ànsgv:ti sǔ:dáli.
+mp3/page-15-sentences-2-a.mp3|Agě:hya u:do:hiyű uwo:dű:hiyű.
+mp3/page-15-sentences-2-b.mp3|Agě:hya u:do:hiyű uwo:dű:hiyű.
+mp3/page-15-sentences-2-c.mp3|Agě:hya u:do:hiyű uwo:dű:hiyű.
+mp3/page-15-sentences-3-a.mp3|Wá:le:li a:yanű:li gano:hǐ:lî:só:ɂi.
+mp3/page-15-sentences-3-b.mp3|Wá:le:li a:yanű:li gano:hǐ:lî:só:ɂi.
+mp3/page-15-sentences-3-flyer-a.mp3|Gano:hǐ:lî:só:ɂi.
+mp3/page-15-sentences-3-waleli-a.mp3|Wá:le:li.
+mp3/page-15-sentences-3-waleli-a.mp3.mp3|Wá:le:li.
+mp3/page-15-sentences-4-a.mp3|
+mp3/page-15-sentences-4-b.mp3|
+mp3/page-15-sentences-4-c.mp3|
+mp3/page-15-sentences-5-a.mp3|
+mp3/page-15-sentences-5-baby-a.mp3|
+mp3/page-15-sentences-5-b.mp3|
+mp3/page-15-sentences-5-came-a.mp3|
+mp3/page-15-sentences-5-child-a.mp3|
+mp3/page-15-sentences-6-a.mp3|
+mp3/page-15-sentences-6-and-a.mp3|
+mp3/page-15-sentences-6-b.mp3|
+mp3/page-15-sentences-6-miles-a.mp3|
+mp3/page-15-sentences-6-my-home-a.mp3|
+mp3/page-15-sentences-6-school-a.mp3|
+mp3/page-15-sentences-6-two-a.mp3|
+mp3/page-15-sentences-7-a.mp3|
+mp3/page-15-sentences-7-b.mp3|
+mp3/page-15-sentences-7-c.mp3|
