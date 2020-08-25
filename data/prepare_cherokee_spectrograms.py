@@ -1,6 +1,7 @@
 import sys
 import os
 import numpy as np
+import pathlib
 
 sys.path.insert(0, "../")
 
@@ -13,7 +14,7 @@ if __name__ == '__main__':
     import re
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--cherokee_directory", type=str, default="cherokee", help="Base directory of Cherokee.")
+    parser.add_argument("--cherokee_directory", type=str, default="cherokee6", help="Base directory of Cherokee.")
     parser.add_argument("--sample_rate", type=int, default=22050, help="Sample rate.")
     parser.add_argument("--num_fft", type=int, default=1102, help="Number of FFT frequencies.")
     parser.add_argument("--num_mels", type=int, default=80, help="Number of mel bins.")
@@ -49,6 +50,7 @@ if __name__ == '__main__':
 
         with open(os.path.join(d, fs), 'w', encoding='utf-8') as f:
             for i in m:
+                print(i)
                 idx, s, l, a, _, _, raw_text, ph = i
                 spec_name = idx + '.npy'      
                 audio_path = os.path.join(d, a)       
@@ -63,9 +65,12 @@ if __name__ == '__main__':
                     lin_path_partial = os.path.join("linear_spectrograms", spec_name)
 
                 mel_path = os.path.join(d, mel_path_partial)
+                pathlib.Path(mel_path).parent.mkdir(parents=True, exist_ok=True)
                 if not os.path.exists(mel_path):
                     np.save(mel_path, audio.spectrogram(audio_data, True))
+                    
                 lin_path = os.path.join(d, lin_path_partial)
+                pathlib.Path(lin_path).parent.mkdir(parents=True, exist_ok=True)
                 if not os.path.exists(lin_path):
                     np.save(lin_path, audio.spectrogram(audio_data, False))
 
