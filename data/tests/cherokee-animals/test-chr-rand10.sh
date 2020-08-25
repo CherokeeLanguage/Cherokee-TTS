@@ -29,8 +29,8 @@ cp /dev/null "$tmp"
 cp /dev/null "$z"/voices.txt
 
 (
-	echo "01-chr"
 	echo "02-chr"
+	echo "01-chr"
 ) >> "$z"/voices.txt
 
 #cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
