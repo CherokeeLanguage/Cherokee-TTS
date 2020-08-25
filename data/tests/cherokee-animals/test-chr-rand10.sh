@@ -48,16 +48,16 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-cut -f 2 "$text" | shuf | tail -n 10 | sort > "$selected"
-	
+shuf "$text" | tail -n 10 | sort > "$selected"
+
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
 	ix=0
 	syn=""
 	cp /dev/null "$tmp"
-	cat "$selected" | while read phrase; do
+	cut -f 2 "$selected" | while read phrase; do
 		ix=$(($ix+1))
-		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
+		printf "%d|%s|%s|chr\n" "$ix" "${phrase}." "$voice" >> "$tmp"
 	done
 
 	cd "$y"
@@ -74,9 +74,10 @@ for voice in "${v[@]}"; do
 
 	mv wg*.wav "$wg"-"$voice"/
 	ix=0
-	cut -f 3 "$text" | while read mp3; do
+	cut -f 3 "$selected" | sed 's/ /_/g' | while read mp3; do
 		ix="$(($ix+1))"
-		wav="$wg"-"$voice/$ix.wav"
+		wav="$wg"-"$voice/wg-$ix.wav"
+		if [ ! -f "$wav" ]; then continue; fi
 		mp3="$wg"-"$voice/$mp3"
 		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" && rm "$wav"
 	done
@@ -86,8 +87,8 @@ for voice in "${v[@]}"; do
 	ix=0
 	cat "$selected" | while read line; do
 		ix="$(($ix+1))"
-		rm "$ix".wav || true
-		rm "$ix".npy || true
+		rm "$ix".wav 2> /dev/null || true
+		rm "$ix".npy 2> /dev/null || true
 	done
 	printf "\n\n"
 done
