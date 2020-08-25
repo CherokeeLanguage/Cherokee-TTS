@@ -22,12 +22,19 @@ mp3/syllabary-21-wawv.mp3|wā. wē. wī. wō. wū. wv̄.
 mp3/syllabary-22-wawv.mp3|wā. wē. wī. wō. wū. wv̄.
 mp3/syllabary-23-yayv.mp3|yā. yē. yī. yō. yū. yv̄.
 mp3/syllabary-24-yayv.mp3|yā. yē. yī. yō. yū. yv̄.
-mp3/syllabary-2-01-agv.mp3|ā. ē. ī. ō. ū. v̄. gā. kā. gē. gī. gō. gū. gv̄.
-mp3/syllabary-2-02-halv.mp3|hā. hē. hī. hō. hū. hv̄. lā. lē. lī. lō. lū. lv̄.
-mp3/syllabary-2-03-manv.mp3|mā. mē. mī. mō. mū. nā. hnā. nah. nē. nī. nō. nū. nv̄.
-mp3/syllabary-2-04-gwasv.mp3|gwā. gwē. gwī. gwō. gwū. gwv̄. ssā. sē. sī. sō. sū. sv̄.
-mp3/syllabary-2-05-datlv.mp3|dā. tā. dē. tē. dī. tī. dō. dū. dv̄. dlā. tlā. tlē. tlī. tlō. tlū. tlv̄.
-mp3/syllabary-2-06-jayv.mp3|jā. jē. jī. jō. jū. jv̄. wā. wē. wī. wō. wū. wv̄. yā. yē. yī. yō. yū. yv̄.
+mp3/syllabary-2-01-av.mp3|ā. ē. ī. ō. ū. v̄.
+mp3/syllabary-2-01-gagv.mp3|gā. kā. gē. gī. gō. gū. gv̄.
+mp3/syllabary-2-02-hahv.mp3|hā. hē. hī. hō. hū. hv̄.
+mp3/syllabary-2-02-lalv.mp3|lā. lē. lī. lō. lū. lv̄.
+mp3/syllabary-2-03-mamu.mp3|mā. mē. mī. mō. mū.
+mp3/syllabary-2-03-nanv.mp3|nā. hnā. nah. nē. nī. nō. nū. nv̄.
+mp3/syllabary-2-04-gwagwv.mp3|gwā. gwē. gwī. gwō. gwū. gwv̄.
+mp3/syllabary-2-04-ssasv.mp3|ssā. sē. sī. sō. sū. sv̄.
+mp3/syllabary-2-05-dadv.mp3|dā. tā. dē. tē. dī. tī. dō. dū. dv̄.
+mp3/syllabary-2-05-dlatlv.mp3|dlā. tlā. tlē. tlī. tlō. tlū. tlv̄.
+mp3/syllabary-2-06-jajv.mp3|jā. jē. jī. jō. jū. jv̄.
+mp3/syllabary-2-06-wawv.mp3|wā. wē. wī. wō. wū. wv̄.
+mp3/syllabary-2-06-yayv.mp3|yā. yē. yī. yō. yū. yv̄.
 mp3/numbers-10a.mp3|Sgǒ:hi.
 mp3/numbers-10b.mp3|Sgǒ:hi.
 mp3/numbers-11a.mp3|Sàduɂi.
@@ -163,3 +170,49 @@ mp3/page-12-vocabulary-snow-a.mp3|Ǔnhji.
 mp3/page-12-vocabulary-snow-b.mp3|Ǔnhji.
 mp3/page-12-vocabulary-what-a.mp3|Gadòna.
 mp3/page-12-vocabulary-what-b.mp3|Gadòna.
+mp3/page-13-vocabulary-a-fish-a.mp3|Ajaɂdi.
+mp3/page-13-vocabulary-a-fish-b.mp3|Ajaɂdi.
+mp3/page-13-vocabulary-baby-a.mp3|U:sdi̋ɂi.
+mp3/page-13-vocabulary-baby-b.mp3|U:sdi̋ɂi.
+mp3/page-13-vocabulary-bird-robin-a.mp3|Jǐ:sgwô:gwo.
+mp3/page-13-vocabulary-bird-robin-b.mp3|Jǐ:sgwô:gwo.
+mp3/page-13-vocabulary-fire-a.mp3|Ajǐ:la.
+mp3/page-13-vocabulary-fire-b.mp3|Ajǐ:la.
+mp3/page-13-vocabulary-five-a.mp3|Hisgi.
+mp3/page-13-vocabulary-five-b.mp3|Hisgi.
+mp3/page-13-vocabulary-flag-a.mp3|Gà:dáɂdi.
+mp3/page-13-vocabulary-flag-b.mp3|Gà:dáɂdi.
+mp3/page-13-vocabulary-gator-a.mp3|Ju:là:sgi.
+mp3/page-13-vocabulary-gator-b.mp3|Ju:là:sgi.
+mp3/page-13-vocabulary-howa-a.mp3|Howa.
+mp3/page-13-vocabulary-howa-b.mp3|Howa.
+mp3/page-13-vocabulary-man-a.mp3|Asgaya.
+mp3/page-13-vocabulary-man-b.mp3|Asgaya.
+mp3/page-13-vocabulary-money-a.mp3|Adě:la.
+mp3/page-13-vocabulary-money-b.mp3|Adě:la.
+mp3/page-13-vocabulary-my-hands-a.mp3|Digwò:ye̋:ni.
+mp3/page-13-vocabulary-my-hands-b.mp3|Digwò:ye̋:ni.
+mp3/page-13-vocabulary-nine-a.mp3|Sóhně:la.
+mp3/page-13-vocabulary-nine-b.mp3|Sóhně:la.
+mp3/page-13-vocabulary-numbers-a.mp3|Di:sésdi.
+mp3/page-13-vocabulary-numbers-b.mp3|Di:sésdi.
+mp3/page-13-vocabulary-people-a.mp3|Yv:wi.
+mp3/page-13-vocabulary-people-b.mp3|Yv:wi.
+mp3/page-13-vocabulary-pig-a.mp3|Sihgwa.
+mp3/page-13-vocabulary-pig-b.mp3|Sihgwa.
+mp3/page-13-vocabulary-rain-a.mp3|À:ga:sga.
+mp3/page-13-vocabulary-rain-b.mp3|À:ga:sga.
+mp3/page-13-vocabulary-six-a.mp3|Sǔ:dáli.
+mp3/page-13-vocabulary-six-b.mp3|Sǔ:dáli.
+mp3/page-13-vocabulary-spoon-a.mp3|Adi:tóhdi.
+mp3/page-13-vocabulary-spoon-b.mp3|Adi:tóhdi.
+mp3/page-13-vocabulary-ten-a.mp3|Sgǒ:hi.
+mp3/page-13-vocabulary-ten-b.mp3|Sgǒ:hi.
+mp3/page-13-vocabulary-two-a.mp3|Táɂli.
+mp3/page-13-vocabulary-two-b.mp3|Táɂli.
+mp3/page-13-vocabulary-waleli-a.mp3|Wá:le:li.
+mp3/page-13-vocabulary-waleli-b.mp3|Wá:le:li.
+mp3/page-13-vocabulary-watch-a.mp3|Wǎ:ji.
+mp3/page-13-vocabulary-watch-b.mp3|Wǎ:ji.
+mp3/page-13-vocabulary-wolf-a.mp3|Wahya.
+mp3/page-13-vocabulary-wolf-b.mp3|Wahya.
