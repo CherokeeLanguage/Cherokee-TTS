@@ -30,6 +30,7 @@ cp /dev/null "$z"/voices.txt
 
 (
 	echo "01-chr"
+	echo "02-chr"
 ) >> "$z"/voices.txt
 
 #cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
@@ -47,9 +48,10 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
+cut -f 2 "$text" | shuf | tail -n 10 | sort > "$selected"
+	
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
-	cut -f 2 "$text" | sort > "$selected"
 	ix=0
 	syn=""
 	cp /dev/null "$tmp"
@@ -60,7 +62,7 @@ for voice in "${v[@]}"; do
 
 	cd "$y"
 	
-	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" #--cpu
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
 
 	cd "$z"
 	
@@ -68,7 +70,7 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx.py
+	python wavernnx-cpu.py
 
 	mv wg*.wav "$wg"-"$voice"/
 	ix=0
