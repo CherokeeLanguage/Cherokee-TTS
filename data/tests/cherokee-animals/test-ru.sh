@@ -28,7 +28,7 @@ cp /dev/null "$z"/voices.txt
 
 (
 	#echo "01-syn-chr" #espeak-ng default male voice
-	echo "01-chr" #DF as reference
+	echo "02-chr" #Sam Hider as reference
 	echo "03-ru" #female
 	echo "06-ru" #male
 ) >> "$z"/voices.txt
