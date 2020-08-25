@@ -210,6 +210,7 @@ if __name__ == '__main__':
     parser.add_argument('--max_gpus', type=int, default=2, help="Maximal number of GPUs of the local machine to use.")
     parser.add_argument('--loader_workers', type=int, default=2, help="Number of subprocesses to use for data loading.")
     parser.add_argument("--accumulation_size", type=int, default=1, help="How many batches to perform gradient accumulation over.")
+    parser.add_argument("--reset_epoch", type=bool, default=False, help="Reset the epoch counter back to 0.")
     args = parser.parse_args()
 
     # set up seeds and the target torch device
@@ -298,15 +299,15 @@ if __name__ == '__main__':
         model_dict.update(pretrained_dict) 
         model.load_state_dict(model_dict)
         # other states from checkpoint -- optimizer, scheduler, loss, epoch
-        if checkpoint_state['epoch'] is not None:
+        if not args.reset_epoch:
             initial_epoch = checkpoint_state['epoch'] + 1
-        if checkpoint_state['optimizer'] is not None:
             optimizer.load_state_dict(checkpoint_state['optimizer'])
-        if checkpoint_state['scheduler'] is not None:
             scheduler.load_state_dict(checkpoint_state['scheduler'])
-        if checkpoint_state['criterion'] is not None:
             criterion.load_state_dict(checkpoint_state['criterion'])
 
+    if args.reset_epoch:
+        initial_epoch = 0
+        
     # initialize logger
     log_dir = os.path.join(args.base_directory, "logs", f'{hp.version}-{datetime.datetime.now().strftime("%Y-%m-%d_%H%M%S")}')
     Logger.initialize(log_dir, args.flush_seconds)
@@ -315,15 +316,14 @@ if __name__ == '__main__':
     # training loop
     best_eval = float('inf')
     for epoch in range(initial_epoch, hp.epochs):
-        print("Epoch:", epoch+1)
+        print("Starting epoch:", epoch+1)
         train(args.logging_start, epoch, train_data, model, criterion, optimizer)  
         if hp.learning_rate_decay_start - hp.learning_rate_decay_each < epoch * len(train_data):
             scheduler.step()
         eval_loss = evaluate(epoch, eval_data, model, criterion)   
         if (epoch + 1) % hp.checkpoint_each_epochs == 0:
-            xepoch = epoch+1
             # save checkpoint together with hyper-parameters, optimizer and scheduler states
-            checkpoint_file = f'{checkpoint_dir}/{hp.version}_loss-{xepoch}-{eval_loss:2.3f}'
+            checkpoint_file = f'{checkpoint_dir}/{hp.version}_loss-{epoch+1}-{eval_loss:2.3f}'
             state_dict = {
                 'epoch': epoch,
                 'model': model.state_dict(),
