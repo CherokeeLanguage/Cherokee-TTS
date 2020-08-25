@@ -72,6 +72,7 @@ for voice in "${v[@]}"; do
 	
 	python wavernnx-cpu.py
 
+	cp /dev/null ffmpeg-temp.sh
 	mv wg*.wav "$wg"-"$voice"/
 	ix=0
 	cut -f 3 "$selected" | sed 's/ /_/g' | while read mp3; do
@@ -79,8 +80,9 @@ for voice in "${v[@]}"; do
 		wav="$wg"-"$voice/wg-$ix.wav"
 		if [ ! -f "$wav" ]; then continue; fi
 		mp3="$wg"-"$voice/$mp3"
-		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" && rm "$wav"
+		echo ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" && rm "$wav" >> ffmpeg-temp.sh
 	done
+	bash ffmpeg-temp.sh
 	
 	xdg-open "$wg"-"$voice"
 	
