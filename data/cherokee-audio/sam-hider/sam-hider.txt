@@ -305,3 +305,30 @@ mp3/page-15-sentences-6-two-a.mp3|táɂli
 mp3/page-15-sentences-7-a.mp3|Sa:sa anino:hǐ:li galv́:ladi.
 mp3/page-15-sentences-7-b.mp3|Sa:sa anino:hǐ:li galv́:ladi.
 mp3/page-15-sentences-7-c.mp3|Sa:sa anino:hǐ:li galv́:ladi.
+mp3/page-16-sentences-10a.mp3|Gitǎ:ya hle:kígwu gvnsgesdi.
+mp3/page-16-sentences-10b.mp3|Gitǎ:ya hle:kígwu gvnsgesdi.
+mp3/page-16-sentences-11a.mp3|Ju:là:sgi daji:ya:hně:stani Ù:nadǒ:dágwi:de̋:na.
+mp3/page-16-sentences-11b.mp3|Ju:là:sgi daji:ya:hně:stani Ù:nadǒ:dágwi:de̋:na.
+mp3/page-16-sentences-12a.mp3|Jí:sgwa uwo:dű:hiyu danino:gí:ɂa.
+mp3/page-16-sentences-12b.mp3|Jí:sgwa uwo:dű:hiyu danino:gí:ɂa.
+mp3/page-16-sentences-12c.mp3|Jí:sgwa uwo:dű:hiyu danino:gí:ɂa.
+mp3/page-16-sentences-13a.mp3|Gahlgwa:sgǒ:hi iyú:de:tiyv̋:da O:gala:hǒ:ma.
+mp3/page-16-sentences-13b.mp3|Gahlgwa:sgǒ:hi iyú:de:tiyv̋:da O:gala:hǒ:mi.
+mp3/page-16-sentences-13c.mp3|Gahlgwa:sgǒ:hi iyú:de:tiyv̋:da O:gala:hǒ:ma.
+mp3/page-16-sentences-14-osigwu-a.mp3|O:sǐ:gwu.
+mp3/page-16-sentences-14-osigwu-b.mp3|O:sǐ:gwu.
+mp3/page-16-sentences-14-osigwu-c.mp3|O:sǐ:gwu.
+mp3/page-16-sentences-14-osigwu-d.mp3|O:sǐ:gwu.
+mp3/page-16-sentences-14-osiyo-a.mp3|O:síyo.
+mp3/page-16-sentences-14-osiyo-tohiju-a.mp3|O:síyo, tò:hi̋:ju. 
+mp3/page-16-sentences-14-osiyo-tohiju-b.mp3|O:síyo, tò:hi̋:ju.
+mp3/page-16-sentences-14-siyo-a.mp3|Síyo
+mp3/page-16-sentences-14-siyo-b.mp3|Síyo
+mp3/page-16-sentences-14-tohiju-a.mp3|Tò:hi̋:ju.
+mp3/page-16-sentences-8a.mp3|Guye:gwǒ:ni nvhgi:né i:ga gà:dáɂdi degano:hǐ:lî:dohé:sdi.
+mp3/page-16-sentences-8b.mp3|Guye:gwǒ:ni nvhgi:né i:ga gà:dáɂdi degano:hǐ:lî:dohé:sdi.
+mp3/page-16-sentences-8c.mp3|Guye:gwǒ:ni nvhgi:né i:ga gà:dáɂdi degano:hǐ:lî:dohé:sdi.
+mp3/page-16-sentences-8-will-be-flying-a.mp3|degano:hǐ:lî:dohé:sdi
+mp3/page-16-sentences-9a.mp3|Hilvhdlv̋:ɂi à:giyo:hǔ:si.
+mp3/page-16-sentences-9b.mp3|Wǎ:ji hilvhdlv̋:ɂi à:giyo:hǔ:si.
+mp3/page-16-sentences-9c.mp3|Wǎ:ji hilvhdlv̋:ɂi à:giyo:hǔ:si.
