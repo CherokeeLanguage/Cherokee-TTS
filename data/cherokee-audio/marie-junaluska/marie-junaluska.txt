@@ -1,12 +1,12 @@
-mp3/Family_Names-armachain.mp3|
-mp3/Family_Names-big-meat.mp3|
-mp3/Family_Names-bird.mp3|
-mp3/Family_Names-black-fox.mp3|
-mp3/Family_Names-climbing-bear.mp3|
-mp3/Family_Names-doya-nida.mp3|
-mp3/Family_Names-four-killer.mp3|
-mp3/Family_Names-hill.mp3|
-mp3/Family_Names-hornbuckle.mp3|
+mp3/Family_Names-armachain.mp3|Amaɂajvna.
+mp3/Family_Names-big-meat.mp3|E̋:gwa hawi:ya.
+mp3/Family_Names-bird.mp3|Jí:sgwa.
+mp3/Family_Names-black-fox.mp3|Inoli.
+mp3/Family_Names-climbing-bear.mp3|Yǒ:na gáɂla:hègi.
+mp3/Family_Names-doya-nida.mp3|Doya nida.
+mp3/Family_Names-four-killer.mp3|Nvhgidihi.
+mp3/Family_Names-hill.mp3|Usa:hahlv̌:ɂi.
+mp3/Family_Names-hornbuckle.mp3|Uhyǒ:na.
 mp3/Family_Names-junaluska.mp3|
 mp3/Family_Names-littlejohn.mp3|
 mp3/Family_Names-raven.mp3|
