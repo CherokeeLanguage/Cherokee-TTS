@@ -320,7 +320,7 @@ mp3/page-16-sentences-14-osigwu-b.mp3|O:sǐ:gwu.
 mp3/page-16-sentences-14-osigwu-c.mp3|O:sǐ:gwu.
 mp3/page-16-sentences-14-osigwu-d.mp3|O:sǐ:gwu.
 mp3/page-16-sentences-14-osiyo-a.mp3|O:síyo.
-mp3/page-16-sentences-14-osiyo-tohiju-a.mp3|O:síyo, tò:hi̋:ju. 
+mp3/page-16-sentences-14-osiyo-tohiju-a.mp3|O:síyo, tò:hi̋:ju.
 mp3/page-16-sentences-14-osiyo-tohiju-b.mp3|O:síyo, tò:hi̋:ju.
 mp3/page-16-sentences-14-siyo-a.mp3|Síyo
 mp3/page-16-sentences-14-siyo-b.mp3|Síyo
