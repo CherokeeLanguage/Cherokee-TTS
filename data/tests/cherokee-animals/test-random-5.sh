@@ -27,11 +27,11 @@ cp /dev/null "$tmp"
 cp /dev/null "$z"/voices.txt
 
 (
-	#echo "01-syn-chr" #espeak-ng default male voice
-	echo "02-chr" #Sam Hider as reference
-	echo "03-ru" #female
-	echo "06-ru" #male
+	for lang in chr fr de nl ru zh; do
+		cut -f 2 -d '|' ../../cherokee6c/val.txt|sort|grep "$lang"|tail -n 1
+	done
 ) >> "$z"/voices.txt
+
 
 #cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
 
@@ -75,7 +75,6 @@ for voice in "${v[@]}"; do
 	ix=0
 	mp3s=($(cut -f 3 "$selected" | sed 's/ /_/g'))
 	for mp3 in "${mp3s[@]}"; do
-		echo "$mp3"
 		ix="$(($ix+1))"
 		wav="wg-$ix.wav"
 		mp3="$wg"-"$voice/$mp3"

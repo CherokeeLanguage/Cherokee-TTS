@@ -62,7 +62,7 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx.py
+	python wavernnx-cpu.py
 
 	mv wg*.wav "$wg"-"$voice"/
 	xdg-open "$wg"-"$voice"
