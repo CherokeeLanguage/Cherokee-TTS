@@ -22,13 +22,13 @@ for dir in ["linear_spectrograms", "spectrograms", "wav"]:
 pathlib.Path(".").joinpath("wav").mkdir(exist_ok=True)
 
 with open(MASTER_TEXT, "r") as f:
-    entries: list = []
+    entries: dict = {}
     for line in f:
         mp3: str=line.split("|")[0].strip()
         text: str=ud.normalize("NFD", line.split("|")[1].strip())
         if text=="":
             continue
-        entries.append((mp3,text))
+        entries[text]=(mp3,text)
 
 voiceid:str=""
 with open("voice-id.txt", "r") as f:
@@ -39,7 +39,7 @@ with open("voice-id.txt", "r") as f:
 id:int=10000 * int(re.sub("^(\d+).*", "\\1",voiceid))
 
 rows:list=[]
-for mp3, text in entries:
+for mp3, text in entries.values():
     wav:str="wav/"+os.path.splitext(os.path.basename(mp3))[0]+".wav"
     text:str=ud.normalize('NFC', text)
     subprocess.run(["ffmpeg","-i",mp3,"-ac","1","-ar","22050",wav], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
