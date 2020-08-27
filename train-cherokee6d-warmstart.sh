@@ -19,6 +19,6 @@ printf "Using checkpoint: $cp\n"
 date
 
 export PYTHONIOENCODING=utf-8
-python train-ga.py --reset_epoch True --checkpoint "$cp" --hyper_parameters generated_switching_cherokee6d --accumulation_size 2
+python train-ga.py --reset_epoch True --checkpoint "$cp" --hyper_parameters generated_switching_cherokee6d --accumulation_size 4
 
 date
