@@ -137,4 +137,24 @@ with open("val.txt", "a") as v:
 	v.write(line)
 	v.write("\n")
 
+#rewrite shuffled
+lines=[]
+with open("train.txt", "r") as t:
+	for line in t:
+		lines.append(line)
+random.Random(1).shuffle(lines)
+with open("train.txt", "w") as t:
+	for line in lines:
+		t.write(line)
+
+#rewrite shuffled
+lines=[]
+with open("val.txt", "r") as v:
+	for line in v:
+		lines.append(line)
+random.Random(1).shuffle(lines)
+with open("val.txt", "w") as v:
+	for line in lines:
+		v.write(line)
+
 sys.exit()
