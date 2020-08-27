@@ -31,7 +31,6 @@ cp /dev/null "$z"/voices.txt
 (
 	echo "02-chr"
 	echo "01-chr"
-	echo "01-syn-chr"
 ) >> "$z"/voices.txt
 
 #cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
@@ -58,7 +57,7 @@ for voice in "${v[@]}"; do
 	cp /dev/null "$tmp"
 	cut -f 2 "$selected" | while read phrase; do
 		ix=$(($ix+1))
-		printf "%d|%s|%s|chr\n" "$ix" "${phrase}." "$voice" >> "$tmp"
+		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
 	done
 
 	cd "$y"
@@ -79,7 +78,7 @@ for voice in "${v[@]}"; do
 		ix="$(($ix+1))"
 		wav="wg-$ix.wav"
 		mp3="$wg"-"$voice/$mp3"
-		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3"
+		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" 2>&1 > /dev/null
 		rm "$wav"
 	done
 	

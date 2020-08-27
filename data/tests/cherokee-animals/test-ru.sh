@@ -28,9 +28,9 @@ cp /dev/null "$z"/voices.txt
 
 (
 	#echo "01-syn-chr" #espeak-ng default male voice
-	echo "02-chr" #Sam Hider as reference
 	echo "03-ru" #female
 	echo "06-ru" #male
+	echo "02-chr" #Sam Hider as reference
 ) >> "$z"/voices.txt
 
 #cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
@@ -79,7 +79,7 @@ for voice in "${v[@]}"; do
 		ix="$(($ix+1))"
 		wav="wg-$ix.wav"
 		mp3="$wg"-"$voice/$mp3"
-		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3"
+		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" 2>&1 > /dev/null
 		rm "$wav"
 	done
 	

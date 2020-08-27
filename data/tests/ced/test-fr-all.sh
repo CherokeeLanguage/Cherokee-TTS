@@ -40,7 +40,6 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 
 wg="ced"
 text="$z/ced-multi.txt"
-
 cut -f 2 -d '|' "$text" | shuf | tail -n 10 > "$selected"
 	
 for voice in "${v[@]}"; do

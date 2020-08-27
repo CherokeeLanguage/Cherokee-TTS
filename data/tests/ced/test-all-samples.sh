@@ -42,10 +42,10 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 
 wg="ced"
 text="$z/ced-multi.txt"
+cut -f 2 -d '|' "$text" | tail -n 50 > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
-	cut -f 2 -d '|' "$text" | tail -n 50 > "$selected"
 	ix=0
 	syn=""
 	cp /dev/null "$tmp"

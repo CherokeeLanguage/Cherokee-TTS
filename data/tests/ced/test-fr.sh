@@ -41,11 +41,11 @@ vsize="${#v[@]}"
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
 wg="ced"
-text="$z/../../cherokee-syn/syn-chr.txt"
+text="$z/ced-multi.txt"
+cut -f 2 -d '|' "$text" | grep -v ' ' | shuf | tail -n 5 > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
-	cut -f 7 -d '|' "$text" | grep -v ' ' | shuf | tail -n 5 > "$selected"
 	ix=0
 	syn=""
 	cp /dev/null "$tmp"
@@ -64,7 +64,7 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx.py
+	python wavernnx-cpu.py
 
 	mv wg*.wav "$wg"-"$voice"/
 	xdg-open "$wg"-"$voice"

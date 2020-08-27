@@ -39,9 +39,9 @@ vsize="${#v[@]}"
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
 wg="ced"
-text="$z/../../cherokee-syn/syn-chr.txt"
+text="$z/ced-multi.txt"
+cut -f 2 -d '|' "$text" | grep -v ' ' | shuf | tail -n 5 > "$selected"
 
-cut -f 7 -d '|' "$text" | grep -v ' ' | shuf | tail -n 5 > "$selected"
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
 	ix=0
