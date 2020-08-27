@@ -332,3 +332,157 @@ mp3/page-16-sentences-8-will-be-flying-a.mp3|degano:hǐ:lî:dohé:sdi
 mp3/page-16-sentences-9a.mp3|Hilvhdlv̋:ɂi à:giyo:hǔ:si.
 mp3/page-16-sentences-9b.mp3|Wǎ:ji hilvhdlv̋:ɂi à:giyo:hǔ:si.
 mp3/page-16-sentences-9c.mp3|Wǎ:ji hilvhdlv̋:ɂi à:giyo:hǔ:si.
+mp3/page-17-vocabulary-apple.mp3|Sv̌:kta.
+mp3/page-17-vocabulary-corn.mp3|Sě:lu.
+mp3/page-17-vocabulary-cucumber-i.mp3|Gǎ:gámi.
+mp3/page-17-vocabulary-flour.mp3|I:sa.
+mp3/page-17-vocabulary-flour-wheat.mp3|I:sa u:jale̋:sdi.
+mp3/page-17-vocabulary-green-beans.mp3|Ani:jé tǔ:ya.
+mp3/page-17-vocabulary-lettuce.mp3|Igó:sdiɂagî:sdi.
+mp3/page-17-vocabulary-meat.mp3|Hawi:yaɂi.
+mp3/page-17-vocabulary-onion.mp3|Sv̀:gi.
+mp3/page-17-vocabulary-peach.mp3|Kwana.
+mp3/page-17-vocabulary-pear.mp3|Digadv́:di.
+mp3/page-17-vocabulary-plums.mp3|Kwanúnsdiɂi.
+mp3/page-17-vocabulary-potato.mp3|Nǔ:na.
+mp3/page-17-vocabulary-pumpkin.mp3|I:yaɂi.
+mp3/page-17-vocabulary-tomato.mp3|Tuma:hli.
+mp3/page-18-vocabulary-acorn-big.mp3|Gu:le e̋:gwa.
+mp3/page-18-vocabulary-bear-black.mp3|Yǒ:na gv̌:hnáge̋:ɂi.
+mp3/page-18-vocabulary-big-bear.mp3|Yǒ:na e̋:gwa.
+mp3/page-18-vocabulary-big-buck.mp3|Galagi̋:na.
+mp3/page-18-vocabulary-bird-chopper.mp3|Jí:sgwa galû:ysga.
+mp3/page-18-vocabulary-bird-young.mp3|Jí:sgwa ani̋:da.
+mp3/page-18-vocabulary-cherry.mp3|Gitǎ:ya.
+mp3/page-18-vocabulary-elk.mp3|Ahwe̋:gwa.
+mp3/page-18-vocabulary-feather.mp3|U:gì:dáhli.
+mp3/page-18-vocabulary-fishing.mp3|Sǔ:hv́sgi.
+mp3/page-18-vocabulary-four-killer.mp3|Nvhgi dǐ:hihi.
+mp3/page-18-vocabulary-gourd.mp3|Galv̀:na.
+mp3/page-18-vocabulary-horn.mp3|U:hyǒ:ni.
+mp3/page-18-vocabulary-lawyer.mp3|Di:tiyǒ:hihi.
+mp3/page-18-vocabulary-raven.mp3|Kò:lana.
+mp3/page-18-vocabulary-red-squirrel.mp3|Salǒ:lawǒ:dí.
+mp3/page-18-vocabulary-shooter.mp3|Didà:yo:hihi.
+mp3/page-18-vocabulary-stick-laying.mp3|Gansda jì:ya.
+mp3/page-18-vocabulary-trotting-wolf.mp3|Wahya à:tli.
+mp3/page-18-vocabulary-water-dry.mp3|Ama u:ka:hyő:di.
+mp3/page-18-vocabulary-yellow-bird.mp3|Jí:sgwa dalo:ni.
+mp3/page-19-sentences-cow-standing.mp3|Wahga gadô:ga.
+mp3/page-19-sentences-field-i-am-going.mp3|Dlo:ge̋:si dagè:si.
+mp3/page-19-sentences-here-I-stand.mp3|Áhani jidô:ga.
+mp3/page-19-sentences-i-see-a-chicken.mp3|Jitǎ:ga ji:gòwhtíha.
+mp3/page-19-sentences-pretty-baby.mp3|U:sdi̋ɂi uwo:dű:ha.
+mp3/page-19-sentences-raining-today.mp3|À:ga:sga kò:hi̋ i:ga.
+mp3/page-20-sentences-what-am-i-doing.mp3|Gadō gadv:neha.
+mp3/page-20-sentences-what-are-they-doing.mp3|Gadō anadv:neha.
+mp3/page-20-sentences-what-are-we-2-doing.mp3|Gadō inadv:neha.
+mp3/page-20-sentences-what-are-you-2-doing.mp3|Gadō isdadv:neha.
+mp3/page-20-sentences-where-am-i-going.mp3|Ha:dlv gé:ga.
+mp3/page-20-sentences-where-are-they-going.mp3|Ha:dlv ané:ga.
+mp3/page-20-sentences-where-are-we-all-going.mp3|Ha:dlv ì:dé:ga.
+mp3/page-20-sentences-where-are-you-1-going.mp3|Ha:dlv hé:ga.
+mp3/page-20-sentences-where-will-we-2-go.mp3|Ha:dlv dané:si.
+mp3/page-20-sentences-where-you-2-going.mp3|Ha:dlv isdé:ga.
+mp3/page-21-sentences-he-eating.mp3|À:gíɂa.
+mp3/page-21-sentences-i-am-eating-it.mp3|Jigíɂa.
+mp3/page-21-sentences-they-and-i-eating.mp3|Ò:jigíɂa.
+mp3/page-21-sentences-they-eating.mp3|A:nigíɂa.
+mp3/page-21-sentences-you-1-and-i.mp3|I:nigíɂa.
+mp3/page-21-sentences-you-1-are-eating.mp3|Higíɂa.
+mp3/page-21-sentences-you-2-eating.mp3|Isdigíɂa.
+mp3/page-21-sentences-you-all-eating.mp3|Ì:jigíɂa.
+mp3/page-22-vocabulary-barber-shop.mp3|Di:da:sdo:tiyi.
+mp3/page-22-vocabulary-clothing-store.mp3|Di:hnawo à:da:náɂnv̋:ɂi.
+mp3/page-22-vocabulary-do-you-understand.mp3|Hohlgajv?
+mp3/page-22-vocabulary-drug-store.mp3|Nv:wô:ti à:da:náɂnv̋:ɂi.
+mp3/page-22-vocabulary-garage.mp3|Dagwalé:la aɂtiyi.
+mp3/page-22-vocabulary-grocery.mp3|Álsdàyhdi.
+mp3/page-22-vocabulary-how-far.mp3|
+mp3/page-22-vocabulary-how-many-miles.mp3|
+mp3/page-22-vocabulary-i-am-lost.mp3|
+mp3/page-22-vocabulary-i-dont-understand.mp3|
+mp3/page-22-vocabulary-is-it-ahead.mp3|
+mp3/page-22-vocabulary-is-it-far.mp3|
+mp3/page-22-vocabulary-is-it-left.mp3|
+mp3/page-22-vocabulary-is-it-near.mp3|
+mp3/page-22-vocabulary-is-it-right.mp3|
+mp3/page-22-vocabulary-i-understand.mp3|
+mp3/page-22-vocabulary-laundry.mp3|
+mp3/page-22-vocabulary-say-again.mp3|
+mp3/page-22-vocabulary-show-me.mp3|
+mp3/page-22-vocabulary-speak-slowly.mp3|
+mp3/page-22-vocabulary-will-you-help.mp3|
+mp3/page-23-phrases-auto.mp3|
+mp3/page-23-phrases-bakery.mp3|
+mp3/page-23-phrases-bus.mp3|
+mp3/page-23-phrases-church.mp3|
+mp3/page-23-phrases-horse.mp3|
+mp3/page-23-phrases-hospital.mp3|
+mp3/page-23-phrases-house.mp3|
+mp3/page-23-phrases-market.mp3|
+mp3/page-23-phrases-mountain.mp3|
+mp3/page-23-phrases-phone.mp3|
+mp3/page-23-phrases-police-station.mp3|
+mp3/page-23-phrases-restaurant.mp3|
+mp3/page-23-phrases-river.mp3|
+mp3/page-23-phrases-road.mp3|
+mp3/page-23-phrases-valley.mp3|
+mp3/page-23-phrases-where-find-barber.mp3|
+mp3/page-23-phrases-where-find-car-mechanic.mp3|
+mp3/page-23-phrases-where-find-dentist.mp3|
+mp3/page-23-phrases-where-find-doctor.mp3|
+mp3/page-23-phrases-where-find-policeman.mp3|
+mp3/page-23-phrases-where-find-toilet.mp3|
+mp3/page-23-phrases-where-is-found.mp3|
+mp3/page-24-phrases-i-want-bacon.mp3|
+mp3/page-24-phrases-i-want-butter.mp3|
+mp3/page-24-phrases-i-want-chicken.mp3|
+mp3/page-24-phrases-i-want-cow-meat.mp3|
+mp3/page-24-phrases-i-want-fried-chicken.mp3|
+mp3/page-24-phrases-i-want-fried-eggs.mp3|
+mp3/page-24-phrases-i-want-lamb.mp3|
+mp3/page-24-phrases-i-want.mp3|
+mp3/page-24-phrases-i-want-one-egg.mp3|
+mp3/page-24-phrases-i-want-one-potato.mp3|
+mp3/page-24-phrases-i-want-pig-meat.mp3|
+mp3/page-24-phrases-i-want-potatoes.mp3|
+mp3/page-24-phrases-i-want-some-bread.mp3|
+mp3/page-24-phrases-i-want-something-to-eat.mp3|
+mp3/page-24-phrases-i-want-soup.mp3|
+mp3/page-24-phrases-i-want-vegetables.mp3|
+mp3/page-24-phrases-i-would-like.mp3|
+mp3/page-25-phrases-bring-me-fork.mp3|
+mp3/page-25-phrases-bring-me-glass.mp3|
+mp3/page-25-phrases-bring-me-knife.mp3|
+mp3/page-25-phrases-bring-me.mp3|
+mp3/page-25-phrases-bring-me-plate.mp3|
+mp3/page-25-phrases-bring-me-spoon.mp3|
+mp3/page-25-phrases-cup-of-coffee.mp3|
+mp3/page-25-phrases-drink-of-water.mp3|
+mp3/page-25-phrases-i-want-cabbage.mp3|
+mp3/page-25-phrases-i-want-coffee.mp3|
+mp3/page-25-phrases-i-want-milk.mp3|
+mp3/page-25-phrases-i-want-peas.mp3|
+mp3/page-25-phrases-i-want-pepper.mp3|
+mp3/page-25-phrases-i-want-salad.mp3|
+mp3/page-25-phrases-i-want-salt.mp3|
+mp3/page-25-phrases-i-want-sugar.mp3|
+mp3/page-25-phrases-i-want-tea.mp3|
+mp3/page-25-phrases-sugar-i-want.mp3|
+mp3/page-26-phrases-i-want-bath.mp3|
+mp3/page-26-phrases-i-want-buy-blankets.mp3|
+mp3/page-26-phrases-i-want-buy-buttons.mp3|
+mp3/page-26-phrases-i-want-buy-dress.mp3|
+mp3/page-26-phrases-i-want-buy-it.mp3|
+mp3/page-26-phrases-i-want-buy-meal.mp3|
+mp3/page-26-phrases-i-want-buy-medicine.mp3|
+mp3/page-26-phrases-i-want-buy-shirt.mp3|
+mp3/page-26-phrases-i-want-buy-shoes.mp3|
+mp3/page-26-phrases-i-want-clean-up.mp3|
+mp3/page-26-phrases-i-want-go-room.mp3|
+mp3/page-26-phrases-i-want-to-eat.mp3|
+mp3/page-26-phrases-i-want-to-rest.mp3|
+mp3/page-26-phrases-i-want-to-washup.mp3|
+mp3/page-26-phrases-i-want-use-phone.mp3|
+mp3/page-26-phrases-i-would-like-to.mp3|
