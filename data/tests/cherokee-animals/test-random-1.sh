@@ -27,8 +27,8 @@ cp /dev/null "$tmp"
 cp /dev/null "$z"/voices.txt
 
 (
-	for lang in chr fr de nl ru zh; do
-		cut -f 2 -d '|' ../../cherokee6c/val.txt|sort|grep "$lang"|tail -n 1
+	for lang in fr de nl ru zh; do
+		cut -f 2 -d '|' "$z"/../../cherokee6c/val.txt|sort|uniq|shuf|grep "$lang"|tail -n 1
 	done
 ) >> "$z"/voices.txt
 
@@ -48,7 +48,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-shuf "$text" | tail -n 5 > "$selected"
+shuf "$text" | tail -n 1 > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"

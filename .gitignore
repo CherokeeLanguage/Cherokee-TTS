@@ -121,3 +121,5 @@ venv.bak/
 visual-studio-code.code-workspace
 /.project
 /.pydevproject
+/.settings/
+/.vscode/
