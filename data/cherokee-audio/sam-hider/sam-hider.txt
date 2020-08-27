@@ -398,40 +398,31 @@ mp3/page-22-vocabulary-do-you-understand.mp3|Hohlgajv?
 mp3/page-22-vocabulary-drug-store.mp3|Nv:wô:ti à:da:náɂnv̋:ɂi.
 mp3/page-22-vocabulary-garage.mp3|Dagwalé:la aɂtiyi.
 mp3/page-22-vocabulary-grocery.mp3|Álsdàyhdi.
-mp3/page-22-vocabulary-how-far.mp3|
-mp3/page-22-vocabulary-how-many-miles.mp3|
-mp3/page-22-vocabulary-i-am-lost.mp3|
-mp3/page-22-vocabulary-i-dont-understand.mp3|
-mp3/page-22-vocabulary-is-it-ahead.mp3|
-mp3/page-22-vocabulary-is-it-far.mp3|
-mp3/page-22-vocabulary-is-it-left.mp3|
-mp3/page-22-vocabulary-is-it-near.mp3|
-mp3/page-22-vocabulary-is-it-right.mp3|
-mp3/page-22-vocabulary-i-understand.mp3|
-mp3/page-22-vocabulary-laundry.mp3|
-mp3/page-22-vocabulary-say-again.mp3|
-mp3/page-22-vocabulary-show-me.mp3|
-mp3/page-22-vocabulary-speak-slowly.mp3|
-mp3/page-22-vocabulary-will-you-help.mp3|
-mp3/page-23-phrases-auto.mp3|
-mp3/page-23-phrases-bakery.mp3|
-mp3/page-23-phrases-bus.mp3|
-mp3/page-23-phrases-church.mp3|
-mp3/page-23-phrases-horse.mp3|
-mp3/page-23-phrases-hospital.mp3|
-mp3/page-23-phrases-house.mp3|
-mp3/page-23-phrases-market.mp3|
-mp3/page-23-phrases-mountain.mp3|
-mp3/page-23-phrases-phone.mp3|
-mp3/page-23-phrases-police-station.mp3|
-mp3/page-23-phrases-restaurant.mp3|
-mp3/page-23-phrases-river.mp3|
-mp3/page-23-phrases-road.mp3|
-mp3/page-23-phrases-valley.mp3|
-mp3/page-23-phrases-where-find-barber.mp3|
-mp3/page-23-phrases-where-find-car-mechanic.mp3|
-mp3/page-23-phrases-where-find-dentist.mp3|
-mp3/page-23-phrases-where-find-doctor.mp3|
+mp3/page-22-vocabulary-how-far.mp3|Ínv:hisgo.
+mp3/page-22-vocabulary-how-many-miles.mp3|Hila̋ yú:hli:lő:da.
+mp3/page-22-vocabulary-i-am-lost.mp3|À:gwale:nǎ:hída.
+mp3/page-22-vocabulary-i-dont-understand.mp3|V̋:tla yigo:lì:ga.
+mp3/page-22-vocabulary-is-it-far.mp3|I̋:nahike.
+mp3/page-22-vocabulary-is-it-left.mp3|Aksganike idihla.
+mp3/page-22-vocabulary-is-it-right.mp3|Akti:sisgo idihla.
+mp3/page-22-vocabulary-i-understand.mp3|Aya go:lì:ga.
+mp3/page-22-vocabulary-laundry.mp3|Junhgi:lò:sdiyi.
+mp3/page-22-vocabulary-say-again.mp3|Sǐ:gwu jihihnè:gi.
+mp3/page-22-vocabulary-show-me.mp3|Sgwehyohv̀:ga.
+mp3/page-22-vocabulary-speak-slowly.mp3|U:sganő:li hihnè:gi.
+mp3/page-23-phrases-auto.mp3|A:yanű:la dagwalé:la.
+mp3/page-23-phrases-church.mp3|Digalà:wiɂsdi̋:ɂi.
+mp3/page-23-phrases-horse.mp3|Sǒ:gwíli.
+mp3/page-23-phrases-mountain.mp3|Ò:dalv̋:ɂi.
+mp3/page-23-phrases-phone.mp3|Di:hlino:hehdi̋:ɂi.
+mp3/page-23-phrases-restaurant.mp3|Jù:nàlsdàyhdi̋:ɂi.
+mp3/page-23-phrases-river.mp3|Egwoni.
+mp3/page-23-phrases-road.mp3|Nv:nǒ:hi.
+mp3/page-23-phrases-valley.mp3|Ù:kě:dá:li:yv̋:ɂi.
+mp3/page-23-phrases-where-find-barber.mp3|Ha:dlv yijihwahta di:da:sdo:ye̋:sgi.
+mp3/page-23-phrases-where-find-car-mechanic.mp3|Dagwalé:la ő:sda idigvnéhi.
+mp3/page-23-phrases-where-find-dentist.mp3|Ha:dlv yijihwahta di:da:nhdésgi.
+mp3/page-23-phrases-where-find-doctor.mp3|Ha:dlv yijihwahta agáɂnakti.
 mp3/page-23-phrases-where-find-policeman.mp3|
 mp3/page-23-phrases-where-find-toilet.mp3|
 mp3/page-23-phrases-where-is-found.mp3|
