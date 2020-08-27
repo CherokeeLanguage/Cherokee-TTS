@@ -10,6 +10,7 @@ import subprocess
 from shutil import rmtree
 
 from md2pdf.core import md2pdf
+from cairosvg.shapes import line
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
@@ -46,6 +47,13 @@ for mp3, text in entries.values():
     rows.append(f"{id:06d}|{voiceid}|chr|{wav}|||{text}|")
     id+=1
 
+#save all copy before shuffling
+with open("all.txt", "w") as f:
+    for line in rows:
+        f.write(line)
+        f.write("\n")
+
+#create train/val sets                        
 random.Random(id).shuffle(rows)
 trainSize:int=(int)(len(rows)*.95)
 with open("train.txt", "w") as f:
@@ -57,5 +65,6 @@ with open("val.txt", "w") as f:
     for line in rows[trainSize:]:
         f.write(line)
         f.write("\n")
+        
 
 sys.exit()
