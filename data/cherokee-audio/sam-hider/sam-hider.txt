@@ -374,16 +374,16 @@ mp3/page-19-sentences-here-I-stand.mp3|Áhani jidô:ga.
 mp3/page-19-sentences-i-see-a-chicken.mp3|Jitǎ:ga ji:gòwhtíha.
 mp3/page-19-sentences-pretty-baby.mp3|U:sdi̋ɂi uwo:dű:ha.
 mp3/page-19-sentences-raining-today.mp3|À:ga:sga kò:hi̋ i:ga.
-mp3/page-20-sentences-what-am-i-doing.mp3|Gadō gadv:neha.
-mp3/page-20-sentences-what-are-they-doing.mp3|Gadō anadv:neha.
-mp3/page-20-sentences-what-are-we-2-doing.mp3|Gadō inadv:neha.
-mp3/page-20-sentences-what-are-you-2-doing.mp3|Gadō isdadv:neha.
-mp3/page-20-sentences-where-am-i-going.mp3|Ha:dlv gé:ga.
-mp3/page-20-sentences-where-are-they-going.mp3|Ha:dlv ané:ga.
-mp3/page-20-sentences-where-are-we-all-going.mp3|Ha:dlv ì:dé:ga.
-mp3/page-20-sentences-where-are-you-1-going.mp3|Ha:dlv hé:ga.
-mp3/page-20-sentences-where-will-we-2-go.mp3|Ha:dlv dané:si.
-mp3/page-20-sentences-where-you-2-going.mp3|Ha:dlv isdé:ga.
+mp3/page-20-sentences-what-am-i-doing.mp3|Gadō gadv:neha?
+mp3/page-20-sentences-what-are-they-doing.mp3|Gadō anadv:neha?
+mp3/page-20-sentences-what-are-we-2-doing.mp3|Gadō inadv:neha?
+mp3/page-20-sentences-what-are-you-2-doing.mp3|Gadō isdadv:neha?
+mp3/page-20-sentences-where-am-i-going.mp3|Ha:dlv gé:ga?
+mp3/page-20-sentences-where-are-they-going.mp3|Ha:dlv ané:ga?
+mp3/page-20-sentences-where-are-we-all-going.mp3|Ha:dlv ì:dé:ga?
+mp3/page-20-sentences-where-are-you-1-going.mp3|Ha:dlv hé:ga?
+mp3/page-20-sentences-where-will-we-2-go.mp3|Ha:dlv dané:si?
+mp3/page-20-sentences-where-you-2-going.mp3|Ha:dlv isdé:ga?
 mp3/page-21-sentences-he-eating.mp3|À:gíɂa.
 mp3/page-21-sentences-i-am-eating-it.mp3|Jigíɂa.
 mp3/page-21-sentences-they-and-i-eating.mp3|Ò:jigíɂa.
@@ -398,13 +398,13 @@ mp3/page-22-vocabulary-do-you-understand.mp3|Hohlgajv?
 mp3/page-22-vocabulary-drug-store.mp3|Nv:wô:ti à:da:náɂnv̋:ɂi.
 mp3/page-22-vocabulary-garage.mp3|Dagwalé:la aɂtiyi.
 mp3/page-22-vocabulary-grocery.mp3|Álsdàyhdi.
-mp3/page-22-vocabulary-how-far.mp3|Ínv:hisgo.
-mp3/page-22-vocabulary-how-many-miles.mp3|Hila̋ yú:hli:lő:da.
+mp3/page-22-vocabulary-how-far.mp3|Ínv:hisgo?
+mp3/page-22-vocabulary-how-many-miles.mp3|Hila̋ yú:hli:lő:da?
 mp3/page-22-vocabulary-i-am-lost.mp3|À:gwale:nǎ:hída.
 mp3/page-22-vocabulary-i-dont-understand.mp3|V̋:tla yigo:lì:ga.
-mp3/page-22-vocabulary-is-it-far.mp3|I̋:nahike.
-mp3/page-22-vocabulary-is-it-left.mp3|Aksganike idihla.
-mp3/page-22-vocabulary-is-it-right.mp3|Akti:sisgo idihla.
+mp3/page-22-vocabulary-is-it-far.mp3|I̋:nahike?
+mp3/page-22-vocabulary-is-it-left.mp3|Aksganike idihla?
+mp3/page-22-vocabulary-is-it-right.mp3|Akti:sisgo idihla?
 mp3/page-22-vocabulary-i-understand.mp3|Aya go:lì:ga.
 mp3/page-22-vocabulary-laundry.mp3|Junhgi:lò:sdiyi.
 mp3/page-22-vocabulary-say-again.mp3|Sǐ:gwu jihihnè:gi.
@@ -419,61 +419,44 @@ mp3/page-23-phrases-restaurant.mp3|Jù:nàlsdàyhdi̋:ɂi.
 mp3/page-23-phrases-river.mp3|Egwoni.
 mp3/page-23-phrases-road.mp3|Nv:nǒ:hi.
 mp3/page-23-phrases-valley.mp3|Ù:kě:dá:li:yv̋:ɂi.
-mp3/page-23-phrases-where-find-barber.mp3|Ha:dlv yijihwahta di:da:sdo:ye̋:sgi.
-mp3/page-23-phrases-where-find-car-mechanic.mp3|Dagwalé:la ő:sda idigvnéhi.
-mp3/page-23-phrases-where-find-dentist.mp3|Ha:dlv yijihwahta di:da:nhdésgi.
-mp3/page-23-phrases-where-find-doctor.mp3|Ha:dlv yijihwahta agáɂnakti.
-mp3/page-23-phrases-where-find-policeman.mp3|
-mp3/page-23-phrases-where-find-toilet.mp3|
-mp3/page-23-phrases-where-is-found.mp3|
-mp3/page-24-phrases-i-want-bacon.mp3|
-mp3/page-24-phrases-i-want-butter.mp3|
-mp3/page-24-phrases-i-want-chicken.mp3|
-mp3/page-24-phrases-i-want-cow-meat.mp3|
-mp3/page-24-phrases-i-want-fried-chicken.mp3|
-mp3/page-24-phrases-i-want-fried-eggs.mp3|
-mp3/page-24-phrases-i-want-lamb.mp3|
-mp3/page-24-phrases-i-want.mp3|
-mp3/page-24-phrases-i-want-one-egg.mp3|
-mp3/page-24-phrases-i-want-one-potato.mp3|
-mp3/page-24-phrases-i-want-pig-meat.mp3|
-mp3/page-24-phrases-i-want-potatoes.mp3|
-mp3/page-24-phrases-i-want-some-bread.mp3|
-mp3/page-24-phrases-i-want-something-to-eat.mp3|
-mp3/page-24-phrases-i-want-soup.mp3|
-mp3/page-24-phrases-i-want-vegetables.mp3|
-mp3/page-24-phrases-i-would-like.mp3|
-mp3/page-25-phrases-bring-me-fork.mp3|
-mp3/page-25-phrases-bring-me-glass.mp3|
-mp3/page-25-phrases-bring-me-knife.mp3|
-mp3/page-25-phrases-bring-me.mp3|
-mp3/page-25-phrases-bring-me-plate.mp3|
-mp3/page-25-phrases-bring-me-spoon.mp3|
-mp3/page-25-phrases-cup-of-coffee.mp3|
-mp3/page-25-phrases-drink-of-water.mp3|
-mp3/page-25-phrases-i-want-cabbage.mp3|
-mp3/page-25-phrases-i-want-coffee.mp3|
-mp3/page-25-phrases-i-want-milk.mp3|
-mp3/page-25-phrases-i-want-peas.mp3|
-mp3/page-25-phrases-i-want-pepper.mp3|
-mp3/page-25-phrases-i-want-salad.mp3|
-mp3/page-25-phrases-i-want-salt.mp3|
-mp3/page-25-phrases-i-want-sugar.mp3|
-mp3/page-25-phrases-i-want-tea.mp3|
-mp3/page-25-phrases-sugar-i-want.mp3|
-mp3/page-26-phrases-i-want-bath.mp3|
-mp3/page-26-phrases-i-want-buy-blankets.mp3|
-mp3/page-26-phrases-i-want-buy-buttons.mp3|
-mp3/page-26-phrases-i-want-buy-dress.mp3|
-mp3/page-26-phrases-i-want-buy-it.mp3|
-mp3/page-26-phrases-i-want-buy-meal.mp3|
-mp3/page-26-phrases-i-want-buy-medicine.mp3|
-mp3/page-26-phrases-i-want-buy-shirt.mp3|
-mp3/page-26-phrases-i-want-buy-shoes.mp3|
-mp3/page-26-phrases-i-want-clean-up.mp3|
-mp3/page-26-phrases-i-want-go-room.mp3|
-mp3/page-26-phrases-i-want-to-eat.mp3|
-mp3/page-26-phrases-i-want-to-rest.mp3|
-mp3/page-26-phrases-i-want-to-washup.mp3|
-mp3/page-26-phrases-i-want-use-phone.mp3|
-mp3/page-26-phrases-i-would-like-to.mp3|
+mp3/page-23-phrases-where-find-barber.mp3|Ha:dlv yijihwahta di:da:sdo:ye̋:sgi?
+mp3/page-23-phrases-where-find-car-mechanic.mp3|Dagwalé:la ő:sda idigvnéhi?
+mp3/page-23-phrases-where-find-dentist.mp3|Ha:dlv yijihwahta di:da:nhdésgi?
+mp3/page-23-phrases-where-find-doctor.mp3|Ha:dlv yijihwahta agáɂnakti?
+mp3/page-23-phrases-where-find-toilet.mp3|Ha:dlv yijihwahta doyi è:dastiyi?
+mp3/page-23-phrases-where-is-found.mp3|Ha:dlv yijihwahta?
+mp3/page-24-phrases-i-want-butter.mp3|Yà:gwadu:lígwu go:hlv:hnv̋:hi.
+mp3/page-24-phrases-i-want-chicken.mp3|Yà:gwadu:lígwu jitǎ:ga.
+mp3/page-24-phrases-i-want-cow-meat.mp3|Yà:gwadu:lígwu wahga hawi:ya.
+mp3/page-24-phrases-i-want-fried-chicken.mp3|Yà:gwadu:lígwu gv:jahlánv́ jitǎ:ga. 
+mp3/page-24-phrases-i-want-fried-eggs.mp3|Yà:gwadu:lígwu digv:jahlánv́ juwě:ji.
+mp3/page-24-phrases-i-want-lamb.mp3|Yà:gwadu:lígwu u:nò:de̋:na.
+mp3/page-24-phrases-i-want.mp3|À:gwadu:líha.
+mp3/page-24-phrases-i-want-one-egg.mp3|Yà:gwadu:lígwu uwě:ji.
+mp3/page-24-phrases-i-want-one-potato.mp3|Yà:gwadu:lígwu nǔ:na.
+mp3/page-24-phrases-i-want-pig-meat.mp3|Yà:gwadu:lígwu sihgwa hawi:ya.
+mp3/page-24-phrases-i-want-potatoes.mp3|Yidà:gwadu:lígwu nǔ:na.
+mp3/page-24-phrases-i-want-some-bread.mp3|Yà:gwadu:lígwu ga̋:du iyi̋:gi.
+mp3/page-24-phrases-i-want-something-to-eat.mp3|Yà:gwadu:lígwu go:hű:sdi à:gigì:sdi.
+mp3/page-24-phrases-i-want-soup.mp3|Yà:gwadu:lígwu ǔ:gáma.
+mp3/page-24-phrases-i-would-like.mp3|Yà:gwadu:lígwu.
+mp3/page-25-phrases-drink-of-water.mp3|Ama adǐ:tasdi.
+mp3/page-25-phrases-i-want-cabbage.mp3|Yà:gwadu:lígwu ju:ganhdě:na.
+mp3/page-25-phrases-i-want-coffee.mp3|Yà:gwadu:lígwu kǎ:hwi.
+mp3/page-25-phrases-i-want-milk.mp3|Yà:gwadu:lígwu u:nv̌:di.
+mp3/page-25-phrases-i-want-pepper.mp3|Yà:gwadu:lígwu di:kwayő:di.
+mp3/page-25-phrases-i-want-salt.mp3|Yà:gwadu:lígwu á:ma.
+mp3/page-25-phrases-i-want-sugar.mp3|Yà:gwadu:lígwu kaljě:ji.
+mp3/page-25-phrases-sugar-i-want.mp3|Kaljě:ji yà:gwadu:lígwu.
+mp3/page-26-phrases-i-want-bath.mp3|Yà:gwadu:lígwu à:gwadawò:sdiyi.
+mp3/page-26-phrases-i-want-buy-blankets.mp3|Yà:gwadu:lígwu digihwáhísdi ju:ne:gv:ha̋:ɂi.
+mp3/page-26-phrases-i-want-buy-dress.mp3|Yà:gwadu:lígwu akihwáhísdiɂi dì:sano.
+mp3/page-26-phrases-i-want-buy-it.mp3|Yà:gwadu:lígwu akihwáhísdiɂi.
+mp3/page-26-phrases-i-want-buy-meal.mp3|Yà:gwadu:lígwu akihwáhísdiɂi à:lsdàyhdi.
+mp3/page-26-phrases-i-want-buy-medicine.mp3|Yà:gwadu:lígwu akihwáhísdi nv:wô:ti.
+mp3/page-26-phrases-i-want-buy-shirt.mp3|Yà:gwadu:lígwu digihwáhísdi háwi̋:na di:hnawo.
+mp3/page-26-phrases-i-want-buy-shoes.mp3|Yà:gwadu:lígwu di:là:sǔ:lo digihwáhísdiɂi.
+mp3/page-26-phrases-i-want-to-eat.mp3|Yà:gwadu:lígwu à:gwalsdàyhdiyi.
+mp3/page-26-phrases-i-want-to-washup.mp3|Yà:gwadu:lígwu à:gwa:gv:sgwò:sdiyi.
+mp3/page-26-phrases-i-want-use-phone.mp3|Yà:gwadu:lígwu di:hlino:hehdí Akdóhdiyi.
+mp3/page-26-phrases-i-would-like-to.mp3|Yà:gwadu:lígwu.
