@@ -29,6 +29,7 @@ cp /dev/null "$tmp"
 cp /dev/null "$z"/voices.txt
 
 (
+	#echo "03-chr"
 	echo "02-chr"
 	echo "01-chr"
 ) >> "$z"/voices.txt
@@ -78,7 +79,7 @@ for voice in "${v[@]}"; do
 		ix="$(($ix+1))"
 		wav="wg-$ix.wav"
 		mp3="$wg"-"$voice/$mp3"
-		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" 2>&1 > /dev/null
+		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
 		rm "$wav"
 	done
 	
