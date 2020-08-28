@@ -64,7 +64,7 @@ for mp3 in mp3s:
     data = AudioSegment.from_mp3("src/" + mp3)
     mp3=os.path.splitext(mp3)[0]
     print(f" - silence hunting")
-    segments = split_on_silence(data, 1200, -34, keep_silence=1200)
+    segments = split_on_silence(data, 900, -32, keep_silence=900)
     
     if len(segments)==0:
         print(f"=== NO SPLITS FROM: {mp3}")
@@ -76,8 +76,8 @@ for mp3 in mp3s:
         normalized = match_target_amplitude(segment, -18.0)
         
         # Trim off leading and trailing silence
-        start_trim = detect_leading_silence(normalized, silence_threshold=-34)
-        end_trim = detect_leading_silence(normalized.reverse(), silence_threshold=-34)
+        start_trim = detect_leading_silence(normalized, silence_threshold=-36)
+        end_trim = detect_leading_silence(normalized.reverse(), silence_threshold=-36)
         duration = len(normalized)
         trimmed = normalized[start_trim:duration-end_trim]
         
