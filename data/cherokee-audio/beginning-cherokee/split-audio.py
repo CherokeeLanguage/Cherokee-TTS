@@ -89,7 +89,9 @@ with open("beginning-cherokee.txt", "w") as f:
     for mp3 in splits:
         if os.path.splitext(mp3)[1].lower()!=".mp3":
             continue
-        f.write(mp3)
+        f.write("?") #speaker
+        f.write("|")
+        f.write(mp3) #audio file
         f.write("|")
         f.write("\n")
         
