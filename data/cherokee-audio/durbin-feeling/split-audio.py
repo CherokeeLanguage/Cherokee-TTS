@@ -68,6 +68,7 @@ for mp3 in mp3s:
     
     if len(segments)==0:
         print(f"=== NO SPLITS FROM: {mp3}")
+        splits.append("src/"+mp3)
         continue
     
     for i, segment in enumerate(segments):

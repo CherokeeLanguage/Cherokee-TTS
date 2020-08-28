@@ -56,6 +56,7 @@ for (dirpath, dirnames, filenames) in walk("src"):
     mp3s.extend(filenames)
     break
 mp3s.sort()
+splits:list=[]
 for mp3 in mp3s:
     if os.path.splitext(mp3)[1].lower()!=".mp3":
         continue
@@ -64,6 +65,11 @@ for mp3 in mp3s:
     mp3=os.path.splitext(mp3)[0]
     print(f" - silence hunting")
     segments = split_on_silence(data, 850, -34, keep_silence=850)
+    
+    if len(segments)==0:
+        print(f"=== NO SPLITS FROM: {mp3}")
+        splits.append("src/"+mp3)
+        continue
     
     for i, segment in enumerate(segments):
         # Normalize the entire chunk.
@@ -77,6 +83,7 @@ for mp3 in mp3s:
         
         print(f"Saving mp3/{mp3}-{i:03d}.mp3.")
         trimmed.export(f"mp3/{mp3}-{i:03d}.mp3",bitrate="192k",format="mp3")
+        splits.append(f"mp3/{mp3}-{i:03d}.mp3")
 
 with open("beginning-cherokee.txt", "w") as f:
     for mp3 in mp3s:
