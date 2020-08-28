@@ -1,4 +1,20 @@
 #!/usr/bin/env python3
+
+import os
+import sys
+import string
+import unicodedata as ud
+import random
+import re
+import pathlib
+import subprocess
+from shutil import rmtree
+
+workdir:str = os.path.dirname(sys.argv[0])
+if workdir.strip() != "":
+    os.chdir(workdir)
+workdir = os.getcwd()
+
 # https://stackoverflow.com/questions/45526996/split-audio-files-using-silence-detection
 
 # Import the AudioSegment class for processing audio and the 
@@ -6,42 +22,68 @@
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
 
+# From https://stackoverflow.com/questions/29547218/
+# remove-silence-at-the-beginning-and-at-the-end-of-wave-files-with-pydub
+from pydub import AudioSegment
+
+
+def detect_leading_silence(sound, silence_threshold=-50.0, chunk_size=10):
+    '''
+    sound is a pydub.AudioSegment
+    silence_threshold in dB
+    chunk_size in ms
+    iterate over chunks until you find the first one with sound
+    '''
+    trim_ms = 0  # ms
+    while sound[trim_ms:trim_ms+chunk_size].dBFS < silence_threshold:
+        trim_ms += chunk_size
+
+    return trim_ms
+
 # Define a function to normalize a chunk to a target amplitude.
 def match_target_amplitude(aChunk, target_dBFS):
     ''' Normalize given audio chunk '''
     change_in_dBFS = target_dBFS - aChunk.dBFS
     return aChunk.apply_gain(change_in_dBFS)
 
-# Load your audio.
-song = AudioSegment.from_mp3("your_audio.mp3")
+#clean up any previous files
+rmtree("mp3", ignore_errors=True)
+os.mkdir("mp3")
 
-# Split track where the silence is 2 seconds or more and get chunks using 
-# the imported function.
-chunks = split_on_silence (
-    # Use the loaded audio.
-    song, 
-    # Specify that a silent chunk must be at least 2 seconds or 2000 ms long.
-    min_silence_len = 2000,
-    # Consider a chunk silent if it's quieter than -16 dBFS.
-    # (You may want to adjust this parameter.)
-    silence_thresh = -16
-)
+from os import walk
+mp3s = []
+for (dirpath, dirnames, filenames) in walk("src"):
+    mp3s.extend(filenames)
+    break
+mp3s.sort()
+for mp3 in mp3s:
+    if os.path.splitext(mp3)[1].lower()!=".mp3":
+        continue
+    print(f"Processing {mp3}")
+    data = AudioSegment.from_mp3("src/" + mp3)
+    mp3=os.path.splitext(mp3)[0]
+    print(f" - silence hunting")
+    segments = split_on_silence(data, 850, -34, keep_silence=850)
+    
+    for i, segment in enumerate(segments):
+        # Normalize the entire chunk.
+        normalized = match_target_amplitude(segment, -18.0)
+        
+        # Trim off leading and trailing silence
+        start_trim = detect_leading_silence(normalized, silence_threshold=-34)
+        end_trim = detect_leading_silence(normalized.reverse(), silence_threshold=-34)
+        duration = len(normalized)
+        trimmed = normalized[start_trim:duration-end_trim]
+        
+        print(f"Saving mp3/{mp3}-{i:03d}.mp3.")
+        trimmed.export(f"mp3/{mp3}-{i:03d}.mp3",bitrate="192k",format="mp3")
 
-# Process each chunk with your parameters
-for i, chunk in enumerate(chunks):
-    # Create a silence chunk that's 0.5 seconds (or 500 ms) long for padding.
-    silence_chunk = AudioSegment.silent(duration=500)
-
-    # Add the padding chunk to beginning and end of the entire chunk.
-    audio_chunk = silence_chunk + chunk + silence_chunk
-
-    # Normalize the entire chunk.
-    normalized_chunk = match_target_amplitude(audio_chunk, -20.0)
-
-    # Export the audio chunk with new bitrate.
-    print("Exporting chunk{0}.mp3.".format(i))
-    normalized_chunk.export(
-        ".//chunk{0}.mp3".format(i),
-        bitrate = "192k",
-        format = "mp3"
-    )
+with open("beginning-cherokee.txt", "w") as f:
+    for mp3 in mp3s:
+        if os.path.splitext(mp3)[1].lower()!=".mp3":
+            continue
+        f.write(mp3)
+        f.write("|")
+        f.write("\n")
+        
+sys.exit()

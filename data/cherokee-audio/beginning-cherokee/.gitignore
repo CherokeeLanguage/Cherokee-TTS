@@ -1,1 +1,7 @@
-/*.mp3
+/src/
+/mp3/
+/wav/
+/train.txt
+/val.txt
+/all.txt
+/beginning-cherokee.txt
