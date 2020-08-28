@@ -64,7 +64,7 @@ for file in files:
     data = AudioSegment.from_ogg("src/" + file)
     file=os.path.splitext(file)[0]
     print(" - silence hunting")
-    segments = split_on_silence(data, 850, -34, keep_silence=850)
+    segments = split_on_silence(data, 1200, -34, keep_silence=1200)
     
     if len(segments)==0:
         print(f"=== NO SPLITS FROM: {file}")

@@ -1,7 +1,7 @@
-01-chr|Durbin Feeling
-02-chr|Sam Hider
-03-chr|Betty Smith
-04-chr|Michael Conrad
-05-chr|Gregg Howard
+01-chr|Durbin Feeling|df
+02-chr|Sam Hider|sh
+03-chr|Betty Smith|bs
+04-chr|Michael Conrad|mc
+05-chr|Gregg Howard|gh
 06-chr|
-07-chr|Marie Junaluska
+07-chr|Marie Junaluska|mj

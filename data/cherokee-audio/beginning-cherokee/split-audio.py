@@ -64,7 +64,7 @@ for mp3 in mp3s:
     data = AudioSegment.from_mp3("src/" + mp3)
     mp3=os.path.splitext(mp3)[0]
     print(f" - silence hunting")
-    segments = split_on_silence(data, 850, -34, keep_silence=850)
+    segments = split_on_silence(data, 1200, -34, keep_silence=1200)
     
     if len(segments)==0:
         print(f"=== NO SPLITS FROM: {mp3}")
