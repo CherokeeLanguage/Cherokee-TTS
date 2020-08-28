@@ -51,24 +51,24 @@ rmtree("mp3", ignore_errors=True)
 os.mkdir("mp3")
 
 from os import walk
-mp3s = []
+files:list = []
 for (dirpath, dirnames, filenames) in walk("src"):
-    mp3s.extend(filenames)
+    files.extend(filenames)
     break
-mp3s.sort()
+files.sort()
 splits:list=[]
-for mp3 in mp3s:
-    if os.path.splitext(mp3)[1].lower()!=".mp3":
+for file in files:
+    if os.path.splitext(file)[1].lower()!=".ogg":
         continue
-    print(f"Processing {mp3}")
-    data = AudioSegment.from_mp3("src/" + mp3)
-    mp3=os.path.splitext(mp3)[0]
-    print(f" - silence hunting")
+    print(f"Processing {file}")
+    data = AudioSegment.from_ogg("src/" + file)
+    file=os.path.splitext(file)[0]
+    print(" - silence hunting")
     segments = split_on_silence(data, 850, -34, keep_silence=850)
     
     if len(segments)==0:
-        print(f"=== NO SPLITS FROM: {mp3}")
-        splits.append("src/"+mp3)
+        print(f"=== NO SPLITS FROM: {file}")
+        splits.append("src/"+file)
         continue
     
     for i, segment in enumerate(segments):
@@ -81,11 +81,11 @@ for mp3 in mp3s:
         duration = len(normalized)
         trimmed = normalized[start_trim:duration-end_trim]
         
-        print(f"Saving mp3/{mp3}-{i:03d}.mp3.")
-        trimmed.export(f"mp3/{mp3}-{i:03d}.mp3",bitrate="192k",format="mp3")
-        splits.append(f"mp3/{mp3}-{i:03d}.mp3")
+        print(f"Saving mp3/{file}-{i:03d}.mp3.")
+        trimmed.export(f"mp3/{file}-{i:03d}.mp3",bitrate="192k",format="mp3")
+        splits.append(f"mp3/{file}-{i:03d}.mp3")
 
-with open("beginning-cherokee.txt", "w") as f:
+with open("coach-2.txt", "w") as f:
     for mp3 in splits:
         if os.path.splitext(mp3)[1].lower()!=".mp3":
             continue
