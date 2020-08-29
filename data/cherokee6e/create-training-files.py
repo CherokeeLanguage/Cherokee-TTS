@@ -135,7 +135,7 @@ while len(femaleVoices) < 21:
 
 #We don't shuffle the female donor voices to prevent training issues
 
-for i in range(4,21):
+for i in range(5,21):
 	voice:str=femaleVoices[i]
 	donorLines = [s for s in commonVoice if "|"+voice+"|" in s]
 	random.Random(i).shuffle(donorLines)
