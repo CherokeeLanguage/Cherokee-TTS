@@ -15,7 +15,13 @@ if workdir.strip() != "":
 workdir = os.getcwd()
 
 #cleanup any previous runs
-for parent in [".", "../cherokee-audio/michael-conrad" "../cherokee-audio/beginning-cherokee", "../cherokee-audio/durbin-feeling", "../cherokee-audio/sam-hider", "../comvoi_clean"]:
+for parent in [".",
+				"../cherokee-audio",
+				"../cherokee-audio/michael-conrad",
+				"../cherokee-audio/beginning-cherokee",
+				"../cherokee-audio/durbin-feeling",
+				"../cherokee-audio/sam-hider",
+				"../comvoi_clean"]:
 	for dir in ["linear_spectrograms", "spectrograms"]:
 	    rmtree(os.path.join(parent, dir), ignore_errors=True)
 
