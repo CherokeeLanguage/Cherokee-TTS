@@ -2,6 +2,7 @@
 02-chr|Sam Hider|sh
 03-chr|Betty Smith|bs
 04-chr|Michael Conrad|mc
-05-chr|Gregg Howard|gh
-06-chr|
-07-chr|Marie Junaluska|mj
+05-chr|Marie Junaluska|mj
+06-chr|Gregg Howard|gh
+07-chr|Wynema Smith|ws
+08-chr|
