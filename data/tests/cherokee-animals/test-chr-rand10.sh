@@ -29,8 +29,8 @@ cp /dev/null "$tmp"
 cp /dev/null "$z"/voices.txt
 
 (
-	echo "04-chr"
 	echo "03-chr"
+	echo "04-chr"
 	echo "02-chr"
 	echo "01-chr"
 ) >> "$z"/voices.txt
