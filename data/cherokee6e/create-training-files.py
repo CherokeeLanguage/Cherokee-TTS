@@ -15,14 +15,32 @@ if workdir.strip() != "":
 workdir = os.getcwd()
 
 #cleanup any previous runs
-for parent in [".", "../cherokee-audio/beginning-cherokee", "../cherokee-audio/durbin-feeling", "../cherokee-audio/sam-hider", "../comvoi_clean"]:
+for parent in [".", "../cherokee-audio/michael-conrad" "../cherokee-audio/beginning-cherokee", "../cherokee-audio/durbin-feeling", "../cherokee-audio/sam-hider", "../comvoi_clean"]:
 	for dir in ["linear_spectrograms", "spectrograms"]:
 	    rmtree(os.path.join(parent, dir), ignore_errors=True)
 
 for file in ["train.txt", "val.txt"]:
 	if os.path.exists(file):
 		os.remove(file)
-		
+
+with open("../cherokee-audio/michael-conrad/all.txt", "r") as f:
+	lines:list = []
+	for line in f:
+		line=line.strip()
+		line=line.replace("|wav/", "|../cherokee-audio/michael-conrad/wav/")
+		lines.append(line)
+	random.Random(0).shuffle(lines)
+	size=len(lines)
+	trainSize=int((size*95/100))
+	with open("train.txt", "a") as t:
+		for line in lines[:trainSize]:
+			t.write(line)
+			t.write("\n")
+	with open("val.txt", "a") as t:
+		for line in lines[trainSize:]:
+			t.write(line)
+			t.write("\n")
+			
 with open("../cherokee-audio/beginning-cherokee/all.txt", "r") as f:
 	lines:list = []
 	for line in f:
