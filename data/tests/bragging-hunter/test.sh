@@ -22,19 +22,21 @@ source ~/miniconda3/etc/profile.d/conda.sh
 conda activate ./env
 
 cp="$(ls -1tr checkpoints/|tail -n 1)"
+cp="$(basename "$cp")"
 
 printf "Using checkpoint: $cp\n"
 
 tmp="$z/tmp.txt"
 cp /dev/null "$tmp"
 
-#v=($(cat "$z"/voices.txt))
-v=("02-chr" "08-fr" "26-fr")
+v=("04-chr" "03-chr" "02-chr" "01-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
 text="$z/two-hunters-mco.txt"
+
+wg="bragging-hunter"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
@@ -51,11 +53,12 @@ for voice in "${v[@]}"; do
 
 	cd "$z"
 	
-	rm -r bragging-hunter-"$voice" 2> /dev/null || true
-	mkdir bragging-hunter-"$voice"
+	rm -r "$wg"-"$voice" 2> /dev/null || true
+	mkdir "$wg"-"$voice"
+	cp -p "$text" "$wg"-"$voice"
 
 	python wavernnx-cpu.py
-
+	
 	count=$(wc -l "$text")
 	for ix in $(seq 1 1 $count); do
 		iy=$(($ix - 1))
@@ -66,7 +69,7 @@ for voice in "${v[@]}"; do
 		rm "$wav"
 	done
 
-	xdg-open bragging-hunter-"$voice"
+	xdg-open "$wg"-"$voice"
 	
 	ix=0
 	cat "$text" | while read line; do

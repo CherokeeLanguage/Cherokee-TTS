@@ -9,6 +9,11 @@ z="$(pwd)"
 rm *.npy 2> /dev/null || true
 rm *.wav 2> /dev/null || true
 
+for x in "$z"/*-[0-9][0-9]-*; do
+	if [ ! -d "$x" ]; then continue; fi
+	rm -r "$x"
+done
+
 cd ../../..
 y="$(pwd)"
 
@@ -16,7 +21,6 @@ source ~/miniconda3/etc/profile.d/conda.sh
 
 conda activate ./env
 
-#cp="$(ls -1tr checkpoints/*CHEROKEE4*|tail -n 1)"
 cp="$(ls -1tr checkpoints/*CHEROKEE*|tail -n 1)"
 cp="$(basename "$cp")"
 
@@ -50,7 +54,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-shuf "$text" | tail -n 10 | sort > "$selected"
+shuf "$text" | shuf | shuf | shuf | tail -n 10 | sort > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
@@ -72,7 +76,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx-cpu.py
+	#python wavernnx-cpu.py
+	python wavernnx.py
 
 	ix=0
 	mp3s=($(cut -f 3 "$selected" | sed 's/ /_/g'))

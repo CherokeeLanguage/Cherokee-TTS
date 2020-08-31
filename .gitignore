@@ -123,3 +123,4 @@ visual-studio-code.code-workspace
 /.pydevproject
 /.settings/
 /.vscode/
+/rsync-backup.sh
