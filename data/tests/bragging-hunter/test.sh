@@ -29,7 +29,7 @@ printf "Using checkpoint: $cp\n"
 tmp="$z/tmp.txt"
 cp /dev/null "$tmp"
 
-v=("04-chr" "03-chr" "02-chr" "01-chr")
+v=("02-ru" "03-ru" "01-chr" "02-chr" "03-chr" "04-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
