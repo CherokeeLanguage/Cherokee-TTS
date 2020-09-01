@@ -292,7 +292,7 @@ bs|mp3/Lesson-06-012.mp3|Dò dě:jádo?
 bs|mp3/Lesson-06-013.mp3|Gadò dě:jádo:ɂa?
 bs|mp3/Lesson-06-015.mp3|Gweti dà:wadó.
 bs|mp3/Lesson-06-016.mp3|Gweti dà:wadó:ɂa.
-bs|mp3/Lesson-06-018.mp3|U:sganő: hiwò:nǐ:.
+bs|mp3/Lesson-06-018.mp3|U:sganő hiwò:nǐ:.
 bs|mp3/Lesson-06-019.mp3|U:sganő:li hiwò:nǐ:hi.
 bs|mp3/Lesson-06-021.mp3|Tla yigo:lì:ga.
 bs|mp3/Lesson-06-023.mp3|Dògi hadí.
@@ -342,7 +342,7 @@ bs|mp3/Lesson-06-111.mp3|Anali:hě:lí.
 bs|mp3/Lesson-06-112.mp3|Anali:hě:lî:ga.
 bs|mp3/Lesson-06-114.mp3|Go:lì:.
 bs|mp3/Lesson-06-115.mp3|Go:lì:ga.
-bs|mp3/Lesson-07-001.mp3|Gahlgwo:gi:ne̋: Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-07-001.mp3|Gahlgwo:gi:ne̋ Jalagi go:hwe:lv̀:ɂi.
 bs|mp3/Lesson-07-003.mp3|Iga.
 bs|mp3/Lesson-07-006.mp3|I:ga.
 bs|mp3/Lesson-07-008.mp3|Á:m.
@@ -387,7 +387,7 @@ bs|mp3/Lesson-07-120.mp3|Galv:lő:hi.
 bs|mp3/Lesson-07-122.mp3|Kama:ma.
 bs|mp3/Lesson-07-126.mp3|Ma:ga.
 bs|mp3/Lesson-07-128.mp3|Me:li.
-bs|mp3/Lesson-08-001.mp3|Chuně:li:ne̋: Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-08-001.mp3|Chuně:li:ne̋ Jalagi go:hwe:lv̀:ɂi.
 bs|mp3/Lesson-08-005.mp3|Dà:ni:sdayo:hihv́.
 bs|mp3/Lesson-08-009.mp3|Dà:ni:sdayo:hihv̋:ɂi.
 bs|mp3/Lesson-08-015.mp3|Adǎ:hnehdi.
@@ -398,8 +398,8 @@ bs|mp3/Lesson-08-029.mp3|U:halv:na.
 bs|mp3/Lesson-08-030.mp3|U:halv:ni.
 bs|mp3/Lesson-08-032.mp3|Ajina.
 bs|mp3/Lesson-08-034.mp3|Adǎ:wé:hi.
-bs|mp3/Lesson-08-037.mp3|Na doyu uwo:dű: ajin.
-bs|mp3/Lesson-08-038.mp3|Na doyu uwo:dű: ajina.
+bs|mp3/Lesson-08-037.mp3|Na doyu uwo:dű ajin.
+bs|mp3/Lesson-08-038.mp3|Na doyu uwo:dű ajina.
 bs|mp3/Lesson-08-048.mp3|Digǐ:gáge ale dijéɂiyű:sdi dà:gi di:jv̋sdi.
 bs|mp3/Lesson-08-050.mp3|Do:yű.
 bs|mp3/Lesson-08-056.mp3|Ijéɂiyű:sd.
@@ -570,16 +570,16 @@ bs|mp3/Lesson-09-295.mp3|U:ni:gǎ:nawa.
 bs|mp3/Lesson-09-302.mp3|Agayv̋:li.
 bs|mp3/Lesson-09-304.mp3|Agayv̌:líge̋:.
 bs|mp3/Lesson-09-307.mp3|Ani:gayv̌:líge̋:
-bs|mp3/Lesson-09-315.mp3|Uwo:dű: age:hyű:ja.
-bs|mp3/Lesson-09-318.mp3|Ju:no:dű: ani:ge:hyű:ja anili:hě:lî:ga..
-bs|mp3/Lesson-09-319.mp3|Ju:no:dű: ani:ge:hyű:ja anili:hě:lî:.
+bs|mp3/Lesson-09-315.mp3|Uwo:dű age:hyű:ja.
+bs|mp3/Lesson-09-318.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:ga..
+bs|mp3/Lesson-09-319.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:.
 bs|mp3/Lesson-09-321.mp3|Agv̌:níge̋:ɂi kama:ma à:lsdâ:yv:hv́sga.
-bs|mp3/Lesson-09-325.mp3|Anigv̌:níge̋: kama:ma a:nalsdâ:yv:hv́sga.
+bs|mp3/Lesson-09-325.mp3|Anigv̌:níge̋ kama:ma a:nalsdâ:yv:hv́sga.
 bs|mp3/Lesson-09-328.mp3|E̋:gwa.
 bs|mp3/Lesson-09-333.mp3|Kwan.
 bs|mp3/Lesson-09-334.mp3|Kwana.
 bs|mp3/Lesson-10-001.mp3|Sgo:hi:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi.
-bs|mp3/Lesson-10-006.mp3|Di:je̋: dikané:jv di:do:ja.
+bs|mp3/Lesson-10-006.mp3|Di:je̋ dikané:jv di:do:ja.
 bs|mp3/Lesson-10-008.mp3|Ha:dlv go:hwe:lv?
 bs|mp3/Lesson-10-009.mp3|Ha:dlv go:hwe:lv̀:ɂi.
 bs|mp3/Lesson-10-011.mp3|Dù:dǎ:sgó chuně:li go:hwe:li.
@@ -609,7 +609,7 @@ bs|mp3/Lesson-10-083.mp3|Sa:sa.
 bs|mp3/Lesson-10-086.mp3|Sihgw.
 bs|mp3/Lesson-10-087.mp3|Sihgwa.
 bs|mp3/Lesson-10-089.mp3|Sǐ:gwu.
-bs|mp3/Lesson-11-002.mp3|Saduɂi:ne̋: Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-11-002.mp3|Saduɂi:ne̋ Jalagi go:hwe:lv̀:ɂi.
 bs|mp3/Lesson-11-004.mp3|Dijé:nv̀:sv́ hé:g.
 bs|mp3/Lesson-11-005.mp3|Dijé:nv̀:sv̋:ɂi hé:ga.
 bs|mp3/Lesson-11-007.mp3|Ha:dlv hé:g?
@@ -697,212 +697,50 @@ bs|mp3/Lesson-11-191.mp3|Ǔ:tan.
 bs|mp3/Lesson-11-192.mp3|Ǔ:tana.
 bs|mp3/Lesson-11-197.mp3|Gǎ:da.
 bs|mp3/Lesson-11-201.mp3|Ga:da:ha̋.
-bs|mp3/Lesson-12-002.mp3|Táɂlduɂi: Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-12-002.mp3|Táɂlduɂi Jalagi go:hwe:lv̀:ɂi.
 bs|mp3/Lesson-12-004.mp3|Na achű:ja jù:lúhjv̌ kò:hi̋.
 bs|mp3/Lesson-12-005.mp3|Tlaidv́galúhji.
 bs|mp3/Lesson-12-006.mp3|Na achű:ja.
 bs|mp3/Lesson-12-007.mp3|Jù:lúhjv̌ kò:hi̋, tlaidv́galúhji.
 bs|mp3/Lesson-12-009.mp3|Ká:gā na achű:ja?
-bs|mp3/Lesson-12-013.mp3|
-bs|mp3/Lesson-12-014.mp3|
-bs|mp3/Lesson-12-015.mp3|
-bs|mp3/Lesson-12-016.mp3|
-bs|mp3/Lesson-12-017.mp3|
-bs|mp3/Lesson-12-018.mp3|
-bs|mp3/Lesson-12-019.mp3|
-bs|mp3/Lesson-12-020.mp3|
-bs|mp3/Lesson-12-021.mp3|
-bs|mp3/Lesson-12-022.mp3|
-bs|mp3/Lesson-12-023.mp3|
-bs|mp3/Lesson-12-024.mp3|
-bs|mp3/Lesson-12-025.mp3|
-bs|mp3/Lesson-12-026.mp3|
-bs|mp3/Lesson-12-027.mp3|
-bs|mp3/Lesson-12-028.mp3|
-bs|mp3/Lesson-12-029.mp3|
-bs|mp3/Lesson-12-030.mp3|
-bs|mp3/Lesson-12-031.mp3|
-bs|mp3/Lesson-12-032.mp3|
-bs|mp3/Lesson-12-033.mp3|
-bs|mp3/Lesson-12-034.mp3|
-bs|mp3/Lesson-12-035.mp3|
-bs|mp3/Lesson-12-036.mp3|
-bs|mp3/Lesson-12-037.mp3|
-bs|mp3/Lesson-12-038.mp3|
-bs|mp3/Lesson-12-039.mp3|
-bs|mp3/Lesson-12-040.mp3|
-bs|mp3/Lesson-12-041.mp3|
-bs|mp3/Lesson-12-042.mp3|
-bs|mp3/Lesson-12-043.mp3|
-bs|mp3/Lesson-12-044.mp3|
-bs|mp3/Lesson-12-045.mp3|
-bs|mp3/Lesson-12-046.mp3|
-bs|mp3/Lesson-12-047.mp3|
-bs|mp3/Lesson-12-048.mp3|
-bs|mp3/Lesson-12-049.mp3|
-bs|mp3/Lesson-12-050.mp3|
-bs|mp3/Lesson-12-051.mp3|
-bs|mp3/Lesson-12-052.mp3|
-bs|mp3/Lesson-12-053.mp3|
-bs|mp3/Lesson-12-054.mp3|
-bs|mp3/Lesson-12-055.mp3|
-bs|mp3/Lesson-12-056.mp3|
-bs|mp3/Lesson-12-057.mp3|
-bs|mp3/Lesson-12-058.mp3|
-bs|mp3/Lesson-12-059.mp3|
-bs|mp3/Lesson-12-060.mp3|
-bs|mp3/Lesson-12-061.mp3|
-bs|mp3/Lesson-12-062.mp3|
-bs|mp3/Lesson-12-063.mp3|
-bs|mp3/Lesson-12-064.mp3|
-bs|mp3/Lesson-12-065.mp3|
-bs|mp3/Lesson-12-066.mp3|
-bs|mp3/Lesson-12-067.mp3|
-bs|mp3/Lesson-12-068.mp3|
-bs|mp3/Lesson-12-069.mp3|
-bs|mp3/Lesson-12-070.mp3|
-bs|mp3/Lesson-12-071.mp3|
-bs|mp3/Lesson-12-072.mp3|
-bs|mp3/Lesson-12-073.mp3|
-bs|mp3/Lesson-12-074.mp3|
-bs|mp3/Lesson-12-075.mp3|
-bs|mp3/Lesson-12-076.mp3|
-bs|mp3/Lesson-12-077.mp3|
-bs|mp3/Lesson-12-078.mp3|
-bs|mp3/Lesson-12-079.mp3|
-bs|mp3/Lesson-12-080.mp3|
-bs|mp3/Lesson-12-081.mp3|
-bs|mp3/Lesson-12-082.mp3|
-bs|mp3/Lesson-12-083.mp3|
-bs|mp3/Lesson-12-084.mp3|
-bs|mp3/Lesson-12-085.mp3|
-bs|mp3/Lesson-12-086.mp3|
-bs|mp3/Lesson-12-087.mp3|
-bs|mp3/Lesson-12-088.mp3|
-bs|mp3/Lesson-12-089.mp3|
-bs|mp3/Lesson-12-090.mp3|
-bs|mp3/Lesson-12-091.mp3|
-bs|mp3/Lesson-12-092.mp3|
-bs|mp3/Lesson-12-093.mp3|
-bs|mp3/Lesson-12-094.mp3|
-bs|mp3/Lesson-12-095.mp3|
-bs|mp3/Lesson-12-096.mp3|
-bs|mp3/Lesson-12-097.mp3|
-bs|mp3/Lesson-12-098.mp3|
-bs|mp3/Lesson-12-099.mp3|
-bs|mp3/Lesson-12-100.mp3|
-bs|mp3/Lesson-12-101.mp3|
-bs|mp3/Lesson-12-102.mp3|
-bs|mp3/Lesson-12-103.mp3|
-bs|mp3/Lesson-12-104.mp3|
-bs|mp3/Lesson-12-105.mp3|
-bs|mp3/Lesson-12-106.mp3|
-bs|mp3/Lesson-12-107.mp3|
-bs|mp3/Lesson-12-108.mp3|
-bs|mp3/Lesson-12-109.mp3|
-bs|mp3/Lesson-12-110.mp3|
-bs|mp3/Lesson-12-111.mp3|
-bs|mp3/Lesson-12-112.mp3|
-bs|mp3/Lesson-12-113.mp3|
-bs|mp3/Lesson-12-114.mp3|
-bs|mp3/Lesson-12-115.mp3|
-bs|mp3/Lesson-12-116.mp3|
-bs|mp3/Lesson-12-117.mp3|
-bs|mp3/Lesson-12-118.mp3|
-bs|mp3/Lesson-12-119.mp3|
-bs|mp3/Lesson-12-120.mp3|
-bs|mp3/Lesson-12-121.mp3|
-bs|mp3/Lesson-12-122.mp3|
-bs|mp3/Lesson-12-123.mp3|
-bs|mp3/Lesson-12-124.mp3|
-bs|mp3/Lesson-12-125.mp3|
-bs|mp3/Lesson-12-126.mp3|
-bs|mp3/Lesson-12-127.mp3|
-bs|mp3/Lesson-12-128.mp3|
-bs|mp3/Lesson-12-129.mp3|
-bs|mp3/Lesson-12-130.mp3|
-bs|mp3/Lesson-12-131.mp3|
-bs|mp3/Lesson-12-132.mp3|
-bs|mp3/Lesson-12-133.mp3|
-bs|mp3/Lesson-12-134.mp3|
-bs|mp3/Lesson-12-135.mp3|
-bs|mp3/Lesson-12-136.mp3|
-bs|mp3/Lesson-12-137.mp3|
-bs|mp3/Lesson-12-138.mp3|
-bs|mp3/Lesson-12-139.mp3|
-bs|mp3/Lesson-12-140.mp3|
-bs|mp3/Lesson-12-141.mp3|
-bs|mp3/Lesson-12-142.mp3|
-bs|mp3/Lesson-12-143.mp3|
-bs|mp3/Lesson-12-144.mp3|
-bs|mp3/Lesson-12-145.mp3|
-bs|mp3/Lesson-12-146.mp3|
-bs|mp3/Lesson-12-147.mp3|
-bs|mp3/Lesson-12-148.mp3|
-bs|mp3/Lesson-12-149.mp3|
-bs|mp3/Lesson-12-150.mp3|
-bs|mp3/Lesson-12-151.mp3|
-bs|mp3/Lesson-12-152.mp3|
-bs|mp3/Lesson-12-153.mp3|
-bs|mp3/Lesson-12-154.mp3|
-bs|mp3/Lesson-12-155.mp3|
-bs|mp3/Lesson-12-156.mp3|
-bs|mp3/Lesson-12-157.mp3|
-bs|mp3/Lesson-12-158.mp3|
-bs|mp3/Lesson-12-159.mp3|
-bs|mp3/Lesson-12-160.mp3|
-bs|mp3/Lesson-12-161.mp3|
-bs|mp3/Lesson-12-162.mp3|
-bs|mp3/Lesson-12-163.mp3|
-bs|mp3/Lesson-12-164.mp3|
-bs|mp3/Lesson-12-165.mp3|
-bs|mp3/Lesson-12-166.mp3|
-bs|mp3/Lesson-12-167.mp3|
-bs|mp3/Lesson-12-168.mp3|
-bs|mp3/Lesson-12-169.mp3|
-bs|mp3/Lesson-12-170.mp3|
-bs|mp3/Lesson-12-171.mp3|
-bs|mp3/Lesson-12-172.mp3|
-bs|mp3/Lesson-12-173.mp3|
-bs|mp3/Lesson-12-174.mp3|
-bs|mp3/Lesson-12-175.mp3|
-bs|mp3/Lesson-12-176.mp3|
-bs|mp3/Lesson-12-177.mp3|
-bs|mp3/Lesson-12-178.mp3|
-bs|mp3/Lesson-12-179.mp3|
-bs|mp3/Lesson-12-180.mp3|
-bs|mp3/Lesson-12-181.mp3|
-bs|mp3/Lesson-12-182.mp3|
-bs|mp3/Lesson-12-183.mp3|
-bs|mp3/Lesson-12-184.mp3|
-bs|mp3/Lesson-12-185.mp3|
-bs|mp3/Lesson-12-186.mp3|
-bs|mp3/Lesson-12-187.mp3|
-bs|mp3/Lesson-12-188.mp3|
-bs|mp3/Lesson-12-189.mp3|
-bs|mp3/Lesson-12-190.mp3|
-bs|mp3/Lesson-12-191.mp3|
-bs|mp3/Lesson-12-192.mp3|
-bs|mp3/Lesson-12-193.mp3|
-bs|mp3/Lesson-12-194.mp3|
-bs|mp3/Lesson-12-195.mp3|
-bs|mp3/Lesson-12-196.mp3|
-bs|mp3/Lesson-12-197.mp3|
-bs|mp3/Lesson-13-000.mp3|
-bs|mp3/Lesson-13-001.mp3|
-bs|mp3/Lesson-13-002.mp3|
-bs|mp3/Lesson-13-003.mp3|
-bs|mp3/Lesson-13-004.mp3|
-bs|mp3/Lesson-13-005.mp3|
-bs|mp3/Lesson-13-006.mp3|
-bs|mp3/Lesson-13-007.mp3|
-bs|mp3/Lesson-13-008.mp3|
-bs|mp3/Lesson-13-009.mp3|
-bs|mp3/Lesson-13-010.mp3|
-bs|mp3/Lesson-13-011.mp3|
-bs|mp3/Lesson-13-012.mp3|
-bs|mp3/Lesson-13-013.mp3|
-bs|mp3/Lesson-13-014.mp3|
+bs|mp3/Lesson-12-015.mp3|Ha:dlv?
+bs|mp3/Lesson-12-016.mp3|Ha:dlvɂi?
+bs|mp3/Lesson-12-018.mp3|À:tv:gâ:nv nù:wè:sv.
+bs|mp3/Lesson-12-021.mp3|Dò ad?
+bs|mp3/Lesson-12-022.mp3|Gadò ad?
+bs|mp3/Lesson-12-023.mp3|Gadò adā?
+bs|mp3/Lesson-12-043.mp3|Hila̋ ǐ:ga̋?
+bs|mp3/Lesson-12-044.mp3|Hila̋ ǐ:ga̋ɂi?
+bs|mp3/Lesson-12-049.mp3|Hila̋dv?
+bs|mp3/Lesson-12-052.mp3|Hila̋ nà:ní?
+bs|mp3/Lesson-12-053.mp3|Hila̋ nà:ní:ɂa?
+bs|mp3/Lesson-12-120.mp3|Hila̋ go:hwe:li jadu:lí?
+bs|mp3/Lesson-12-121.mp3|Hila̋ go:hwe:li jadu:líɂa?
+bs|mp3/Lesson-12-125.mp3|Hila̋ ǐ:ga̋ɂi jadu:líɂa?
+bs|mp3/Lesson-12-127.mp3|Hilâ:yv̋ dv́ɂhilúhji?
+bs|mp3/Lesson-12-133.mp3|Halâ:yv̋ é:gwő:ni?
+bs|mp3/Lesson-12-136.mp3|Halâ:yv̋ wù:sda é:gwő:ni?
+bs|mp3/Lesson-12-143.mp3|É:gwő:n.
+bs|mp3/Lesson-12-144.mp3|É:gwő:ni.
+bs|mp3/Lesson-12-146.mp3|Jiɂluh.
+bs|mp3/Lesson-12-147.mp3|Jiɂluhgī.
+bs|mp3/Lesson-12-149.mp3|Hiɂluh.
+bs|mp3/Lesson-12-150.mp3|Hiɂluhgī.
+bs|mp3/Lesson-12-152.mp3|Gaɂluh.
+bs|mp3/Lesson-12-153.mp3|Gaɂluhgī.
+bs|mp3/Lesson-12-155.mp3|Aniɂluh.
+bs|mp3/Lesson-12-156.mp3|Aniɂluhgī.
+bs|mp3/Lesson-12-158.mp3|Gatv:gī.
+bs|mp3/Lesson-12-161.mp3|Hatv:gī.
+bs|mp3/Lesson-12-164.mp3|Atv:gī.
+bs|mp3/Lesson-12-184.mp3|À:sdû:.
+bs|mp3/Lesson-12-185.mp3|À:sdû:di.
+bs|mp3/Lesson-12-190.mp3|Dla:me:ha.
+bs|mp3/Lesson-12-191.mp3|Dla:ma:ha.
+bs|mp3/Lesson-12-193.mp3|Dla:nú:s.
+bs|mp3/Lesson-12-194.mp3|Dla:nú:si.
+bs|mp3/Lesson-12-196.mp3|Dlù:dlu.
+bs|mp3/Lesson-13-001.mp3|Joɂgaduɂi Jalagi go:hwe:lv̀:ɂi.
 bs|mp3/Lesson-13-015.mp3|
 bs|mp3/Lesson-13-016.mp3|
 bs|mp3/Lesson-13-017.mp3|
