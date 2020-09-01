@@ -9,6 +9,11 @@ z="$(pwd)"
 rm *.npy 2> /dev/null || true
 rm *.wav 2> /dev/null || true
 
+for x in "$z"/*-[0-9][0-9]-*; do
+	if [ ! -d "$x" ]; then continue; fi
+	rm -r "$x"
+done
+
 cd ../../..
 y="$(pwd)"
 
@@ -16,7 +21,8 @@ source ~/miniconda3/etc/profile.d/conda.sh
 
 conda activate ./env
 
-cp="$(ls -1tr checkpoints/|tail -n 1)"
+cp="$(ls -1tr checkpoints/*CHEROKEE4*|tail -n 1)"
+cp="$(basename "$cp")"
 
 printf "Using checkpoint: $cp\n"
 
@@ -26,12 +32,10 @@ cp /dev/null "$tmp"
 
 cp /dev/null "$z"/voices.txt
 
-(
-	for lang in fr de nl ru zh; do
-		cut -f 2 -d '|' "$z"/../../cherokee6c/val.txt|sort|uniq|shuf|grep "$lang"|tail -n 1
-	done
-) >> "$z"/voices.txt
-
+cut -f 2 -d '|' "$z"/../../cherokee4/all.txt |\
+	sort | uniq |\
+	grep -v 'ru' | grep -v 'nl' | grep -v 'zh' \
+	> "$z"/voices.txt
 
 #cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
 
@@ -48,7 +52,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-shuf "$text" | tail -n 1 > "$selected"
+shuf "$text" | shuf | shuf | shuf | tail -n 10 | sort > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
@@ -70,7 +74,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx-cpu.py
+	#python wavernnx-cpu.py
+	python wavernnx.py
 
 	ix=0
 	mp3s=($(cut -f 3 "$selected" | sed 's/ /_/g'))
@@ -78,14 +83,14 @@ for voice in "${v[@]}"; do
 		ix="$(($ix+1))"
 		wav="wg-$ix.wav"
 		mp3="$wg"-"$voice/$mp3"
-		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" 2>&1 > /dev/null
+		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
 		rm "$wav"
 	done
 	
 	xdg-open "$wg"-"$voice"
 	
 	ix=0
-	cut -f 3 "$selected" | while read line; do
+	cat "$selected" | while read line; do
 		ix="$(($ix+1))"
 		rm "$ix".wav 2> /dev/null || true
 		rm "$ix".npy 2> /dev/null || true

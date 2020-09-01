@@ -57,7 +57,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$text" "$wg"-"$voice"
 
-	python wavernnx-cpu.py
+	#python wavernnx-cpu.py
+	python wavernnx.py
 	
 	count=$(wc -l "$text")
 	for ix in $(seq 1 1 $count); do
