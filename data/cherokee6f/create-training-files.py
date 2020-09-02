@@ -23,8 +23,7 @@ for parent in [ "../cherokee-audio/beginning-cherokee",
 				"../cherokee-audio/cherokee-language-coach-2",
 				"../cherokee-audio/durbin-feeling",
 				"../cherokee-audio/michael-conrad",
-				"../cherokee-audio/sam-hider",
-				"../comvoi_clean"
+				"../cherokee-audio/sam-hider"
 				]:
 	for dir in ["linear_spectrograms", "spectrograms"]:
 	    rmtree(os.path.join(parent, dir), ignore_errors=True)
@@ -34,7 +33,7 @@ for parent in [ "../cherokee-audio/beginning-cherokee",
 			line=ud.normalize("NFC",line.strip())
 			line=line.replace("|wav/", "|"+parent+"/wav/")
 			lines.append(line)
-		random.Random(0).shuffle(lines)
+		random.Random(1).shuffle(lines)
 		size=len(lines)
 		trainSize=int((size*90/100))
 		with open("train.txt", "a") as t:
@@ -54,6 +53,8 @@ with open("../cherokee-audio/beginning-cherokee/all.txt", "r") as f:
 		lines.append(line)
 
 #Common Voice Data
+for dir in ["linear_spectrograms", "spectrograms"]:
+    rmtree(os.path.join("../comvoi_clean", dir), ignore_errors=True)
 commonVoice:list=[]
 with open("../comvoi_clean/all.txt") as f:
 	for line in f:
@@ -66,7 +67,7 @@ with open("../comvoi_clean/all.txt") as f:
 		text:str=ud.normalize("NFC",fields[4])
 		commonVoice.append(f"{recno}|{speaker}-{language}|{language}|../comvoi_clean/{wav}|||{text}|")
 
-	random.Random(0).shuffle(commonVoice)
+	random.Random(2).shuffle(commonVoice)
 	size=len(commonVoice)
 	trainSize=int((size*95/100))
 	with open("train.txt", "a") as t:
@@ -94,6 +95,10 @@ for i in range(6,21):
 		text:str=fields[6]
 		#intentionally wanting text to be in NFD form.
 		text=ud.normalize("NFD", text)
+		#convert vowel orthography of non-Cherokee text shoved in as a placeholder to something different
+		for vix, c in enumerate("aeiouv"):
+			text=ud.normalize("NFD", text)
+			text=text.replace(c, f"{vix:d}")
 		t.write(f"{recno}|{i:02d}-chr|chr|{wav}|||{text}|")
 		t.write("\n")
 	with open("val.txt", "a") as v:
@@ -105,16 +110,22 @@ for i in range(6,21):
 		text:str=fields[6]
 		#intentionally wanting text to remain in NFD form.
 		text=ud.normalize("NFD", text)
+		#convert vowel orthography of non-Cherokee text shoved in as a placeholder to something different
+		for vix, c in enumerate("aeiouv"):
+			text=ud.normalize("NFD", text)
+			text=text.replace(c, f"{vix:d}")
 		v.write(f"{recno}|{i:02d}-chr|chr|{wav}|||{text}|")
 		v.write("\n")
 
-random.Random(i).shuffle(lines)
+random.Random(3).shuffle(lines)
 with open("train.txt", "a") as t:
-	line=lines[0].replace("|02-chr", "|01-syn-chr")
+	line=lines[0]
+	line = re.sub("\\d+-chr", "01-syn-chr", line)
 	t.write(line)
 	t.write("\n")
 with open("val.txt", "a") as v:
-	line=lines[1].replace("|02-chr", "|01-syn-chr")
+	line=lines[1]
+	line = re.sub("\\d+-chr", "01-syn-chr", line)
 	v.write(line)
 	v.write("\n")
 
@@ -123,7 +134,7 @@ lines=[]
 with open("train.txt", "r") as t:
 	for line in t:
 		lines.append(line)
-random.Random(1).shuffle(lines)
+random.Random(4).shuffle(lines)
 with open("train.txt", "w") as t:
 	for line in lines:
 		t.write(line)
@@ -133,7 +144,7 @@ lines=[]
 with open("val.txt", "r") as v:
 	for line in v:
 		lines.append(line)
-random.Random(1).shuffle(lines)
+random.Random(5).shuffle(lines)
 with open("val.txt", "w") as v:
 	for line in lines:
 		v.write(line)
