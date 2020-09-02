@@ -9,6 +9,8 @@ import pathlib
 import subprocess
 from shutil import rmtree
 
+comvoiIgnore:list=["nl", "zh"]
+
 workdir:str = os.path.dirname(sys.argv[0])
 if workdir.strip() != "":
 	os.chdir(workdir)
@@ -61,7 +63,10 @@ with open("../comvoi_clean/all.txt") as f:
 		speaker:str=fields[1]
 		language:str=fields[2]
 		wav:str=fields[3]
-		if language == "zh":
+		if language in comvoiIgnore:
+			#don't put unused languages in train and val files.
+			#even though the training process ignores the entries
+			#the spectrogram preprocessing step does not ignore them.
 			continue
 		text:str=ud.normalize("NFD",fields[4]) #use decomposed diactrics for donor voices
 		commonVoice.append(f"{recno}|{speaker}-{language}|{language}|../comvoi_clean/{wav}|||{text}|")
