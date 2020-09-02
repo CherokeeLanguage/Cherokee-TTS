@@ -117,6 +117,8 @@ for x in [1, 2, 3, 4]:
     line:str = ""
     cntr:int=1
     
+    synscript:str = ""
+    
     script:str = "# Script for low-tone only words.\n"
     script+="\n"
     script+="The macron on trailing vowels means keep the vowel at a low tone and to not use\n"
@@ -158,7 +160,8 @@ for x in [1, 2, 3, 4]:
             lineLength -= 9
             wordComma=randx.randint(2,10) #random clause marks
         if wordCntr >= lineLength:
-            script += str(cntr)+". "+line+".\n" 
+            script += str(cntr)+". "+line.strip()+".\n"
+            synscript += line.strip()+".\n"
             line=""
             lineLength=0
             wordCntr=0
@@ -177,8 +180,11 @@ for x in [1, 2, 3, 4]:
                 line+=" "
             line+=text
     if len(line)>0:
-        script += str(cntr)+". "+line+".\n"
-        
+        script += str(cntr)+". "+line.strip()+".\n"
+        synscript += line.strip()+".\n"
+    
+    with open("scripts/script-bare-"+str(x)+".txt", "w") as w:
+        w.write(synscript)
     with open("scripts/script-"+str(x)+".txt", "w") as w:
         w.write(script)
     with open("scripts/script-"+str(x)+".md", "w") as w:
