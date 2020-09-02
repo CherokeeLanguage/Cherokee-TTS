@@ -14,7 +14,7 @@ if workdir.strip() != "":
 	os.chdir(workdir)
 workdir = os.getcwd()
 
-for file in ["train.txt", "val.txt"]:
+for file in ["train.txt", "val.txt", "all.txt"]:
 	if os.path.exists(file):
 		os.remove(file)
 
@@ -43,14 +43,11 @@ for parent in [ "../cherokee-audio/beginning-cherokee",
 		with open("val.txt", "a") as t:
 			for line in lines[trainSize:]:
 				t.write(line)
-				t.write("\n")		
-
-lines:list = []
-with open("../cherokee-audio/beginning-cherokee/all.txt", "r") as f:
-	for line in f:
-		line=ud.normalize("NFC",line.strip())
-		line=line.replace("|wav/", "|../cherokee-audio/beginning-cherokee/wav/")
-		lines.append(line)
+				t.write("\n")
+		with open("all.txt", "a") as t:
+			for line in lines:
+				t.write(line)
+				t.write("\n")
 
 #Common Voice Data
 for dir in ["linear_spectrograms", "spectrograms"]:
@@ -64,7 +61,9 @@ with open("../comvoi_clean/all.txt") as f:
 		speaker:str=fields[1]
 		language:str=fields[2]
 		wav:str=fields[3]
-		text:str=ud.normalize("NFC",fields[4])
+		if language == "zh":
+			continue
+		text:str=ud.normalize("NFD",fields[4]) #use decomposed diactrics for donor voices
 		commonVoice.append(f"{recno}|{speaker}-{language}|{language}|../comvoi_clean/{wav}|||{text}|")
 
 	random.Random(2).shuffle(commonVoice)
@@ -78,56 +77,10 @@ with open("../comvoi_clean/all.txt") as f:
 		for line in commonVoice[trainSize:]:
 			t.write(line)
 			t.write("\n")
-
-femaleVoices:list=["14-de", "51-de", "02-fr", "04-fr", "14-fr", "18-fr", "19-fr", "22-fr", "03-ru"]
-
-#We don't shuffle the female donor voices to prevent training issues
-for i in range(6,21):
-	voice:str=femaleVoices[i%len(femaleVoices)]
-	donorLines = [s for s in commonVoice if "|"+voice+"|" in s]
-	random.Random(i).shuffle(donorLines)
-	with open("train.txt", "a") as t:
-		fields=donorLines[0].split("|")
-		recno:str=fields[0]
-		speaker:str=fields[1]
-		language:str=fields[2]
-		wav:str=fields[3]
-		text:str=fields[6]
-		#intentionally wanting text to be in NFD form.
-		text=ud.normalize("NFD", text)
-		#convert vowel orthography of non-Cherokee text shoved in as a placeholder to something different
-		for vix, c in enumerate("aeiouv"):
-			text=ud.normalize("NFD", text)
-			text=text.replace(c, f"{vix:d}")
-		t.write(f"{recno}|{i:02d}-chr|chr|{wav}|||{text}|")
-		t.write("\n")
-	with open("val.txt", "a") as v:
-		fields=donorLines[1].split("|")
-		recno:str=fields[0]
-		speaker:str=fields[1]
-		language:str=fields[2]
-		wav:str=fields[3]
-		text:str=fields[6]
-		#intentionally wanting text to remain in NFD form.
-		text=ud.normalize("NFD", text)
-		#convert vowel orthography of non-Cherokee text shoved in as a placeholder to something different
-		for vix, c in enumerate("aeiouv"):
-			text=ud.normalize("NFD", text)
-			text=text.replace(c, f"{vix:d}")
-		v.write(f"{recno}|{i:02d}-chr|chr|{wav}|||{text}|")
-		v.write("\n")
-
-random.Random(3).shuffle(lines)
-with open("train.txt", "a") as t:
-	line=lines[0]
-	line = re.sub("\\d+-chr", "01-syn-chr", line)
-	t.write(line)
-	t.write("\n")
-with open("val.txt", "a") as v:
-	line=lines[1]
-	line = re.sub("\\d+-chr", "01-syn-chr", line)
-	v.write(line)
-	v.write("\n")
+	with open("all.txt", "a") as t:
+		for line in commonVoice:
+			t.write(line)
+			t.write("\n")
 
 #rewrite shuffled
 lines=[]
