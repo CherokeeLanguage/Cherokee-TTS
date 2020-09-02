@@ -29,7 +29,8 @@ printf "Using checkpoint: $cp\n"
 tmp="$z/tmp.txt"
 cp /dev/null "$tmp"
 
-v=("02-ru" "03-ru" "01-chr" "02-chr" "03-chr" "04-chr")
+#v=("02-ru" "03-ru" "01-chr" "02-chr" "03-chr" "04-chr")
+v=("14-de" "51-de" "02-fr" "04-fr" "14-fr" "18-fr" "19-fr" "22-fr" "03-ru" "03-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -49,7 +50,7 @@ for voice in "${v[@]}"; do
 
 	cd "$y"
 	
-	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" #--cpu
 
 	cd "$z"
 	
@@ -60,20 +61,20 @@ for voice in "${v[@]}"; do
 	#python wavernnx-cpu.py
 	python wavernnx.py
 	
-	count=$(wc -l "$text")
-	for ix in $(seq 1 1 $count); do
-		iy=$(($ix - 1))
-		mp3=$(printf "%02d" $count)
-		wav="wg-$iy.wav"
-		mp3="$wg"-"$voice/$mp3"
-		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3"
+	count=$(wc -l "$selected"|cut -f 1 -d ' ')
+	for ix in $(seq 1 $count); do
+		iy=$(printf "%02d" $ix)
+		wav="$wg"-"$voice/wg-$ix.wav"
+		mv "$ix.wav" "$wav"
+		mp3="$wg"-"$voice/$wg-$voice-$iy".mp3
+		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" 2>&1 > /dev/null
 		rm "$wav"
 	done
 
 	xdg-open "$wg"-"$voice"
 	
-	ix=0
-	cat "$text" | while read line; do
+	count=$(wc -l "$text"|cut -f 1 -d ' ')
+	for ix in $(seq 1 $count); do
 		ix="$(($ix+1))"
 		rm "$ix".wav
 		rm "wg-$ix".wav

@@ -29,7 +29,7 @@ for x in "$z"/animals-[0-9][0-9]-*; do
 	rm -r "$x"
 done
 
-v=("14-de" "51-de" "02-fr" "04-fr" "14-fr" "18-fr" "19-fr" "22-fr" "03-ru", "03-chr")
+v=("14-de" "51-de" "02-fr" "04-fr" "14-fr" "18-fr" "19-fr" "22-fr" "03-ru" "03-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -37,7 +37,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-shuf "$text" | tail -n 5 > "$selected"
+shuf "$text" | tail -n 10 | sort > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
