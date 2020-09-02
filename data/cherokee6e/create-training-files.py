@@ -128,15 +128,10 @@ with open("../comvoi_clean/all.txt") as f:
 
 femaleVoices:list=["14-de", "51-de", "02-fr", "04-fr", "14-fr", "18-fr", "19-fr", "22-fr", "03-ru"]
 
-while len(femaleVoices) < 21:
-	temp = femaleVoices.copy()
-	for v in temp:
-		femaleVoices.append(v)
-
 #We don't shuffle the female donor voices to prevent training issues
 
 for i in range(5,21):
-	voice:str=femaleVoices[i]
+	voice:str=femaleVoices[i%len(femaleVoices)]
 	donorLines = [s for s in commonVoice if "|"+voice+"|" in s]
 	random.Random(i).shuffle(donorLines)
 	with open("train.txt", "a") as t:
@@ -148,6 +143,10 @@ for i in range(5,21):
 		text:str=fields[6]
 		#intentionally wanting text to be in NFD form.
 		text=ud.normalize("NFD", text)
+		#convert vowel orthography of non-Cherokee text shoved in as a placeholder to something different
+		for vix, c in enumerate("aeiouv"):
+			text=ud.normalize("NFD", text)
+			text=text.replace(c, f"{vix:d}")
 		t.write(f"{recno}|{i:02d}-chr|chr|{wav}|||{text}|")
 		t.write("\n")
 	with open("val.txt", "a") as v:
