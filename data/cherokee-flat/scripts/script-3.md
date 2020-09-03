@@ -29,31 +29,67 @@ pronounced as the start of the next syllable.
 
 ## Script 3
 
-1. Kwanā i:nv:hī hisg wo:yā du:ktinv:tā.
-2. Aje:sd sigig o:ganā i:gā.
-3. A:liɂī, u:daleɂhī u:no:l kil du:ktinv:t diganu:lajī geɂī ajaɂdī.
-4. Anv:hyī ji:lalī ago:l kwan ajalag wadō, go:tisg akt ago:lā.
-5. U:daliɂī gv:nawo:sgā asgayā nigaweɂā salī go:g.
-6. Kanu:n, ayo:hu:hisdī yansā goɂī e:ladī u:halv:nī.
-7. Sal kanalu:sg jo:g dala:l. U:d.
-8. Wad gatdī aligv:du:l u:jo:nat ka:gaɂlī o:gan sv:do:n gu:l.
-9. Al. Kama:m daks gv:nawo:sg ayo:hu:hisd naɂv̄ ji:sdū u:j i:s.
-10. U:ktā di:hnawō waktī sv:do:nī ga:sgilō ajin aje:sdō jo:lā.
-11. Kama:mā sa:s gat. Jo:l o:hnī uwe:lā yv:gī.
-12. Go:tisgā i:yā dla:me:hā nv:dā. Gu:lē gv:hē wakt.
-13. Jalagī usk no:yā chino:sgā no:yī.
-14. Ast am astī nā i:sā.
-15. Sv:hī go:hwe:l kanalu:sgā uwe:l a:l adā u:ji:yā. Ga:kwe:nv:sg ga:kwe:nv:sgā.
-16. Uskā a:dlā aligv:du:lō hisgī gv:hnā.
-17. Amā digo:hwe:l u:do:dā tin.
-18. Ga:sgil v:l. Dlv̄ daksī.
-19. Ga:hatdī u:li:ksī gaɂlo:hnī da:hnawā.
-20. U:halv:n. Ha:dlv̄ kuwā do:s yans kanu:nā go:hwe:lī.
-21. Ago:n jigiɂlilī. Dala:lā.
-22. Chino:sg tinā ganv:no:wā ju:hnawō. Yv:g u:dō joɂī u:kt kilā.
-23. Jo:gī u:du:jī jv:sgi:nō ji:lal alē.
-24. Su:lī, digo:hwe:lī gatā i:g jv:sgi:n jigiɂlil kano:gē sigigī u:do:d.
-25. Kano:g akiyu:sg ji:sd ago:nā u:je:lī nī.
-26. V:dalī kuwa:yā yv:wī, u:li:ks ad hiɂā.
-27. Gili:sī e:lad. A:lī go:gī.
-28. U:hyv:dlā aktā, udlī u:jī.
+1. Ju:sdayo:sd dala:lā diganu:laj waktī ani:chv:yā.
+2. Al kanu:n sa:s had.
+3. Adliɂadō, gatā sigigī ago:n hine:sdaladā hadlag higaɂlā dlv̄.
+4. U:tdī ju:ni:ye:li:hisdī hisu:ligoɂī uwv:tdī sal hidlā, di:ligv:du:lō u:tayo:sdī e:ladī.
+5. Jiɂgisgā ani:kti:s akt ani:dvj u:hnalu:hisdī hid.
+6. U:sv:sdī, ju:ni:ye:li:hisd jusk a:dlā jiyoɂu:sg jo:lā.
+7. Dikano:gē di:hnawō yv:g digo:hwe:lī. Hitalagā.
+8. Hakt gili:sī chayvsdagā hadv:nv:ɂisd v:l di:ktā goɂosgā ju:dlo:hisdī.
+9. Di:kiyu:sg. U:ni:ktā dala:l galo:sgā go:hosg higā o:ganā u:go:hisd e:lad.
+10. Hitalad hikte:nagā hi:neɂvs galo:sg kama:m ajin u:yv:hwi:tdī u:halv:n.
+11. Hadlagī hini:ladā nijiweɂā. Ast yv:gī ago:l advjī.
+12. Achv:yā hisduɂī du:ktinv:t gat. Ayo:hu:hisdī hadajagal juskā.
+13. U:di:tdī kawo:hnī u:ni:gv:wiyu:hī howā hi:yadeɂo:hisdā.
+14. Gu:l ani:jalag ju:dlo:hisd kanalu:sgā uwa:jayo:sd.
+15. U:ni:ji:yā lo:l joɂī hiɂvs hv:sgalad ani:go:l gv:hē. Hilo:hisd di:kiyu:sgē.
+16. Diga:hatdī kanalu:sg o:gan ju:du:j u:su:ligosdī.
+17. U:di:tasd u:tale:sdī hiɂvsī di:dliɂadō.
+18. Jayo:dagā gatdī. A:liɂī hiladā.
+19. U:di:tasdī nigaweɂā hi:yadeɂo:hisd ga:hatdī.
+20. Adliɂad. Gaɂdvsgā hadawe:lag ju:halv:n hadagī sv:do:n u:ne:hwi:tdī.
+21. Uwa:jayo:sdī diganu:lajī. Alē.
+22. Hil ha:ne:ladā u:dlv:tasdī hisgī. Advj ka:gaɂlī u:de:tdī naɂv̄ akti:s.
+23. Ju:nadaliɂī u:hwisd hilad jo:gī do:s.
+24. Ju:dō, u:do:dā diga:sgilō kil uwa:nawo:hisd di:hu:lī akti:sī u:dayv:latdī gu:lē.
+25. Ani:sgayā ju:liks da:hnawā hadawe:lagā sigig hadā.
+26. Hig hi:neɂvsī i:gā, ju:hv:tdī u:hnawosdī astī.
+27. U:hnesdī hi:jagalā. Kanu:nā uwe:l.
+28. Di:jalagī go:hwe:l, hiyā jigiɂlil.
+29. Ani:dvjī hiyoɂi:sd u:su:ligosd aktā gade:loɂo:sg ha:de:yag hatasgī, tin.
+30. U:yeɂisd hi:yeɂisdā ayo:hu:hisd ha:ne:lad ju:hnawō u:ga:nawo:hisd.
+31. U:hwisdī hilā u:yeɂisdī chino:sg hisgwal, skon.
+32. Kilā hakwiyā u:yo:sdī uwa:tisd ju:nadlo:hisd skonī uwa:gwayo:sdī.
+33. I:yā jiɂlv:sgā v:dal hatelad u:j aje:sdō.
+34. Ju:d. Gv:nawo:sg u:d.
+35. Di:hu:l uwa:no:sasdī u:hdī ji:sdū.
+36. Goɂosg go:g juwe:lā higv:halā ha:dlv̄ di:dliɂad ani:siyv:wi:hā higv:hal.
+37. Ju:nadlo:hisdī hi:yo:ligā. U:gv:wiyu:hī ga:kwe:nv:sgā ji:lalī u:lo:hisdī.
+38. Ago:lā hikte:nag u:lo:hisd am ha:hnig gade:loɂo:sgā u:dō du:ktinv:tā.
+39. Go:hwe:lī jade:tiyā u:hnesd halitī kano:g.
+40. Hilag hiyoɂi:sdā, u:jī ju:sdayo:sdī hisg sv:do:nī akiyu:sg.
+41. I:g u:no:lē u:hne:jo:d higī ani:go:lā hiko:dagī go:tisg.
+42. Daks jigiɂlilī ani:yv:wī. Dla:me:hā u:ga:nawo:hisdī hale:hwisdā u:li:ksī u:hisd.
+43. Gv:nawo:sgā ga:sgilō nī hi:yeɂisd.
+44. Hine:sdalad lo:lō hale:hwisd i:sā u:du:j tusd. Uskā.
+45. U:hwi:tdī u:jo:natdī uwa:gwayo:sd hadag ju:halv:nī.
+46. Nā u:kt amā kuwā.
+47. Di:ligv:du:l ga:kwe:nv:sg i:s jiɂgisg hv:hnisd.
+48. U:yo:hu:hisdī u:je:l ganv:no:wā udlī.
+49. Hilo:hisdā hituɂisdā ju:du:jī aje:sd v:lē go:tisgā.
+50. Yans u:go:hisdī yansā. Tinā hi:loɂisī hadv:nv:ɂisdā ju:liksī uwe:tdī.
+51. Hajaɂī nv:d tusdī hatasg haso:lv:dagī. Nv:dā hi:loɂis.
+52. U:dlv:tasd hateladā wakt.
+53. Di:kt juwe:l digatdī u:li:ks hisde:yag hisgwalā.
+54. Adā u:no:l. Ha:hnigī hiɂā.
+55. Dikano:g gaɂlo:hnī wad u:hnawō anv:hyī hinu:go:ɂī.
+56. U:tayo:sd wadō go:gī ad u:yv:sdī u:yv:sd u:hisdī.
+57. Goɂī ajinā.
+58. U:daleɂhī a:lī. Hisde:yagā juwe:tdī hig hini:lad hawi:yā hitaladā u:hyv:dlā.
+59. Kuwa:yā sa:sā u:ni:kt hi:jagal haso:lv:dag uwa:tisdī. Gili:s.
+60. Jv:sgi:n go:hosgā jayo:dag, jo:l u:tale:sd jv:sgi:nō o:hnī kwan.
+61. Hitalag kwanā u:ksatdī digo:hwe:l u:je:lī.
+62. Di:je:sdō halit, u:ji:yā hi:yo:lig do:hiyū u:hnalu:hisd.
+63. Hwid gaɂdvsg.
+64. Sv:hī haktā u:du:jī uwa:no:sasd.

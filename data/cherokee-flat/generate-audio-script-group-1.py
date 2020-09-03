@@ -28,20 +28,30 @@ v_notwanted = ["á", "é", "í", "ó", "ú", "v́", "a̋", "e̋",
 scripta:list = []
 scriptb:list = []
 
-with open("ced-multi.txt", "r") as f:
+with open("ced-mco.txt", "r") as f:
     entries: list = []
     for line in f:
-        text: str=line.split("|")[1].strip().lower()
-        if "," in text:
-            tmp:list=text.split(",")
-            for t in tmp:
-                if t.strip() in entries:
-                    continue
-                entries.append(t.strip())
-        else:
-            if text in entries:
+        fields:list=line.split("|")
+        for field in fields[1:8]:
+            text: str=field.strip().lower()
+            if text == "":
                 continue
-            entries.append(text)
+            if "-" in text:
+                continue
+            if " " in text:
+                continue
+            if text[-1] in ".,!?":
+                text=text[:-1]
+            if "," in text:
+                tmp:list=text.split(",")
+                for t in tmp:
+                    if t.strip() in entries:
+                        continue
+                    entries.append(t.strip())
+            else:
+                if text in entries:
+                    continue
+                entries.append(text)
             
 for text in entries:
     text=ud.normalize('NFC', text)
