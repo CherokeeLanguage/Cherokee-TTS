@@ -14,7 +14,7 @@ from cairosvg.shapes import line
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
-MASTER_TEXT:str="ma-split-annotated.txt"
+MASTER_TEXT:str="ma-aeneas.txt"
 
 #cleanup any previous runs
 for dir in ["linear_spectrograms", "spectrograms", "wav"]:
@@ -95,6 +95,5 @@ with open("val.txt", "w") as f:
     for line in rows[trainSize:]:
         f.write(line)
         f.write("\n")
-        
-
+  
 sys.exit()
