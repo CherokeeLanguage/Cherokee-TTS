@@ -78,8 +78,6 @@ def mco2espeak(text:str):
     newText = newText.replace("ch", "tS")
     newText = newText.replace("ɂ", "?")
     
-    newText = newText.replace("[[", "[[_")
-    newText = newText.replace("]]", "_]]")
     return newText
     
 def ced2mco(text:str):

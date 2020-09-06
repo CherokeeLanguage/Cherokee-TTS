@@ -78,6 +78,9 @@ if __name__ == "__main__":
     splits:list=[]
     for mp3 in mp3s:
         
+        if "04" not in mp3:
+            continue
+        
         if os.path.splitext(mp3)[1].lower()!=".mp3":
             continue
         transcript:str=os.path.splitext(mp3)[0]+".txt"
@@ -109,11 +112,11 @@ if __name__ == "__main__":
         config:str="task_language=eng"
         config +="|is_text_type=plain"
         config +="|os_task_file_format=json"
-        config +="|"+RuntimeConfiguration.MFCC_MASK_NONSPEECH+"=True"
-        config +="|"+RuntimeConfiguration.MFCC_MASK_NONSPEECH_L3+"=True"
+        #config +="|"+RuntimeConfiguration.MFCC_MASK_NONSPEECH+"=True"
+        #config +="|"+RuntimeConfiguration.MFCC_MASK_NONSPEECH_L3+"=True"
 #        config +="|os_task_file_levels=123"
         
-        config +="|task_adjust_boundary_nonspeech_min=0.05"
+        config +="|task_adjust_boundary_nonspeech_min=0.1"
         config +="|task_adjust_boundary_nonspeech_string=(sil)"
         
         config +="|is_audio_file_detect_head_max=1.5"
