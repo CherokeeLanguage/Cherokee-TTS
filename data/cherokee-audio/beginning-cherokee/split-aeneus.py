@@ -107,8 +107,8 @@ if __name__ == "__main__":
         config:str="task_language=eng"
         config +="|is_text_type=plain"
         config +="|os_task_file_format=json"
-        #config +="|"+RuntimeConfiguration.MFCC_MASK_NONSPEECH+"=True"
-        #config +="|"+RuntimeConfiguration.MFCC_MASK_NONSPEECH_L3+"=True"
+        config +="|"+RuntimeConfiguration.MFCC_MASK_NONSPEECH+"=True"
+        config +="|"+RuntimeConfiguration.MFCC_MASK_NONSPEECH_L3+"=True"
 #        config +="|os_task_file_levels=123"
         
         config +="|task_adjust_boundary_nonspeech_min=0.1"
