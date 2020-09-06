@@ -7,4 +7,4 @@ Di:dihnó:gi.
 Di:dihnó:gi.
 Waló:s.
 Waló:si.
-Waló:s.
+#!Waló:s.

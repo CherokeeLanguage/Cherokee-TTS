@@ -12,34 +12,34 @@ Talsgǒ gahlgwǒ:gi di:dě:lgwà:sdo:di jalagi digo:hwe:li.
 #page 3
 #first cherokee lesson
 Igv:yi̋:ɂi jalagi go:hwe:li.
-Ā. Ē. Ī.
-Ō. Ū. V̄. Gā.
-Kā. Gē.
-Gī. Gō. Gū.
-Gv̄. Hā. Hē.
-Hī. Hō. Hū.
-Hv̄. Lā. Lē. Lī.
-Lō. Lū. Lv̄.
-Mā. Mē.
-Mī. Mō. Mū.
-Nā. Hnā. Nah. Nē. Nī.
-Nō. Nū. Nv̄. Kwā.
-Kwē. Kwī. Kwō.
-Kwū. Kwv̄. Sā. S. Sē.
-Sī. Sō. Sū.
-Sv̄. Dā. Tā.
-Dē. Tē. Dī.
-Tī. Dō. Dū.
-Dv̄. Dlā.
+#!Ā. Ē. Ī.
+#!Ō. Ū. V̄. Gā.
+#!Kā. Gē.
+#!Gī. Gō. Gū.
+#!Gv̄. Hā. Hē.
+#!Hī. Hō. Hū.
+#!Hv̄. Lā. Lē. Lī.
+#!Lō. Lū. Lv̄.
+#!Mā. Mē.
+#!Mī. Mō. Mū.
+#!Nā. Hnā. Nah. Nē. Nī.
+#!Nō. Nū. Nv̄. Kwā.
+#!Kwē. Kwī. Kwō.
+#!Kwū. Kwv̄. Sā. S. Sē.
+#!Sī. Sō. Sū.
+#!Sv̄. Dā. Tā.
+#!Dē. Tē. Dī.
+#!Tī. Dō. Dū.
+#!Dv̄. Dlā.
 #!Hlā. Hlē.
-Hlī. Hlō.
-Hlū. Hlv̄.
-Jā. Jē. Jī.
-Jō. Jū.
-Jv̄. Wā. Wē. Wī.
-Wō. Wū. Wv̄.
-Yā. Yē. Yī.
-Yō. Yū. Yv̄.
+#!Hlī. Hlō.
+#!Hlū. Hlv̄.
+#!Jā. Jē. Jī.
+#!Jō. Jū.
+#!Jv̄. Wā. Wē. Wī.
+#!Wō. Wū. Wv̄.
+#!Yā. Yē. Yī.
+#!Yō. Yū. Yv̄.
 #Hello.
 O:síyo.
 Síyo.
@@ -124,4 +124,4 @@ V:v.
 V̄:.
 #No. Not so. Not.
 Hla.
-Hlahv. V̀:hla.
+#!Hlahv. V̀:hla.

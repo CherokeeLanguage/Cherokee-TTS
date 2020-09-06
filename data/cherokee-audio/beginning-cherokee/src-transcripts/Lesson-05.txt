@@ -1,0 +1,193 @@
+#Page 22. Fifth Cherokee lesson.
+#!Hisgi:ne̋ jalagi go:hwe:lvɂi.
+#Minister
+Ahljadő:hvsg.
+Ahljadő:hvsgi.
+#Church Service.
+#!Dà:ni:lâ:wì:.
+Dà:ni:lâ:wì:ga.
+#Church.
+#!Ju:ni:là:wisdi.
+Ju:ni:là:wisdi.
+#I go.
+Gé:.
+Gé:ga.
+#You go.
+Hé:.
+Hé:ga.
+#He goes.
+É:.
+#!É:ga.
+#They go.
+Ané:.
+Ané:ga.
+#I am going to church.
+#!Ju:ni:là:wisdi gé:.
+#!Ju:ni:là:wisdi gé:ga.
+#I am going home.
+Digwé:nv̀:sv́ gé:.
+Digwé:nv̀:sv̋:ɂi gé:ga.
+#You are going home.
+Dijé:nv̀:sv́ hé:.
+#!Dijé:nv̀:sv̋:ɂi hé:ga.
+#He or she is going home.
+Juwé:nv̀:sv́ é:.
+#!Juwé:nv̀:sv̋:ɂi é:ga.
+#They are going home.
+#!Juné:nv̀:sv́ à:né:.
+#!Juné:nv̀:sv́ à:né:ga.
+#Thanksgiving menu.
+U:li:he:lísdi à:lsdàyhd.
+Unali:he:lísdi à:lsdàyhdi.
+#Bread.
+Ga̋:du.
+Ga̋:du.
+#Butter.
+Go:hlv:hnv́.
+Go:hlv:hnv́.
+#Corn.
+Sě:lu.
+Sě:lu.
+#Corn bread.
+Sě:lu ga̋:du.
+Sě:lu ga̋:du.
+#Turkey.
+Gv́:n.
+Gv́:na.
+#Meat.
+#!Hawi:ya.
+#!Hawi:ya.
+#Stuffing
+Asù:yana.
+Asù:yanaɂi.
+#Gravy.
+Asú:sd.
+Asú:sdi.
+#Potatoes.
+Nǔ:n.
+Nǔ:na.
+Nǔ:ni.
+#Sweet potatoes.
+Nǔ:n aninv́híd.
+Nǔ:na aninv́hída.
+#Pumpkin pie.
+#!I:ya ge:li̋:stg.
+#!I:ya ge:li̋:stgi.
+#Cream
+Udatlv̌:d.
+Udatlv̌:da.
+Udatlv̌:di.
+#Tea
+#!Ugaló gotlv́ɂtanv.
+#!Ugalóga gotlv́ɂtanv.
+#Please pass me the turkey.
+#!Gv́:n à:wadu:lí.
+Gv́:na à:wadu:líɂa.
+#Please pass me the stuffing.
+Asuyána awadu:lí.
+#!Asuyánaɂi awadu:líɂa.
+#Please pass me the gravy.
+#!Asú:sdi à:wadu:lí.
+#!Asú:sdi à:wadu:líɂa.
+#Please pass me the turkey.
+#!Gv:n deskv̌:s.
+#!Gv:na deskv̌:si.
+#Please pass me the stuffing.
+#!Asuyána deskv:s.
+#!Asuyánaɂi deskv:si.
+#Please pass me the gravy.
+#!Asú:sdi desgi:nehv.
+#!Asú:sdi desgi:nehvsi.
+#Hand me the baby.
+#!Ű:sdi deskikas.
+#!Ű:sdi deskikasi.
+#Hand him or her the baby.
+Ű:sdi hikas.
+Ű:sdi hikasi.
+#Hand them the baby.
+Ű:sdi gahikas.
+Ű:sdi gahikasi.
+#Hand me the paper.
+Go:hwe:la desgi:nv̀s.
+Go:hwe:la desgi:nv̀si.
+#Hand him or her the paper.
+Go:hwe:la hi:nv̀:s.
+Go:hwe:la hi:nv̀:si.
+#Hand them the paper.
+Go:hwe:la digahi:nv̀s.
+Go:hwe:la digahi:nv̀:si.
+#Pass me the broom.
+Gv:no:sásd desgi:dì:s.
+Gv:no:sásdi desgi:dì:si.
+#Pass him or her the broom.
+Gv:no:sásd hi:dì:s.
+Gv:no:sásdi hi:dì:si.
+#Pass them the broom.
+Gv:no:sásd ti:dì:s.
+Gv:no:sásdi ti:dì:si.
+#Pass me the turkey.
+#!Gv́:n desgv̄s.
+#!Gv́:na desgvsi.
+#Pass him or her the turkey.
+Gv́:n hiɂv̄s.
+Gv́:na hiɂvsi.
+#Pass them the turkey.
+Gv́:n gahiɂv̄s.
+Gv́:na gahiɂvsi.
+#Pass me the cream.
+Udatlv̌:d desginehvs.
+Udatlv̌:da desginehvsi.
+#Pass him or her the cream.
+Udatlv̌:d hinehvs.
+#!Udatlv̌:da hinehvsi.
+#Pass them the cream.
+#!Udatlv̌:d gahinehvs.
+#!Udatlv̌:da gahinehvsi.
+#I am eating having a meal.
+#!Galsdâ:yv:hv́sg.
+#!Galì:sdâ:yv:hv́sga.
+#You are having a meal.
+#!Halsdâ:yv:hv́sg.
+#!Halsdâ:yv:hv́sga.
+#He or she is having a meal.
+#!Alsdâ:yv:hv́sg.
+Alsdâ:yv:hv́sga.
+#They are having a meal.
+Analsdâ:yv:hv́sg.
+Analsdâ:yv:hv́sga.
+#My wife.
+Aksdà:yv̌hv̄sg.
+Aksdà:yv̌hv:sgi.
+#I want.
+Awadu:lí.
+Awadu:líɂa.
+#You want.
+Jadu:lí.
+Jadu:líɂa.
+#He or she wants.
+U:du:lí.
+U:du:líɂa.
+#They want.
+Unadu:lí.
+Unadu:líɂa.
+#Red.
+Agǐ:gáge.
+Agǐ:gáge.
+#Owl.
+U:gù:ku.
+U:gù:ku.
+#Blood.
+Gǐ:.
+Gǐ:ga.
+#A long time ago.
+Go:hi̋:.
+Go:hi̋:gi.
+#This in time.
+#!Go:hí. Go:hí.
+#Crow.
+#!Kó:.
+#!Kó:ga.
+#!Kó:gi.
+#This.
+#!Hī.
+Hiɂa.
