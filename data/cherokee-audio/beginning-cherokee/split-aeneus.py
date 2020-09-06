@@ -102,19 +102,20 @@ if __name__ == "__main__":
                 f.write("\n")
         
         print(f"Processing {os.path.basename(mp3)}")
+        audioData = AudioSegment.from_mp3(mp3)
     
         config:str="task_language=eng"
         config +="|is_text_type=plain"
         config +="|os_task_file_format=json"
-        config +="|"+RuntimeConfiguration.MFCC_MASK_NONSPEECH+"=True"
-        config +="|"+RuntimeConfiguration.MFCC_MASK_NONSPEECH_L3+"=True"
+        #config +="|"+RuntimeConfiguration.MFCC_MASK_NONSPEECH+"=True"
+        #config +="|"+RuntimeConfiguration.MFCC_MASK_NONSPEECH_L3+"=True"
 #        config +="|os_task_file_levels=123"
         
-        config +="|task_adjust_boundary_nonspeech_min=0.01"
+        config +="|task_adjust_boundary_nonspeech_min=0.1"
         config +="|task_adjust_boundary_nonspeech_string=(sil)"
         
-        config +="|is_audio_file_detect_head_max=1.50"
-        config +="|is_audio_file_detect_tail_max=1.50"
+        config +="|is_audio_file_detect_head_max=3.0"
+        config +="|is_audio_file_detect_tail_max=3.0"
         
         task:Task = Task(config_string=config)
         task.audio_file_path_absolute=mp3
@@ -124,7 +125,6 @@ if __name__ == "__main__":
         ExecuteTask(task).execute()
         task.output_sync_map_file()
         
-        audioData = AudioSegment.from_mp3(mp3)
         
         i=0;
         with open("alignments.txt") as f:

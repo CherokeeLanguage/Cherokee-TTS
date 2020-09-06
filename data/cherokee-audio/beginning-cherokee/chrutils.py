@@ -37,10 +37,17 @@ def mco2espeak(text:str):
     if (len(text.strip())==0):
         return ""
     
+    #Handle specially flagged text
     if (text[0].strip()=="#"):
-        return text.strip()[1:]
+        if text[1]!="!":
+            return text.strip()[1:]
+        else:
+            text=text[2:]
     
-    newText = ud.normalize('NFD', text).lower()
+    newText = ud.normalize('NFD', text.strip()).lower()
+    if (newText[0]==""):
+        newText=newText[1:]
+        
     #remove all tone indicators
     newText = re.sub("[\u030C\u0302\u0300\u0301\u030b]", "", newText)
     newText = "[["+newText.strip()+"]]"
