@@ -14,12 +14,9 @@ from cairosvg.shapes import line
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
-MASTER_TEXT:str="sam-hider.txt"
+MASTER_TEXT:str="sam-hider-longer-sequences.txt"
 
-#cleanup any previous runs
-for dir in ["linear_spectrograms", "spectrograms", "wav"]:
-    rmtree(dir, ignore_errors=True)
-    
+rmtree("wav", ignore_errors=true)
 pathlib.Path(".").joinpath("wav").mkdir(exist_ok=True)
 
 with open(MASTER_TEXT, "r") as f:
@@ -43,7 +40,7 @@ rows:list=[]
 for mp3, text in entries.values():
     wav:str="wav/"+os.path.splitext(os.path.basename(mp3))[0]+".wav"
     text:str=ud.normalize('NFC', text)
-    subprocess.run(["ffmpeg","-i",mp3,"-ac","1","-ar","22050",wav], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    subprocess.run(["ffmpeg","-y", "-i",mp3,"-ac","1","-ar","22050",wav], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     rows.append(f"{id:06d}|{voiceid}|chr|{wav}|||{text}|")
     id+=1
 

@@ -351,7 +351,7 @@ mp3/page-18-vocabulary-acorn-big.mp3|Gu:le e̋:gwa.
 mp3/page-18-vocabulary-bear-black.mp3|Yǒ:na gv̌:hnáge̋:ɂi.
 mp3/page-18-vocabulary-big-bear.mp3|Yǒ:na e̋:gwa.
 mp3/page-18-vocabulary-big-buck.mp3|Galagi̋:na.
-mp3/page-18-vocabulary-bird-chopper.mp3|Jí:sgwa galû:ysga.
+mp3/page-18-vocabulary-bird-chopper.mp3|Jí:sgwa galû:yv.
 mp3/page-18-vocabulary-bird-young.mp3|Jí:sgwa ani̋:da.
 mp3/page-18-vocabulary-cherry.mp3|Gitǎ:ya.
 mp3/page-18-vocabulary-elk.mp3|Ahwe̋:gwa.
