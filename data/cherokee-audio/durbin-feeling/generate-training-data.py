@@ -14,7 +14,7 @@ from cairosvg.shapes import line
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
-MASTER_TEXT:str="aeneas.txt"
+MASTER_TEXT:str="durbin-feeling-longer-sequences.txt"
 
 #cleanup any previous runs
 for dir in ["linear_spectrograms", "spectrograms", "wav"]:

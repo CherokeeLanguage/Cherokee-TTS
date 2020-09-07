@@ -22,8 +22,8 @@ if __name__ == "__main__":
         os.chdir(dname)
 
     
-    MASTER_TEXT:str="sam-hider.txt"
-    LONG_TEXT:str="sam-hider-longer-sequences.txt"
+    MASTER_TEXT:str="aeneas.txt"
+    LONG_TEXT:str="durbin-feeling-longer-sequences.txt"
 
     rmtree("mp3-long", ignore_errors=True)
     pathlib.Path(".").joinpath("mp3-long").mkdir(exist_ok=True)
@@ -31,15 +31,16 @@ if __name__ == "__main__":
     with open(MASTER_TEXT, "r") as f:
         entriesDict: dict = {}
         for line in f:
-            mp3: str=line.split("|")[0].strip()
-            text: str=ud.normalize("NFD", line.split("|")[1].strip())
+            spkr: str=line.split("|")[0].strip()
+            mp3: str=line.split("|")[1].strip()
+            text: str=ud.normalize("NFD", line.split("|")[2].strip())
             if text=="":
                 continue
-            entriesDict[text]=(mp3,text)
+            entriesDict[text]=(mp3,text, spkr)
     
     tmpEntries:list=[e for e in entriesDict.values()]
     entries:list=[]
-    for _ in range(1,15):
+    for _ in range(1,25):
         random.Random(_).shuffle(tmpEntries)
         entries.extend(tmpEntries)
     
@@ -53,12 +54,14 @@ if __name__ == "__main__":
     totalTime:float=0
     totalCount:int=0
     
+    already:list=[]
     text:str=""
     track:AudioSegment=AudioSegment.empty()
     wantedLen=dice.randint(0, 6)+dice.randint(0, 6)+dice.randint(0, 6)
     for ix, entry in enumerate(entries):
         audioData:AudioSegment = AudioSegment.from_mp3(entry[0].replace("mp3/", "mp3-b/"))
         audioText:str = entry[1].strip()
+        spkr:str=entry[2]
         if ix % 100 == 0:
             print(f"... {audioText} [ix={ix:,}, {int(ix/len(entries)*100):d}%]")
         if len(audioText)==0:
@@ -66,17 +69,21 @@ if __name__ == "__main__":
         if audioText[-1] not in ".,?!":
             audioText+="."
         if audioData.duration_seconds + track.duration_seconds > wantedLen and track.duration_seconds>0:
-            totalTime+=track.duration_seconds
-            totalCount+=1
-            track.export(f"mp3-long/{ix:06d}.mp3", format="mp3", bitrate="192")
+            if text not in already:
+                totalTime+=track.duration_seconds
+                totalCount+=1
+                track.export(f"mp3-long/{ix:06d}.mp3", format="mp3", bitrate="192")
+                already.append(text)
+                with open(LONG_TEXT, "a") as f:
+                    f.write(f"{spkr}")
+                    f.write("|")
+                    f.write(f"mp3-long/{ix:06d}.mp3")
+                    f.write("|")
+                    f.write(ud.normalize("NFC", text))
+                    f.write("\n")
+            text=""
             track=AudioSegment.empty()
             wantedLen=dice.randint(1, 4)+dice.randint(1, 4)+dice.randint(1, 4)
-            with open(LONG_TEXT, "a") as f:
-                f.write(f"mp3-long/{ix:06d}.mp3")
-                f.write("|")
-                f.write(ud.normalize("NFC", text))
-                f.write("\n")
-                text=""
         
         if len(track) > 0:
             track += AudioSegment.silent(500, 22050)
@@ -86,7 +93,7 @@ if __name__ == "__main__":
             text += " "
         text += audioText
         
-    if len(track)>0:
+    if len(track)>0 and text not in already:
         totalTime+=track.duration_seconds
         totalCount+=1
         track.export(f"mp3-long/{ix+1:06d}.mp3", format="mp3", bitrate="192")
@@ -96,7 +103,7 @@ if __name__ == "__main__":
                 f.write(ud.normalize("NFC", text))
                 f.write("\n")
                 
-    print(f"Average track time: {totalTime/totalCount:.2f}")
+    print(f"Average track time: {totalTime/totalCount:.2f}. Total tracks: {totalCount:,}")
     
     sys.exit()
     
