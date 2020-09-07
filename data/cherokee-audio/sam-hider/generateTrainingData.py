@@ -16,7 +16,7 @@ os.chdir(os.path.dirname(sys.argv[0]))
 
 MASTER_TEXT:str="sam-hider-longer-sequences.txt"
 
-rmtree("wav", ignore_errors=true)
+rmtree("wav", ignore_errors=True)
 pathlib.Path(".").joinpath("wav").mkdir(exist_ok=True)
 
 with open(MASTER_TEXT, "r") as f:
