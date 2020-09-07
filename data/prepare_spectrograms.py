@@ -1,7 +1,6 @@
 import sys
 import os
 import numpy as np
-import pathlib
 
 sys.path.insert(0, "../")
 
@@ -11,10 +10,9 @@ from params.params import Params as hp
 
 if __name__ == '__main__':
     import argparse
-    import re
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--cherokee_directory", type=str, default="cherokee6", help="Base directory of Cherokee.")
+    parser.add_argument("--directory", type=str, default="cherokee6", help="Directory for Training Data (train.txt, val.txt) and Spectrogram Storage.")
     parser.add_argument("--sample_rate", type=int, default=22050, help="Sample rate.")
     parser.add_argument("--num_fft", type=int, default=1102, help="Number of FFT frequencies.")
     parser.add_argument("--num_mels", type=int, default=80, help="Number of mel bins.")
@@ -29,12 +27,12 @@ if __name__ == '__main__':
     hp.num_fft = args.num_fft
 
     files_to_solve = [
-        (args.cherokee_directory, "train.txt"),
-        (args.cherokee_directory, "val.txt"),
+        (args.directory, "train.txt"),
+        (args.directory, "val.txt"),
     ]
 
-    spectrogram_dirs = [os.path.join(args.cherokee_directory, 'spectrograms'), 
-                        os.path.join(args.cherokee_directory, 'linear_spectrograms')]
+    spectrogram_dirs = [os.path.join(args.directory, 'mel_spectrograms'), 
+                        os.path.join(args.directory, 'lin_spectrograms')]
                         
     for x in spectrogram_dirs:
         if not os.path.exists(x): os.makedirs(x)
@@ -44,34 +42,46 @@ if __name__ == '__main__':
         with open(os.path.join(d,fs), 'r', encoding='utf-8') as f:
             metadata.append((d, fs, [line.rstrip().split('|') for line in f]))
 
+
+    specId:int=0
     print(f'Please wait, this may take a very long time.')
     for d, fs, m in metadata:  
         print(f'Creating spectrograms for: {fs}')
 
-        with open(os.path.join(d, fs), 'w', encoding='utf-8') as f:
+        with open(os.path.join(d, fs+"-tmp"), 'w', encoding='utf-8') as f:
             for i in m:
-                print(i)
-                idx, s, l, a, _, _, raw_text, ph = i
-                spec_name = idx + '.npy'      
-                audio_path = os.path.join(d, a)       
+                idx, speaker, lang, wav, _, _, raw_text, phonemes = i
+                specId+=1
+                spec_name = f"{lang}_{speaker}-{specId:06d}.npy"
+                audio_path = os.path.join(d, wav)       
                 audio_data = audio.load(audio_path)
 
-                splitted_a = a.split("/")
-                if splitted_a[0] == "..":
-                    mel_path_partial = os.path.join(splitted_a[0], splitted_a[1], "spectrograms", spec_name)
-                    lin_path_partial = os.path.join(splitted_a[0], splitted_a[1], "linear_spectrograms", spec_name)
-                else:
-                    mel_path_partial = os.path.join("spectrograms", spec_name)
-                    lin_path_partial = os.path.join("linear_spectrograms", spec_name)
-
+                mel_path_partial = os.path.join("mel_spectrograms", spec_name)
                 mel_path = os.path.join(d, mel_path_partial)
-                pathlib.Path(mel_path).parent.mkdir(parents=True, exist_ok=True)
                 if not os.path.exists(mel_path):
                     np.save(mel_path, audio.spectrogram(audio_data, True))
                     
+                lin_path_partial = os.path.join("lin_spectrograms", spec_name)
                 lin_path = os.path.join(d, lin_path_partial)
-                pathlib.Path(lin_path).parent.mkdir(parents=True, exist_ok=True)
                 if not os.path.exists(lin_path):
                     np.save(lin_path, audio.spectrogram(audio_data, False))
 
-                print(f'{idx}|{s}|{l}|{a}|{mel_path_partial}|{lin_path_partial}|{raw_text}|{ph}', file=f)
+                print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}|{lin_path_partial}|{raw_text}|{phonemes}', file=f)
+                
+                if specId%100==0:
+                    print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}|{lin_path_partial}|{raw_text}|{phonemes}')
+    
+    for d, fs in files_to_solve:
+        tmp=os.path.join(d, fs+"-tmp")
+        dst=os.path.join(d, fs)
+        bkup=os.path.join(d, fs+"-bkup")
+        
+        if os.path.exists(bkup):
+            os.remove(bkup)
+            
+        os.rename(dst, bkup)
+        os.rename(tmp, dst)
+        
+    sys.exit()
+    
+    
