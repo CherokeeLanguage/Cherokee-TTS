@@ -67,8 +67,8 @@ for voice in "${v[@]}"; do
 	for mp3 in "${mp3s[@]}"; do
 		ix="$(($ix+1))"
 		wav="wg-$ix.wav"
-		mp3="$wg"-"$voice/$mp3"
-		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" 2>&1 > /dev/null
+		mp3="$wg"-"$voice/$voice-$wg-$mp3"
+		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2>&1
 		rm "$wav"
 	done
 	

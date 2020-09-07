@@ -48,7 +48,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-shuf "$text" | tail -n 5 > "$selected"
+shuf "$text" | tail -n 5 | sort > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
@@ -79,8 +79,8 @@ for voice in "${v[@]}"; do
 		echo "$mp3"
 		ix="$(($ix+1))"
 		wav="wg-$ix.wav"
-		mp3="$wg"-"$voice/$mp3"
-		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" 2>&1 > /dev/null
+		mp3="$wg"-"$voice/$voice-$wg-$mp3"
+		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2>&1
 		rm "$wav"
 	done
 	

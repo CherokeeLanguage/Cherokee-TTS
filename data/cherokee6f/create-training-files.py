@@ -20,6 +20,9 @@ for file in ["train.txt", "val.txt", "all.txt"]:
 	if os.path.exists(file):
 		os.remove(file)
 
+for dir in ["lin_spectrograms", "mel_spectrograms"]:
+    rmtree(os.path.join(workdir, dir), ignore_errors=True)
+    
 for parent in [ "../cherokee-audio/beginning-cherokee",
 				"../cherokee-audio/cherokee-language-coach-1",
 				"../cherokee-audio/cherokee-language-coach-2",
@@ -27,8 +30,6 @@ for parent in [ "../cherokee-audio/beginning-cherokee",
 				"../cherokee-audio/michael-conrad",
 				"../cherokee-audio/sam-hider"
 				]:
-	for dir in ["linear_spectrograms", "spectrograms"]:
-	    rmtree(os.path.join(parent, dir), ignore_errors=True)
 	with open(parent + "/all.txt", "r") as f:
 		lines:list = []
 		for line in f:
@@ -52,8 +53,6 @@ for parent in [ "../cherokee-audio/beginning-cherokee",
 				t.write("\n")
 
 #Common Voice Data
-for dir in ["linear_spectrograms", "spectrograms"]:
-    rmtree(os.path.join("../comvoi_clean", dir), ignore_errors=True)
 commonVoice:list=[]
 with open("../comvoi_clean/all.txt") as f:
 	for line in f:

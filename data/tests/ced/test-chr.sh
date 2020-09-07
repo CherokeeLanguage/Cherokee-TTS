@@ -24,17 +24,12 @@ tmp="$z/tmp.txt"
 selected="$z/selected.txt"
 cp /dev/null "$tmp"
 
-cp /dev/null "$z"/voices.txt
-
-echo "02-chr" >> "$z"/voices.txt
-echo "01-chr" >> "$z"/voices.txt
-
 for x in "$z"/ced-[0-9][0-9]-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
 
-v=($(cat "$z"/voices.txt))
+v=("01-chr" "02-chr" "03-chr" "04-chr" "05-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -42,7 +37,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="ced"
 text="$z/../../cherokee-syn/syn-chr.txt"
 
-cut -f 7 -d '|' "$text" | grep -v ' ' | shuf | tail -n 10 > "$selected"
+cut -f 7 -d '|' "$text" | grep -v ' ' | shuf | tail -n 10 | sort > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
@@ -56,7 +51,7 @@ for voice in "${v[@]}"; do
 
 	cd "$y"
 	
-	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" #--cpu
 
 	cd "$z"
 	
@@ -64,7 +59,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx-cpu.py
+	#python wavernnx-cpu.py
+	python wavernnx.py
 
 	mv wg*.wav "$wg"-"$voice"/
 	xdg-open "$wg"-"$voice"

@@ -9,11 +9,6 @@ z="$(pwd)"
 rm *.npy 2> /dev/null || true
 rm *.wav 2> /dev/null || true
 
-for x in "$z"/*-[0-9][0-9]-*; do
-	if [ ! -d "$x" ]; then continue; fi
-	rm -r "$x"
-done
-
 cd ../../..
 y="$(pwd)"
 
@@ -21,8 +16,7 @@ source ~/miniconda3/etc/profile.d/conda.sh
 
 conda activate ./env
 
-cp="$(ls -1tr checkpoints/*CHEROKEE*|tail -n 1)"
-cp="$(basename "$cp")"
+cp="$(ls -1tr checkpoints/|tail -n 1)"
 
 printf "Using checkpoint: $cp\n"
 
@@ -30,24 +24,12 @@ tmp="$z/tmp.txt"
 selected="$z/selected.txt"
 cp /dev/null "$tmp"
 
-cp /dev/null "$z"/voices.txt
-
-(
-	echo "01-chr"
-	echo "02-chr"
-	echo "03-chr"
-	echo "04-chr"
-	echo "05-chr"
-) >> "$z"/voices.txt
-
-#cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
-
 for x in "$z"/animals-[0-9][0-9]-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
 
-v=($(cat "$z"/voices.txt))
+v=("14-de" "51-de" "02-fr" "04-fr" "14-fr" "18-fr" "19-fr" "22-fr" "03-ru" "03-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -55,7 +37,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-shuf "$text" | shuf | shuf | shuf | tail -n 10 | sort > "$selected"
+cat "$text" | sort > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
@@ -69,7 +51,7 @@ for voice in "${v[@]}"; do
 
 	cd "$y"
 	
-	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" #--cpu
 
 	cd "$z"
 	
@@ -86,14 +68,14 @@ for voice in "${v[@]}"; do
 		ix="$(($ix+1))"
 		wav="wg-$ix.wav"
 		mp3="$wg"-"$voice/$voice-$wg-$mp3"
-		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
+		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2>&1
 		rm "$wav"
 	done
 	
 	xdg-open "$wg"-"$voice"
 	
 	ix=0
-	cat "$selected" | while read line; do
+	cut -f 3 "$selected" | while read line; do
 		ix="$(($ix+1))"
 		rm "$ix".wav 2> /dev/null || true
 		rm "$ix".npy 2> /dev/null || true

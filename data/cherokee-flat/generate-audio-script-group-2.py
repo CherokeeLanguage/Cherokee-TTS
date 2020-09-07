@@ -117,7 +117,7 @@ for text in entries:
 
 scripta += scriptb
 
-for x in [5, 6, 7, 8]:
+for x in [11, 12, 13, 14]:
     
     random.Random(x).shuffle(scripta) #fixed shuffle based on script no, for reproducibility
     randx = random.Random(x) #fixed random number set based on script no, for reproducibility
@@ -198,4 +198,58 @@ for x in [5, 6, 7, 8]:
     with open("scripts/script-"+str(x)+".md", "w") as w:
         w.write(script)
     md2pdf("scripts/script-"+str(x)+".pdf", script.replace("## Script", "<div style=\"page-break-after: always\"></div>\n\n## Script"))
+    
+    
+scripta.sort()
+
+line:str = ""
+
+script:str = "# Script for low-tone and high-tone standalone words.\n"
+script+="\n"
+script+="The following text contains a list of words with and without high tones.\n"
+script+="\n"
+script+="Both the high tones and low tones are level and do not glide.\n"
+script+="\n"
+script+="The final word vowels, unless otherwise marked, should be the word final nasalized high-fall glide.\n"
+script+="\n"
+script+="If you see a macron on a trailing vowel it means keep the vowel at a low tone and to not use\n"
+script+="the normal high-fall.\n"
+script+="\n"
+script+="Please read each entry like a sentence with appropriate pauses based on punctuation.\n"
+script+="\n"
+script+="If you can manage it (not required):\n"
+script+="\n"
+script+="* Final vowels should use the high-fall tone and be nasalized.\n"
+script+="* Vowels preceeded by 'n' or 'm' should be nasalized.\n"
+script+="* Both correct cadence and pitch differences are the most important considerations.\n"
+script+="\n"
+script+="Be sure to leave a 1 to 2 second pause between entries.\n"
+script+="\n"
+script+="If you don't like your pronunciation for any entry, skip it.\n"
+script+="\n"
+script+="Notes:\n"
+script+="\n"
+script+="* Enclosed SHORT vowels followed by an 'h', such as in the word 'tehgā' should be\n"
+script+="pronounced double-short with an equal length h sound following.\n"
+script+="\n"
+script+="* LONG vowels followed by an 'h', such as in the word 'gv:hnā', should have the 'h'\n"
+script+="pronounced as the start of the next syllable.\n"
+script+="\n\n"
+script+="## Script "+str(x)
+script+="\n\n"
+cntr:int=0
+for text in scripta:
+    text=text.capitalize()
+    cntr+=1
+    script += f"{cntr:d}. "+text+".\n" 
+    
+with open("scripts/script-10.txt", "w") as w:
+    w.write(script)
+    
+with open("scripts/script-10.md", "w") as w:
+    w.write(script)
+    
+md2pdf("scripts/script-10.pdf", script.replace("## Script", "<div style=\"page-break-after: always\"></div>\n\n## Script"))    
+
+
 sys.exit()

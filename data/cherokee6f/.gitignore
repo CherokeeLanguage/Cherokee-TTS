@@ -4,3 +4,7 @@ all.txt
 /checkpoint/
 /comvoi-subset.txt
 /tmp.txt
+/train.txt-bkup
+/val.txt-bkup
+/lin_spectrograms/
+/mel_spectrograms/
