@@ -1,12 +1,8 @@
 #!/usr/bin/env python3
 import os
 import sys
-import string
 import unicodedata as ud
 import random
-import re
-import pathlib
-import subprocess
 from shutil import rmtree
 
 comvoiIgnore:list=["nl", "zh"]
@@ -20,9 +16,9 @@ for file in ["train.txt", "val.txt", "all.txt"]:
 	if os.path.exists(file):
 		os.remove(file)
 
-for dir in ["lin_spectrograms", "mel_spectrograms"]:
-    rmtree(os.path.join(workdir, dir), ignore_errors=True)
-    
+for _ in ["lin_spectrograms", "mel_spectrograms"]:
+	rmtree(os.path.join(workdir, _), ignore_errors=True)
+	
 for parent in [ "../cherokee-audio/beginning-cherokee",
 				"../cherokee-audio/cherokee-language-coach-1",
 				"../cherokee-audio/cherokee-language-coach-2",
