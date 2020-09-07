@@ -16,10 +16,6 @@ os.chdir(os.path.dirname(sys.argv[0]))
 
 MASTER_TEXT:str="durbin-feeling-longer-sequences.txt"
 
-#cleanup any previous runs
-for dir in ["linear_spectrograms", "spectrograms", "wav"]:
-    rmtree(dir, ignore_errors=True)
-    
 pathlib.Path(".").joinpath("wav").mkdir(exist_ok=True)
 
 with open(MASTER_TEXT, "r") as f:
