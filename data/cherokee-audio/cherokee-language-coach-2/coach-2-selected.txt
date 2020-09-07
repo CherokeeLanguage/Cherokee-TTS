@@ -3,7 +3,7 @@ gh|mp3/Lesson-4-033.mp3|À:gilv̌:kwdi.
 gh|mp3/Lesson-4-038.mp3|Jalv̌:kwdisgo.
 gh|mp3/Lesson-4-047.mp3|Nǔ:na.
 gh|mp3/Lesson-4-053.mp3|Ga̋:du.
-gh|mp3/Lesson-4-070.mp3|Kǎ:hwi yijadu:lígwugh
+gh|mp3/Lesson-4-070.mp3|Kǎ:hwi yijadu:lígwu?
 gh|mp3/Lesson-4-071.mp3|Yijadu:lígwugh.
 gh|mp3/Lesson-4-099.mp3|Ama u:lv̌:saɂdi yagwadu:lígwu.
 gh|mp3/Lesson-4-100.mp3|U:lv̌:saɂdi.
@@ -11,16 +11,16 @@ gh|mp3/Lesson-4-101.mp3|Yagwadu:lígwu.
 gh|mp3/Lesson-4-106.mp3|Wahga hawi:ya jadǔ:lisg.
 gh|mp3/Lesson-4-111.mp3|Go:hű:sd.
 gh|mp3/Lesson-4-112.mp3|Ije̋:ɂi tǔ:ya sě:luhno.
-gh|mp3/Lesson-4-114.mp3|Go:hű:sd ije̋:ɂi tǔ:ya sě:luhno, yijadu:lígwugh
+gh|mp3/Lesson-4-114.mp3|Go:hű:sd ije̋:ɂi tǔ:ya sě:luhno, yijadu:lígwu?
 gh|mp3/Lesson-4-143.mp3|Wahga hawi:ya yagwadu:lígwu.
-gh|mp3/Lesson-4-147.mp3|Kǎ:hwis yijadu:lígwugh
+gh|mp3/Lesson-4-147.mp3|Kǎ:hwis yijadu:lígwu?
 gh|mp3/Lesson-4-156.mp3|Ő:sda à:lsdàyhdi.
 gh|mp3/Lesson-4-176.mp3|V wado.
 gh|mp3/Lesson-4-193.mp3|Ǔ:gáma yagwadu:lígwu.
-gh|mp3/Lesson-4-197.mp3|Ù:gô:di yijadu:lígwugh
+gh|mp3/Lesson-4-197.mp3|Ù:gô:di yijadu:lígwu?
 gh|mp3/Lesson-4-206.mp3|Tlahv wado.
 gh|mp3/Lesson-4-218.mp3|V, usdi̋ agv:halv̋:da.
-gh|mp3/Lesson-4-222.mp3|Kǎ:hwike sǐ:gwugh
+gh|mp3/Lesson-4-222.mp3|Kǎ:hwike sǐ:gwu?
 gh|mp3/Lesson-4-226.mp3|Asú:sdi.
 gh|mp3/Lesson-4-234.mp3|Sě:lu ga̋:du.
 gh|mp3/Lesson-4-237.mp3|Gv́:na.
@@ -40,7 +40,7 @@ df|mp3/Lesson-5-074.mp3|Átihldi à:giwáhísdi yagwadu:lā.
 df|mp3/Lesson-5-077.mp3|Átihldi.
 df|mp3/Lesson-5-079.mp3|À:giwáhísdi yagwadu:lā.
 df|mp3/Lesson-5-084.mp3|U:hnő:sda.
-df|mp3/Lesson-5-087.mp3|Jo àde:lv́ aye̋:hli
+df|mp3/Lesson-5-087.mp3|Jo àde:lv́ aye̋:hli.
 df|mp3/Lesson-5-231.mp3|Di:hnawo.
 df|mp3/Lesson-5-232.mp3|A:hnawo.
 df|mp3/Lesson-5-237.mp3|À:sano.
