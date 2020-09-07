@@ -14,7 +14,7 @@ from cairosvg.shapes import line
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
-MASTER_TEXT:str="beginning-cherokee-selected.txt"
+MASTER_TEXTS:list=["beginning-cherokee-selected.txt", "aeneas.txt"]
 
 #cleanup any previous runs
 for dir in ["linear_spectrograms", "spectrograms", "wav"]:
@@ -22,17 +22,18 @@ for dir in ["linear_spectrograms", "spectrograms", "wav"]:
     
 pathlib.Path(".").joinpath("wav").mkdir(exist_ok=True)
 
-with open(MASTER_TEXT, "r") as f:
-    entries: dict = {}
-    for line in f:
-        fields=line.split("|")
-        speaker: str=fields[0].strip()
-        mp3: str=fields[1].strip()
-        text: str=ud.normalize("NFD", fields[2].strip())
-        dedupeKey=speaker+"|"+text
-        if text=="":
-            continue
-        entries[dedupeKey]=(speaker,mp3,text)
+entries: dict = {}
+for MASTER_TEXT in MASTER_TEXTS:
+    with open(MASTER_TEXT, "r") as f:
+        for line in f:
+            fields=line.split("|")
+            speaker: str=fields[0].strip()
+            mp3: str=fields[1].strip()
+            text: str=ud.normalize("NFD", fields[2].strip())
+            dedupeKey=speaker+"|"+text
+            if text=="":
+                continue
+            entries[dedupeKey]=(speaker,mp3,text)
 
 print(f"Loaded {len(entries):,} entries with audio and text.")
 

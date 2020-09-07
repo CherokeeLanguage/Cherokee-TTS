@@ -11,7 +11,6 @@ import subprocess
 from shutil import rmtree
 import json
 
-
 #https://www.readbeyond.it/aeneas/docs/libtutorial.html
 from aeneas.executetask import ExecuteTask
 from aeneas.task import Task
@@ -28,6 +27,7 @@ from pydub.silence import split_on_silence
 # remove-silence-at-the-beginning-and-at-the-end-of-wave-files-with-pydub
 from pydub import AudioSegment
 
+SPEAKER="bs"
 
 def detect_leading_silence(sound, silence_threshold=-50.0, chunk_size=10):
     '''
@@ -72,14 +72,14 @@ if __name__ == "__main__":
         break
     mp3s.sort()
     
-    with open("ma-aeneas.txt", "w") as f:
+    with open("aeneas.txt", "w") as f:
         f.write("")
 
     splits:list=[]
     for mp3 in mp3s:
         
-        if "04" not in mp3:
-            continue
+        #if "05" not in mp3:
+        #    continue
         
         if os.path.splitext(mp3)[1].lower()!=".mp3":
             continue
@@ -149,7 +149,7 @@ if __name__ == "__main__":
                 segment.export(f"mp3-aligned/{os.path.basename(mp3)}-{i:03d}.mp3",bitrate="192k",format="mp3")
                 splits.append(f"mp3-aligned/{os.path.basename(mp3)}-{i:03d}.mp3")
                 with open("aeneas.txt", "a") as f:
-                    f.write("?") #speaker
+                    f.write(SPEAKER) #speaker
                     f.write("|")
                     f.write(f"mp3-aligned/{os.path.basename(mp3)}-{i:03d}.mp3") #audio file
                     f.write(f"|{text}")
