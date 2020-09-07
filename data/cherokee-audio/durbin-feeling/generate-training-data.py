@@ -14,7 +14,7 @@ from cairosvg.shapes import line
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
-MASTER_TEXT:str="ma-aeneas.txt"
+MASTER_TEXT:str="aeneas.txt"
 
 #cleanup any previous runs
 for dir in ["linear_spectrograms", "spectrograms", "wav"]:

@@ -10,7 +10,8 @@ import pathlib
 import subprocess
 from shutil import rmtree
 import json
-
+import shutil
+import glob
 
 #https://www.readbeyond.it/aeneas/docs/libtutorial.html
 from aeneas.executetask import ExecuteTask
@@ -64,15 +65,28 @@ if __name__ == "__main__":
     rmtree(mp3Dir, ignore_errors=True)
     os.mkdir(mp3Dir)
     
+    for file in glob.glob(workdir+"/src/*-x.mp3"):
+        os.remove(file)
     
     from os import walk
-    mp3s = []
+    mp3s:list = []
+    for (dirpath, dirnames, filenames) in walk("src/macro-output"):
+        mp3s.extend(filenames)
+        break
+    for mp3 in mp3s:
+        src:str="src/macro-output/"+mp3
+        dst:str="src/"+mp3.replace(".mp3", "-x.mp3")
+        if os.path.exists(dst):
+            os.remove(dst)
+        shutil.copy2(src, dst)
+    
+    mp3s:list = []
     for (dirpath, dirnames, filenames) in walk("src"):
         mp3s.extend(filenames)
         break
     mp3s.sort()
     
-    with open("ma-aeneas.txt", "w") as f:
+    with open("aeneas.txt", "w") as f:
         f.write("")
 
     splits:list=[]
@@ -146,7 +160,7 @@ if __name__ == "__main__":
                     if len(text)>0:
                         text+=" "
                     text+=tmp
-                with open("ma-aeneas.txt", "a") as f:
+                with open("aeneas.txt", "a") as f:
                     f.write("?") #speaker
                     f.write("|")
                     f.write(f"mp3-aligned/{os.path.basename(mp3)}-{i:03d}.mp3") #audio file
