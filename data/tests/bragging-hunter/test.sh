@@ -45,14 +45,14 @@ for voice in "${v[@]}"; do
 	ix=0
 	syn=""
 	cp /dev/null "$tmp"
-	cat "$text" | head -n 1 | while read sentence; do
+	cat "$text" | while read sentence; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${sentence}" "$voice" >> "$tmp"
 	done
 
 	cd "$y"
 	
-	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" #--cpu
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
 
 	cd "$z"
 	
@@ -60,8 +60,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$text" "$wg"-"$voice"
 
-	#python wavernnx-cpu.py
-	python wavernnx.py
+	python wavernnx-cpu.py
+	#python wavernnx.py
 	
 	count=$(wc -l "$text"|cut -f 1 -d ' ')
 	for ix in $(seq 1 $count); do
