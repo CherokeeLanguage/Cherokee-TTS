@@ -1,140 +1,829 @@
-bs|mp3-long/000003.mp3|Gadō ű:sdi? Ha:dlv? Ha:dlv? Go:hwe:l. Go:hwe:la. Go:hwe:li. A:sésdi.
-bs|mp3-long/000004.mp3|À:gwanht. À:gwanhta. Janht. Janhta. Ùnht. Ùnhta. Ùnanht. Ùnanhta.
-bs|mp3-long/000005.mp3|Áhni, áhni. U:hyv:dla. U:hyv:dla. U:hyv:dlv. U:hyv:dlv.
-bs|mp3-long/000006.mp3|Gadò anà:dv́:ne? Gadò anà:dv́:neɂa. Síyo. O:síyo. Tò:hi̋:ju? Tò:hi̋:ju?
-bs|mp3-long/000007.mp3|Gweti dà:wadó.
-bs|mp3-long/000008.mp3|Kó:ga. Hisg. Hisgi. Gohlsga. Go:lì:. Go:lì:ga. Wado. Wado. Hla. V̀:hla.
-bs|mp3-long/000012.mp3|Dego:hwe:lv. À:diɂa. Gadò dě:jádo:ɂa? Dò dě:jádo?
-bs|mp3-long/000013.mp3|Ahő:l. Ahő:li. Ahu:l. Ahu:li. Ale. Ale. V:le. V:le. Kag? Kaga? Kilo. Kilő:i. Hv? Hv? Lu:g. Lu:ga. Galiɂě:lí. Galiɂě:lî:ga.
-bs|mp3-long/000014.mp3|Ő:sd. Ő:sda. Tò:hi̋. Tò:hi̋.
-bs|mp3-long/000015.mp3|Digwé:nv̀:sv́ gé:. Digwé:nv̀:sv̋:ɂi gé:ga. Dijé:nv̀:sv́ hé:. Dijé:nv̀:sv̋:ɂi hé:ga.
-bs|mp3-long/000016.mp3|Nvhgi:né jalagi go:hwe:lv̀:ɂi.
-bs|mp3-long/000017.mp3|Gadō u:sdi? Dō u:sd jadu:lí? Gadō u:sdi jadu:líɂa? Nihina? Nihinahv?
-bs|mp3-long/000019.mp3|Dō u:sd? Digo:hwe:la nidi:di:wa.
-bs|mp3-long/000021.mp3|Dù:danv:hnv̋:ɂi digaloɂkwastohdi. Gadí:ɂa.
-bs|mp3-long/000022.mp3|A:nadiɂa.
-bs|mp3-long/000023.mp3|E̋:. Égi. Ě:. I̋:. V̄:v. V̄. Géɂi. Gé. Goɂi. Gō. Go:gi. Gō:. Gù:gu. Gù:. Gù:gu. Ayo. Ayo.
-bs|mp3-long/000024.mp3|Go:hlv:hnv́. Sě:lu. Sě:lu. Sě:lu ga̋:du.
-bs|mp3-long/000025.mp3|Su:dali:né Jalagi go:hwe:lv̀:ɂi. Di:de:hyǒ:hvs. Di:de:hyǒ:hvsgi. Idalě:n. Idalě:na. Ha:dlv hině:l? Ha:dlv hině:la?
-bs|mp3-long/000026.mp3|Joɂi:né jalagi go:hwe:lv̀:ɂi. Di:dihnó:gi. Di:dihnó:gi. Waló:s. Waló:si. Waló:s.
-bs|mp3-long/000027.mp3|Goɂi. Goɂi. Hiɂa. Hiɂa. À:lsdàyhd. À:lsdàyhdi. Gv́:na à:wadu:lí.
-bs|mp3-long/000029.mp3|Hadí:ɂa. Dō ű:sd?
-bs|mp3-long/000030.mp3|Gé:. Gé:ga. Hé:. Hé:ga. É:. É:ga. Ané:. Ané:ga. Ju:ni:là:wisdi gé:. Ju:ni:là:wisdi gé:ga.
-bs|mp3-long/000031.mp3|Hisgi:ne̋ jalagi go:hwe:lvɂi. Ahljadő:hvsg. Ahljadő:hvsgi. Dà:ni:lâ:wì:.
-bs|mp3-long/000032.mp3|Halihě:lí. Halihě:lî:ga. À:li:hě:lí. À:li:hě:lî:ga. Anali:hě:lí. Anali:hě:lî:ga. Go:lì:. Go:lì:ga. Anǒ:sg. Anǒ:sga.
-bs|mp3-long/000033.mp3|U:sganő:l. U:sganő:li.
-bs|mp3-long/000034.mp3|Talsgǒ gahlgwǒ:gi di:dě:lgwà:sdo:di jalagi digo:hwe:li. Igv:yi̋:ɂi jalagi go:hwe:li. O:síyo. Síyo. Kó. Kó:ga. Kó:gi.
-bs|mp3-long/000035.mp3|Juwé:nv̀:sv́ é:. Juwé:nv̀:sv̋:ɂi é:ga. Juné:nv̀:sv́ à:né:. Juné:nv̀:sv́ à:né:ga. U:li:he:lísdi à:lsdàyhd.
-bs|mp3-long/000036.mp3|Tla yà:gwanht. Tla yà:gwanhta. Dinǐ:yé:li. Dinǐ:yé:li:hi. Didǐ:yé:li. Didǐ:yé:li:hi.
-bs|mp3-long/000037.mp3|Agě:. Agě:hya. Agě:hyv. Agě:hya. Agě:hyv. Ő:sda. Ő:sda. Kó:ga.
-bs|mp3-long/000038.mp3|Di:de:hyǒ:hvsg. Di:de:hyǒ:hvsgi.
-bs|mp3-long/000040.mp3|Ő:sd. Ő:sda. Ő:sdadv̀. Ő:sd. Ő:sda. Di:sésdi nidi:di:wa.
-bs|mp3-long/000041.mp3|Dà:ni:lâ:wì:ga. Ju:ni:là:wisdi. Ju:ni:là:wisdi.
-bs|mp3-long/000042.mp3|Sě:lu ga̋:du. Gv́:n. Gv́:na. Asù:yana. Asù:yanaɂi. Asú:sd. Asú:sdi. Nǔ:n. Nǔ:na. Nǔ:ni. Nǔ:n aninv́híd.
-bs|mp3-long/000043.mp3|Unali:he:lísdi à:lsdàyhdi. Ga̋:du. Ga̋:du. Go:hlv:hnv́.
-bs|mp3-long/000044.mp3|Nǔ:na aninv́hída.
-bs|mp3-long/000045.mp3|Ő:sdadv̀. Donada:go:hv̄. Donada:go:hv:ɂi. Dodada:go:hv̄. Dodada:go:hv:ɂi. Wado. Wado. V:v. V̄:. Hla. Hlahv. V̀:hla.
-bs|mp3-long/000046.mp3|Di:sésdi.
-bs|mp3-long/000047.mp3|Gv́:na à:wadu:lí. Gv́:na à:wadu:lí. Gv́:na à:wadu:lí.
-bs|mp3-long/000048.mp3|Go:hwel diginè:sdi.
-bs|mp3-long/000049.mp3|Tali:né jalagi go:hwe:lv̀:ɂi. Tali:né jalagi go:hwe:lv̀:ɂi. Tlvhwálga, tlvhwálga.
-bs|mp3-long/000058.mp3|Go:hlv:hnv́. Sě:lu. Sě:lu. Sě:lu ga̋:du. Gadò dě:jádo:ɂa?
-bs|mp3-long/000062.mp3|Dù:danv:hnv̋:ɂi digaloɂkwastohdi.
-bs|mp3-long/000064.mp3|Ő:sd. Ő:sda. Ő:sdadv̀. Ő:sd. Ő:sda. Hadí:ɂa.
-bs|mp3-long/000066.mp3|A:nadiɂa. Dego:hwe:lv.
-bs|mp3-long/000068.mp3|Digo:hwe:la nidi:di:wa.
-bs|mp3-long/000073.mp3|Ő:sd. Ő:sda. Tò:hi̋. Tò:hi̋. Di:de:hyǒ:hvsg. Di:de:hyǒ:hvsgi.
-bs|mp3-long/000079.mp3|U:sganő:l. U:sganő:li. À:diɂa.
-bs|mp3-long/000085.mp3|Dō ű:sd?
-bs|mp3-long/000091.mp3|Di:sésdi nidi:di:wa. Dō u:sd? Gadí:ɂa.
-bs|mp3-long/000093.mp3|Nǔ:na aninv́hída. Dò dě:jádo?
-bs|mp3-long/000096.mp3|Go:hwel diginè:sdi. Gweti dà:wadó.
-bs|mp3-long/000108.mp3|Dò dě:jádo?
-bs|mp3-long/000109.mp3|Gadō ű:sdi? Ha:dlv? Ha:dlv? Go:hwe:l. Go:hwe:la. Go:hwe:li.
-bs|mp3-long/000111.mp3|Nvhgi:né jalagi go:hwe:lv̀:ɂi. Go:hwel diginè:sdi.
-bs|mp3-long/000112.mp3|Ő:sd. Ő:sda. Ő:sdadv̀. Ő:sd. Ő:sda.
-bs|mp3-long/000119.mp3|Di:sésdi nidi:di:wa.
-bs|mp3-long/000123.mp3|Dō ű:sd? U:sganő:l. U:sganő:li. À:diɂa.
-bs|mp3-long/000126.mp3|Nǔ:na aninv́hída. A:sésdi.
-bs|mp3-long/000134.mp3|Hadí:ɂa. Dego:hwe:lv. Gadí:ɂa.
-bs|mp3-long/000138.mp3|Gweti dà:wadó. Dō u:sd?
-bs|mp3-long/000142.mp3|Di:de:hyǒ:hvsg. Di:de:hyǒ:hvsgi. Gadò dě:jádo:ɂa?
-bs|mp3-long/000146.mp3|A:nadiɂa. Nvhgi:né jalagi go:hwe:lv̀:ɂi.
-bs|mp3-long/000148.mp3|Dō u:sd?
-bs|mp3-long/000153.mp3|Hadí:ɂa. Gweti dà:wadó. A:nadiɂa.
-bs|mp3-long/000155.mp3|Nǔ:na aninv́hída. Di:sésdi nidi:di:wa.
-bs|mp3-long/000160.mp3|Di:sésdi. Go:hwel diginè:sdi.
-bs|mp3-long/000163.mp3|Gadí:ɂa.
-bs|mp3-long/000168.mp3|A:sésdi.
-bs|mp3-long/000179.mp3|Dō ű:sd? Dù:danv:hnv̋:ɂi digaloɂkwastohdi.
-bs|mp3-long/000184.mp3|Digo:hwe:la nidi:di:wa. Dego:hwe:lv. Gadò dě:jádo:ɂa?
-bs|mp3-long/000190.mp3|À:diɂa.
-bs|mp3-long/000203.mp3|Dego:hwe:lv.
-bs|mp3-long/000206.mp3|Gadò dě:jádo:ɂa?
-bs|mp3-long/000218.mp3|Hadí:ɂa. Nǔ:na aninv́hída.
-bs|mp3-long/000228.mp3|Dà:ni:lâ:wì:ga. Ju:ni:là:wisdi. Ju:ni:là:wisdi. U:sganő:l. U:sganő:li.
-bs|mp3-long/000239.mp3|Ő:sd. Ő:sda. Tò:hi̋. Tò:hi̋. À:diɂa. A:sésdi.
-bs|mp3-long/000248.mp3|Nǔ:na aninv́hída. Dù:danv:hnv̋:ɂi digaloɂkwastohdi.
-bs|mp3-long/000268.mp3|Di:de:hyǒ:hvsg. Di:de:hyǒ:hvsgi. Di:sésdi.
-bs|mp3-long/000272.mp3|Go:hwel diginè:sdi. U:sganő:l. U:sganő:li.
-bs|mp3-long/000276.mp3|Gadò dě:jádo:ɂa? A:sésdi.
-bs|mp3-long/000279.mp3|Ő:sd. Ő:sda. Ő:sdadv̀. Ő:sd. Ő:sda. Dō u:sd?
-bs|mp3-long/000280.mp3|Hadí:ɂa.
-bs|mp3-long/000286.mp3|Dego:hwe:lv. Dò dě:jádo? Di:sésdi nidi:di:wa. Gadí:ɂa.
-bs|mp3-long/000289.mp3|Gweti dà:wadó. Dō ű:sd? A:nadiɂa.
-bs|mp3-long/000295.mp3|Áhni, áhni. U:hyv:dla. U:hyv:dla. U:hyv:dlv. U:hyv:dlv. Dō ű:sd?
-bs|mp3-long/000313.mp3|A:nadiɂa. Go:hwel diginè:sdi. Hadí:ɂa.
-bs|mp3-long/000321.mp3|Digo:hwe:la nidi:di:wa. Gadí:ɂa. Di:sésdi.
-bs|mp3-long/000328.mp3|Di:sésdi nidi:di:wa. Dō u:sd?
-bs|mp3-long/000331.mp3|Dù:danv:hnv̋:ɂi digaloɂkwastohdi. A:sésdi.
-bs|mp3-long/000334.mp3|Nvhgi:né jalagi go:hwe:lv̀:ɂi. Dego:hwe:lv.
-bs|mp3-long/000338.mp3|Ő:sd. Ő:sda. Tò:hi̋. Tò:hi̋. A:sésdi.
-bs|mp3-long/000348.mp3|Dò dě:jádo? Ő:sd. Ő:sda. Ő:sdadv̀. Ő:sd. Ő:sda.
-bs|mp3-long/000350.mp3|U:sganő:l. U:sganő:li. Ő:sd. Ő:sda. Tò:hi̋. Tò:hi̋.
-bs|mp3-long/000367.mp3|À:diɂa. Gweti dà:wadó.
-bs|mp3-long/000370.mp3|Di:de:hyǒ:hvsg. Di:de:hyǒ:hvsgi. Gadō ű:sdi? Ha:dlv? Ha:dlv? Go:hwe:l. Go:hwe:la. Go:hwe:li.
-bs|mp3-long/000373.mp3|Di:sésdi. Digo:hwe:la nidi:di:wa. Gadò dě:jádo:ɂa?
-bs|mp3-long/000379.mp3|Dego:hwe:lv. Dō ű:sd?
-bs|mp3-long/000397.mp3|Di:sésdi. A:nadiɂa.
-bs|mp3-long/000406.mp3|Digo:hwe:la nidi:di:wa. Nǔ:na aninv́hída.
-bs|mp3-long/000419.mp3|Ő:sd. Ő:sda. Ő:sdadv̀. Ő:sd. Ő:sda. Gadí:ɂa.
-bs|mp3-long/000423.mp3|Gadò dě:jádo:ɂa? Dego:hwe:lv. Dō u:sd?
-bs|mp3-long/000434.mp3|Gweti dà:wadó. Ő:sd. Ő:sda. Tò:hi̋. Tò:hi̋.
-bs|mp3-long/000441.mp3|Dō u:sd? Go:hwel diginè:sdi. U:sganő:l. U:sganő:li.
-bs|mp3-long/000443.mp3|Di:sésdi nidi:di:wa. Dò dě:jádo?
-bs|mp3-long/000453.mp3|Hadí:ɂa. Di:de:hyǒ:hvsg. Di:de:hyǒ:hvsgi.
-bs|mp3-long/000459.mp3|Digo:hwe:la nidi:di:wa. Ő:sd. Ő:sda. Ő:sdadv̀. Ő:sd. Ő:sda.
-bs|mp3-long/000467.mp3|Dō ű:sd? Nǔ:na aninv́hída.
-bs|mp3-long/000493.mp3|A:sésdi. Dù:danv:hnv̋:ɂi digaloɂkwastohdi.
-bs|mp3-long/000497.mp3|Nǔ:na aninv́hída. U:sganő:l. U:sganő:li.
-bs|mp3-long/000503.mp3|Gadò dě:jádo:ɂa? Ő:sd. Ő:sda. Tò:hi̋. Tò:hi̋.
-bs|mp3-long/000505.mp3|Ő:sd. Ő:sda. Ő:sdadv̀. Ő:sd. Ő:sda. À:diɂa.
-bs|mp3-long/000516.mp3|Dō u:sd? Dò dě:jádo? Di:de:hyǒ:hvsg. Di:de:hyǒ:hvsgi.
-bs|mp3-long/000526.mp3|Di:sésdi. Dō ű:sd? Dego:hwe:lv.
-bs|mp3-long/000529.mp3|Gadí:ɂa. A:nadiɂa.
-bs|mp3-long/000536.mp3|Dō u:sd? Nvhgi:né jalagi go:hwe:lv̀:ɂi.
-bs|mp3-long/000542.mp3|Gadò dě:jádo:ɂa? Di:de:hyǒ:hvsg. Di:de:hyǒ:hvsgi. U:sganő:l. U:sganő:li.
-bs|mp3-long/000545.mp3|Dō ű:sd? Di:sésdi nidi:di:wa.
-bs|mp3-long/000564.mp3|Gweti dà:wadó. Nǔ:na aninv́hída.
-bs|mp3-long/000568.mp3|Gadí:ɂa. A:nadiɂa. À:diɂa.
-bs|mp3-long/000576.mp3|Dò dě:jádo? Di:sésdi. Hadí:ɂa.
-bs|mp3-long/000587.mp3|Dego:hwe:lv. Gadò dě:jádo:ɂa? Dō u:sd?
-bs|mp3-long/000593.mp3|Gweti dà:wadó. U:sganő:l. U:sganő:li. A:sésdi. Di:sésdi nidi:di:wa.
-bs|mp3-long/000603.mp3|Dù:danv:hnv̋:ɂi digaloɂkwastohdi. A:nadiɂa.
-bs|mp3-long/000606.mp3|Go:hlv:hnv́. Sě:lu. Sě:lu. Sě:lu ga̋:du. Ő:sd. Ő:sda. Tò:hi̋. Tò:hi̋.
-bs|mp3-long/000608.mp3|Gv́:na à:wadu:lí. Gv́:na à:wadu:lí. Gv́:na à:wadu:lí. Gadí:ɂa.
-bs|mp3-long/000628.mp3|U:sganő:l. U:sganő:li. Gadō u:sdi? Dō u:sd jadu:lí? Gadō u:sdi jadu:líɂa? Nihina? Nihinahv?
-bs|mp3-long/000632.mp3|Gadí:ɂa. Go:hwel diginè:sdi.
-bs|mp3-long/000637.mp3|Dō u:sd? Gweti dà:wadó.
-bs|mp3-long/000646.mp3|Dò dě:jádo? Unali:he:lísdi à:lsdàyhdi. Ga̋:du. Ga̋:du. Go:hlv:hnv́.
-bs|mp3-long/000651.mp3|Gadò dě:jádo:ɂa? Di:de:hyǒ:hvsg. Di:de:hyǒ:hvsgi.
-bs|mp3-long/000661.mp3|A:nadiɂa. Gv́:na à:wadu:lí. Gv́:na à:wadu:lí. Gv́:na à:wadu:lí.
-bs|mp3-long/000664.mp3|Ő:sd. Ő:sda. Tò:hi̋. Tò:hi̋. Digo:hwe:la nidi:di:wa.
-bs|mp3-long/000670.mp3|À:diɂa. Di:sésdi nidi:di:wa. Hadí:ɂa. Dō ű:sd?
-bs|mp3-long/000675.mp3|Gadō ű:sdi? Ha:dlv? Ha:dlv? Go:hwe:l. Go:hwe:la. Go:hwe:li. Dego:hwe:lv. Dō ű:sd?
-bs|mp3-long/000688.mp3|Gadí:ɂa. Di:sésdi. Dò dě:jádo? À:diɂa.
-bs|mp3-long/000701.mp3|A:nadiɂa. Go:hwel diginè:sdi. Nvhgi:né jalagi go:hwe:lv̀:ɂi.
-bs|mp3-long/000705.mp3|Gweti dà:wadó. A:sésdi. Di:de:hyǒ:hvsg. Di:de:hyǒ:hvsgi.
-bs|mp3-long/000723.mp3|Go:hlv:hnv́. Sě:lu. Sě:lu. Sě:lu ga̋:du. Hadí:ɂa.
-bs|mp3-long/000727.mp3|Gv́:na à:wadu:lí. Gv́:na à:wadu:lí. Gv́:na à:wadu:lí. Di:sésdi nidi:di:wa.
-bs|mp3-long/000730.mp3|Gadí:ɂa. Dō ű:sd?
+bs|mp3/Lesson-01-005.mp3|Igv:yi̋:ɂi.
+bs|mp3/Lesson-01-006.mp3|Jalagi.
+bs|mp3/Lesson-01-007.mp3|Go:hwe:li.
+bs|mp3/Lesson-01-008.mp3|Ā.
+bs|mp3/Lesson-01-009.mp3|Ē.
+bs|mp3/Lesson-01-010.mp3|Ī.
+bs|mp3/Lesson-01-011.mp3|Ō.
+bs|mp3/Lesson-01-012.mp3|Ū.
+bs|mp3/Lesson-01-013.mp3|V̄.
+bs|mp3/Lesson-01-014.mp3|Gā.
+bs|mp3/Lesson-01-015.mp3|Kā.
+bs|mp3/Lesson-01-016.mp3|Gē.
+bs|mp3/Lesson-01-017.mp3|Gī.
+bs|mp3/Lesson-01-018.mp3|Gō.
+bs|mp3/Lesson-01-019.mp3|Gū.
+bs|mp3/Lesson-01-020.mp3|Gv̄.
+bs|mp3/Lesson-01-021.mp3|Hā.
+bs|mp3/Lesson-01-022.mp3|Hē.
+bs|mp3/Lesson-01-023.mp3|Hī.
+bs|mp3/Lesson-01-024.mp3|Hō.
+bs|mp3/Lesson-01-025.mp3|Hū.
+bs|mp3/Lesson-01-026.mp3|Hv̄.
+bs|mp3/Lesson-01-027.mp3|Lā.
+bs|mp3/Lesson-01-028.mp3|Lē.
+bs|mp3/Lesson-01-029.mp3|Lī.
+bs|mp3/Lesson-01-030.mp3|Lō.
+bs|mp3/Lesson-01-031.mp3|Lū.
+bs|mp3/Lesson-01-032.mp3|Lv̄.
+bs|mp3/Lesson-01-033.mp3|Mā.
+bs|mp3/Lesson-01-034.mp3|Mē.
+bs|mp3/Lesson-01-035.mp3|Mī.
+bs|mp3/Lesson-01-036.mp3|Mō.
+bs|mp3/Lesson-01-037.mp3|Mū.
+bs|mp3/Lesson-01-038.mp3|Nā.
+bs|mp3/Lesson-01-039.mp3|Hnā.
+bs|mp3/Lesson-01-040.mp3|Nah.
+bs|mp3/Lesson-01-041.mp3|Nē.
+bs|mp3/Lesson-01-042.mp3|Nī.
+bs|mp3/Lesson-01-043.mp3|Nō.
+bs|mp3/Lesson-01-044.mp3|Nū.
+bs|mp3/Lesson-01-046.mp3|Kwā.
+bs|mp3/Lesson-01-047.mp3|Kwē.
+bs|mp3/Lesson-01-048.mp3|Kwī.
+bs|mp3/Lesson-01-049.mp3|Kwō.
+bs|mp3/Lesson-01-050.mp3|Kwū.
+bs|mp3/Lesson-01-051.mp3|Kwv̄.
+bs|mp3/Lesson-01-052.mp3|Sā.
+bs|mp3/Lesson-01-053.mp3|Sē.
+bs|mp3/Lesson-01-054.mp3|Sī.
+bs|mp3/Lesson-01-055.mp3|Sō.
+bs|mp3/Lesson-01-056.mp3|Sū.
+bs|mp3/Lesson-01-057.mp3|Sv̄.
+bs|mp3/Lesson-01-058.mp3|Dā.
+bs|mp3/Lesson-01-059.mp3|Tā.
+bs|mp3/Lesson-01-060.mp3|Dē.
+bs|mp3/Lesson-01-061.mp3|Tē.
+bs|mp3/Lesson-01-062.mp3|Dī.
+bs|mp3/Lesson-01-063.mp3|Tī.
+bs|mp3/Lesson-01-064.mp3|Dō.
+bs|mp3/Lesson-01-065.mp3|Dū.
+bs|mp3/Lesson-01-066.mp3|Dv̄.
+bs|mp3/Lesson-01-067.mp3|Dlā.
+bs|mp3/Lesson-01-068.mp3|Hlā. Hlē.
+bs|mp3/Lesson-01-069.mp3|Hlī.
+bs|mp3/Lesson-01-070.mp3|Hlō.
+bs|mp3/Lesson-01-071.mp3|Hlū.
+bs|mp3/Lesson-01-072.mp3|Hlv̄.
+bs|mp3/Lesson-01-073.mp3|Jā.
+bs|mp3/Lesson-01-074.mp3|Jē.
+bs|mp3/Lesson-01-075.mp3|Jī.
+bs|mp3/Lesson-01-076.mp3|Jō.
+bs|mp3/Lesson-01-077.mp3|Jū.
+bs|mp3/Lesson-01-078.mp3|Jv̄.
+bs|mp3/Lesson-01-079.mp3|Wā.
+bs|mp3/Lesson-01-080.mp3|Wē.
+bs|mp3/Lesson-01-081.mp3|Wī.
+bs|mp3/Lesson-01-082.mp3|Wō.
+bs|mp3/Lesson-01-083.mp3|Wū.
+bs|mp3/Lesson-01-084.mp3|Wv̄.
+bs|mp3/Lesson-01-085.mp3|Yā.
+bs|mp3/Lesson-01-086.mp3|Yē.
+bs|mp3/Lesson-01-087.mp3|Yī.
+bs|mp3/Lesson-01-088.mp3|Yō.
+bs|mp3/Lesson-01-089.mp3|Yū.
+bs|mp3/Lesson-01-090.mp3|Yv̄.
+bs|mp3/Lesson-01-092.mp3|O:síyo.
+bs|mp3/Lesson-01-093.mp3|Síyo.
+bs|mp3/Lesson-01-095.mp3|Kó:.
+bs|mp3/Lesson-01-096.mp3|Kó:ga.
+bs|mp3/Lesson-01-097.mp3|Kó:gi.
+bs|mp3/Lesson-01-099.mp3|Agě:.
+bs|mp3/Lesson-01-101.mp3|Agě:hyv.
+bs|mp3/Lesson-01-102.mp3|Agě:hya.
+bs|mp3/Lesson-01-106.mp3|Ő:sda.
+bs|mp3/Lesson-01-112.mp3|Hisg.
+bs|mp3/Lesson-01-113.mp3|Hisgi.
+bs|mp3/Lesson-01-115.mp3|Gohlsga.
+bs|mp3/Lesson-01-116.mp3|Go:lì:.
+bs|mp3/Lesson-01-117.mp3|Go:lì:ga.
+bs|mp3/Lesson-01-119.mp3|Wado.
+bs|mp3/Lesson-01-122.mp3|Hla.
+bs|mp3/Lesson-01-123.mp3|V̀:hla.
+bs|mp3/Lesson-01-125.mp3|Goɂi.
+bs|mp3/Lesson-01-128.mp3|Hiɂa.
+bs|mp3/Lesson-01-139.mp3|À:lsdàyhd.
+bs|mp3/Lesson-01-140.mp3|À:lsdàyhdi.
+bs|mp3/Lesson-01-142.mp3|Gv́:na.
+bs|mp3/Lesson-01-143.mp3|À:wadu:lí.
+bs|mp3/Lesson-01-146.mp3|Gv́:na à:wadu:lí.
+bs|mp3/Lesson-01-149.mp3|Gadò anà:dv́:ne?
+bs|mp3/Lesson-01-150.mp3|Gadò?
+bs|mp3/Lesson-01-151.mp3|Anà:dv́:neɂa.
+bs|mp3/Lesson-01-156.mp3|Tò:hi̋:ju.
+bs|mp3/Lesson-01-159.mp3|Ő:sd.
+bs|mp3/Lesson-01-161.mp3|Ő:sdadv̀.
+bs|mp3/Lesson-01-167.mp3|Donada:go:hv̄.
+bs|mp3/Lesson-01-168.mp3|Donada:go:hv:ɂi.
+bs|mp3/Lesson-01-170.mp3|Dodada:go:hv̄.
+bs|mp3/Lesson-01-171.mp3|Dodada:go:hv:ɂi.
+bs|mp3/Lesson-01-173.mp3|Wado.
+bs|mp3/Lesson-01-176.mp3|V:v.
+bs|mp3/Lesson-01-177.mp3|V̄:.
+bs|mp3/Lesson-01-182.mp3|Hlahv.
+bs|mp3/Lesson-02-002.mp3|Taɂli:né.
+bs|mp3/Lesson-02-012.mp3|Áhni.
+bs|mp3/Lesson-02-015.mp3|U:hyv:dla.
+bs|mp3/Lesson-02-017.mp3|U:hyv:dlv.
+bs|mp3/Lesson-03-002.mp3|Joɂi:né.
+bs|mp3/Lesson-03-021.mp3|Di:dihnó:gi.
+bs|mp3/Lesson-03-048.mp3|Waló:s.
+bs|mp3/Lesson-03-049.mp3|Waló:si.
+bs|mp3/Lesson-03-050.mp3|Waló:s.
+bs|mp3/Lesson-04-001.mp3|Nvhgi:né.
+bs|mp3/Lesson-04-005.mp3|Digo:hwe:la.
+bs|mp3/Lesson-04-010.mp3|Di:sésdi.
+bs|mp3/Lesson-04-015.mp3|Sà:gwű.
+bs|mp3/Lesson-04-016.mp3|Táɂl.
+bs|mp3/Lesson-04-017.mp3|Jo.
+bs|mp3/Lesson-04-018.mp3|Nvh.
+bs|mp3/Lesson-04-019.mp3|Hisg.
+bs|mp3/Lesson-04-020.mp3|Sǔ:dál.
+bs|mp3/Lesson-04-021.mp3|Gahlgwǒ:.
+bs|mp3/Lesson-04-022.mp3|Chuně:l
+bs|mp3/Lesson-04-023.mp3|Sóhně:l.
+bs|mp3/Lesson-04-024.mp3|Sgǒ:.
+bs|mp3/Lesson-04-025.mp3|Sà:wűɂi.
+bs|mp3/Lesson-04-026.mp3|Táɂli.
+bs|mp3/Lesson-04-027.mp3|Joɂi.
+bs|mp3/Lesson-04-028.mp3|Nvhgi.
+bs|mp3/Lesson-04-029.mp3|Hisgi.
+bs|mp3/Lesson-04-030.mp3|Sǔ:dáli.
+bs|mp3/Lesson-04-031.mp3|Gahligwǒ:gi.
+bs|mp3/Lesson-04-032.mp3|chuně:la.
+bs|mp3/Lesson-04-033.mp3|Sóhně:la.
+bs|mp3/Lesson-04-034.mp3|Sgǒ:hi.
+bs|mp3/Lesson-04-036.mp3|Igv:yí.
+bs|mp3/Lesson-04-037.mp3|Taɂli:ne̋.
+bs|mp3/Lesson-04-038.mp3|Joɂi:ne̋:ɂi.
+bs|mp3/Lesson-04-039.mp3|Nvhgi:ne̋.
+bs|mp3/Lesson-04-040.mp3|Hisgi:ne̋.
+bs|mp3/Lesson-04-041.mp3|Su:dali:ne̋.
+bs|mp3/Lesson-04-042.mp3|Gahligwo:gi:ne̋.
+bs|mp3/Lesson-04-043.mp3|Chuně:li:ne̋.
+bs|mp3/Lesson-04-044.mp3|Sóhně:li:ne̋.
+bs|mp3/Lesson-04-045.mp3|Sgo:hi:ne̋.
+bs|mp3/Lesson-04-046.mp3|Igv:yi̋:ɂi.
+bs|mp3/Lesson-04-047.mp3|Taɂli:ne̋:ɂi.
+bs|mp3/Lesson-04-048.mp3|Joɂi:ne̋:ɂi.
+bs|mp3/Lesson-04-049.mp3|Nvhgi:ne̋:ɂi.
+bs|mp3/Lesson-04-050.mp3|Hisgi:ne̋:ɂi.
+bs|mp3/Lesson-04-051.mp3|Su:dali:ne̋:ɂi.
+bs|mp3/Lesson-04-052.mp3|Gahligwo:gi:ne̋:ɂi.
+bs|mp3/Lesson-04-053.mp3|Chuně:li:ne̋:ɂi.
+bs|mp3/Lesson-04-054.mp3|Sóhně:li:ne̋:ɂi.
+bs|mp3/Lesson-04-058.mp3|Igv:yi̋:ɂi à:danv:hnv́.
+bs|mp3/Lesson-04-060.mp3|Chuně:li:ne̋ go:hwe:l.
+bs|mp3/Lesson-04-064.mp3|Taɂli:ne̋ go:hwe:la.
+bs|mp3/Lesson-04-065.mp3|Taɂli:ne̋:ɂi go:hwe:lvɂi.
+bs|mp3/Lesson-04-078.mp3|Dego:hwe:la.
+bs|mp3/Lesson-04-081.mp3|A:sésdi.
+bs|mp3/Lesson-04-087.mp3|Gadí:ɂa.
+bs|mp3/Lesson-04-090.mp3|Hadí:ɂa.
+bs|mp3/Lesson-04-093.mp3|À:diha.
+bs|mp3/Lesson-04-096.mp3|A:nadiha.
+bs|mp3/Lesson-04-100.mp3|Dù:danv:hnv̋:ɂi.
+bs|mp3/Lesson-04-104.mp3|E̋:.
+bs|mp3/Lesson-04-109.mp3|I̋:.
+bs|mp3/Lesson-04-112.mp3|V̄.
+bs|mp3/Lesson-04-114.mp3|Géɂi.
+bs|mp3/Lesson-04-115.mp3|Gé.
+bs|mp3/Lesson-04-117.mp3|Goɂi.
+bs|mp3/Lesson-04-118.mp3|Gō.
+bs|mp3/Lesson-04-120.mp3|Go:gi.
+bs|mp3/Lesson-04-121.mp3|Gō:.
+bs|mp3/Lesson-04-123.mp3|Gù:gu.
+bs|mp3/Lesson-04-124.mp3|Gù:.
+bs|mp3/Lesson-04-128.mp3|Ayo.
+bs|mp3/Lesson-05-002.mp3|Hisgi:né jalagi go:hwe:lvɂi.
+bs|mp3/Lesson-05-004.mp3|Ahljadő:hvsg.
+bs|mp3/Lesson-05-005.mp3|Ahljadő:hvsgi.
+bs|mp3/Lesson-05-007.mp3|Dà:ni:lâ:wì:.
+bs|mp3/Lesson-05-008.mp3|Dà:ni:lâ:wì:ga.
+bs|mp3/Lesson-05-010.mp3|Ju:ni:là:wisdi.
+bs|mp3/Lesson-05-013.mp3|Gé:.
+bs|mp3/Lesson-05-014.mp3|Gé:ga.
+bs|mp3/Lesson-05-016.mp3|Hé:.
+bs|mp3/Lesson-05-017.mp3|Hé:ga.
+bs|mp3/Lesson-05-019.mp3|É:.
+bs|mp3/Lesson-05-020.mp3|É:ga.
+bs|mp3/Lesson-05-022.mp3|Ané:. Ané:ga.
+bs|mp3/Lesson-05-024.mp3|Ju:ni:là:wisdi gé:.
+bs|mp3/Lesson-05-025.mp3|Ju:ni:là:wisdi gé:ga.
+bs|mp3/Lesson-05-027.mp3|Digwé:nv̀:sv́ gé:.
+bs|mp3/Lesson-05-028.mp3|Digwé:nv̀:sv̋:ɂi gé:ga.
+bs|mp3/Lesson-05-030.mp3|Dijé:nv̀:sv́ hé:.
+bs|mp3/Lesson-05-031.mp3|Dijé:nv̀:sv̋:ɂi hé:ga.
+bs|mp3/Lesson-05-033.mp3|Juwé:nv̀:sv́ é:.
+bs|mp3/Lesson-05-034.mp3|Juwé:nv̀:sv̋:ɂi é:ga.
+bs|mp3/Lesson-05-036.mp3|Juné:nv̀:sv́ à:né:.
+bs|mp3/Lesson-05-037.mp3|Juné:nv̀:sv́ à:né:ga.
+bs|mp3/Lesson-05-039.mp3|U:li:he:lísdi à:lsdàyh.
+bs|mp3/Lesson-05-040.mp3|Unali:he:lísdi
+bs|mp3/Lesson-05-043.mp3|Ga̋:du.
+bs|mp3/Lesson-05-046.mp3|Go:hlv:hnv́.
+bs|mp3/Lesson-05-049.mp3|Sě:lu.
+bs|mp3/Lesson-05-052.mp3|Sě:lu ga̋:du.
+bs|mp3/Lesson-05-055.mp3|Gv́:n.
+bs|mp3/Lesson-05-056.mp3|Gv́:na.
+bs|mp3/Lesson-05-058.mp3|Hawi:ya.
+bs|mp3/Lesson-05-064.mp3|Asú:sd.
+bs|mp3/Lesson-05-065.mp3|Asú:sdi.
+bs|mp3/Lesson-05-067.mp3|Nǔ:n.
+bs|mp3/Lesson-05-068.mp3|Nǔ:na.
+bs|mp3/Lesson-05-069.mp3|Nǔ:ni.
+bs|mp3/Lesson-05-074.mp3|I:ya ge:li̋:stg.
+bs|mp3/Lesson-05-075.mp3|I:ya.
+bs|mp3/Lesson-05-076.mp3|Ge:li̋:stgi.
+bs|mp3/Lesson-05-086.mp3|Gv́:n à:wadu:lí.
+bs|mp3/Lesson-05-093.mp3|Asú:sdi à:wadu:lí.
+bs|mp3/Lesson-05-094.mp3|Asú:sdi à:wadu:líɂa.
+bs|mp3/Lesson-05-102.mp3|Asú:sdi desgi:nehv.
+bs|mp3/Lesson-05-103.mp3|Asú:sdi desgi:nehvsi.
+bs|mp3/Lesson-05-115.mp3|Go:hwe:la desgi:nv̀.
+bs|mp3/Lesson-05-117.mp3|Desgi:nv̀:si.
+bs|mp3/Lesson-05-121.mp3|Go:hwe:la hi:nv̀:si.
+bs|mp3/Lesson-05-124.mp3|Digahi:nv̀.
+bs|mp3/Lesson-05-126.mp3|Digahi:nv̀:si.
+bs|mp3/Lesson-05-128.mp3|Gv:no:sásd.
+bs|mp3/Lesson-05-129.mp3|Desgi:dì:.
+bs|mp3/Lesson-05-130.mp3|Gv:no:sásdi.
+bs|mp3/Lesson-05-131.mp3|Desgi:dì:si.
+bs|mp3/Lesson-05-135.mp3|Gv:no:sásdi hi:dì:si.
+bs|mp3/Lesson-05-139.mp3|Gv:no:sásdi ti:dì:si.
+bs|mp3/Lesson-05-141.mp3|Gv́:n desgv̄.
+bs|mp3/Lesson-05-142.mp3|Gv́:na desgvsi.
+bs|mp3/Lesson-05-144.mp3|Gv́:n hiɂv̄.
+bs|mp3/Lesson-05-145.mp3|Gv́:na hiɂvsi.
+bs|mp3/Lesson-05-160.mp3|Galsdâ:yv:hv́sg.
+bs|mp3/Lesson-05-161.mp3|Galì:sdâ:yv:hv́sga.
+bs|mp3/Lesson-05-163.mp3|Halsdâ:yv:hv́sga.
+bs|mp3/Lesson-05-165.mp3|Alsdâ:yv:hv́.
+bs|mp3/Lesson-05-166.mp3|Alsdâ:yv:hv́sga.
+bs|mp3/Lesson-05-168.mp3|Analsdâ:yv:hv́sg.
+bs|mp3/Lesson-05-169.mp3|Analsdâ:yv:hv́sga.
+bs|mp3/Lesson-05-171.mp3|Aksdà:yv̌hv̄.
+bs|mp3/Lesson-05-172.mp3|Aksdà:yv̌hv:sgi.
+bs|mp3/Lesson-05-177.mp3|Jadu:lí.
+bs|mp3/Lesson-05-178.mp3|Jadu:líɂa.
+bs|mp3/Lesson-05-180.mp3|U:du:lí.
+bs|mp3/Lesson-05-181.mp3|U:du:líɂa.
+bs|mp3/Lesson-05-183.mp3|Unadu:lí.
+bs|mp3/Lesson-05-184.mp3|Unadu:líɂa.
+bs|mp3/Lesson-05-186.mp3|Agǐ:gáge
+bs|mp3/Lesson-05-189.mp3|U:gù:ku.
+bs|mp3/Lesson-05-192.mp3|Gǐ:.
+bs|mp3/Lesson-05-193.mp3|Gǐ:ga.
+bs|mp3/Lesson-05-195.mp3|Go:hi̋:.
+bs|mp3/Lesson-05-196.mp3|Go:hi̋:gi.
+bs|mp3/Lesson-05-200.mp3|Kó:.
+bs|mp3/Lesson-05-201.mp3|Kó:ga.
+bs|mp3/Lesson-05-202.mp3|Kó:gi.
+bs|mp3/Lesson-05-204.mp3|Hī.
+bs|mp3/Lesson-05-205.mp3|Hiɂa.
+bs|mp3/Lesson-06-001.mp3|Su:dali:né Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-06-003.mp3|Di:de:hyǒ:hv.
+bs|mp3/Lesson-06-004.mp3|Di:de:hyǒ:hvsgi.
+bs|mp3/Lesson-06-006.mp3|Idalě:n.
+bs|mp3/Lesson-06-007.mp3|Idalě:na.
+bs|mp3/Lesson-06-009.mp3|Ha:dlv hině:l?
+bs|mp3/Lesson-06-010.mp3|Ha:dlv hině:la?
+bs|mp3/Lesson-06-012.mp3|Dò dě:jádo?
+bs|mp3/Lesson-06-013.mp3|Gadò dě:jádo:ɂa?
+bs|mp3/Lesson-06-015.mp3|Gweti dà:wadó.
+bs|mp3/Lesson-06-016.mp3|Gweti dà:wadó:ɂa.
+bs|mp3/Lesson-06-018.mp3|U:sganő hiwò:nǐ:.
+bs|mp3/Lesson-06-019.mp3|U:sganő:li hiwò:nǐ:hi.
+bs|mp3/Lesson-06-021.mp3|Tla yigo:lì:ga.
+bs|mp3/Lesson-06-023.mp3|Dògi hadí.
+bs|mp3/Lesson-06-024.mp3|Gadògi hadí:ɂa.
+bs|mp3/Lesson-06-033.mp3|Dō u:sd?
+bs|mp3/Lesson-06-034.mp3|Gadō u:sdi?
+bs|mp3/Lesson-06-036.mp3|Gadō u:sdi jadu:líɂa.?
+bs|mp3/Lesson-06-038.mp3|Nihina?
+bs|mp3/Lesson-06-039.mp3|Nihinahv?
+bs|mp3/Lesson-06-041.mp3|Tla yà:gwanht.
+bs|mp3/Lesson-06-042.mp3|Tla yà:gwanhta.
+bs|mp3/Lesson-06-044.mp3|Dinǐ:yé:li:.
+bs|mp3/Lesson-06-045.mp3|Dinǐ:yé:li:hi.
+bs|mp3/Lesson-06-047.mp3|Didǐ:yé:li:.
+bs|mp3/Lesson-06-048.mp3|Didǐ:yé:li:hi.
+bs|mp3/Lesson-06-050.mp3|Ő:sda.
+bs|mp3/Lesson-06-055.mp3|U:sganő:.
+bs|mp3/Lesson-06-058.mp3|Di:de:hyǒ:hvsgi.
+bs|mp3/Lesson-06-063.mp3|Dō ű:sd?
+bs|mp3/Lesson-06-064.mp3|Gadō ű:?
+bs|mp3/Lesson-06-065.mp3|Gadō ű:sdi?
+bs|mp3/Lesson-06-067.mp3|Ha:dlv?
+bs|mp3/Lesson-06-069.mp3|Go:hwe:l.
+bs|mp3/Lesson-06-070.mp3|Go:hwe:la.
+bs|mp3/Lesson-06-071.mp3|Go:hwe:li.
+bs|mp3/Lesson-06-073.mp3|À:gwanhta.
+bs|mp3/Lesson-06-075.mp3|Janht.
+bs|mp3/Lesson-06-076.mp3|Janhta.
+bs|mp3/Lesson-06-078.mp3|Ùnhta.
+bs|mp3/Lesson-06-080.mp3|Ùnanht.
+bs|mp3/Lesson-06-081.mp3|Ùnanhta.
+bs|mp3/Lesson-06-083.mp3|Ahő:li.
+bs|mp3/Lesson-06-085.mp3|Ahu:li.
+bs|mp3/Lesson-06-087.mp3|Ale.
+bs|mp3/Lesson-06-090.mp3|V:le.
+bs|mp3/Lesson-06-094.mp3|Kila.
+bs|mp3/Lesson-06-095.mp3|Kilő:i.
+bs|mp3/Lesson-06-097.mp3|Hv?
+bs|mp3/Lesson-06-100.mp3|Lu:ga.
+bs|mp3/Lesson-06-102.mp3|Galiɂě:lí.
+bs|mp3/Lesson-06-103.mp3|Galiɂě:lî:ga.
+bs|mp3/Lesson-06-105.mp3|Halihě:lí.
+bs|mp3/Lesson-06-106.mp3|Halihě:lî:ga.
+bs|mp3/Lesson-06-108.mp3|À:li:hě:lí.
+bs|mp3/Lesson-06-109.mp3|À:li:hě:lî:ga.
+bs|mp3/Lesson-06-111.mp3|Anali:hě:lí.
+bs|mp3/Lesson-06-112.mp3|Anali:hě:lî:ga.
+bs|mp3/Lesson-06-114.mp3|Go:lì:.
+bs|mp3/Lesson-06-115.mp3|Go:lì:ga.
+bs|mp3/Lesson-07-001.mp3|Gahlgwo:gi:ne̋ Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-07-003.mp3|Iga.
+bs|mp3/Lesson-07-006.mp3|I:ga.
+bs|mp3/Lesson-07-008.mp3|Á:m.
+bs|mp3/Lesson-07-009.mp3|Á:ma.
+bs|mp3/Lesson-07-013.mp3|U:hyv:dla.
+bs|mp3/Lesson-07-016.mp3|U:hyv̋:dla.
+bs|mp3/Lesson-07-019.mp3|U:gǎ:nawa.
+bs|mp3/Lesson-07-022.mp3|U:ga̋:nawa.
+bs|mp3/Lesson-07-025.mp3|Dō gadv:ne?
+bs|mp3/Lesson-07-026.mp3|Gadō gadv:neɂa?
+bs|mp3/Lesson-07-029.mp3|Dō hadv:ne?
+bs|mp3/Lesson-07-030.mp3|Gadō hadv:neɂa?
+bs|mp3/Lesson-07-033.mp3|Dō adv:ne?
+bs|mp3/Lesson-07-034.mp3|Gadō adv:neɂa?
+bs|mp3/Lesson-07-037.mp3|Dō anadv:ne?
+bs|mp3/Lesson-07-038.mp3|Gadō anadv:neɂa?
+bs|mp3/Lesson-07-044.mp3|U:gǎ:no.
+bs|mp3/Lesson-07-066.mp3|U:gǎ:nowi.
+bs|mp3/Lesson-07-068.mp3|Am.
+bs|mp3/Lesson-07-069.mp3|Ama.
+bs|mp3/Lesson-07-071.mp3|U:hyv:dla dò:dala.
+bs|mp3/Lesson-07-074.mp3|Dò:dala ju:hyv:dla.
+bs|mp3/Lesson-07-077.mp3|U:gǎ:nawa dò:dala.
+bs|mp3/Lesson-07-080.mp3|Dò:dala ju:gǎ:nawi.
+bs|mp3/Lesson-07-083.mp3|U:hyv:dla u:hyv:dlv.
+bs|mp3/Lesson-07-086.mp3|U:hyv:dlv u:hyv:dlv.
+bs|mp3/Lesson-07-089.mp3|U:gǎ:nawa u:gǎ:nawa.
+bs|mp3/Lesson-07-094.mp3|U:hyv:dlv e̋:hi.
+bs|mp3/Lesson-07-097.mp3|U:gǎ:nawa e̋:hi.
+bs|mp3/Lesson-07-100.mp3|U:hyv:dlv gě:dô:.
+bs|mp3/Lesson-07-101.mp3|U:hyv:dlv gě:dô:a.
+bs|mp3/Lesson-07-103.mp3|U:gǎ:nawa gě:dô:.
+bs|mp3/Lesson-07-104.mp3|U:gǎ:nawa gě:dô:a.
+bs|mp3/Lesson-07-106.mp3|Agihyv̋:dla.
+bs|mp3/Lesson-07-109.mp3|Agigǎ:nawa.
+bs|mp3/Lesson-07-112.mp3|E:lo.
+bs|mp3/Lesson-07-113.mp3|E:lohi.
+bs|mp3/Lesson-07-115.mp3|U:galǒ:.
+bs|mp3/Lesson-07-116.mp3|U:galǒ:ga.
+bs|mp3/Lesson-07-118.mp3|Ǔ:gáma.
+bs|mp3/Lesson-07-120.mp3|Galv:lő:hi.
+bs|mp3/Lesson-07-122.mp3|Kama:ma.
+bs|mp3/Lesson-07-126.mp3|Ma:ga.
+bs|mp3/Lesson-07-128.mp3|Me:li.
+bs|mp3/Lesson-08-001.mp3|Chuně:li:ne̋ Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-08-005.mp3|Dà:ni:sdayo:hihv́.
+bs|mp3/Lesson-08-009.mp3|Dà:ni:sdayo:hihv̋:ɂi.
+bs|mp3/Lesson-08-015.mp3|Adǎ:hnehdi.
+bs|mp3/Lesson-08-017.mp3|Di:dǎ:hnehdi.
+bs|mp3/Lesson-08-021.mp3|Nokwsi.
+bs|mp3/Lesson-08-026.mp3|Akwe:nhda go:hwe:li.
+bs|mp3/Lesson-08-029.mp3|U:halv:na.
+bs|mp3/Lesson-08-030.mp3|U:halv:ni.
+bs|mp3/Lesson-08-032.mp3|Ajina.
+bs|mp3/Lesson-08-034.mp3|Adǎ:wé:hi.
+bs|mp3/Lesson-08-037.mp3|Na doyu uwo:dű ajin.
+bs|mp3/Lesson-08-038.mp3|Na doyu uwo:dű ajina.
+bs|mp3/Lesson-08-048.mp3|Digǐ:gáge ale dijéɂiyű:sdi dà:gi di:jv̋sdi.
+bs|mp3/Lesson-08-050.mp3|Do:yű.
+bs|mp3/Lesson-08-056.mp3|Ijéɂiyű:sd.
+bs|mp3/Lesson-08-057.mp3|Ijéɂiyű:sdi.
+bs|mp3/Lesson-08-058.mp3|Ajéɂiyű:sd.
+bs|mp3/Lesson-08-059.mp3|Ajéɂiyű:sdi.
+bs|mp3/Lesson-08-061.mp3|Ajv̋sd.
+bs|mp3/Lesson-08-062.mp3|Ajv̋sdi.
+bs|mp3/Lesson-08-066.mp3|Dijv̋sd.
+bs|mp3/Lesson-08-067.mp3|Dijv̋sdi.
+bs|mp3/Lesson-08-071.mp3|Ni!
+bs|mp3/Lesson-08-074.mp3|Uwo:du.
+bs|mp3/Lesson-08-076.mp3|À:kiwásga.
+bs|mp3/Lesson-08-081.mp3|Ù:hwasga.
+bs|mp3/Lesson-08-083.mp3|Ù:nihwasga.
+bs|mp3/Lesson-08-085.mp3|Gv̀:ne.
+bs|mp3/Lesson-08-089.mp3|Hì:ne.
+bs|mp3/Lesson-08-090.mp3|Hì:neha.
+bs|mp3/Lesson-08-092.mp3|À:hne.
+bs|mp3/Lesson-08-093.mp3|À:hneha.
+bs|mp3/Lesson-08-096.mp3|Anihne.
+bs|mp3/Lesson-08-097.mp3|Anihneha.
+bs|mp3/Lesson-08-099.mp3|À:gi:ká.
+bs|mp3/Lesson-08-100.mp3|À:gi:káha.
+bs|mp3/Lesson-08-104.mp3|Ù:we:ká.
+bs|mp3/Lesson-08-105.mp3|Ù:we:káha.
+bs|mp3/Lesson-08-110.mp3|À:giná.
+bs|mp3/Lesson-08-111.mp3|À:gináa.
+bs|mp3/Lesson-08-113.mp3|Janáa
+bs|mp3/Lesson-08-115.mp3|Ù:náɂa.
+bs|mp3/Lesson-08-119.mp3|À:gi.
+bs|mp3/Lesson-08-120.mp3|À:giha.
+bs|mp3/Lesson-08-123.mp3|Jaha.
+bs|mp3/Lesson-08-126.mp3|Ǔ:ha.
+bs|mp3/Lesson-08-130.mp3|À:gwv̌:ya.
+bs|mp3/Lesson-08-133.mp3|Jv̌:ya.
+bs|mp3/Lesson-08-141.mp3|À:giné.
+bs|mp3/Lesson-08-142.mp3|À:ginéha.
+bs|mp3/Lesson-08-147.mp3|Ù:né.
+bs|mp3/Lesson-08-148.mp3|Ù:néha.
+bs|mp3/Lesson-08-150.mp3|Uninéha.
+bs|mp3/Lesson-08-152.mp3|Agv̌:níge̋:.
+bs|mp3/Lesson-08-160.mp3|Áhni.
+bs|mp3/Lesson-08-162.mp3|U:halv:ni.
+bs|mp3/Lesson-08-163.mp3|U:halv:na.
+bs|mp3/Lesson-08-165.mp3|U:ne̋:.
+bs|mp3/Lesson-08-166.mp3|U:ne̋:ga.
+bs|mp3/Lesson-08-168.mp3|Gő:l.
+bs|mp3/Lesson-08-169.mp3|Gő:la.
+bs|mp3/Lesson-08-170.mp3|Gő:li.
+bs|mp3/Lesson-08-172.mp3|Kǒ:l.
+bs|mp3/Lesson-08-173.mp3|Kǒ:la.
+bs|mp3/Lesson-08-174.mp3|Kǒ:li.
+bs|mp3/Lesson-08-176.mp3|Gv́:na.
+bs|mp3/Lesson-08-178.mp3|Na.
+bs|mp3/Lesson-08-180.mp3|Naɂv.
+bs|mp3/Lesson-08-181.mp3|Naɂvɂi.
+bs|mp3/Lesson-08-183.mp3|Nana.
+bs|mp3/Lesson-08-184.mp3|Nanaɂi.
+bs|mp3/Lesson-08-186.mp3|Nihina?
+bs|mp3/Lesson-08-187.mp3|Nihinahv?
+bs|mp3/Lesson-09-002.mp3|Sóhne:li:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-09-029.mp3|Ali:he:lísdi.
+bs|mp3/Lesson-09-032.mp3|U:no:lv̀:tan ka:la.
+bs|mp3/Lesson-09-033.mp3|U:no:lv̀:tana ka:la.
+bs|mp3/Lesson-09-034.mp3|U:no:lv̀:tani ka:la.
+bs|mp3/Lesson-09-035.mp3|U:no:lv̀:tana.
+bs|mp3/Lesson-09-036.mp3|U:no:lv̀:tani.
+bs|mp3/Lesson-09-039.mp3|Ka:ga.
+bs|mp3/Lesson-09-040.mp3|Ka:gaɂli.
+bs|mp3/Lesson-09-042.mp3|Anv:yi.
+bs|mp3/Lesson-09-044.mp3|Kawo:n.
+bs|mp3/Lesson-09-045.mp3|Kawo:ni.
+bs|mp3/Lesson-09-047.mp3|Ànsgv:.
+bs|mp3/Lesson-09-048.mp3|Ànsgv:ti.
+bs|mp3/Lesson-09-050.mp3|De:halǔ:.
+bs|mp3/Lesson-09-051.mp3|De:halǔ:yi.
+bs|mp3/Lesson-09-053.mp3|Kuye:gwǒ:n.
+bs|mp3/Lesson-09-054.mp3|Kuye:gwǒ:ni.
+bs|mp3/Lesson-09-056.mp3|Gaɂlo:n.
+bs|mp3/Lesson-09-057.mp3|Gaɂlo:hni.
+bs|mp3/Lesson-09-059.mp3|Du:lì:sd.
+bs|mp3/Lesson-09-060.mp3|Du:lì:sdi.
+bs|mp3/Lesson-09-062.mp3|Dù:ninvhd.
+bs|mp3/Lesson-09-063.mp3|Dù:ninvhdi.
+bs|mp3/Lesson-09-065.mp3|Nv:dadě:w.
+bs|mp3/Lesson-09-066.mp3|Nv:dadě:wa.
+bs|mp3/Lesson-09-068.mp3|V̌:sgí.
+bs|mp3/Lesson-09-069.mp3|V̌:sgíyi.
+bs|mp3/Lesson-09-071.mp3|Dō ű:sd dadihno:gí?
+bs|mp3/Lesson-09-072.mp3|Gadō ű:sdi dadihno:gí:si?
+bs|mp3/Lesson-09-074.mp3|Idihno:.
+bs|mp3/Lesson-09-075.mp3|Idihno:gí.
+bs|mp3/Lesson-09-077.mp3|Howa.
+bs|mp3/Lesson-09-080.mp3|U:sdi̋ɂi.
+bs|mp3/Lesson-09-082.mp3|Junsdi.
+bs|mp3/Lesson-09-083.mp3|Junsdiɂi.
+bs|mp3/Lesson-09-085.mp3|Achű:j.
+bs|mp3/Lesson-09-086.mp3|Achű:ja.
+bs|mp3/Lesson-09-087.mp3|Achű:ji.
+bs|mp3/Lesson-09-088.mp3|Chű:j.
+bs|mp3/Lesson-09-090.mp3|Ani:chű:j.
+bs|mp3/Lesson-09-091.mp3|Ani:chű:ja.
+bs|mp3/Lesson-09-092.mp3|Ani:chű:ji.
+bs|mp3/Lesson-09-094.mp3|Age:hyű:j.
+bs|mp3/Lesson-09-095.mp3|Age:hyű:ja.
+bs|mp3/Lesson-09-097.mp3|Ani:ge:hyű:j.
+bs|mp3/Lesson-09-098.mp3|Ani:ge:hyű:ja.
+bs|mp3/Lesson-09-101.mp3|Awi̋:n.
+bs|mp3/Lesson-09-102.mp3|Awi̋:na.
+bs|mp3/Lesson-09-104.mp3|Ani:wi̋:n.
+bs|mp3/Lesson-09-107.mp3|A̋:t.
+bs|mp3/Lesson-09-108.mp3|A̋:ta.
+bs|mp3/Lesson-09-110.mp3|Ana̋:t.
+bs|mp3/Lesson-09-111.mp3|Ana̋:ta.
+bs|mp3/Lesson-09-113.mp3|Asgay.
+bs|mp3/Lesson-09-114.mp3|Asgaya.
+bs|mp3/Lesson-09-115.mp3|Asgayv.
+bs|mp3/Lesson-09-117.mp3|Ani:sgay.
+bs|mp3/Lesson-09-118.mp3|Ani:sgaya.
+bs|mp3/Lesson-09-119.mp3|Ani:sgayv.
+bs|mp3/Lesson-09-121.mp3|Agě:.
+bs|mp3/Lesson-09-122.mp3|Agě:hya.
+bs|mp3/Lesson-09-124.mp3|Ani:gě:.
+bs|mp3/Lesson-09-125.mp3|Ani:gě:hya.
+bs|mp3/Lesson-09-128.mp3|U:tvhisdv.
+bs|mp3/Lesson-09-130.mp3|Ju:ntvhisd.
+bs|mp3/Lesson-09-131.mp3|Ju:natvhisdv.
+bs|mp3/Lesson-09-133.mp3|Agayv̌:lí.
+bs|mp3/Lesson-09-134.mp3|Agayv̌:líge̋:.
+bs|mp3/Lesson-09-136.mp3|Ani:gayv̌:lí.
+bs|mp3/Lesson-09-137.mp3|Ani:gayv̌:líge̋:.
+bs|mp3/Lesson-09-139.mp3|Ayő:hli.
+bs|mp3/Lesson-09-142.mp3|Di:ni:yő:hli.
+bs|mp3/Lesson-09-145.mp3|À:di.
+bs|mp3/Lesson-09-146.mp3|À:dia.
+bs|mp3/Lesson-09-147.mp3|À:ndi.
+bs|mp3/Lesson-09-148.mp3|À:ndia.
+bs|mp3/Lesson-09-156.mp3|É:ga.
+bs|mp3/Lesson-09-159.mp3|Ané:ga.
+bs|mp3/Lesson-09-168.mp3|Ù:du:lí.
+bs|mp3/Lesson-09-171.mp3|Ù:nadu:lí.
+bs|mp3/Lesson-09-181.mp3|À:lsdâ:yv:hv́sga.
+bs|mp3/Lesson-09-183.mp3|Anà:lsdâ:yv:hv́.
+bs|mp3/Lesson-09-184.mp3|Anà:lsdâ:yv:hv́sga.
+bs|mp3/Lesson-09-192.mp3|Ùnhta.
+bs|mp3/Lesson-09-195.mp3|Ùnanhta.
+bs|mp3/Lesson-09-203.mp3|À:li:hě:lî:ga.
+bs|mp3/Lesson-09-206.mp3|Anali:hě:lî:ga.
+bs|mp3/Lesson-09-227.mp3|À:dv́:ne.
+bs|mp3/Lesson-09-230.mp3|Anadv́:ne.
+bs|mp3/Lesson-09-239.mp3|Ù:hwasga.
+bs|mp3/Lesson-09-242.mp3|Unihwasga.
+bs|mp3/Lesson-09-250.mp3|À:hneha.
+bs|mp3/Lesson-09-254.mp3|Anihneha.
+bs|mp3/Lesson-09-257.mp3|Ù:we:káha.
+bs|mp3/Lesson-09-260.mp3|Unikáha.
+bs|mp3/Lesson-09-263.mp3|Ù:náɂa.
+bs|mp3/Lesson-09-266.mp3|Unináɂa.
+bs|mp3/Lesson-09-269.mp3|Ǔ:ha.
+bs|mp3/Lesson-09-272.mp3|Uniha.
+bs|mp3/Lesson-09-274.mp3|Ù:néa.
+bs|mp3/Lesson-09-277.mp3|Ù:ninéha.
+bs|mp3/Lesson-09-280.mp3|Ù:wâ:ya.
+bs|mp3/Lesson-09-283.mp3|Ù:nâ:ya.
+bs|mp3/Lesson-09-289.mp3|U:ni:hyv̋:dla.
+bs|mp3/Lesson-09-295.mp3|U:ni:gǎ:nawa.
+bs|mp3/Lesson-09-302.mp3|Agayv̋:li.
+bs|mp3/Lesson-09-304.mp3|Agayv̌:líge̋:.
+bs|mp3/Lesson-09-307.mp3|Ani:gayv̌:líge̋:
+bs|mp3/Lesson-09-315.mp3|Uwo:dű age:hyű:ja.
+bs|mp3/Lesson-09-318.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:ga..
+bs|mp3/Lesson-09-319.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:.
+bs|mp3/Lesson-09-321.mp3|Agv̌:níge̋:ɂi kama:ma à:lsdâ:yv:hv́sga.
+bs|mp3/Lesson-09-325.mp3|Anigv̌:níge̋ kama:ma a:nalsdâ:yv:hv́sga.
+bs|mp3/Lesson-09-328.mp3|E̋:gwa.
+bs|mp3/Lesson-09-333.mp3|Kwan.
+bs|mp3/Lesson-09-334.mp3|Kwana.
+bs|mp3/Lesson-10-001.mp3|Sgo:hi:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-10-006.mp3|Di:je̋ dikané:jv di:do:ja.
+bs|mp3/Lesson-10-008.mp3|Ha:dlv go:hwe:lv?
+bs|mp3/Lesson-10-009.mp3|Ha:dlv go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-10-011.mp3|Dù:dǎ:sgó chuně:li go:hwe:li.
+bs|mp3/Lesson-10-012.mp3|Dù:dǎ:sgó chuně:la go:hwe:la.
+bs|mp3/Lesson-10-015.mp3|Inadǐ:ta.
+bs|mp3/Lesson-10-016.mp3|Kǎ:hwi inadǐ:ta.
+bs|mp3/Lesson-10-018.mp3|Kalsě:jis hà:su:yv́:sgó?
+bs|mp3/Lesson-10-028.mp3|U:nv̌:d hà:su:yv́:sgó?
+bs|mp3/Lesson-10-029.mp3|U:nv̌:dis hà:su:yv́:sgó?
+bs|mp3/Lesson-10-031.mp3|U:hyv:dlake adǐ:tas jadu:lí?
+bs|mp3/Lesson-10-033.mp3|Adǐ:tasdi jadu:líɂa?
+bs|mp3/Lesson-10-035.mp3|U:gana̋:sdake jadu:lí?
+bs|mp3/Lesson-10-036.mp3|U:gana̋:sdake jadu:líɂa?
+bs|mp3/Lesson-10-055.mp3|Kané:jv.
+bs|mp3/Lesson-10-058.mp3|Dikané:jv
+bs|mp3/Lesson-10-061.mp3|Gadì:tásg.
+bs|mp3/Lesson-10-062.mp3|Gadì:tásga.
+bs|mp3/Lesson-10-064.mp3|Hadì:tásg.
+bs|mp3/Lesson-10-067.mp3|À:di:tásg.
+bs|mp3/Lesson-10-068.mp3|À:di:tásga.
+bs|mp3/Lesson-10-070.mp3|Anadi:tásg.
+bs|mp3/Lesson-10-071.mp3|Anadi:tásga.
+bs|mp3/Lesson-10-073.mp3|Alà:sǔ:lo.
+bs|mp3/Lesson-10-076.mp3|Gǎ:sógwalv́.
+bs|mp3/Lesson-10-079.mp3|Sakǒ:níge̋:.
+bs|mp3/Lesson-10-083.mp3|Sa:sa.
+bs|mp3/Lesson-10-086.mp3|Sihgw.
+bs|mp3/Lesson-10-087.mp3|Sihgwa.
+bs|mp3/Lesson-10-089.mp3|Sǐ:gwu.
+bs|mp3/Lesson-11-002.mp3|Saduɂi:ne̋ Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-11-004.mp3|Dijé:nv̀:sv́ hé:g.
+bs|mp3/Lesson-11-005.mp3|Dijé:nv̀:sv̋:ɂi hé:ga.
+bs|mp3/Lesson-11-007.mp3|Ha:dlv hé:g?
+bs|mp3/Lesson-11-008.mp3|Ha:dlv hé:ga?
+bs|mp3/Lesson-11-010.mp3|U:hyv:dla dǒ:y. 
+bs|mp3/Lesson-11-011.mp3|U:hyv:dla dǒ:yi.
+bs|mp3/Lesson-11-013.mp3|U:hyv:dlake dǒ:y?
+bs|mp3/Lesson-11-014.mp3|U:hyv:dlake dǒ:yi?
+bs|mp3/Lesson-11-016.mp3|Ő:sdadv.
+bs|mp3/Lesson-11-019.mp3|Ő:sdaju?
+bs|mp3/Lesson-11-022.mp3|Goɂi jadu:lí?
+bs|mp3/Lesson-11-023.mp3|Goɂi jadu:líɂa?
+bs|mp3/Lesson-11-026.mp3|Goɂi jadu:lísgo?
+bs|mp3/Lesson-11-027.mp3|Goɂike jadu:lí?
+bs|mp3/Lesson-11-033.mp3|Hé:gaju?
+bs|mp3/Lesson-11-036.mp3|Hé:gasgohv?
+bs|mp3/Lesson-11-037.mp3|Hé:gake?
+bs|mp3/Lesson-11-039.mp3|Do:yu uwo:du sv:hiye.
+bs|mp3/Lesson-11-042.mp3|Uwo:duke kò:hi̋ sv:hiye?
+bs|mp3/Lesson-11-045.mp3|À:ga:sga u:hyv:dlahno dǒ:yi.
+bs|mp3/Lesson-11-049.mp3|À:ga:sgas?
+bs|mp3/Lesson-11-051.mp3|Ù:lô:gi:li kò:hi̋ svná:le.
+bs|mp3/Lesson-11-052.mp3|Ù:lô:gi:li kò:hi̋ svná:le̋ɂi.
+bs|mp3/Lesson-11-054.mp3|Ù:lô:gi:lv.
+bs|mp3/Lesson-11-057.mp3|Gà:yő:hl jiwó:ni Jalagi.
+bs|mp3/Lesson-11-058.mp3|Gà:yő:hli jiwó:niɂa Jalagi.
+bs|mp3/Lesson-11-061.mp3|Gà:yő:hlike hiwó:ni Jalagi?
+bs|mp3/Lesson-11-063.mp3|Ő:sdadv Jalagi gawó:ni.
+bs|mp3/Lesson-11-064.mp3|Ő:sdadv Jalagi gawó:niɂa.
+bs|mp3/Lesson-11-067.mp3|Jiyv:wi:yádv.
+bs|mp3/Lesson-11-069.mp3|Hiyv:wi:yá.
+bs|mp3/Lesson-11-070.mp3|Hiyv:wi:yádv.
+bs|mp3/Lesson-11-072.mp3|Hiyv:wi:yásg?
+bs|mp3/Lesson-11-073.mp3|Hiyv:wi:yásgohv?
+bs|mp3/Lesson-11-075.mp3|Ayv:wi:yá.
+bs|mp3/Lesson-11-076.mp3|Ayv:wi:yádv.
+bs|mp3/Lesson-11-078.mp3|Gadō ű:sd ayv:wi:yá?
+bs|mp3/Lesson-11-079.mp3|Gadō ű:sdi ayv:wi:yá?
+bs|mp3/Lesson-11-081.mp3|Yú:ne:gake hiwó:ni?
+bs|mp3/Lesson-11-082.mp3|Yú:ne:gake hiwó:niɂa?
+bs|mp3/Lesson-11-087.mp3|Akwanv́:gi jiyv:wi.
+bs|mp3/Lesson-11-090.mp3|Agǔ:sa jiyv:wi.
+bs|mp3/Lesson-11-093.mp3|Jiyú:ne:ga jiyv:wi.
+bs|mp3/Lesson-11-096.mp3|hno.
+bs|mp3/Lesson-11-097.mp3|hnv.
+bs|mp3/Lesson-11-102.mp3|Di:ni:yő:hli.
+bs|mp3/Lesson-11-105.mp3|U:lò:gí:l.
+bs|mp3/Lesson-11-106.mp3|U:lò:gí:la.
+bs|mp3/Lesson-11-107.mp3|U:lò:gí:li.
+bs|mp3/Lesson-11-109.mp3|Yú:ne:g.
+bs|mp3/Lesson-11-110.mp3|Yú:ne:ga.
+bs|mp3/Lesson-11-111.mp3|Yó:ne:g.
+bs|mp3/Lesson-11-112.mp3|Yó:ne:ga.
+bs|mp3/Lesson-11-114.mp3|Sv:hiye̋.
+bs|mp3/Lesson-11-117.mp3|Gà:yő:hli.
+bs|mp3/Lesson-11-120.mp3|Suná:le̋.
+bs|mp3/Lesson-11-121.mp3|Suná:le̋:ɂi
+bs|mp3/Lesson-11-123.mp3|Dǒ:y.
+bs|mp3/Lesson-11-124.mp3|Dǒ:yi.
+bs|mp3/Lesson-11-126.mp3|Yv:w.
+bs|mp3/Lesson-11-127.mp3|Yv:wi.
+bs|mp3/Lesson-11-129.mp3|À:ga:sg.
+bs|mp3/Lesson-11-130.mp3|À:ga:sga.
+bs|mp3/Lesson-11-132.mp3|Do:yű.
+bs|mp3/Lesson-11-134.mp3|Dv.
+bs|mp3/Lesson-11-153.mp3|Jiwó:ni.
+bs|mp3/Lesson-11-154.mp3|Jiwó:niɂa.
+bs|mp3/Lesson-11-156.mp3|Hiwó:ni.
+bs|mp3/Lesson-11-157.mp3|Hiwó:niɂa.
+bs|mp3/Lesson-11-159.mp3|Gawó:ni.
+bs|mp3/Lesson-11-160.mp3|Gawó:niɂa.
+bs|mp3/Lesson-11-162.mp3|Aniwó:ni.
+bs|mp3/Lesson-11-163.mp3|Aniwó:niɂa.
+bs|mp3/Lesson-11-165.mp3|Ge:lí.
+bs|mp3/Lesson-11-166.mp3|Ge:líɂa.
+bs|mp3/Lesson-11-168.mp3|He:lí.
+bs|mp3/Lesson-11-169.mp3|He:líɂa.
+bs|mp3/Lesson-11-171.mp3|È:lí.
+bs|mp3/Lesson-11-172.mp3|È:lía.
+bs|mp3/Lesson-11-174.mp3|Anè:lí.
+bs|mp3/Lesson-11-175.mp3|Anè:lía.
+bs|mp3/Lesson-11-177.mp3|Dù:danv:hnv̋.
+bs|mp3/Lesson-11-178.mp3|Dù:danv:hnv̋:ɂi.
+bs|mp3/Lesson-11-191.mp3|Ǔ:tan.
+bs|mp3/Lesson-11-192.mp3|Ǔ:tana.
+bs|mp3/Lesson-11-197.mp3|Gǎ:da.
+bs|mp3/Lesson-11-201.mp3|Ga:da:ha̋.
+bs|mp3/Lesson-12-002.mp3|Táɂlduɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-12-004.mp3|Na achű:ja jù:lúhjv̌ kò:hi̋.
+bs|mp3/Lesson-12-005.mp3|Tlaidv́galúhji.
+bs|mp3/Lesson-12-006.mp3|Na achű:ja.
+bs|mp3/Lesson-12-007.mp3|Jù:lúhjv̌ kò:hi̋, tlaidv́galúhji.
+bs|mp3/Lesson-12-009.mp3|Ká:gā na achű:ja?
+bs|mp3/Lesson-12-015.mp3|Ha:dlv?
+bs|mp3/Lesson-12-016.mp3|Ha:dlvɂi?
+bs|mp3/Lesson-12-018.mp3|À:tv:gâ:nv nù:wè:sv.
+bs|mp3/Lesson-12-021.mp3|Dò ad?
+bs|mp3/Lesson-12-022.mp3|Gadò ad?
+bs|mp3/Lesson-12-023.mp3|Gadò adā?
+bs|mp3/Lesson-12-043.mp3|Hila̋ ǐ:ga̋?
+bs|mp3/Lesson-12-044.mp3|Hila̋ ǐ:ga̋ɂi?
+bs|mp3/Lesson-12-049.mp3|Hila̋dv?
+bs|mp3/Lesson-12-052.mp3|Hila̋ nà:ní?
+bs|mp3/Lesson-12-053.mp3|Hila̋ nà:ní:ɂa?
+bs|mp3/Lesson-12-120.mp3|Hila̋ go:hwe:li jadu:lí?
+bs|mp3/Lesson-12-121.mp3|Hila̋ go:hwe:li jadu:líɂa?
+bs|mp3/Lesson-12-125.mp3|Hila̋ ǐ:ga̋ɂi jadu:líɂa?
+bs|mp3/Lesson-12-127.mp3|Hilâ:yv̋ dv́ɂhilúhji?
+bs|mp3/Lesson-12-133.mp3|Halâ:yv̋ é:gwő:ni?
+bs|mp3/Lesson-12-136.mp3|Halâ:yv̋ wù:sda é:gwő:ni?
+bs|mp3/Lesson-12-143.mp3|É:gwő:n.
+bs|mp3/Lesson-12-144.mp3|É:gwő:ni.
+bs|mp3/Lesson-12-146.mp3|Jiɂluh.
+bs|mp3/Lesson-12-147.mp3|Jiɂluhgī.
+bs|mp3/Lesson-12-149.mp3|Hiɂluh.
+bs|mp3/Lesson-12-150.mp3|Hiɂluhgī.
+bs|mp3/Lesson-12-152.mp3|Gaɂluh.
+bs|mp3/Lesson-12-153.mp3|Gaɂluhgī.
+bs|mp3/Lesson-12-155.mp3|Aniɂluh.
+bs|mp3/Lesson-12-156.mp3|Aniɂluhgī.
+bs|mp3/Lesson-12-158.mp3|Gatv:gī.
+bs|mp3/Lesson-12-161.mp3|Hatv:gī.
+bs|mp3/Lesson-12-164.mp3|Atv:gī.
+bs|mp3/Lesson-12-184.mp3|À:sdû:.
+bs|mp3/Lesson-12-185.mp3|À:sdû:di.
+bs|mp3/Lesson-12-190.mp3|Dla:me:ha.
+bs|mp3/Lesson-12-191.mp3|Dla:ma:ha.
+bs|mp3/Lesson-12-193.mp3|Dla:nú:s.
+bs|mp3/Lesson-12-194.mp3|Dla:nú:si.
+bs|mp3/Lesson-12-196.mp3|Dlù:dlu.
+bs|mp3/Lesson-13-001.mp3|Joɂgaduɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-13-015.mp3|Ayv gé.
+bs|mp3/Lesson-13-016.mp3|Ayv gé:ga.
+bs|mp3/Lesson-13-027.mp3|Nihi gadíɂa hiɂa.
+bs|mp3/Lesson-13-049.mp3|Jí:sgwa juwě:ji 
+bs|mp3/Lesson-13-053.mp3|Jí:sgwa ani̋:da anì:jáɂiɂa.
+bs|mp3/Lesson-13-114.mp3|A̋ɂda.
+bs|mp3/Lesson-13-115.mp3|A̋ɂdage.
+bs|mp3/Lesson-13-117.mp3|Ani̋:da.
+bs|mp3/Lesson-13-118.mp3|Ani̋:dage.
+bs|mp3/Lesson-13-130.mp3|Gadáɂnv.
+bs|mp3/Lesson-13-131.mp3|Gadáɂnvɂa.
+bs|mp3/Lesson-13-133.mp3|Hadáɂnv.
+bs|mp3/Lesson-13-134.mp3|Hadáɂnvɂa.
+bs|mp3/Lesson-13-136.mp3|À:dáɂnv.
+bs|mp3/Lesson-13-137.mp3|À:dáɂnv:ɂa.
+bs|mp3/Lesson-13-139.mp3|À:nadáɂnv.
+bs|mp3/Lesson-13-140.mp3|À:nadáɂnv:ɂa.
+bs|mp3/Lesson-14-002.mp3|Nigaduɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-14-006.mp3|Na.
+bs|mp3/Lesson-14-008.mp3|Nà:sgi.
+bs|mp3/Lesson-14-011.mp3|Nà:ní.
+bs|mp3/Lesson-14-012.mp3|Nà:hní.
+bs|mp3/Lesson-14-015.mp3|Sgina.
+bs|mp3/Lesson-14-032.mp3|Hlá kiloyi.
+bs|mp3/Lesson-14-033.mp3|Hlá kiloyigi.
+bs|mp3/Lesson-14-035.mp3|Sgwi̋:sd.
+bs|mp3/Lesson-14-044.mp3|Ani:sgaya aniwó:ni.
+bs|mp3/Lesson-14-045.mp3|Ani:sgaya aniwó:niɂa.
+bs|mp3/Lesson-14-053.mp3|Asgaya gawó:ni.
+bs|mp3/Lesson-14-054.mp3|Asgaya gawó:niɂa.
+bs|mp3/Lesson-14-056.mp3|Kilo gawó:ni.
+bs|mp3/Lesson-14-057.mp3|Kiloɂi gawó:niɂa.
+bs|mp3/Lesson-14-076.mp3|Kwana děhlgv́ Da:ntvsga.
+bs|mp3/Lesson-14-094.mp3|Děhlgv́
+bs|mp3/Lesson-14-158.mp3|Aji:lv̋:sgi.
+bs|mp3/Lesson-14-160.mp3|Ani:ji:lv̋:sgi.
+bs|mp3/Lesson-14-163.mp3|Aji:lv́:sga.
+bs|mp3/Lesson-14-166.mp3|Ani:ji:lv́:sga.
+bs|mp3/Lesson-15-002.mp3|Sgigaduɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3/Lesson-15-029.mp3|Gadò ű:sdi i:ga atli:gili?
+bs|mp3/Lesson-15-031.mp3|Dò ű:sdi a:sésdi kò:hí?
+bs|mp3/Lesson-15-032.mp3|Gadò ű:sdi a:sésdi kò:hí?
+bs|mp3/Lesson-15-034.mp3|Galiɂě:lî:gi niga̋:da jijiɂluhgi.
+bs|mp3/Lesson-15-046.mp3|Di:te:lǐ:do didihlahv̀.
+bs|mp3/Lesson-15-099.mp3|Di:kwayő:d ale á:m. 
+bs|mp3/Lesson-15-100.mp3|Di:kwayő:di ale á:ma.
+bs|mp3/Lesson-15-140.mp3|Sakǒ:nígé u:gì:dáhl.
+bs|mp3/Lesson-15-141.mp3|Sakǒ:nígé u:gì:dáhli.
+bs|mp3/Lesson-15-143.mp3|Anisakǒ:nígé ju:gì:dáhl.
+bs|mp3/Lesson-15-144.mp3|Anisakǒ:nígé ju:gì:dáhli.
+bs|mp3/Lesson-15-146.mp3|U:ne̋:g u:lò:gí:l.
+bs|mp3/Lesson-15-147.mp3|U:ne̋:ga u:lò:gí:la.
+bs|mp3/Lesson-15-148.mp3|U:ne̋:ga u:lò:gí:li.
+bs|mp3/Lesson-15-152.mp3|U:nine̋:ga ju:lò:gí:la.
+bs|mp3/Lesson-15-156.mp3|Ǔ:tana hlgv́.
+bs|mp3/Lesson-15-161.mp3|Jǔ:tana dehlgv́.
+bs|mp3/Lesson-15-163.mp3|Agǐ:gáge aji:lv̋:sg.
+bs|mp3/Lesson-15-167.mp3|Anigǐ:gáge ani:ji:lv̋:sg.
+bs|mp3/Lesson-15-168.mp3|Anigǐ:gáge ani:ji:lv̋:sgi.
+bs|mp3/Lesson-15-170.mp3|Agǐ:gáge gitǎ:ya.
+bs|mp3/Lesson-15-171.mp3|Agǐ:gáge gitǎ:yaɂi.
+bs|mp3/Lesson-15-173.mp3|Anigǐ:gáge gitǎ:ya.
+bs|mp3/Lesson-15-174.mp3|Anigǐ:gáge gitǎ:yaɂi.
+bs|mp3/Lesson-15-177.mp3|Agǐ:gáge hlgv́.
+bs|mp3/Lesson-15-180.mp3|Anigǐ:gáge dehlgv́.
+bs|mp3/Lesson-15-194.mp3|Ani:dalǒ:nígé digadv́:d danì:gí.
+bs|mp3/Lesson-15-195.mp3|Ani:dalǒ:nígé digadv́:di danì:gíɂa.
+bs|mp3/Lesson-15-197.mp3|Uwǒ:dígé u:sdi̋.
+bs|mp3/Lesson-15-198.mp3|Ǔ:tana wǒ:háɂl à:gowhtí.
+bs|mp3/Lesson-15-199.mp3|Uwǒ:dígé u:sdi̋ ǔ:tana wǒ:háɂli à:gowhtíɂa.
+bs|mp3/Lesson-15-201.mp3|Ǔ:tana wǒ:háɂli à:gowhtíɂa uwǒ:dígé salǒ:li.
+bs|mp3/Lesson-15-204.mp3|Agv̌:nígé gi:hli uwǒ:dígé alà:sǔ:lo à:gowhtíɂa.
+bs|mp3/Lesson-15-207.mp3|Uniwǒ:dígé.
+bs|mp3/Lesson-15-208.mp3|Junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli.
+bs|mp3/Lesson-15-209.mp3|Uniwǒ:dígé junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli.
+bs|mp3/Lesson-15-211.mp3|Jǔ:ntana wǒ:háɂli danì:gowhtíɂa uniwǒ:dígé salǒ:li.
+bs|mp3/Lesson-15-214.mp3|Anigv̌:nígé gi:hli danì:gowhtíɂa juwǒ:dígé dilà:sǔ:lo.
+bs|mp3/Lesson-15-217.mp3|Uwǒ:dígé u:sdi̋ jǔ:ntana wǒ:háɂli dà:gowhtíɂa.
+bs|mp3/Lesson-15-220.mp3|Uniwǒ:dígé junsdi ǔ:tana wǒ:háɂli anì:gowhtíɂa.
+bs|mp3/Lesson-15-223.mp3|Digǐ:gágé ale dijé:ɂiyű:sd dà:gi di:jv̋sd.
+bs|mp3/Lesson-15-224.mp3|Digǐ:gágé ale dijé:ɂiyű:sdi dà:giha di:jv̋sdi.
+bs|mp3/Lesson-15-226.mp3|Ani:gǐ:gágé ale ani:jé:ɂiyű:sdi dà:gikáha jí:sgwa.
+bs|mp3/Lesson-15-227.mp3|Ani:gǐ:gágé ale ani:jé:ɂiyű:sdi.
+bs|mp3/Lesson-15-228.mp3|Dà:gikáha jí:sgwa.
+bs|mp3/Lesson-15-337.mp3|Jǐ:sa 
+bs|mp3/Lesson-16-001.mp3|Taladuɂi Jalagi go:hwe:lv̀:ɂi.

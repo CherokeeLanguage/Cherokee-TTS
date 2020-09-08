@@ -22,8 +22,8 @@ if __name__ == "__main__":
         os.chdir(dname)
 
     
-    MASTER_TEXT:str="aeneas.txt"
-    LONG_TEXT:str="beginning-cherokee-selected.txt"
+    MASTER_TEXT:str="beginning-cherokee-selected.txt"
+    LONG_TEXT:str="beginning-cherokee-longer-sequences.txt"
 
     rmtree("mp3-long", ignore_errors=True)
     pathlib.Path(".").joinpath("mp3-long").mkdir(exist_ok=True)
@@ -62,7 +62,7 @@ if __name__ == "__main__":
     for speaker in speakers:
         if len(speakers)>1:
             print(f"Processing speaker {speaker}")
-        already:list=[]
+        already:set=set()
         text:str=""
         track:AudioSegment=AudioSegment.empty()
         wantedLen=dice.randint(0, 6)+dice.randint(0, 6)+dice.randint(0, 6)
@@ -82,12 +82,12 @@ if __name__ == "__main__":
                 if text not in already:
                     totalTime+=track.duration_seconds
                     totalCount+=1
-                    track.export(f"mp3-long/{ix:06d}.mp3", format="mp3", bitrate="192")
-                    already.append(text)
+                    track.export(f"mp3-long/{totalCount:06d}.mp3", format="mp3", bitrate="192")
+                    already.add(text)
                     with open(LONG_TEXT, "a") as f:
                         f.write(f"{speaker}")
                         f.write("|")
-                        f.write(f"mp3-long/{ix:06d}.mp3")
+                        f.write(f"mp3-long/{totalCount:06d}.mp3")
                         f.write("|")
                         f.write(ud.normalize("NFC", text))
                         f.write("\n")
@@ -106,11 +106,11 @@ if __name__ == "__main__":
         if len(track)>0 and text not in already:
             totalTime+=track.duration_seconds
             totalCount+=1
-            track.export(f"mp3-long/{ix+1:06d}.mp3", format="mp3", bitrate="192")
+            track.export(f"mp3-long/{totalCount:06d}.mp3", format="mp3", bitrate="192")
             with open(LONG_TEXT, "a") as f:
                     f.write(f"{speaker}")
                     f.write("|")
-                    f.write(f"mp3-long/{ix+1:06d}.mp3")
+                    f.write(f"mp3-long/{totalCount:06d}.mp3")
                     f.write("|")
                     f.write(ud.normalize("NFC", text))
                     f.write("\n")
