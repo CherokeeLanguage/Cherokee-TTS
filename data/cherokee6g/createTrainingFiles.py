@@ -5,7 +5,7 @@ import unicodedata as ud
 import random
 from shutil import rmtree
 
-comvoiIgnore:list=["fr", "nl", "ru", "zh"]
+comvoiIgnore:list=[]#["fr", "nl", "ru", "zh"]
 
 workdir:str = os.path.dirname(sys.argv[0])
 if workdir.strip() != "":
@@ -81,6 +81,26 @@ with open("../comvoi_clean/all.txt") as f:
 		for line in commonVoice:
 			t.write(line)
 			t.write("\n")
+
+#get char listing needed for params file
+letters=""
+chars:list=[]
+with open("all.txt", "r") as f:
+	for line in f:
+		fields=line.split("|")
+		text:str=fields[6].lower()
+		text=ud.normalize("NFC", text)+ud.normalize("NFD", text)
+		for c in text:
+			if c in "!\"',.?@&-()*^%$#;":
+				continue
+			if c in chars:
+				continue
+			chars.append(c)
+	chars.sort()
+	for c in chars:
+		letters+=str(c)
+	print (f"Alpha: {len(chars)}: {letters}")
+	
 
 #rewrite shuffled
 lines=[]
