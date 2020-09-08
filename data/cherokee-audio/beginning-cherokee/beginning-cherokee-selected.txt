@@ -180,8 +180,8 @@ bs|mp3/Lesson-04-078.mp3|Dego:hwe:la.
 bs|mp3/Lesson-04-081.mp3|A:sésdi.
 bs|mp3/Lesson-04-087.mp3|Gadí:ɂa.
 bs|mp3/Lesson-04-090.mp3|Hadí:ɂa.
-bs|mp3/Lesson-04-093.mp3|À:diha.
-bs|mp3/Lesson-04-096.mp3|A:nadiha.
+bs|mp3/Lesson-04-093.mp3|À:diɂa.
+bs|mp3/Lesson-04-096.mp3|A:nadiɂa.
 bs|mp3/Lesson-04-100.mp3|Dù:danv:hnv̋:ɂi.
 bs|mp3/Lesson-04-104.mp3|E̋:.
 bs|mp3/Lesson-04-109.mp3|I̋:.

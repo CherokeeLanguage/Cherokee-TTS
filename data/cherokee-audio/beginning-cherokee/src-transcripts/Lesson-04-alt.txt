@@ -1,16 +1,16 @@
 Nvhgi:né jalagi go:hwe:lv̀:ɂi.
 Digo:hwe:la nidi:di:wa.
-Di:sésdi nidi:di:wa.
+#!Di:sésdi nidi:di:wa.
 #!Igv:yi̋:ɂi à:danv:hnv́.
 #!Nvhgi:né jalagi go:hwe:lv̀:ɂi.
-Dego:hwe:lv.
-A:sésdi.
-Di:sésdi.
-Gadí:ɂa.
-Hadí:ɂa.
+#!Dego:hwe:lv.
+#!A:sésdi.
+#!Di:sésdi.
+#!Gadí:ɂa.
+#!Hadí:ɂa.
+#!À:diɂa.
 À:diɂa.
-À:diɂa.
+#!A:nadiɂa.
 A:nadiɂa.
-A:nadiɂa.
-Dù:danv:hnv̋:ɂi digaloɂkwastohdi.
+#!Dù:danv:hnv̋:ɂi digaloɂkwastohdi.
 E̋:. Égi. Ě:. I̋:. V̄:v. V̄. Géɂi. Gé. Goɂi. Gō. Go:gi. Gō:. Gù:gu. Gù:. Gù:gu. Ayo. Ayo.

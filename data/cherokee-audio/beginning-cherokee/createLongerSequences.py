@@ -44,7 +44,7 @@ if __name__ == "__main__":
     print(speakers)
     
     entries:list=[]
-    for _ in range(1,25):
+    for _ in range(1,10):
         random.Random(_).shuffle(tmpEntries)
         entries.extend(tmpEntries)
     
