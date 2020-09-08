@@ -14,7 +14,7 @@ from cairosvg.shapes import line
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
-MASTER_TEXTS:list=["beginning-cherokee-selected.txt", "aeneas.txt"]
+MASTER_TEXTS:list=["beginning-cherokee-longer-sequences.txt"]
 
 #cleanup any previous runs
 for dir in ["linear_spectrograms", "spectrograms", "wav"]:
