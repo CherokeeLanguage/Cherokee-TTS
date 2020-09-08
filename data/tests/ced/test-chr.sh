@@ -51,7 +51,7 @@ for voice in "${v[@]}"; do
 
 	cd "$y"
 	
-	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" #--cpu
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
 
 	cd "$z"
 	
@@ -59,8 +59,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	#python wavernnx-cpu.py
-	python wavernnx.py
+	python wavernnx-cpu.py
+	#python wavernnx.py
 
 	mv wg*.wav "$wg"-"$voice"/
 	xdg-open "$wg"-"$voice"
