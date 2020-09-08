@@ -2,7 +2,7 @@
 	"balanced_sampling": true,
 	"batch_size": 12,
 	"case_sensitive": false,
-	"characters": " abcdefghijklmnopqrstuvwxyzçèéßäöōǎǐíǒàáǔüìūòóùúāēěīâêôûñőűабвгдежзийклмнопрстуфхцчшщъыьэюяёɂ̄̀̌î̂́̋¹²³⁴ạẹịọụṿ0123456789",
+	"characters": " :abcdefghijklmnopqrstuvwxyz\u00df\u00e0\u00e1\u00e2\u00e4\u00e8\u00e9\u00ea\u00ec\u00ed\u00ee\u00f2\u00f3\u00f4\u00f6\u00f9\u00fa\u00fb\u00fc\u0101\u0113\u011b\u012b\u014d\u0151\u016b\u0171\u01ce\u01d0\u01d2\u01d4\u0242\u0300\u0301\u0302\u0304\u0308\u030b\u030c\u2013",
 	"checkpoint_each_epochs": 4,
 	"dataset": "cherokee6g",
 	"encoder_dimension": 256,

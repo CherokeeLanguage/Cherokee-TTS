@@ -3,9 +3,10 @@ import os
 import sys
 import unicodedata as ud
 import random
+import json
 from shutil import rmtree
 
-comvoiIgnore:list=[]#["fr", "nl", "ru", "zh"]
+comvoiIgnore:list=["fr", "nl", "ru", "zh"]
 
 workdir:str = os.path.dirname(sys.argv[0])
 if workdir.strip() != "":
@@ -99,7 +100,12 @@ with open("all.txt", "r") as f:
 	chars.sort()
 	for c in chars:
 		letters+=str(c)
-	print (f"Alpha: {len(chars)}: {letters}")
+	config:dict=dict()
+	config["characters"]=letters
+	tmp=json.dumps(config, sort_keys=True, indent=3)
+	with open("json-characters.json", "w") as f:
+		f.write(tmp)
+		f.write("\n")
 	
 
 #rewrite shuffled
