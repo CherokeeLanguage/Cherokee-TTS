@@ -102,7 +102,7 @@ with open("all.txt", "r") as f:
 		letters+=str(c)
 	config:dict=dict()
 	config["characters"]=letters
-	tmp=json.dumps(config, sort_keys=True, indent=3)
+	tmp=json.dumps(config, ensure_ascii=False, sort_keys=True, indent=3)
 	with open("json-characters.json", "w") as f:
 		f.write(tmp)
 		f.write("\n")
