@@ -26,10 +26,9 @@ cp="$(basename "$cp")"
 
 printf "Using checkpoint: $cp\n"
 
-tmp="$z/tmp.txt"
-cp /dev/null "$tmp"
+selected="$z/selected.txt"
 
-v=("02-ru" "03-ru" "01-chr" "02-chr" "03-chr" "04-chr" "05-chr")
+v=("14-de" "02-fr" "03-ru" "01-chr" "02-chr" "03-chr" "04-chr" "05-chr")
 #v=("02-ru" "03-ru" "01-chr" "02-chr" "03-chr" "04-chr")
 #v=("14-de" "51-de" "02-fr" "04-fr" "14-fr" "18-fr" "19-fr" "22-fr" "03-ru" "03-chr")
 vsize="${#v[@]}"
@@ -40,20 +39,20 @@ text="$z/bragging-hunter-mco.txt"
 
 wg="bragging-hunter"
 
-cp /dev/null "$tmp"
-head -n 1 "$text" | while read sentence; do
-	ix=$(($ix+1))
-	printf "%d|%s|%s|chr\n" "$ix" "${sentence}" "$voice" >> "$tmp"
-done
 
 for voice in "${v[@]}"; do
-	printf "Generating audio for %s\n" "$voice"
+	printf "Generating audio for %s\n" "$voice"	
 	ix=0
 	syn=""
+	cp /dev/null "$selected"
+	head -n 1 "$text" | while read sentence; do
+		ix=$(($ix+1))
+		printf "%d|%s|%s|chr\n" "$ix" "${sentence}" "$voice" >> "$selected"
+	done
 
 	cd "$y"
 	
-	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
+	cat "$selected" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
 
 	cd "$z"
 	
