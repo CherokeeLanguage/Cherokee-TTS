@@ -38,7 +38,7 @@ for x in "$z"/"$wg"-[0-9][0-9]-*; do
 	rm -r "$x"
 done
 
-v=("01-chr" "02-chr" "03-chr" "04-chr")
+v=("01-chr" "02-chr" "03-chr" "04-chr" "05-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
