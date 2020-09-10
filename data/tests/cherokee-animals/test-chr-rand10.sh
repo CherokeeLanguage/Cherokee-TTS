@@ -77,9 +77,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx-cpu.py
-	#python wavernnx.py
-
+	python wavernnx.py || python wavernnx-cpu.py
+	
 	ix=0
 	mp3s=($(cut -f 3 "$selected" | sed 's/ /_/g'))
 	for mp3 in "${mp3s[@]}"; do

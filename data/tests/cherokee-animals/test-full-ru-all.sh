@@ -27,8 +27,8 @@ cp /dev/null "$tmp"
 cp /dev/null "$z"/voices.txt
 
 (
-	grep "ru" "$z/../../cherokee6/train.txt" | cut -f 2 | sort | uniq 
-) >> "$z"/voices.txt
+	grep -- "-ru|" "$z/../../cherokee6f/train.txt" | cut -f 2 -d '|' | sort | uniq 
+) > "$z"/voices.txt
 
 #cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
 
@@ -67,7 +67,7 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx-cpu.py
+	python wavernnx.py || python wavernnx-cpu.py
 
 	ix=0
 	mp3s=($(cut -f 3 "$selected" | sed 's/ /_/g'))

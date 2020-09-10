@@ -24,23 +24,12 @@ tmp="$z/tmp.txt"
 selected="$z/selected.txt"
 cp /dev/null "$tmp"
 
-cp /dev/null "$z"/voices.txt
-
-(
-	#echo "01-syn-chr" #espeak-ng default male voice
-	echo "03-ru" #female
-	echo "06-ru" #male
-	echo "02-chr" #Sam Hider as reference
-) >> "$z"/voices.txt
-
-#cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
-
 for x in "$z"/animals-[0-9][0-9]-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
 
-v=($(cat "$z"/voices.txt))
+v=("05-ru" "27-de" "11-fr" "13-de" "04-ru" "21-fr" "52-de" "24-de")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -48,7 +37,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-sort "$text" > "$selected"
+cat "$text" | sort > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
@@ -76,7 +65,6 @@ for voice in "${v[@]}"; do
 	ix=0
 	mp3s=($(cut -f 3 "$selected" | sed 's/ /_/g'))
 	for mp3 in "${mp3s[@]}"; do
-		echo "$mp3"
 		ix="$(($ix+1))"
 		wav="wg-$ix.wav"
 		mp3="$wg"-"$voice/$voice-$wg-$mp3"

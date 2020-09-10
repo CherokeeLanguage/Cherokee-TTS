@@ -36,7 +36,7 @@ vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
-text="$z/two-hunters-mco.txt"
+text="$z/bragging-hunter-mco.txt"
 
 wg="bragging-hunter"
 
@@ -60,8 +60,9 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$text" "$wg"-"$voice"
 
-	python wavernnx-cpu.py
-	#python wavernnx.py
+	python wavernnx.py || python wavernnx-cpu.py
+	
+	xdg-open "$wg"-"$voice"
 	
 	count=$(wc -l "$text"|cut -f 1 -d ' ')
 	for ix in $(seq 1 $count); do
@@ -73,8 +74,6 @@ for voice in "${v[@]}"; do
 		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2>&1
 		rm "$wav"
 	done
-
-	xdg-open "$wg"-"$voice"
 	
 	count=$(wc -l "$text"|cut -f 1 -d ' ')
 	for ix in $(seq 1 $count); do
