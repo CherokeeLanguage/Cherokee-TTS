@@ -59,7 +59,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx.py || python wavernnx-cpu.py
+	#python wavernnx.py || python wavernnx-cpu.py
+	python wavernnx-cpu.py
 	
 
 	ix=0
