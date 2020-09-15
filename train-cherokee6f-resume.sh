@@ -5,7 +5,7 @@ clear
 
 params="cherokee6f"
 #cp="GENERATED-SWITCHING-CHEROKEE6F_loss-44-0.226"
-cp="GENERATED-SWITCHING-CHEROKEE6F_loss-52-0.213"
+cp="GENERATED-SWITCHING-CHEROKEE6F_loss-52-0.154"
 
 cd "$(dirname "$0")"
 WORK="$(pwd)"
@@ -17,6 +17,6 @@ date
 
 cd "$WORK"
 export PYTHONIOENCODING=utf-8
-python train-ga.py --accumulation_size 4 --checkpoint "$cp"
+python trainGa.py --accumulation_size 4 --checkpoint "$cp"
 
 date

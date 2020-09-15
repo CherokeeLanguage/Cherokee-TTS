@@ -63,7 +63,7 @@ with open("../comvoi_clean/all.txt") as f:
 			#even though the training process ignores the entries
 			#the spectrogram preprocessing step does not ignore them.
 			continue
-		text:str=ud.normalize("NFD",fields[4]) #use decomposed diactrics for donor voices
+		text:str=ud.normalize("NFC",fields[4]) #use composed diactrics for donor voices
 		commonVoice.append(f"{recno}|{speaker}-{language}|{language}|../comvoi_clean/{wav}|||{text}|")
 
 	random.Random(2).shuffle(commonVoice)

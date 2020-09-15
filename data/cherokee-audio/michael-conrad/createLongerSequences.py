@@ -41,10 +41,13 @@ if __name__ == "__main__":
     tmpEntries:list=[e for e in entriesDict.values()]
     
     speakers:set=set([e[2] for e in tmpEntries])
-    print(speakers)
+    if len(speakers)>1:
+        print("Speakers:",speakers)
     
     entries:list=[]
-    for _ in range(1,25):
+    _:int=0
+    while len(entries) < 5000:
+        _+=1
         random.Random(_).shuffle(tmpEntries)
         entries.extend(tmpEntries)
     
@@ -67,9 +70,9 @@ if __name__ == "__main__":
         track:AudioSegment=AudioSegment.empty()
         wantedLen=dice.randint(0, 6)+dice.randint(0, 6)+dice.randint(0, 6)
         for entry in entries:
-            ix+=1
             if entry[2] != speaker:
                 continue
+            ix+=1
             audioData:AudioSegment = AudioSegment.from_mp3(entry[0])
             audioText:str = entry[1].strip()
             if ix % 100 == 0:

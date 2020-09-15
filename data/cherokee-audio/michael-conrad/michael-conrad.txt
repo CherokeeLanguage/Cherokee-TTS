@@ -1,64 +1,64 @@
-mc|mp3/040-ayo.mp3|ayo
-mc|mp3/040-hla.mp3|tla
-mc|mp3/040-howa.mp3|howa
-mc|mp3/040-jalagi.mp3|jalagi
-mc|mp3/040-ni.mp3|ni!
-mc|mp3/040-osda.mp3|ő:sda
-mc|mp3/040-osdv.mp3|ő:sdv
-mc|mp3/040-osiyo.mp3|o:síyo
-mc|mp3/040-uyoi.mp3|u:yő:ɂi
-mc|mp3/040-vsgigi.mp3|v̀:sgigi?
-mc|mp3/040-vv.mp3|v:v
-mc|mp3/040-wado.mp3|wado
-mc|mp3/040-yonega.mp3|yó:ne:ga
-mc|mp3/040-yvwunega.mp3|yv́:wúne:ga
-mc|mp3/050-anijoi.mp3|a:nijoɂi
-mc|mp3/050-anitali.mp3|a:nitáɂli
-mc|mp3/050-gado-usdi.mp3|gadō ű:sdi
-mc|mp3/050-galgwogi.mp3|gahlgwǒ:gi
-mc|mp3/050-galgwoginei.mp3|gahlgwǒ:gi:ne̋:ɂi
-mc|mp3/050-hila-iga.mp3|ila̋ ǐ:ga̋
-mc|mp3/050-hila-iyani.mp3|hila̋ iyáni
-mc|mp3/050-hisgi.mp3|hisgi
-mc|mp3/050-hisginei.mp3|hisgi:ne̋:ɂi
-mc|mp3/050-igvyii.mp3|igv:yi̋:ɂi
-mc|mp3/050-joi.mp3|joɂi
-mc|mp3/050-joinei.mp3|joɂi:ne̋:ɂi
-mc|mp3/050-nvgi.mp3|nvhgi
-mc|mp3/050-nvginei.mp3|nvhgi:ne̋:ɂi
-mc|mp3/050-sagwu.mp3|sà:gwű
-mc|mp3/050-sudali.mp3|sǔ:dáli
-mc|mp3/050-sudalinei.mp3|sǔ:dáli:ne̋:ɂi
-mc|mp3/050-tali.mp3|táɂli
-mc|mp3/050-talinei.mp3|taɂli:ne̋:ɂi
-mc|mp3/060-agehya.mp3|agě:hya
-mc|mp3/060-anigehya.mp3|ani:gě:hya
-mc|mp3/060-anijoi-anigehya.mp3|
-mc|mp3/060-anijoi-anisgaya.mp3|
-mc|mp3/060-anijoi-anisgaya-nole-tali-nuna.mp3|
-mc|mp3/060-anisgaya.mp3|ani:sgaya
-mc|mp3/060-anitali-anigehya-ale-tali-nuna.mp3|
-mc|mp3/060-anitali-anigehya.mp3|
-mc|mp3/060-anitali-anigehya-nole-joi-nuna.mp3|
-mc|mp3/060-anitali-anisgaya.mp3|
-mc|mp3/060-anitali-gihli.mp3|
-mc|mp3/060-anitali-wesa.mp3|
-mc|mp3/060-asgaya.mp3|asgaya
-mc|mp3/060-gado-unsdi-dagowhtiha.mp3|
-mc|mp3/060-gado-unsdi-danigowhtiha.mp3|
-mc|mp3/060-gado-unsdi.mp3|gadō űnsdi
-mc|mp3/060-gado-usdi-agowhtiha.mp3|
-mc|mp3/060-gado-usdi-anigowhtiha.mp3|
-mc|mp3/060-gihli.mp3|gi:hli
+mc|mp3/040-ayo.mp3|ayo.
+mc|mp3/040-hla.mp3|tla.
+mc|mp3/040-howa.mp3|howa.
+mc|mp3/040-jalagi.mp3|jalagi.
+mc|mp3/040-ni.mp3|ni!.
+mc|mp3/040-osda.mp3|ő:sda.
+mc|mp3/040-osdv.mp3|ő:sdv.
+mc|mp3/040-osiyo.mp3|o:síyo.
+mc|mp3/040-uyoi.mp3|u:yő:ɂi.
+mc|mp3/040-vsgigi.mp3|v̀:sgigi?.
+mc|mp3/040-vv.mp3|v:v.
+mc|mp3/040-wado.mp3|wado.
+mc|mp3/040-yonega.mp3|yó:ne:ga.
+mc|mp3/040-yvwunega.mp3|yv́:wúne:ga.
+mc|mp3/050-anijoi.mp3|a:nijoɂi.
+mc|mp3/050-anitali.mp3|a:nitáɂli.
+mc|mp3/050-gado-usdi.mp3|gadō ű:sdi.
+mc|mp3/050-galgwogi.mp3|gahlgwǒ:gi.
+mc|mp3/050-galgwoginei.mp3|gahlgwǒ:gi:ne̋:ɂi.
+mc|mp3/050-hila-iga.mp3|ila̋ ǐ:ga̋.
+mc|mp3/050-hila-iyani.mp3|hila̋ iyáni.
+mc|mp3/050-hisgi.mp3|hisgi.
+mc|mp3/050-hisginei.mp3|hisgi:ne̋:ɂi.
+mc|mp3/050-igvyii.mp3|igv:yi̋:ɂi.
+mc|mp3/050-joi.mp3|joɂi.
+mc|mp3/050-joinei.mp3|joɂi:ne̋:ɂi.
+mc|mp3/050-nvgi.mp3|nvhgi.
+mc|mp3/050-nvginei.mp3|nvhgi:ne̋:ɂi.
+mc|mp3/050-sagwu.mp3|sà:gwű.
+mc|mp3/050-sudali.mp3|sǔ:dáli.
+mc|mp3/050-sudalinei.mp3|sǔ:dáli:ne̋:ɂi.
+mc|mp3/050-tali.mp3|táɂli.
+mc|mp3/050-talinei.mp3|taɂli:ne̋:ɂi.
+mc|mp3/060-agehya.mp3|agě:hya.
+mc|mp3/060-anigehya.mp3|ani:gě:hya.
+mc|mp3/060-anijoi-anigehya.mp3|a:nijoɂi ani:gě:hya.
+mc|mp3/060-anijoi-anisgaya.mp3|a:nijoɂi ani:sgaya.
+mc|mp3/060-anijoi-anisgaya-nole-tali-nuna.mp3|a:nijoɂi ani:sgaya nole táɂli nǔ:na.
+mc|mp3/060-anisgaya.mp3|ani:sgaya.
+mc|mp3/060-anitali-anigehya-ale-tali-nuna.mp3|a:nitáɂli ani:gě:hya ale nǔ:na.
+mc|mp3/060-anitali-anigehya.mp3|a:nitáɂli ani:gě:hya.
+mc|mp3/060-anitali-anigehya-nole-joi-nuna.mp3|a:nitáɂli ani:gě:hya nole nǔ:na.
+mc|mp3/060-anitali-anisgaya.mp3|a:nitáɂli ani:sgaya.
+mc|mp3/060-anitali-gihli.mp3|a:nitáɂli gi:hli.
+mc|mp3/060-anitali-wesa.mp3|a:nitáɂli wě:sa.
+mc|mp3/060-asgaya.mp3|asgaya.
+mc|mp3/060-gado-unsdi-dagowhtiha.mp3|Gadō űnsdi dà:gowhtíha?
+mc|mp3/060-gado-unsdi-danigowhtiha.mp3|Gadō űnsdi dà:nigowhtíha?
+mc|mp3/060-gado-unsdi.mp3|gadō űnsdi?
+mc|mp3/060-gado-usdi-agowhtiha.mp3|Gadō ű:sdi à:gowhtíha?
+mc|mp3/060-gado-usdi-anigowhtiha.mp3|Gadō ű:sdi à:nigowhtíha?
+mc|mp3/060-gihli.mp3|gi:hli.
 mc|mp3/060-hnadvga.mp3|
 mc|mp3/060-hohwelvga.mp3|
-mc|mp3/060-joi-nuna.mp3|
-mc|mp3/060-joi-nvya.mp3|
+mc|mp3/060-joi-nuna.mp3|Joɂi nǔ:na.
+mc|mp3/060-joi-nvya.mp3|Joɂi nv̀:ya.
 mc|mp3/060-nitadvga.mp3|
-mc|mp3/060-nuna-ale-nvya.mp3|
-mc|mp3/060-nuna.mp3|nǔ:na
-mc|mp3/060-nuna-nole-nvya.mp3|
-mc|mp3/060-nvya.mp3|nv̀:ya
+mc|mp3/060-nuna-ale-nvya.mp3|Nǔ:na ale nv̀:ya.
+mc|mp3/060-nuna.mp3|nǔ:na.
+mc|mp3/060-nuna-nole-nvya.mp3|Nǔ:na nole nv̀:ya.
+mc|mp3/060-nvya.mp3|nv̀:ya.
 mc|mp3/060-sagwu-agehya-ale-sagwu-nvya.mp3|
 mc|mp3/060-sagwu-agehya-ale-sagwu-wesa.mp3|
 mc|mp3/060-sagwu-agehya.mp3|
@@ -76,13 +76,13 @@ mc|mp3/060-tohwelvga.mp3|
 mc|mp3/060-towelvga.mp3|
 mc|mp3/060-wesa-ale-gihli.mp3|
 mc|mp3/060-wesa-ale-nvya.mp3|
-mc|mp3/060-wesa.mp3|wě:sa
+mc|mp3/060-wesa.mp3|wě:sa.
 mc|mp3/060-wesa-nole-gihli.mp3|
 mc|mp3/060-wesa-nole-nvya.mp3|
-mc|mp3/061-agowhtiha.mp3|à:gowhtíha
-mc|mp3/061-anigowhtiha.mp3|à:nigowhtíha
-mc|mp3/061-dagowhtiha.mp3|dà:gowhtíha
-mc|mp3/061-danigowhtiha.mp3|dà:nigowhtíha
+mc|mp3/061-agowhtiha.mp3|à:gowhtíha.
+mc|mp3/061-anigowhtiha.mp3|à:nigowhtíha.
+mc|mp3/061-dagowhtiha.mp3|dà:gowhtíha.
+mc|mp3/061-danigowhtiha.mp3|dà:nigowhtíha.
 mc|mp3/061-gihli-agowhtiha.mp3|
 mc|mp3/061-gihli-anigowhtiha.mp3|
 mc|mp3/061-gihli-dagowhtiha.mp3|
@@ -111,19 +111,19 @@ mc|mp3/062-asgaya-ale-gihli.mp3|
 mc|mp3/062-asgaya-anigehya.mp3|
 mc|mp3/062-asgaya-anisgaya.mp3|
 mc|mp3/062-asgaya-gihli.mp3|
-mc|mp3/070-ahani.mp3|áhani
-mc|mp3/070-ahni.mp3|áhni
-mc|mp3/070-dehigowhtiha.mp3|de:higowhtíha
-mc|mp3/070-dejigowhtiha.mp3|de:jigowhtíha
-mc|mp3/070-gahiigowhtiha.mp3|ga:hi:gowhtíha
-mc|mp3/070-gajiigowhtiha.mp3|ga:ji:gowhtíha
-mc|mp3/070-higowhtiha.mp3|higowhtíha
-mc|mp3/070-hiigowhtiha.mp3|hi:gowhtíha
-mc|mp3/070-ina.mp3|i̋:na
-mc|mp3/070-jigowhtiha.mp3|jigowhtíha
-mc|mp3/070-jiigowhtiha.mp3|ji:gowhtíha
-mc|mp3/070-nav.mp3|naɂv
-mc|mp3/070-uhna.mp3|ù:hna̋
+mc|mp3/070-ahani.mp3|áhani.
+mc|mp3/070-ahni.mp3|áhni.
+mc|mp3/070-dehigowhtiha.mp3|de:higowhtíha.
+mc|mp3/070-dejigowhtiha.mp3|de:jigowhtíha.
+mc|mp3/070-gahiigowhtiha.mp3|ga:hi:gowhtíha.
+mc|mp3/070-gajiigowhtiha.mp3|ga:ji:gowhtíha.
+mc|mp3/070-higowhtiha.mp3|higowhtíha.
+mc|mp3/070-hiigowhtiha.mp3|hi:gowhtíha.
+mc|mp3/070-ina.mp3|i̋:na.
+mc|mp3/070-jigowhtiha.mp3|jigowhtíha.
+mc|mp3/070-jiigowhtiha.mp3|ji:gowhtíha.
+mc|mp3/070-nav.mp3|naɂv.
+mc|mp3/070-uhna.mp3|ù:hna̋.
 mc|mp3/071-amayuhldi.mp3|
 mc|mp3/071-dehlgvi.mp3|
 mc|mp3/071-hlgvi.mp3|

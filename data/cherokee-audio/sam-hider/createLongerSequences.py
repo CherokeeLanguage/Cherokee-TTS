@@ -38,8 +38,11 @@ if __name__ == "__main__":
             entriesDict[text]=(mp3,text)
     
     tmpEntries:list=[e for e in entriesDict.values()]
+    
     entries:list=[]
-    for _ in range(1,15):
+    _:int=0
+    while len(entries) < 5000:
+        _+=1
         random.Random(_).shuffle(tmpEntries)
         entries.extend(tmpEntries)
     
@@ -96,7 +99,7 @@ if __name__ == "__main__":
                 f.write(ud.normalize("NFC", text))
                 f.write("\n")
                 
-    print(f"Average track time: {totalTime/totalCount:.2f}")
+    print(f"Total tracks: {totalCount:,}, Average track time: {totalTime/totalCount:.2f}")
     
     sys.exit()
     

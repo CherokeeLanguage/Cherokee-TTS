@@ -41,10 +41,13 @@ if __name__ == "__main__":
     tmpEntries:list=[e for e in entriesDict.values()]
     
     speakers:set=set([e[2] for e in tmpEntries])
-    print(speakers)
+    if len(speakers)>1:
+        print("Speakers:",speakers)
     
     entries:list=[]
-    for _ in range(1,8):
+    _:int=0
+    while len(entries) < 5000:
+        _+=1
         random.Random(_).shuffle(tmpEntries)
         entries.extend(tmpEntries)
     

@@ -39,8 +39,14 @@ if __name__ == "__main__":
             entriesDict[text]=(mp3,text, spkr)
     
     tmpEntries:list=[e for e in entriesDict.values()]
+    speakers:set=set([e[2] for e in tmpEntries])
+    if len(speakers)>1:
+        print("Speakers:",speakers)
+    
     entries:list=[]
-    for _ in range(1,25):
+    _:int=0
+    while len(entries) < 5000:
+        _+=1
         random.Random(_).shuffle(tmpEntries)
         entries.extend(tmpEntries)
     
@@ -98,10 +104,12 @@ if __name__ == "__main__":
         totalCount+=1
         track.export(f"mp3-long/{ix+1:06d}.mp3", format="mp3", bitrate="192")
         with open(LONG_TEXT, "a") as f:
-                f.write(f"mp3-long/{ix+1:06d}.mp3")
-                f.write("|")
-                f.write(ud.normalize("NFC", text))
-                f.write("\n")
+                    f.write(f"{spkr}")
+                    f.write("|")
+                    f.write(f"mp3-long/{ix+1:06d}.mp3")
+                    f.write("|")
+                    f.write(ud.normalize("NFC", text))
+                    f.write("\n")
                 
     print(f"Average track time: {totalTime/totalCount:.2f}. Total tracks: {totalCount:,}")
     
