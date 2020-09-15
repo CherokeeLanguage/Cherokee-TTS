@@ -6,7 +6,7 @@ import random
 import json
 from shutil import rmtree
 
-comvoiIgnore:list=["fr", "nl", "ru", "zh"]
+comvoiIgnore:list=["de", "fr", "nl", "zh"]
 
 workdir:str = os.path.dirname(sys.argv[0])
 if workdir.strip() != "":
@@ -33,7 +33,7 @@ for parent in [ "../cherokee-audio/beginning-cherokee",
 			line=ud.normalize("NFC",line.strip())
 			line=line.replace("|wav/", "|"+parent+"/wav/")
 			lines.append(line)
-		random.Random(1).shuffle(lines)
+		random.Random(len(lines)).shuffle(lines)
 		size=len(lines)
 		trainSize=int((size*90/100))
 		with open("train.txt", "a") as t:
@@ -67,9 +67,9 @@ with open("../comvoi_clean/all.txt") as f:
 		text:str=ud.normalize("NFD",fields[4]) #use decomposed diactrics for donor voices
 		commonVoice.append(f"{recno}|{speaker}-{language}|{language}|../comvoi_clean/{wav}|||{text}|")
 
-	random.Random(2).shuffle(commonVoice)
+	random.Random(len(commonVoice)).shuffle(commonVoice)
 	size=len(commonVoice)
-	trainSize=int((size*95/100))
+	trainSize=int((size*90/100))
 	with open("train.txt", "a") as t:
 		for line in commonVoice[:trainSize]:
 			t.write(line)
@@ -113,7 +113,7 @@ lines=[]
 with open("train.txt", "r") as t:
 	for line in t:
 		lines.append(line)
-random.Random(4).shuffle(lines)
+random.Random(len(lines)).shuffle(lines)
 with open("train.txt", "w") as t:
 	for line in lines:
 		t.write(line)
@@ -123,7 +123,7 @@ lines=[]
 with open("val.txt", "r") as v:
 	for line in v:
 		lines.append(line)
-random.Random(5).shuffle(lines)
+random.Random(len(lines)).shuffle(lines)
 with open("val.txt", "w") as v:
 	for line in lines:
 		v.write(line)

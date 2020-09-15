@@ -5,3 +5,7 @@ all.txt
 /comvoi-subset.txt
 /tmp.txt
 /json-characters.json
+/lin_spectrograms/
+/mel_spectrograms/
+/train.txt-bkup
+/val.txt-bkup

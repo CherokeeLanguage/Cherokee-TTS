@@ -9,12 +9,12 @@ cd "$(dirname "$0")"
 WORK="$(pwd)"
 
 cd data
-python prepare_cherokee_spectrograms.py --cherokee_directory "$params"
+python prepare_spectrograms.py --directory "$params"
 
 date
 
 cd "$WORK"
 export PYTHONIOENCODING=utf-8
-python train-ga.py --hyper_parameters "$params" --accumulation_size 4
+python trainGa.py --hyper_parameters "$params" --accumulation_size 5
 
 date
