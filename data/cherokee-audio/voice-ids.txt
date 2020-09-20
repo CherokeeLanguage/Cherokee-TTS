@@ -1,8 +1,8 @@
-01-chr|Durbin Feeling|df
+01-chr|Durbin Feeling - Older|df
 02-chr|Sam Hider|sh
 03-chr|Betty Smith|bs
 04-chr|Michael Conrad|mc
 05-chr|Gregg Howard|gh
 06-chr|Wynema Smith|ws
 07-chr|Marie Junaluska|mj
-08-chr|
+08-chr|Durbin Feeling - Younger|df2
