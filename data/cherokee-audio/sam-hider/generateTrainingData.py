@@ -27,6 +27,8 @@ with open(MASTER_TEXT, "r") as f:
         if text=="":
             continue
         entries[text]=(mp3,text)
+        
+print(f"Loaded {len(entries):,} entries with audio and text.")
 
 voiceid:str=""
 with open("voice-id.txt", "r") as f:
@@ -36,6 +38,7 @@ with open("voice-id.txt", "r") as f:
 
 id:int=10000 * int(re.sub("^(\d+).*", "\\1",voiceid))
 
+print("Creating wavs")
 rows:list=[]
 for mp3, text in entries.values():
     wav:str="wav/"+os.path.splitext(os.path.basename(mp3))[0]+".wav"
@@ -62,6 +65,9 @@ with open("val.txt", "w") as f:
     for line in rows[trainSize:]:
         f.write(line)
         f.write("\n")
-        
+
+print(f"All size: {len(rows)}")
+print(f"Train size: {trainSize}")
+print("Folder:",pathlib.Path(".").resolve().name)        
 
 sys.exit()

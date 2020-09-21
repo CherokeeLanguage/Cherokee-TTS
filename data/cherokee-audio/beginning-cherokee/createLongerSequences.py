@@ -17,6 +17,9 @@ def match_target_amplitude(aChunk, target_dBFS):
     return aChunk.apply_gain(change_in_dBFS)
 
 if __name__ == "__main__":
+    
+    minLength:int=60*40
+    
     dname=os.path.dirname(sys.argv[0])
     if len(dname)>0:
         os.chdir(dname)
@@ -25,9 +28,14 @@ if __name__ == "__main__":
     MASTER_TEXT:str="beginning-cherokee-selected.txt"
     LONG_TEXT:str="beginning-cherokee-longer-sequences.txt"
 
+    print("Cleaning up from previous session")
+    
     rmtree("mp3-long", ignore_errors=True)
     pathlib.Path(".").joinpath("mp3-long").mkdir(exist_ok=True)
     
+    print("Loading list and calculating total audio length")
+    
+    haveLength:int=0
     with open(MASTER_TEXT, "r") as f:
         entriesDict: dict = {}
         for line in f:
@@ -37,21 +45,30 @@ if __name__ == "__main__":
             if text=="":
                 continue
             entriesDict[text]=(mp3,text, spkr)
+            haveLength += AudioSegment.from_mp3(mp3).duration_seconds
             
     tmpEntries:list=[e for e in entriesDict.values()]
     
     speakers:set=set([e[2] for e in tmpEntries])
     if len(speakers)>1:
         print("Speakers:",speakers)
+
+    print(f"Have {len(tmpEntries):,} starting entries with {len(speakers):,} speakers.")    
+    print(f"Available audio duration (minutes): {int(haveLength/60)}")
+        
     
     entries:list=[]
     _:int=0
-    while len(entries) < 5000:
+    minLength=min(minLength, haveLength*3)
+    workingLength:int=0
+    while workingLength < minLength:
         _+=1
         random.Random(_).shuffle(tmpEntries)
         entries.extend(tmpEntries)
+        workingLength+=haveLength
     
     print(f"Have {len(entries):,} entries with {len(speakers):,} speakers.")
+    print(f"Target duration (minutes): {int(workingLength/60)}")
     
     dice=random.Random(len(entries))
     
@@ -119,6 +136,8 @@ if __name__ == "__main__":
                     f.write("\n")
                 
     print(f"Average track time: {totalTime/totalCount:.2f}. Total tracks: {totalCount:,}")
+    
+    print("Folder:",pathlib.Path(".").resolve().name)
     
     sys.exit()
     

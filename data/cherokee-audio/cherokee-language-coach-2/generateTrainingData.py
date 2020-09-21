@@ -92,6 +92,9 @@ with open("val.txt", "w") as f:
     for line in rows[trainSize:]:
         f.write(line)
         f.write("\n")
-        
+
+print(f"All size: {len(rows)}")
+print(f"Train size: {trainSize}")
+print("Folder:",pathlib.Path(".").resolve().name)        
 
 sys.exit()
