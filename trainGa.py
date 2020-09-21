@@ -89,11 +89,12 @@ def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
         #optimizer.step()   
         
         # calculate gradient accumulated loss
-        loss = loss / args.accumulation_size
+        if args.accumulation_size > 1:
+            loss = loss / args.accumulation_size
         loss.backward()
         
         # apply loss once per accumulation_size batches
-        if (i+1) % args.accumulation_size == 0:
+        if (i+1) % args.accumulation_size == 0 or args.accumulation_size < 2:
             gradient = torch.nn.utils.clip_grad_norm_(model.parameters(), hp.gradient_clipping)
             optimizer.step()
             optimizer.zero_grad()

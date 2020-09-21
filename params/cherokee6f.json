@@ -28,5 +28,5 @@
 	"reversal_gradient_clipping": 0.25,
 	"speaker_embedding_dimension": 32,
 	"use_punctuation": true,
-	"version": "GENERATED-SWITCHING-CHEROKEE6F"
+	"version": "CHEROKEE6F"
 }

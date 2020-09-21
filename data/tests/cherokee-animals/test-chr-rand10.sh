@@ -38,6 +38,7 @@ cp /dev/null "$z"/voices.txt
 	echo "03-chr"
 	echo "04-chr"
 	echo "05-chr"
+	echo "08-chr"	
 ) >> "$z"/voices.txt
 
 #cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
