@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env conda run -n ../../../env python
 import os
 import sys
 import string
@@ -63,7 +63,7 @@ rows:list=[]
 for speaker, mp3, text in entries.values():
     wav:str="wav/"+os.path.splitext(os.path.basename(mp3))[0]+".wav"
     text:str=ud.normalize('NFC', text)
-    subprocess.run(["ffmpeg","-i",mp3,"-ac","1","-ar","22050",wav], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    subprocess.run(["ffmpeg","-y", "-i",mp3,"-ac","1","-ar","22050",wav], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     vid:str=speaker
     if vid in voiceids.keys():
         vid = voiceids[vid]

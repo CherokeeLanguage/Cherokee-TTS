@@ -10,7 +10,6 @@ import subprocess
 from shutil import rmtree
 
 from md2pdf.core import md2pdf
-from cairosvg.shapes import line
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
