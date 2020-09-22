@@ -10,6 +10,9 @@ import subprocess
 from pydub import AudioSegment
 from shutil import rmtree
 
+MASTER_TEXT:str="beginning-cherokee-selected.txt"
+LONG_TEXT:str="beginning-cherokee-longer-sequences.txt"
+
 # Define a function to normalize a chunk to a target amplitude.
 def match_target_amplitude(aChunk, target_dBFS):
     ''' Normalize given audio chunk '''
@@ -23,13 +26,8 @@ if __name__ == "__main__":
     dname=os.path.dirname(sys.argv[0])
     if len(dname)>0:
         os.chdir(dname)
-
     
-    MASTER_TEXT:str="beginning-cherokee-selected.txt"
-    LONG_TEXT:str="beginning-cherokee-longer-sequences.txt"
-
     print("Cleaning up from previous session")
-    
     rmtree("mp3-long", ignore_errors=True)
     pathlib.Path(".").joinpath("mp3-long").mkdir(exist_ok=True)
     
@@ -45,30 +43,36 @@ if __name__ == "__main__":
             if text=="":
                 continue
             entriesDict[text]=(mp3,text, spkr)
-            haveLength += AudioSegment.from_mp3(mp3).duration_seconds
             
-    tmpEntries:list=[e for e in entriesDict.values()]
+    for e in entriesDict.values():
+        haveLength += AudioSegment.from_mp3(e[0]).duration_seconds
+            
+    if minLength - haveLength > haveLength:
+        minLength -= haveLength
+    else:
+        minLength = haveLength
+    minLength=min(minLength, haveLength*2)
+        
+    startingEntries:list=[e for e in entriesDict.values()]
     
-    speakers:set=set([e[2] for e in tmpEntries])
+    speakers:set=set([e[2] for e in startingEntries])
     if len(speakers)>1:
         print("Speakers:",speakers)
-
-    print(f"Have {len(tmpEntries):,} starting entries with {len(speakers):,} speakers.")    
-    print(f"Available audio duration (minutes): {int(haveLength/60)}")
         
+    print(f"Have {len(startingEntries):,} starting entries with {len(speakers):,} speakers.")    
+    print(f"Starting audio duration (minutes): {int(haveLength/60)}")
+    print(f"Need additional augmented duration (minutes): {int(minLength/60)}")
     
-    entries:list=[]
-    _:int=0
-    minLength=min(minLength, haveLength*3)
+    entries:list=list()
+    _:int=0    
     workingLength:int=0
     while workingLength < minLength:
-        _+=1
-        random.Random(_).shuffle(tmpEntries)
-        entries.extend(tmpEntries)
+        random.Random(len(entries)).shuffle(startingEntries)
+        entries.extend(startingEntries)
         workingLength+=haveLength
     
     print(f"Have {len(entries):,} entries with {len(speakers):,} speakers.")
-    print(f"Target duration (minutes): {int(workingLength/60)}")
+    print(f"Minimum target duration (minutes): {int((workingLength+haveLength)/60)}")
     
     dice=random.Random(len(entries))
     
@@ -77,15 +81,44 @@ if __name__ == "__main__":
         
     totalTime:float=0
     totalCount:int=0
-    ix=0
+    
+    already:list=set()
     
     for speaker in speakers:
+        ix:int=0
         if len(speakers)>1:
             print(f"Processing speaker {speaker}")
-        already:set=set()
+       
+        #First add in all individual entries as is.
+        for entry in startingEntries:
+            ix+=1
+            if entry[2] != speaker:
+                continue
+            audioData:AudioSegment = AudioSegment.from_mp3(entry[0])
+            track:AudioSegment = match_target_amplitude(audioData, -16)
+            text:str=entry[1].strip()
+            if ix % 100 == 0:
+                print(f"... {speaker}: {text} [totalCount={totalCount:,}, {int(ix/len(startingEntries)*100):d}%] / Duration (minutes): {int(totalTime/60)} [se]")
+            if speaker+"|"+text not in already:
+                    totalTime+=track.duration_seconds
+                    totalCount+=1
+                    track.export(f"mp3-long/{totalCount:06d}.mp3", format="mp3", bitrate="192")
+                    already.add(speaker+"|"+text)
+                    with open(LONG_TEXT, "a") as f:
+                        f.write(f"{speaker}")
+                        f.write("|")
+                        f.write(f"mp3-long/{totalCount:06d}.mp3")
+                        f.write("|")
+                        f.write(ud.normalize("NFC", text))
+                        f.write("\n")
+    
+    for speaker in speakers:
+        ix:int=0
+        if len(speakers)>1:
+            print(f"Processing speaker {speaker}")
         text:str=""
         track:AudioSegment=AudioSegment.empty()
-        wantedLen=dice.randint(0, 6)+dice.randint(0, 6)+dice.randint(0, 6)
+        wantedLen=dice.randint(1, 6)+dice.randint(1, 6)+dice.randint(1, 6)
         for entry in entries:
             ix+=1
             if entry[2] != speaker:
@@ -93,21 +126,21 @@ if __name__ == "__main__":
             audioData:AudioSegment = AudioSegment.from_mp3(entry[0])
             audioText:str = entry[1].strip()
             if ix % 100 == 0:
-                print(f"... {speaker}: {audioText} [ix={ix:,}, {int(ix/len(entries)*100):d}%]")
+                print(f"... {speaker}: {audioText} [totalCount={totalCount:,}, {int(ix/len(entries)*100):d}%] / Duration (minutes): {int(totalTime/60)} [ad]")
             if len(audioText)==0:
                 continue
             if audioText[-1] not in ".,?!":
                 audioText+="."
             if audioData.duration_seconds + track.duration_seconds > wantedLen and track.duration_seconds>0:
-                if text not in already:
+                if speaker+"|"+text not in already:
                     totalTime+=track.duration_seconds
                     totalCount+=1
-                    track.export(f"mp3-long/{totalCount:06d}.mp3", format="mp3", bitrate="192")
-                    already.add(text)
+                    track.export(f"mp3-long/{ix:06d}.mp3", format="mp3", bitrate="192")
+                    already.add(speaker+"|"+text)
                     with open(LONG_TEXT, "a") as f:
                         f.write(f"{speaker}")
                         f.write("|")
-                        f.write(f"mp3-long/{totalCount:06d}.mp3")
+                        f.write(f"mp3-long/{ix:06d}.mp3")
                         f.write("|")
                         f.write(ud.normalize("NFC", text))
                         f.write("\n")
@@ -123,20 +156,21 @@ if __name__ == "__main__":
                 text += " "
             text += audioText
             
-        if len(track)>0 and text not in already:
+        if len(track)>0 and speaker+"|"+text not in already:
             totalTime+=track.duration_seconds
             totalCount+=1
-            track.export(f"mp3-long/{totalCount:06d}.mp3", format="mp3", bitrate="192")
+            track.export(f"mp3-long/{ix+1:06d}.mp3", format="mp3", bitrate="192")
             with open(LONG_TEXT, "a") as f:
                     f.write(f"{speaker}")
                     f.write("|")
-                    f.write(f"mp3-long/{totalCount:06d}.mp3")
+                    f.write(f"mp3-long/{ix+1:06d}.mp3")
                     f.write("|")
                     f.write(ud.normalize("NFC", text))
                     f.write("\n")
                 
-    print(f"Average track time: {totalTime/totalCount:.2f}. Total tracks: {totalCount:,}")
-    
+    print(f"Total time (minutes): {int(totalTime/60)}")    
+    print(f"Total tracks: {totalCount:,}.")
+    print(f"Average track time: {totalTime/totalCount:.2f}.")
     print("Folder:",pathlib.Path(".").resolve().name)
     
     sys.exit()

@@ -1,563 +1,1137 @@
-bs|mp3-long/000001.mp3|À:ginéha. Gǎ:da. Jiwó:ni. Dà:ni:lâ:wì:. Sū. Idalě:n. Halsdâ:yv:hv́sga. Gà:yő:hl jiwó:ni Jalagi.
-bs|mp3-long/000002.mp3|Gadō adv:neɂa? Kiloɂi gawó:niɂa. Dù:danv:hnv̋:ɂi. Wū. Achű:ji.
-bs|mp3-long/000003.mp3|Kilo gawó:ni. Hnā.
-bs|mp3-long/000004.mp3|Su:dali:né Jalagi go:hwe:lv̀:ɂi. Ǔ:tana wǒ:háɂl à:gowhtí.
-bs|mp3-long/000005.mp3|Aniwó:ni. U:no:lv̀:tan ka:la.
-bs|mp3-long/000006.mp3|Gahlgwo:gi:ne̋ Jalagi go:hwe:lv̀:ɂi. U:sganő:. À:diɂa.
-bs|mp3-long/000007.mp3|Chuně:li:ne̋:ɂi. Suná:le̋. Anisakǒ:nígé ju:gì:dáhl. Ani:sgaya. Dikané:jv.
-bs|mp3-long/000008.mp3|Hilâ:yv̋ dv́ɂhilúhji?
-bs|mp3-long/000009.mp3|Chuně:li:ne̋ go:hwe:l. Yv̄. Do:yű. Hō. Di:de:hyǒ:hvsgi. Asgay.
-bs|mp3-long/000010.mp3|Ani:ji:lv̋:sgi. Ajina.
-bs|mp3-long/000011.mp3|U:hyv:dla dǒ:yi. Dō adv:ne? Uwǒ:dígé u:sdi̋ jǔ:ntana wǒ:háɂli dà:gowhtíɂa.
-bs|mp3-long/000012.mp3|Di:te:lǐ:do didihlahv̀. Gadō ű:sd ayv:wi:yá? Age:hyű:j.
-bs|mp3-long/000013.mp3|Gadō u:sdi jadu:líɂa.? Ayv:wi:yá. Asú:sd.
-bs|mp3-long/000014.mp3|Kawo:n. Gv:no:sásdi ti:dì:si. Gadō ű:sdi? Dò ű:sdi a:sésdi kò:hí?
-bs|mp3-long/000015.mp3|U:ga̋:nawa. Gv́:n desgv̄. Chű:j.
-bs|mp3-long/000016.mp3|Ē. Gv́:na à:wadu:lí. U:hyv:dlv u:hyv:dlv. I̋:.
-bs|mp3-long/000017.mp3|Gahligwǒ:gi. Galsdâ:yv:hv́sg. Aniɂluhgī. Gǐ:ga. Ani:sgay.
-bs|mp3-long/000018.mp3|Lv̄. Ǔ:gáma. Sō. Asgaya gawó:niɂa.
-bs|mp3-long/000019.mp3|Chuně:li:ne̋ Jalagi go:hwe:lv̀:ɂi. Wē. Wado. Jí:sgwa juwě:ji.
-bs|mp3-long/000020.mp3|Sgo:hi:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi. Hila̋ go:hwe:li jadu:líɂa?
-bs|mp3-long/000021.mp3|Didǐ:yé:li:. A̋:ta. Kǒ:l. Yv:w.
-bs|mp3-long/000022.mp3|Ayo. Sakǒ:nígé u:gì:dáhl.
-bs|mp3-long/000023.mp3|Digǐ:gáge ale dijéɂiyű:sdi dà:gi di:jv̋sdi. U:galǒ:ga.
-bs|mp3-long/000024.mp3|Chuně:li:ne̋. Anigǐ:gáge ani:ji:lv̋:sg. Achű:ja. Hé:ga. Kǒ:la. Yú:ne:ga.
-bs|mp3-long/000025.mp3|Gà:yő:hli jiwó:niɂa Jalagi. Ha:dlv hině:la? Gadō u:sdi?
-bs|mp3-long/000026.mp3|Kalsě:jis hà:su:yv́:sgó? Sóhně:l. Dodada:go:hv̄. Ùnanht. Joɂi.
-bs|mp3-long/000027.mp3|Dijv̋sd. Jiwó:niɂa. Jadu:líɂa. Hlahv. Igv:yi̋:ɂi. Di:dǎ:hnehdi.
-bs|mp3-long/000028.mp3|Jā. Gaɂluh. U:lò:gí:li. Go:hi̋:gi. Ani:chű:ja.
-bs|mp3-long/000029.mp3|Juwé:nv̀:sv́ é:. Ha:dlv go:hwe:lv? U:nv̌:dis hà:su:yv́:sgó? Wā. Ù:néa.
-bs|mp3-long/000030.mp3|Ani:sgaya aniwó:ni. U:sganő:li hiwò:nǐ:hi. Ju:no:dű ani:ge:hyű:ja anili:hě:lî:ga..
-bs|mp3-long/000031.mp3|Gadò ű:sdi a:sésdi kò:hí? Agě:hya. Anigv̌:níge̋ kama:ma a:nalsdâ:yv:hv́sga. Aksdà:yv̌hv̄.
-bs|mp3-long/000032.mp3|Sà:wűɂi. Ù:lô:gi:lv. Nvhgi:ne̋. Anigǐ:gáge dehlgv́.
-bs|mp3-long/000033.mp3|Di:dihnó:gi. Gv̄. Go:hi̋:. Ju:ni:là:wisdi gé:.
-bs|mp3-long/000034.mp3|Ajéɂiyű:sdi. U:nine̋:ga ju:lò:gí:la. Hiɂa. Ju:natvhisdv.
-bs|mp3-long/000035.mp3|Dijé:nv̀:sv̋:ɂi hé:ga.
-bs|mp3-long/000036.mp3|Gv:no:sásdi hi:dì:si. Hatv:gī. Sě:lu ga̋:du. À:wadu:lí. U:gǎ:nawa dò:dala. Gő:l.
-bs|mp3-long/000037.mp3|Kwō. Digǐ:gágé ale dijé:ɂiyű:sd dà:gi di:jv̋sd. Juné:nv̀:sv́ à:né:.
-bs|mp3-long/000038.mp3|Hì:neha. Awi̋:na. Sihgwa. Ká:gā na achű:ja?
-bs|mp3-long/000039.mp3|U:gǎ:nowi. V:le. Sgina. Asú:sdi desgi:nehvsi. É:gwő:ni.
-bs|mp3-long/000040.mp3|Hlā. Hlē. U:no:lv̀:tana. A̋:t.
-bs|mp3-long/000041.mp3|Me:li. Ani:gayv̌:lí. Jo. Anadi:tásga. Ge:lí. Jǔ:tana dehlgv́.
-bs|mp3-long/000042.mp3|Unali:he:lísdi. Hlī. Agǔ:sa jiyv:wi. Achű:j.
-bs|mp3-long/000043.mp3|Gv:no:sásdi. Anigǐ:gáge gitǎ:ya. Du:lì:sdi.
-bs|mp3-long/000044.mp3|Janhta. Dlù:dlu. Atv:gī. Hadì:tásg. Do:yu uwo:du sv:hiye.
-bs|mp3-long/000045.mp3|Sóhně:li:ne̋. Jiyú:ne:ga jiyv:wi. Dò:dala ju:hyv:dla. Yū.
-bs|mp3-long/000046.mp3|Gà:yő:hlike hiwó:ni Jalagi?
-bs|mp3-long/000047.mp3|U:ne̋:ga u:lò:gí:li. Inadǐ:ta. Go:lì:. Dlā. Ő:sd. Ǔ:tan. U:nv̌:d hà:su:yv́:sgó?
-bs|mp3-long/000048.mp3|Igv:yi̋:ɂi à:danv:hnv́. Hila̋ ǐ:ga̋ɂi? Hadáɂnvɂa. Alsdâ:yv:hv́sga.
-bs|mp3-long/000049.mp3|Jē. Lō. À:sdû:. Hlū. Kawo:ni. Táɂl.
-bs|mp3-long/000050.mp3|U:hyv:dla dò:dala. Hiyv:wi:yá. Chuně:l. Nǔ:ni.
-bs|mp3-long/000051.mp3|Uwo:duke kò:hi̋ sv:hiye? Hlá kiloyi. Kó:gi. Ő:sdadv Jalagi gawó:ni.
-bs|mp3-long/000052.mp3|Dō gadv:ne? Hla. Hiwó:ni. Ha:dlv? Ù:we:ká. Hì:ne. Ù:né. Ǔ:tana.
-bs|mp3-long/000053.mp3|Nvhgi. Ayv gé. Di:ni:yő:hli. Gadò dě:jádo:ɂa? Ù:wâ:ya.
-bs|mp3-long/000054.mp3|Di:de:hyǒ:hv. Nana. Sǔ:dáli.
-bs|mp3-long/000055.mp3|Digo:hwe:la. Dù:dǎ:sgó chuně:li go:hwe:li. Nà:ní. E:lohi. Taɂli:ne̋. Dodada:go:hv:ɂi. U:tvhisdv.
-bs|mp3-long/000056.mp3|Ù:néha. E̋:. Kwī. Agigǎ:nawa. Kuye:gwǒ:ni.
-bs|mp3-long/000057.mp3|À:ga:sg. Dà:ni:sdayo:hihv́. A̋ɂdage. À:li:hě:lî:ga. Yā.
-bs|mp3-long/000058.mp3|Uninéha. Ge:li̋:stgi. Yú:ne:g. Hé:.
-bs|mp3-long/000059.mp3|U:gǎ:nawa. Kwā. Hisg. Agǐ:gáge. Gv́:na hiɂvsi.
-bs|mp3-long/000060.mp3|Junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli. Gé:ga. Tlaidv́galúhji. Dv. Hiwó:niɂa.
-bs|mp3-long/000061.mp3|Dī. Gahligwo:gi:ne̋:ɂi. Nà:sgi. I:ga. De:halǔ:yi.
-bs|mp3-long/000062.mp3|Ő:sdaju? Dù:ninvhdi. Halihě:lí. Anihne. À:ndia.
-bs|mp3-long/000063.mp3|À:ga:sga u:hyv:dlahno dǒ:yi. Yú:ne:gake hiwó:ni? Gv́:n hiɂv̄.
-bs|mp3-long/000064.mp3|Analsdâ:yv:hv́sga. Gv̀:ne. Naɂvɂi. Donada:go:hv̄. Dinǐ:yé:li:. Á:m. Agihyv̋:dla. Agě:.
-bs|mp3-long/000065.mp3|Ā. Ni! V:v. Dà:ni:sdayo:hihv̋:ɂi. Anali:hě:lî:ga. Am.
-bs|mp3-long/000066.mp3|Digwé:nv̀:sv́ gé:. De:halǔ:. Dō u:sd? V̌:sgí. U:gǎ:nawa u:gǎ:nawa.
-bs|mp3-long/000067.mp3|Jō. À:ga:sga. Saduɂi:ne̋ Jalagi go:hwe:lv̀:ɂi. Ǔ:tana hlgv́. Ga̋:du.
-bs|mp3-long/000068.mp3|Halâ:yv̋ wù:sda é:gwő:ni? Gadáɂnvɂa.
-bs|mp3-long/000069.mp3|Ali:he:lísdi. Kó:. Gadáɂnv. Ju:ni:là:wisdi gé:ga. Dō hadv:ne? É:gwő:n.
-bs|mp3-long/000070.mp3|À:gwanhta. Sgigaduɂi Jalagi go:hwe:lv̀:ɂi.
-bs|mp3-long/000071.mp3|Adǎ:wé:hi. Kwana. À:gwv̌:ya. Asú:sdi. Ha:dlv hé:g? À:kiwásga.
-bs|mp3-long/000072.mp3|Hila̋ go:hwe:li jadu:lí? Akwe:nhda go:hwe:li. Aniɂluh.
-bs|mp3-long/000073.mp3|Yē. Di:kwayő:d ale á:m. U:ne̋:ga u:lò:gí:la. Joɂi:ne̋:ɂi. Anali:hě:lí.
-bs|mp3-long/000074.mp3|Kila. Gadògi hadí:ɂa. Ani:gayv̌:líge̋:. Hā.
-bs|mp3-long/000075.mp3|Anigǐ:gáge gitǎ:yaɂi. À:li:hě:lí.
-bs|mp3-long/000076.mp3|À:lsdàyhdi. Agǐ:gáge aji:lv̋:sg. Jv̌:ya.
-bs|mp3-long/000077.mp3|Ahő:li. U:gù:ku. Dē. Su:dali:ne̋. Ana̋:ta. À:di:tásga. Wō.
-bs|mp3-long/000078.mp3|Agě:hyv. Ayv gé:ga. Unadu:lí. Yó:ne:g. E:lo. Jadu:lí. Ijéɂiyű:sdi.
-bs|mp3-long/000079.mp3|À:di:tásg. Nihi gadíɂa hiɂa. Analsdâ:yv:hv́sg. Go:gi.
-bs|mp3-long/000080.mp3|chuně:la. Dù:danv:hnv̋.
-bs|mp3-long/000081.mp3|Agǐ:gáge gitǎ:yaɂi. Gē. Kǎ:hwi inadǐ:ta.
-bs|mp3-long/000082.mp3|Goɂi jadu:líɂa? Ani:ge:hyű:ja. Ayő:hli. Ani:chű:j.
-bs|mp3-long/000083.mp3|Hila̋ nà:ní:ɂa? U:hyv:dla. Kā. U:lò:gí:l. Ge:líɂa. Sē. À:dáɂnv.
-bs|mp3-long/000084.mp3|U:gǎ:nawa gě:dô:a. Gadò ad? Gweti dà:wadó:ɂa. Ù:náɂa. Akwanv́:gi jiyv:wi.
-bs|mp3-long/000085.mp3|U:hyv:dlv. Hisgi:ne̋. Hadáɂnv. Ha:dlvɂi? Hisgi. Gadò ű:sdi i:ga atli:gili?
-bs|mp3-long/000086.mp3|Hé:gake? U:halv:ni. É:ga. Jiyv:wi:yádv. Ani:gě:hya. Hiyv:wi:yásg? Didǐ:yé:li:hi.
-bs|mp3-long/000087.mp3|À:gináa.
-bs|mp3-long/000088.mp3|U:no:lv̀:tani ka:la. Asú:sdi à:wadu:líɂa. Kwv̄. Táɂli. Dù:ninvhd. Gō:.
-bs|mp3-long/000089.mp3|Joɂi:né. Ha:dlv go:hwe:lv̀:ɂi. Gahligwo:gi:ne̋. Janáa. Ajéɂiyű:sd. Gawó:ni.
-bs|mp3-long/000090.mp3|Jù:lúhjv̌ kò:hi̋, tlaidv́galúhji. Gé. Dō anadv:ne?
-bs|mp3-long/000091.mp3|Anà:lsdâ:yv:hv́. Uwǒ:dígé u:sdi̋. À:giné. Galiɂě:lí. Dla:nú:si. Dǒ:y.
-bs|mp3-long/000092.mp3|Ga:da:ha̋. Desgi:nv̀:si. Agayv̌:líge̋:. À:giná. Ani:ge:hyű:j.
-bs|mp3-long/000093.mp3|Mū. Anè:lía. U:ni:hyv̋:dla. Ané:. Ané:ga. Gő:li.
-bs|mp3-long/000094.mp3|Yú:ne:gake hiwó:niɂa? U:hyv:dlake dǒ:y? Adǎ:hnehdi. Anv:yi. Hlá kiloyigi.
-bs|mp3-long/000095.mp3|À:tv:gâ:nv nù:wè:sv. Gō. Nanaɂi. Gadì:tásg. Kwana děhlgv́ Da:ntvsga.
-bs|mp3-long/000096.mp3|Kwan. Sv̄. Taɂli:ne̋:ɂi.
-bs|mp3-long/000097.mp3|Gv́:na desgvsi. Galv:lő:hi. Waló:si. Ha:dlv hé:ga? Sgǒ:hi. Gweti dà:wadó.
-bs|mp3-long/000098.mp3|À:giha. Dō ű:sd dadihno:gí? U:hyv:dlake adǐ:tas jadu:lí?
-bs|mp3-long/000099.mp3|Dā. Na doyu uwo:dű ajina. Yī.
-bs|mp3-long/000100.mp3|Ani:sgaya aniwó:niɂa. U:hyv:dla u:hyv:dlv. À:ndi. Hé:gasgohv? Dū.
-bs|mp3-long/000101.mp3|Yō. Sě:lu. Nigaduɂi Jalagi go:hwe:lv̀:ɂi.
-bs|mp3-long/000102.mp3|Di:kwayő:di ale á:ma. Taɂli:né.
-bs|mp3-long/000103.mp3|Uniwǒ:dígé junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli. Ani:chű:ji. Děhlgv́.
-bs|mp3-long/000104.mp3|Agv̌:níge̋:. Kuye:gwǒ:n. U:li:he:lísdi à:lsdàyh. Sā.
-bs|mp3-long/000105.mp3|Ū. Ama. Idihno:gí. Ō. Gaɂlo:hni. È:lía. Lē.
-bs|mp3-long/000106.mp3|Dla:me:ha. Tē. Sgǒ:. Agǐ:gáge hlgv́. Howa.
-bs|mp3-long/000107.mp3|Ha:dlv hině:l? Agayv̋:li. Igv:yí.
-bs|mp3-long/000108.mp3|Gù:. Dla:ma:ha. Ù:nadu:lí. Tla yà:gwanht. Ő:sdadv̀. Tla yigo:lì:ga.
-bs|mp3-long/000109.mp3|Dinǐ:yé:li:hi. Nū. Ju:ni:là:wisdi. À:hneha.
-bs|mp3-long/000110.mp3|Go:hwe:l. Hv? Ani:sgayv.
-bs|mp3-long/000111.mp3|Agv̌:níge̋:ɂi kama:ma à:lsdâ:yv:hv́sga. Dà:gikáha jí:sgwa. He:lí. Wī. Hiɂluhgī. Gaɂluhgī. Nà:hní.
-bs|mp3-long/000112.mp3|Nī. Juwé:nv̀:sv̋:ɂi é:ga. Hū. Goɂi jadu:lí?
-bs|mp3-long/000113.mp3|Tā. Ù:hwasga. Dògi hadí. Aji:lv́:sga. Jī.
-bs|mp3-long/000114.mp3|Alsdâ:yv:hv́. Gaɂlo:n. Ma:ga. Ana̋:t.
-bs|mp3-long/000115.mp3|Dijé:nv̀:sv́ hé:g. Ahu:li.
-bs|mp3-long/000116.mp3|Uniwǒ:dígé junsdi ǔ:tana wǒ:háɂli anì:gowhtíɂa. Ka:gaɂli.
-bs|mp3-long/000117.mp3|Ani:gǐ:gágé ale ani:jé:ɂiyű:sdi dà:gikáha jí:sgwa.
-bs|mp3-long/000118.mp3|Jǐ:sa. Dō.
-bs|mp3-long/000119.mp3|Joɂgaduɂi Jalagi go:hwe:lv̀:ɂi. A:sésdi.
-bs|mp3-long/000120.mp3|Hisgi:né jalagi go:hwe:lvɂi. Nvhgi:né. Kǒ:li.
-bs|mp3-long/000121.mp3|À:ga:sgas? Ùnanhta. Taɂli:ne̋ go:hwe:la. Ő:sdadv. Taladuɂi Jalagi go:hwe:lv̀:ɂi.
-bs|mp3-long/000122.mp3|Gadò anà:dv́:ne? U:lò:gí:la. Idihno:.
-bs|mp3-long/000123.mp3|Uwǒ:dígé u:sdi̋ ǔ:tana wǒ:háɂli à:gowhtíɂa. Sgwi̋:sd. Nvh. Síyo. Kwē. Hlv̄.
-bs|mp3-long/000124.mp3|Desgi:dì:si. È:lí. hno.
-bs|mp3-long/000125.mp3|Anigv̌:nígé gi:hli danì:gowhtíɂa juwǒ:dígé dilà:sǔ:lo. Go:lì:ga.
-bs|mp3-long/000126.mp3|Ani:dalǒ:nígé digadv́:d danì:gí. Hawi:ya. U:no:lv̀:tana ka:la.
-bs|mp3-long/000127.mp3|Dò:dala ju:gǎ:nawi. Gahlgwǒ:. Gadō hadv:neɂa?
-bs|mp3-long/000128.mp3|Dù:dǎ:sgó chuně:la go:hwe:la. Sgo:hi:ne̋.
-bs|mp3-long/000129.mp3|Hé:gaju? Nihinahv? À:gi. Gadō gadv:neɂa? Yó:ne:ga. À:nadáɂnv:ɂa.
-bs|mp3-long/000130.mp3|Anè:lí. Asgaya gawó:ni.
-bs|mp3-long/000131.mp3|Agv̌:nígé gi:hli uwǒ:dígé alà:sǔ:lo à:gowhtíɂa. Gv́:na. Ani:gayv̌:líge̋:. É:.
-bs|mp3-long/000132.mp3|Ǔ:tana wǒ:háɂli à:gowhtíɂa uwǒ:dígé salǒ:li. Na achű:ja jù:lúhjv̌ kò:hi̋. V̀:hla.
-bs|mp3-long/000133.mp3|U:gǎ:nawa gě:dô:. Dijé:nv̀:sv́ hé:.
-bs|mp3-long/000134.mp3|Ajv̋sd. Aniwó:niɂa. Unináɂa. Hadí:ɂa. Junsdiɂi. Nǔ:na. Nō. V̄.
-bs|mp3-long/000135.mp3|Sà:gwű. U:du:lí. Aji:lv̋:sgi. Nvhgi:ne̋:ɂi. Sakǒ:níge̋:.
-bs|mp3-long/000136.mp3|Galiɂě:lî:ga. Wv̄. Ani̋:da. Kilő:i. Sī. Gv́:n. Waló:s. Ùnhta. Dv̄.
-bs|mp3-long/000137.mp3|U:hyv:dlake dǒ:yi? Á:ma. À:gi:káha.
-bs|mp3-long/000138.mp3|Agǐ:gáge gitǎ:ya. E̋:gwa. Asú:sdi à:wadu:lí.
-bs|mp3-long/000139.mp3|Nv:dadě:wa. U:ni:gǎ:nawa. I:ya. Gadì:tásga. Táɂlduɂi Jalagi go:hwe:lv̀:ɂi. Anadv́:ne.
-bs|mp3-long/000140.mp3|Ani:dalǒ:nígé digadv́:di danì:gíɂa.
-bs|mp3-long/000141.mp3|Su:dali:ne̋:ɂi. Nē. Sóhně:la. Ù:we:káha.
-bs|mp3-long/000142.mp3|Hī. Asú:sdi desgi:nehv. Hv̄. U:no:lv̀:tani.
-bs|mp3-long/000143.mp3|Jǔ:ntana wǒ:háɂli danì:gowhtíɂa uniwǒ:dígé salǒ:li. Uniha. U:du:líɂa.
-bs|mp3-long/000144.mp3|Anà:dv́:neɂa. Gǐ:. Dà:ni:lâ:wì:ga. Na. U:hyv:dlv e̋:hi. Ù:nihwasga.
-bs|mp3-long/000145.mp3|Halihě:lî:ga. Lī. Donada:go:hv:ɂi. Ani:wi̋:n. À:dia. U:hyv̋:dla.
-bs|mp3-long/000146.mp3|Gadō ű:sdi dadihno:gí:si? Go:hwe:la.
-bs|mp3-long/000147.mp3|U:sganő hiwò:nǐ:. Jiɂluh.
-bs|mp3-long/000148.mp3|Anisakǒ:nígé ju:gì:dáhli. Suná:le̋:ɂi.
-bs|mp3-long/000149.mp3|Hisgi:ne̋:ɂi. Taɂli:ne̋:ɂi go:hwe:lvɂi. Jū. Gadō ű:?
-bs|mp3-long/000150.mp3|Hila̋ nà:ní? Ahljadő:hvsg. Tò:hi̋:ju. Gadò adā?
-bs|mp3-long/000151.mp3|Aksdà:yv̌hv:sgi. Nihina? Gū. V̌:sgíyi. Hē.
-bs|mp3-long/000152.mp3|O:síyo. Jv̄. Nā.
-bs|mp3-long/000153.mp3|Ani:gǐ:gágé ale ani:jé:ɂiyű:sdi. Gǎ:sógwalv́. Ő:sda. Gù:gu.
-bs|mp3-long/000154.mp3|Ő:sdadv Jalagi gawó:niɂa. Alà:sǔ:lo. Géɂi. Digahi:nv̀. Mā. hnv.
-bs|mp3-long/000155.mp3|U:sdi̋ɂi. Gadō anadv:neɂa? Dǒ:yi. Gawó:niɂa.
-bs|mp3-long/000156.mp3|U:gana̋:sdake jadu:líɂa? Adǐ:tasdi jadu:líɂa?
-bs|mp3-long/000157.mp3|Jalagi. U:hyv:dlv gě:dô:a. Ani̋:dage. Kama:ma.
-bs|mp3-long/000158.mp3|Ani:gě:. U:ne̋:. Anà:lsdâ:yv:hv́sga. Halâ:yv̋ é:gwő:ni?
-bs|mp3-long/000159.mp3|Sihgw. Goɂike jadu:lí? Nokwsi. Asgayv. Tī.
-bs|mp3-long/000160.mp3|Sóhne:li:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi. Juné:nv̀:sv́ à:né:ga. U:hyv:dla dǒ:y.
-bs|mp3-long/000161.mp3|Uwo:dű age:hyű:ja. Di:sésdi. Ù:ninéha. Uwo:du. Ī. Gà:yő:hli.
-bs|mp3-long/000162.mp3|Hila̋ ǐ:ga̋ɂi jadu:líɂa? Dò dě:jádo? Ani:ji:lv́:sga. U:galǒ:. Ù:lô:gi:li kò:hi̋ svná:le. U:gǎ:nawa e̋:hi.
-bs|mp3-long/000163.mp3|Ù:nâ:ya. Ǔ:ha. Gv:no:sásd. Jí:sgwa ani̋:da anì:jáɂiɂa. U:gana̋:sdake jadu:lí?
-bs|mp3-long/000164.mp3|Digwé:nv̀:sv̋:ɂi gé:ga. Gī.
-bs|mp3-long/000165.mp3|Go:hwe:la desgi:nv̀. À:lsdâ:yv:hv́sga. Dego:hwe:la.
-bs|mp3-long/000166.mp3|Gadí:ɂa. Dò ad? À:gi:ká. Ù:lô:gi:li kò:hi̋ svná:le̋ɂi.
-bs|mp3-long/000167.mp3|Gadō ű:sdi ayv:wi:yá? Yv:wi. Lu:ga. Kwū.
-bs|mp3-long/000168.mp3|Age:hyű:ja. Mī. Agayv̌:lí. Na doyu uwo:dű ajin. À:dáɂnv:ɂa.
-bs|mp3-long/000169.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:. Sóhně:li:ne̋:ɂi.
-bs|mp3-long/000170.mp3|Gadò? Unikáha. Jiɂluhgī. Ànsgv:ti. Kó:ga.
-bs|mp3-long/000171.mp3|Ijéɂiyű:sd. À:sdû:di. Anadi:tásg. U:halv:na. A:nadiɂa.
-bs|mp3-long/000172.mp3|Hiɂluh. U:ne̋:ga. Jaha. Galì:sdâ:yv:hv́sga. Asgaya. Nah. Hiyv:wi:yásgohv?
-bs|mp3-long/000173.mp3|Anihneha. À:dv́:ne. Ané:ga.
-bs|mp3-long/000174.mp3|Hiyv:wi:yádv. Tla yà:gwanhta. Ale. Gé:. Gatv:gī. Unihwasga.
-bs|mp3-long/000175.mp3|U:ne̋:g u:lò:gí:l. Ù:du:lí. U:gǎ:no. Áhni. Janht. He:líɂa. Ahljadő:hvsgi. Goɂi.
-bs|mp3-long/000176.mp3|Na achű:ja. Sǐ:gwu. Gő:la. Anigǐ:gáge ani:ji:lv̋:sgi.
-bs|mp3-long/000177.mp3|Dō ű:sd? Junsdi. I:ya ge:li̋:stg.
-bs|mp3-long/000178.mp3|Dla:nú:s. Digahi:nv̀:si. U:hyv:dlv gě:dô:. Desgi:dì:. Sa:sa.
-bs|mp3-long/000179.mp3|Digǐ:gágé ale dijé:ɂiyű:sdi dà:giha di:jv̋sdi.
-bs|mp3-long/000180.mp3|Ànsgv:. Gv́:n à:wadu:lí. Di:je̋ dikané:jv di:do:ja. Uniwǒ:dígé. Sakǒ:nígé u:gì:dáhli. Naɂv.
-bs|mp3-long/000181.mp3|Nǔ:n. A̋ɂda. Dijv̋sdi. Gā. Kané:jv. Hila̋ ǐ:ga̋? Lū. Lā.
-bs|mp3-long/000182.mp3|Mō. Iga. À:lsdàyhd. Ayv:wi:yádv.
-bs|mp3-long/000183.mp3|Go:hwe:la hi:nv̀:si. Galiɂě:lî:gi niga̋:da jijiɂluhgi. Idalě:na. Du:lì:sd. À:nadáɂnv.
-bs|mp3-long/000184.mp3|Go:hwe:li. Sv:hiye̋. Ka:ga. À:hne. Mē. Ju:ntvhisd. Gohlsga.
-bs|mp3-long/000185.mp3|Go:hlv:hnv́. Ajv̋sdi. Hila̋dv? Awi̋:n. Nv:dadě:w. À:di. V̄:.
-bs|mp3-long/000186.mp3|Unadu:líɂa. Hlō. Goɂi jadu:lísgo? Sǔ:dál.
-bs|mp3-long/000187.mp3|Gē. Děhlgv́. U:du:lí. Ù:néha.
-bs|mp3-long/000188.mp3|U:hyv:dlake dǒ:yi? Dō hadv:ne? Gaɂluh. Gaɂlo:n. È:lía. Nū. Tlaidv́galúhji.
-bs|mp3-long/000189.mp3|U:nine̋:ga ju:lò:gí:la. Agǔ:sa jiyv:wi. À:hne. Hī. Kuye:gwǒ:n.
-bs|mp3-long/000190.mp3|Gadí:ɂa. Ani:ji:lv́:sga. Dù:danv:hnv̋:ɂi. Nā.
-bs|mp3-long/000191.mp3|Na. Am. Asgaya. Sě:lu.
-bs|mp3-long/000192.mp3|Ahljadő:hvsg. U:ni:hyv̋:dla. Anà:dv́:neɂa.
-bs|mp3-long/000193.mp3|Hisgi:ne̋. Gadáɂnvɂa.
-bs|mp3-long/000194.mp3|Sv:hiye̋. A̋:t. Gǎ:sógwalv́. Suná:le̋.
-bs|mp3-long/000195.mp3|Gohlsga. De:halǔ:yi.
-bs|mp3-long/000196.mp3|Juwé:nv̀:sv̋:ɂi é:ga. Jadu:lí. À:li:hě:lí.
-bs|mp3-long/000197.mp3|Ju:ni:là:wisdi gé:ga. Wv̄. Uwǒ:dígé u:sdi̋ ǔ:tana wǒ:háɂli à:gowhtíɂa.
-bs|mp3-long/000198.mp3|Yē. Sà:gwű. A̋ɂdage. Nǔ:ni. À:giná.
-bs|mp3-long/000199.mp3|Ká:gā na achű:ja? Do:yu uwo:du sv:hiye. Ù:wâ:ya.
-bs|mp3-long/000200.mp3|Sakǒ:nígé u:gì:dáhli. Goɂi jadu:lí? Kané:jv. Galiɂě:lî:gi niga̋:da jijiɂluhgi.
-bs|mp3-long/000201.mp3|Do:yű. Táɂl. Ha:dlv go:hwe:lv? Sà:wűɂi. Uwǒ:dígé u:sdi̋.
-bs|mp3-long/000202.mp3|Agě:hyv. Gadáɂnv. Ù:né. U:galǒ:.
-bs|mp3-long/000203.mp3|Anigv̌:níge̋ kama:ma a:nalsdâ:yv:hv́sga. Dà:ni:lâ:wì:. É:.
-bs|mp3-long/000204.mp3|Halâ:yv̋ wù:sda é:gwő:ni? Go:lì:. Dò ad? Hadì:tásg. Jv̌:ya.
-bs|mp3-long/000205.mp3|Gǐ:. De:halǔ:. I:ya ge:li̋:stg. Kiloɂi gawó:niɂa.
-bs|mp3-long/000206.mp3|Ajéɂiyű:sdi. Dō gadv:ne? Asú:sdi desgi:nehvsi. Nvh.
-bs|mp3-long/000207.mp3|Gő:li. Hiɂa. Kilo gawó:ni. À:di:tásga. Gadì:tásg. Wado. Ahljadő:hvsgi. U:gǎ:nowi.
-bs|mp3-long/000208.mp3|Gatv:gī. Mē. U:hyv:dla u:hyv:dlv. À:lsdàyhdi. À:gi:káha.
-bs|mp3-long/000209.mp3|Ù:nâ:ya. Dō ű:sd dadihno:gí? Donada:go:hv:ɂi.
-bs|mp3-long/000210.mp3|Hila̋ go:hwe:li jadu:lí? Gahligwo:gi:ne̋.
-bs|mp3-long/000211.mp3|Su:dali:ne̋:ɂi. Gadò adā? U:tvhisdv. À:gwanhta.
-bs|mp3-long/000212.mp3|Ana̋:t. Ajv̋sdi. Ani:sgaya aniwó:ni. U:nv̌:dis hà:su:yv́:sgó? Halsdâ:yv:hv́sga.
-bs|mp3-long/000213.mp3|Yv̄. Gv:no:sásd. Ǔ:tan. Sóhně:la.
-bs|mp3-long/000214.mp3|Nihi gadíɂa hiɂa. Hiyv:wi:yádv.
-bs|mp3-long/000215.mp3|U:li:he:lísdi à:lsdàyh. U:ne̋:ga u:lò:gí:la.
-bs|mp3-long/000216.mp3|Uwo:duke kò:hi̋ sv:hiye? Kǒ:l. U:du:líɂa.
-bs|mp3-long/000217.mp3|Anà:lsdâ:yv:hv́. Digahi:nv̀:si. Di:ni:yő:hli. Anadi:tásga. Gahligwǒ:gi.
-bs|mp3-long/000218.mp3|Kwī. Kā. Ù:hwasga.
-bs|mp3-long/000219.mp3|Kwō. U:hyv:dlv gě:dô:a. Goɂi jadu:líɂa? À:di:tásg.
-bs|mp3-long/000220.mp3|Hé:gasgohv? Anè:lía. Wū. Hv̄. Sō. Hlá kiloyigi. Wō. Tla yigo:lì:ga.
-bs|mp3-long/000221.mp3|Ǔ:tana. Ga̋:du. hno. Dà:gikáha jí:sgwa.
-bs|mp3-long/000222.mp3|Asgaya gawó:niɂa. Asgayv. V̀:hla.
-bs|mp3-long/000223.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:. Ané:ga.
-bs|mp3-long/000224.mp3|Jí:sgwa ani̋:da anì:jáɂiɂa. Ha:dlv hé:ga?
-bs|mp3-long/000225.mp3|Adǎ:hnehdi. Jō. Uwǒ:dígé u:sdi̋ jǔ:ntana wǒ:háɂli dà:gowhtíɂa. Nǔ:na.
-bs|mp3-long/000226.mp3|Go:hwe:l. U:hyv:dlake dǒ:y? Jā. Ani:ge:hyű:ja.
-bs|mp3-long/000227.mp3|Ő:sdadv̀. Unináɂa. Hì:neha. Jiwó:ni.
-bs|mp3-long/000228.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:ga.. Ale. Unadu:líɂa. Anadv́:ne. Jv̄. Dikané:jv.
-bs|mp3-long/000229.mp3|Gà:yő:hl jiwó:ni Jalagi. Asú:sdi desgi:nehv. Dv. U:gana̋:sdake jadu:líɂa? Yv:wi.
-bs|mp3-long/000230.mp3|Hiɂluhgī. Go:hi̋:. Gadò anà:dv́:ne? Ge:líɂa. Wē. Sǐ:gwu. Ju:ni:là:wisdi gé:. U:lò:gí:li.
-bs|mp3-long/000231.mp3|U:galǒ:ga. Jiwó:niɂa. Suná:le̋:ɂi. Ani:gayv̌:líge̋:. Áhni. Age:hyű:ja.
-bs|mp3-long/000232.mp3|Kila. À:li:hě:lî:ga. Ani:gě:hya.
-bs|mp3-long/000233.mp3|Anigǐ:gáge gitǎ:ya. Ànsgv:. Di:kwayő:di ale á:ma. Sgǒ:.
-bs|mp3-long/000234.mp3|U:hyv:dla dò:dala. Ani:dalǒ:nígé digadv́:di danì:gíɂa. Ali:he:lísdi.
-bs|mp3-long/000235.mp3|Jǐ:sa. Agv̌:níge̋:ɂi kama:ma à:lsdâ:yv:hv́sga. Dijé:nv̀:sv̋:ɂi hé:ga. Jo.
-bs|mp3-long/000236.mp3|Hiyv:wi:yásg? Ka:gaɂli. Gadō u:sdi? V̄. Dù:danv:hnv̋. Sā. Ka:ga. chuně:la. Gō.
-bs|mp3-long/000237.mp3|Gadō anadv:neɂa? Anadi:tásg. Dijé:nv̀:sv́ hé:. Ajina.
-bs|mp3-long/000238.mp3|Galv:lő:hi. Ā. Tò:hi̋:ju. V̄:. Chuně:l. Gù:gu.
-bs|mp3-long/000239.mp3|Agayv̌:líge̋:. U:halv:na. Aji:lv̋:sgi. Ayő:hli. Asú:sdi.
-bs|mp3-long/000240.mp3|À:gináa. I̋:. Janhta. Uninéha. Junsdiɂi. À:ndi.
-bs|mp3-long/000241.mp3|Kwū. À:tv:gâ:nv nù:wè:sv. Unadu:lí. Dv̄. Yú:ne:gake hiwó:niɂa?
-bs|mp3-long/000242.mp3|Gadō u:sdi jadu:líɂa.? Ajéɂiyű:sd. Nokwsi.
-bs|mp3-long/000243.mp3|Gà:yő:hli jiwó:niɂa Jalagi. Junsdi. Ùnanht. Achű:ja.
-bs|mp3-long/000244.mp3|U:hyv:dlv u:hyv:dlv. Goɂi jadu:lísgo?
-bs|mp3-long/000245.mp3|Dodada:go:hv:ɂi. Igv:yi̋:ɂi. Ni! Gadò dě:jádo:ɂa?
-bs|mp3-long/000246.mp3|Gà:yő:hlike hiwó:ni Jalagi? Hā. Lā. Dī. U:ne̋:.
-bs|mp3-long/000247.mp3|Joɂgaduɂi Jalagi go:hwe:lv̀:ɂi. U:gǎ:nawa dò:dala.
-bs|mp3-long/000248.mp3|Ùnanhta. Ù:nihwasga. Hiɂluh. Anigǐ:gáge dehlgv́.
-bs|mp3-long/000249.mp3|Ani̋:da. À:ga:sga. Kawo:n. Analsdâ:yv:hv́sga. Sakǒ:nígé u:gì:dáhl. Dògi hadí.
-bs|mp3-long/000250.mp3|Gadō hadv:neɂa? Naɂvɂi. Gadō ű:sdi? À:dia.
-bs|mp3-long/000251.mp3|Gawó:ni. Achű:j. Ijéɂiyű:sd. U:sdi̋ɂi. Gweti dà:wadó:ɂa. Gaɂlo:hni.
-bs|mp3-long/000252.mp3|U:lò:gí:la. Halihě:lî:ga.
-bs|mp3-long/000253.mp3|Agv̌:nígé gi:hli uwǒ:dígé alà:sǔ:lo à:gowhtíɂa.
-bs|mp3-long/000254.mp3|Jí:sgwa juwě:ji. Alsdâ:yv:hv́. Nihina?
-bs|mp3-long/000255.mp3|Nō. À:ga:sg. Dǒ:y.
-bs|mp3-long/000256.mp3|V̌:sgí. Aniwó:ni. Hlū. À:ginéha. Hisgi. Go:hwe:la. Sgina. Digahi:nv̀.
-bs|mp3-long/000257.mp3|Nanaɂi. Me:li. Gadò ad? Tā. Sóhne:li:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi. Kǒ:la. Yó:ne:ga.
-bs|mp3-long/000258.mp3|Goɂike jadu:lí? Ahu:li. Agv̌:níge̋:. Nv:dadě:w. Sa:sa. Gadō ű:sd ayv:wi:yá? Hnā. Gadògi hadí:ɂa.
-bs|mp3-long/000259.mp3|Hila̋dv?
-bs|mp3-long/000260.mp3|Digǐ:gágé ale dijé:ɂiyű:sd dà:gi di:jv̋sd. U:gǎ:nawa.
-bs|mp3-long/000261.mp3|Aksdà:yv̌hv:sgi. Akwanv́:gi jiyv:wi. Di:kwayő:d ale á:m.
-bs|mp3-long/000262.mp3|Asgay. Galì:sdâ:yv:hv́sga. I:ga. Adǐ:tasdi jadu:líɂa?
-bs|mp3-long/000263.mp3|U:nv̌:d hà:su:yv́:sgó? hnv. Sī. Gv́:na hiɂvsi. Sv̄.
-bs|mp3-long/000264.mp3|É:gwő:n. Gadì:tásga. Uwo:dű age:hyű:ja. Gv́:n. Nvhgi:ne̋:ɂi. Aji:lv́:sga.
-bs|mp3-long/000265.mp3|Asú:sdi à:wadu:lí. Hila̋ go:hwe:li jadu:líɂa? Ùnhta.
-bs|mp3-long/000266.mp3|Lē. Taɂli:ne̋ go:hwe:la. À:kiwásga. Aniɂluh.
-bs|mp3-long/000267.mp3|Dla:nú:si. Kilő:i. U:ni:gǎ:nawa. Gweti dà:wadó. Chű:j.
-bs|mp3-long/000268.mp3|Hila̋ nà:ní:ɂa? Ő:sdadv Jalagi gawó:ni. Gadò? Kwē. U:sganő:li hiwò:nǐ:hi. Ama.
-bs|mp3-long/000269.mp3|Hiyv:wi:yásgohv? Dò ű:sdi a:sésdi kò:hí? Nigaduɂi Jalagi go:hwe:lv̀:ɂi.
-bs|mp3-long/000270.mp3|À:sdû:di. Dō. Ù:du:lí.
-bs|mp3-long/000271.mp3|Anigv̌:nígé gi:hli danì:gowhtíɂa juwǒ:dígé dilà:sǔ:lo.
-bs|mp3-long/000272.mp3|Ani̋:dage. À:lsdàyhd. Yó:ne:g. Go:hwe:la desgi:nv̀.
-bs|mp3-long/000273.mp3|Ani:chű:j. Desgi:nv̀:si.
-bs|mp3-long/000274.mp3|Dō ű:sd? Su:dali:ne̋.
-bs|mp3-long/000275.mp3|Dò dě:jádo? Kó:ga. Ma:ga. Hila̋ ǐ:ga̋? Jiyú:ne:ga jiyv:wi. Aniwó:niɂa. Jē.
-bs|mp3-long/000276.mp3|Uniwǒ:dígé. Dā. He:lí. Di:de:hyǒ:hv. Jiyv:wi:yádv.
-bs|mp3-long/000277.mp3|Gv:no:sásdi hi:dì:si.
-bs|mp3-long/000278.mp3|Ayv gé. Sihgwa. Idalě:na. Hilâ:yv̋ dv́ɂhilúhji? Ani:gě:. Ha:dlv? Joɂi.
-bs|mp3-long/000279.mp3|Janáa. Kó:gi. Joɂi:ne̋:ɂi.
-bs|mp3-long/000280.mp3|Su:dali:né Jalagi go:hwe:lv̀:ɂi. Jū. Kuye:gwǒ:ni.
-bs|mp3-long/000281.mp3|Ù:we:káha. Yv:w. Gō:. Kwana. Ani:sgayv.
-bs|mp3-long/000282.mp3|Nvhgi. Di:dihnó:gi. Hé:gake? Di:je̋ dikané:jv di:do:ja. Dla:me:ha.
-bs|mp3-long/000283.mp3|Hlō. Sě:lu ga̋:du. Á:m. Jiɂluh. Ju:natvhisdv. Agihyv̋:dla.
-bs|mp3-long/000284.mp3|Ha:dlv hině:l? Uniwǒ:dígé junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli. Nà:ní.
-bs|mp3-long/000285.mp3|Taladuɂi Jalagi go:hwe:lv̀:ɂi. U:gǎ:nawa u:gǎ:nawa. Chuně:li:ne̋. Sǔ:dál. É:gwő:ni.
-bs|mp3-long/000286.mp3|Ani:wi̋:n. Kalsě:jis hà:su:yv́:sgó? Agigǎ:nawa. Nǔ:n. Yī. U:hyv:dla.
-bs|mp3-long/000287.mp3|Anihneha. Tē. Hla.
-bs|mp3-long/000288.mp3|Agǐ:gáge hlgv́. Chuně:li:ne̋ Jalagi go:hwe:lv̀:ɂi. Hé:gaju? Analsdâ:yv:hv́sg. Waló:si.
-bs|mp3-long/000289.mp3|Howa. Dǒ:yi. Nah. Dà:ni:lâ:wì:ga.
-bs|mp3-long/000290.mp3|Sóhně:li:ne̋:ɂi. Gv́:na desgvsi.
-bs|mp3-long/000291.mp3|Desgi:dì:si. Unihwasga. Dodada:go:hv̄.
-bs|mp3-long/000292.mp3|Hadáɂnvɂa. U:ne̋:ga. U:ga̋:nawa. À:gwv̌:ya. Á:ma. Dla:ma:ha.
-bs|mp3-long/000293.mp3|Akwe:nhda go:hwe:li. Ayv:wi:yá. Ha:dlvɂi? Sē. Hadáɂnv. Taɂli:ne̋.
-bs|mp3-long/000294.mp3|Ǔ:tana hlgv́. À:wadu:lí. Anali:hě:lí.
-bs|mp3-long/000295.mp3|Hila̋ ǐ:ga̋ɂi jadu:líɂa? Anigǐ:gáge ani:ji:lv̋:sg. Nvhgi:ne̋.
-bs|mp3-long/000296.mp3|Ani:gǐ:gágé ale ani:jé:ɂiyű:sdi dà:gikáha jí:sgwa. Ani:gayv̌:lí.
-bs|mp3-long/000297.mp3|À:dáɂnv. Na achű:ja jù:lúhjv̌ kò:hi̋. Ő:sdadv.
-bs|mp3-long/000298.mp3|Digo:hwe:la. O:síyo. Goɂi. Táɂlduɂi Jalagi go:hwe:lv̀:ɂi. Hiwó:niɂa.
-bs|mp3-long/000299.mp3|Idihno:gí. Dà:ni:sdayo:hihv̋:ɂi. Nà:sgi. Juné:nv̀:sv́ à:né:. Ő:sda.
-bs|mp3-long/000300.mp3|Kwana děhlgv́ Da:ntvsga. A̋:ta. Hé:. Alsdâ:yv:hv́sga.
-bs|mp3-long/000301.mp3|U:no:lv̀:tana. À:ndia. U:halv:ni. Idihno:.
-bs|mp3-long/000302.mp3|Chuně:li:ne̋:ɂi.
-bs|mp3-long/000303.mp3|Ané:. Ané:ga. Junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli.
-bs|mp3-long/000304.mp3|Kǎ:hwi inadǐ:ta. Unikáha. Achű:ji. Gv́:na à:wadu:lí.
-bs|mp3-long/000305.mp3|U:hyv:dlv. Agayv̌:lí. Nvhgi:né. Ijéɂiyű:sdi. Yū.
-bs|mp3-long/000306.mp3|Ajv̋sd. Nihinahv? Halâ:yv̋ é:gwő:ni? Dijé:nv̀:sv́ hé:g.
-bs|mp3-long/000307.mp3|Ǔ:tana wǒ:háɂli à:gowhtíɂa uwǒ:dígé salǒ:li.
-bs|mp3-long/000308.mp3|Taɂli:ne̋:ɂi go:hwe:lvɂi. Ǔ:gáma. Agayv̋:li. Ù:we:ká.
-bs|mp3-long/000309.mp3|Juné:nv̀:sv́ à:né:ga. À:giné. Didǐ:yé:li:.
-bs|mp3-long/000310.mp3|Galiɂě:lî:ga. Didǐ:yé:li:hi. Hiwó:ni. Hiyv:wi:yá.
-bs|mp3-long/000311.mp3|Ő:sdadv Jalagi gawó:niɂa. Gǐ:ga. Uniha. Dù:ninvhdi. Galiɂě:lí.
-bs|mp3-long/000312.mp3|Gadò ű:sdi a:sésdi kò:hí? Di:te:lǐ:do didihlahv̀. Janht.
-bs|mp3-long/000313.mp3|Hū. Unali:he:lísdi. Hisgi:ne̋:ɂi. Gadō ű:?
-bs|mp3-long/000314.mp3|Sgigaduɂi Jalagi go:hwe:lv̀:ɂi. Idalě:n. Jaha. Sǔ:dáli. Gaɂluhgī.
-bs|mp3-long/000315.mp3|A:sésdi. U:hyv:dlake adǐ:tas jadu:lí? Ī. Dinǐ:yé:li:hi. Ǔ:tana wǒ:háɂl à:gowhtí. Hì:ne.
-bs|mp3-long/000316.mp3|Agǐ:gáge aji:lv̋:sg. Go:hwe:la hi:nv̀:si. Ani:chű:ja.
-bs|mp3-long/000317.mp3|Na doyu uwo:dű ajina. Jalagi. Ani:gǐ:gágé ale ani:jé:ɂiyű:sdi. Gé.
-bs|mp3-long/000318.mp3|Ha:dlv hé:g? À:gi:ká. Gv̄. Gadō gadv:neɂa?
-bs|mp3-long/000319.mp3|Gahlgwo:gi:ne̋ Jalagi go:hwe:lv̀:ɂi. Joɂi:né. Jiɂluhgī. Hlahv.
-bs|mp3-long/000320.mp3|Lō. Na achű:ja. Dū. Ē. Anà:lsdâ:yv:hv́sga.
-bs|mp3-long/000321.mp3|Dò:dala ju:gǎ:nawi. Ani:chű:ji. Ō.
-bs|mp3-long/000322.mp3|Gà:yő:hli. Go:hlv:hnv́. Gā. Hadí:ɂa. Dē.
-bs|mp3-long/000323.mp3|U:gana̋:sdake jadu:lí? Nà:hní. À:nadáɂnv:ɂa. Sihgw.
-bs|mp3-long/000324.mp3|E̋:. Wā. U:no:lv̀:tani. Anigǐ:gáge ani:ji:lv̋:sgi.
-bs|mp3-long/000325.mp3|U:sganő:. Go:hi̋:gi.
-bs|mp3-long/000326.mp3|Hila̋ nà:ní? Gahligwo:gi:ne̋:ɂi. Sóhně:l. Ù:lô:gi:li kò:hi̋ svná:le̋ɂi.
-bs|mp3-long/000327.mp3|Agě:hya. Dlù:dlu. À:giha. Ani:ge:hyű:j. Mō. Ge:lí. Mā. A̋ɂda.
-bs|mp3-long/000328.mp3|Tla yà:gwanhta. Uwo:du. Dinǐ:yé:li:. U:hyv:dla dǒ:y.
-bs|mp3-long/000329.mp3|Yú:ne:g. Hé:ga. Yú:ne:gake hiwó:ni? Ayo. Ayv:wi:yádv. Agǐ:gáge. Halihě:lí.
-bs|mp3-long/000330.mp3|Ù:ninéha. Ani:dalǒ:nígé digadv́:d danì:gí.
-bs|mp3-long/000331.mp3|Hisg. Ju:ni:là:wisdi. Di:dǎ:hnehdi. Inadǐ:ta. U:gǎ:no. Gő:l.
-bs|mp3-long/000332.mp3|Ani:ji:lv̋:sgi. Gv̀:ne. Di:sésdi. V:le. E̋:gwa. U:no:lv̀:tan ka:la. Yō.
-bs|mp3-long/000333.mp3|V:v. Agě:. Dego:hwe:la. Hlā. Hlē. Agǐ:gáge gitǎ:yaɂi.
-bs|mp3-long/000334.mp3|À:dv́:ne. A:nadiɂa. À:nadáɂnv. Lī. À:dáɂnv:ɂa. Kama:ma.
-bs|mp3-long/000335.mp3|Ù:nadu:lí. Go:hwe:li. Juwé:nv̀:sv́ é:. Ayv gé:ga.
-bs|mp3-long/000336.mp3|Jadu:líɂa. Yā. Jī. Hlī. Taɂli:ne̋:ɂi.
-bs|mp3-long/000337.mp3|Anali:hě:lî:ga. Gv:no:sásdi ti:dì:si. Gū. Waló:s.
-bs|mp3-long/000338.mp3|Tla yà:gwanht. Awi̋:n. Hō.
-bs|mp3-long/000339.mp3|Gadō ű:sdi ayv:wi:yá? U:lò:gí:l. Adǎ:wé:hi. Aksdà:yv̌hv̄.
-bs|mp3-long/000340.mp3|Mī. Ù:náɂa. Sū. Dō adv:ne?
-bs|mp3-long/000341.mp3|Jǔ:tana dehlgv́. Anihne. Asú:sd.
-bs|mp3-long/000342.mp3|Gadō ű:sdi dadihno:gí:si? Mū. Gǎ:da. Asgaya gawó:ni. Kawo:ni. Gv:no:sásdi.
-bs|mp3-long/000343.mp3|Hatv:gī. Donada:go:hv̄. Dō anadv:ne?
-bs|mp3-long/000344.mp3|À:diɂa. Age:hyű:j. Ani:sgaya. Sgo:hi:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi. Ù:lô:gi:lv.
-bs|mp3-long/000345.mp3|Yú:ne:ga. Gv́:n à:wadu:lí. Gé:. Dlā. Dla:nú:s. Táɂli.
-bs|mp3-long/000346.mp3|Aniɂluhgī. Di:de:hyǒ:hvsgi. Dijv̋sdi. Lv̄.
-bs|mp3-long/000347.mp3|Dù:dǎ:sgó chuně:li go:hwe:li. Ő:sdaju? Digwé:nv̀:sv́ gé:.
-bs|mp3-long/000348.mp3|Desgi:dì:. Anè:lí. Gī. Ge:li̋:stgi. U:sganő hiwò:nǐ:.
-bs|mp3-long/000349.mp3|Saduɂi:ne̋ Jalagi go:hwe:lv̀:ɂi. Gv́:n desgv̄.
-bs|mp3-long/000350.mp3|U:gǎ:nawa e̋:hi. Jǔ:ntana wǒ:háɂli danì:gowhtíɂa uniwǒ:dígé salǒ:li.
-bs|mp3-long/000351.mp3|Ani:sgay. Ù:néa. Hlá kiloyi. Gadō adv:neɂa? U:gǎ:nawa gě:dô:a.
-bs|mp3-long/000352.mp3|Digǐ:gáge ale dijéɂiyű:sdi dà:gi di:jv̋sdi. Gawó:niɂa. Ha:dlv go:hwe:lv̀:ɂi. Gahlgwǒ:.
-bs|mp3-long/000353.mp3|Kǒ:li. Nana. Ana̋:ta. Sgǒ:hi. U:hyv̋:dla.
-bs|mp3-long/000354.mp3|Alà:sǔ:lo. Ù:lô:gi:li kò:hi̋ svná:le. Go:lì:ga. À:gi. I:ya. È:lí.
-bs|mp3-long/000355.mp3|Anigǐ:gáge gitǎ:yaɂi. U:gù:ku.
-bs|mp3-long/000356.mp3|Uniwǒ:dígé junsdi ǔ:tana wǒ:háɂli anì:gowhtíɂa. Iga. Géɂi.
-bs|mp3-long/000357.mp3|Dò:dala ju:hyv:dla. Du:lì:sd. Dà:ni:sdayo:hihv́. Digwé:nv̀:sv̋:ɂi gé:ga.
-bs|mp3-long/000358.mp3|Hisgi:né jalagi go:hwe:lvɂi. Hv? Agǐ:gáge gitǎ:ya.
-bs|mp3-long/000359.mp3|Nē. Gadò ű:sdi i:ga atli:gili?
-bs|mp3-long/000360.mp3|U:ne̋:g u:lò:gí:l. À:hneha. À:lsdâ:yv:hv́sga.
-bs|mp3-long/000361.mp3|He:líɂa. Sgo:hi:ne̋. Síyo. Sgwi̋:sd. Kó:.
-bs|mp3-long/000362.mp3|À:ga:sgas? À:ga:sga u:hyv:dlahno dǒ:yi. U:gǎ:nawa gě:dô:.
-bs|mp3-long/000363.mp3|Ǔ:ha. Wī. Kwan. Atv:gī. Gő:la. Kwv̄. É:ga.
-bs|mp3-long/000364.mp3|Anisakǒ:nígé ju:gì:dáhli. À:di. Gv́:na. Ani:sgaya aniwó:niɂa. Gù:.
-bs|mp3-long/000365.mp3|À:sdû:. Naɂv. Na doyu uwo:dű ajin.
-bs|mp3-long/000366.mp3|Dù:dǎ:sgó chuně:la go:hwe:la. U:no:lv̀:tani ka:la.
-bs|mp3-long/000367.mp3|U:hyv:dlv gě:dô:. U:no:lv̀:tana ka:la. Awi̋:na. Ő:sd. Go:gi.
-bs|mp3-long/000368.mp3|Igv:yi̋:ɂi à:danv:hnv́.
-bs|mp3-long/000369.mp3|Anisakǒ:nígé ju:gì:dáhl. Kwā. Gé:ga. Hila̋ ǐ:ga̋ɂi? Nv:dadě:wa. Sóhně:li:ne̋.
-bs|mp3-long/000370.mp3|Ani:gayv̌:líge̋:. Taɂli:né. Ga:da:ha̋. E:lo. Nī. Dù:ninvhd.
-bs|mp3-long/000371.mp3|Chuně:li:ne̋ go:hwe:l. Ju:ntvhisd. Dō u:sd? Hlv̄. Igv:yí. Sakǒ:níge̋:.
-bs|mp3-long/000372.mp3|Jù:lúhjv̌ kò:hi̋, tlaidv́galúhji. Hawi:ya. Digǐ:gágé ale dijé:ɂiyű:sdi dà:giha di:jv̋sdi.
-bs|mp3-long/000373.mp3|Anv:yi. Tī. Ū. Du:lì:sdi. Ànsgv:ti. U:hyv:dlv e̋:hi.
-bs|mp3-long/000374.mp3|U:hyv:dla dǒ:yi. Hē. E:lohi. V̌:sgíyi. Gv́:n hiɂv̄. Ahő:li. Lu:ga. Lū.
-bs|mp3-long/000375.mp3|U:ne̋:ga u:lò:gí:li. Asú:sdi à:wadu:líɂa. Ha:dlv hině:la? Dijv̋sd.
-bs|mp3-long/000376.mp3|Galsdâ:yv:hv́sg. Ajéɂiyű:sd. Dò:dala ju:hyv:dla. De:halǔ:. Sihgw.
-bs|mp3-long/000377.mp3|A̋:ta. O:síyo. Dā. Nvhgi:né.
-bs|mp3-long/000378.mp3|Ùnanhta. Ani:gě:. Digwé:nv̀:sv́ gé:. Ù:wâ:ya. Ù:né. Hv̄.
-bs|mp3-long/000379.mp3|Go:hwe:la. Kó:gi. Gweti dà:wadó. A:sésdi. Gaɂluh. Ajina. Mū.
-bs|mp3-long/000380.mp3|U:gǎ:nawa dò:dala. Gv́:na. Du:lì:sd. À:li:hě:lî:ga.
-bs|mp3-long/000381.mp3|Ané:. Ané:ga. Taɂli:ne̋. Anadi:tásga. Ayv:wi:yá. Agě:.
-bs|mp3-long/000382.mp3|Aksdà:yv̌hv̄. Hisgi:ne̋:ɂi. Kwū.
-bs|mp3-long/000383.mp3|Na achű:ja jù:lúhjv̌ kò:hi̋. À:ga:sgas? Janhta. Agǐ:gáge. Janáa.
-bs|mp3-long/000384.mp3|U:hyv:dla. U:lò:gí:li. Go:hwe:li. Dō hadv:ne? Gadáɂnv.
-bs|mp3-long/000385.mp3|Digahi:nv̀. Ani:ge:hyű:j. Anadi:tásg.
-bs|mp3-long/000386.mp3|Nana. Unináɂa. Uniha. Hadáɂnvɂa. Yē. Asgay. Ùnhta.
-bs|mp3-long/000387.mp3|Ju:ntvhisd. Anihne. Ana̋:ta. Sóhně:li:ne̋.
-bs|mp3-long/000388.mp3|Ani̋:dage. Goɂi. Nō. Hila̋ ǐ:ga̋? Dū.
-bs|mp3-long/000389.mp3|U:hyv:dlv u:hyv:dlv. Jū. Dò:dala ju:gǎ:nawi. Ju:ni:là:wisdi gé:.
-bs|mp3-long/000390.mp3|U:no:lv̀:tana. Nihina? Adǎ:hnehdi.
-bs|mp3-long/000391.mp3|Hiyv:wi:yá. Joɂi:ne̋:ɂi. Nihi gadíɂa hiɂa. Ale. Taɂli:ne̋ go:hwe:la.
-bs|mp3-long/000392.mp3|Di:de:hyǒ:hvsgi. U:gana̋:sdake jadu:lí? Sa:sa.
-bs|mp3-long/000393.mp3|Gv:no:sásdi hi:dì:si. Sà:wűɂi.
-bs|mp3-long/000394.mp3|Ǔ:tana wǒ:háɂli à:gowhtíɂa uwǒ:dígé salǒ:li. U:hyv:dlv e̋:hi. Nǔ:na. Gō.
-bs|mp3-long/000395.mp3|Jiɂluh. Jiyú:ne:ga jiyv:wi. Didǐ:yé:li:.
-bs|mp3-long/000396.mp3|Gadō u:sdi jadu:líɂa.? Áhni.
-bs|mp3-long/000397.mp3|Digǐ:gáge ale dijéɂiyű:sdi dà:gi di:jv̋sdi. Gadō gadv:neɂa?
-bs|mp3-long/000398.mp3|Su:dali:ne̋:ɂi. Anigv̌:nígé gi:hli danì:gowhtíɂa juwǒ:dígé dilà:sǔ:lo. Nvh.
-bs|mp3-long/000399.mp3|E̋:. Hiwó:niɂa.
-bs|mp3-long/000400.mp3|Sakǒ:níge̋:. É:gwő:ni. Kwana. Hé:gake? Mī.
-bs|mp3-long/000401.mp3|Nigaduɂi Jalagi go:hwe:lv̀:ɂi. À:ndia. À:lsdàyhdi. Dv̄.
-bs|mp3-long/000402.mp3|Dlù:dlu. Donada:go:hv:ɂi. Halihě:lí. I:ya ge:li̋:stg.
-bs|mp3-long/000403.mp3|Di:je̋ dikané:jv di:do:ja. Hiwó:ni.
-bs|mp3-long/000404.mp3|Taɂli:ne̋:ɂi go:hwe:lvɂi. Nà:ní. Asú:sdi à:wadu:líɂa. Nvhgi:ne̋:ɂi. Gawó:ni. Kuye:gwǒ:ni.
-bs|mp3-long/000405.mp3|Sgigaduɂi Jalagi go:hwe:lv̀:ɂi. Ha:dlv hé:ga? È:lía. Ali:he:lísdi. U:nv̌:dis hà:su:yv́:sgó?
-bs|mp3-long/000406.mp3|Dù:dǎ:sgó chuně:li go:hwe:li. Uwǒ:dígé u:sdi̋. Su:dali:ne̋. Analsdâ:yv:hv́sga.
-bs|mp3-long/000407.mp3|Achű:ji. Dō adv:ne? Jí:sgwa juwě:ji. Su:dali:né Jalagi go:hwe:lv̀:ɂi.
-bs|mp3-long/000408.mp3|Ù:lô:gi:li kò:hi̋ svná:le̋ɂi. Gv́:n. Waló:si. Tlaidv́galúhji.
-bs|mp3-long/000409.mp3|Mō. Nē. U:tvhisdv. Hlahv. Sgǒ:hi.
-bs|mp3-long/000410.mp3|Nà:sgi. Digǐ:gágé ale dijé:ɂiyű:sdi dà:giha di:jv̋sdi.
-bs|mp3-long/000411.mp3|Gadō anadv:neɂa? Gadògi hadí:ɂa. Ani:sgaya. Age:hyű:ja. Jiwó:ni. Ani:ji:lv́:sga.
-bs|mp3-long/000412.mp3|Anadv́:ne. Dijv̋sd. Adǐ:tasdi jadu:líɂa? U:sganő:li hiwò:nǐ:hi.
-bs|mp3-long/000413.mp3|Joɂgaduɂi Jalagi go:hwe:lv̀:ɂi. Hnā. V̀:hla.
-bs|mp3-long/000414.mp3|V:le. U:hyv:dlake dǒ:y? Dla:me:ha. Hatv:gī. Ju:no:dű ani:ge:hyű:ja anili:hě:lî:.
-bs|mp3-long/000415.mp3|Agǐ:gáge gitǎ:yaɂi.
-bs|mp3-long/000416.mp3|Uniwǒ:dígé junsdi ǔ:tana wǒ:háɂli anì:gowhtíɂa. Dinǐ:yé:li:hi.
-bs|mp3-long/000417.mp3|Dego:hwe:la. Dò ű:sdi a:sésdi kò:hí? Ju:ni:là:wisdi gé:ga.
-bs|mp3-long/000418.mp3|Gv́:na desgvsi. Dla:nú:si. Idihno:. Ùnanht. U:galǒ:ga.
-bs|mp3-long/000419.mp3|Uwo:du. E:lo. É:ga. Gǐ:ga.
-bs|mp3-long/000420.mp3|Goɂi jadu:líɂa? Gadō u:sdi? À:hneha. E̋:gwa. Hv? Ané:ga. À:di.
-bs|mp3-long/000421.mp3|Ge:li̋:stgi. Yī. Ha:dlv? Agǐ:gáge gitǎ:ya. Go:hi̋:.
-bs|mp3-long/000422.mp3|Dijé:nv̀:sv́ hé:. Yv:wi. Nihinahv? Uninéha.
-bs|mp3-long/000423.mp3|Hila̋ go:hwe:li jadu:lí? Yú:ne:g. Ahő:li. Sv̄. Ū. Ahljadő:hvsg. Kwana děhlgv́ Da:ntvsga. Lu:ga.
-bs|mp3-long/000424.mp3|U:ne̋:ga u:lò:gí:la. Na achű:ja.
-bs|mp3-long/000425.mp3|Ő:sdaju? Hiɂluhgī. Yú:ne:gake hiwó:ni? Gǐ:. Asú:sdi à:wadu:lí. U:hyv:dla dǒ:y.
-bs|mp3-long/000426.mp3|Ani:sgaya aniwó:niɂa. Dijv̋sdi. Ana̋:t. Ha:dlv hině:l? À:gi.
-bs|mp3-long/000427.mp3|Uwǒ:dígé u:sdi̋ jǔ:ntana wǒ:háɂli dà:gowhtíɂa. Nī. Do:yű.
-bs|mp3-long/000428.mp3|Nā. Kwō. Hiɂluh. U:gǎ:no. Ahljadő:hvsgi. U:gǎ:nowi. Desgi:dì:.
-bs|mp3-long/000429.mp3|U:ga̋:nawa. Gatv:gī. Lā.
-bs|mp3-long/000430.mp3|Agě:hya. Jō. U:du:líɂa. Desgi:nv̀:si. Kǎ:hwi inadǐ:ta.
-bs|mp3-long/000431.mp3|Ajéɂiyű:sdi. Tò:hi̋:ju. V̌:sgíyi. Gà:yő:hli jiwó:niɂa Jalagi. A̋:t.
-bs|mp3-long/000432.mp3|Hisgi:né jalagi go:hwe:lvɂi. Anigǐ:gáge ani:ji:lv̋:sgi. Ani:gě:hya.
-bs|mp3-long/000433.mp3|U:sganő hiwò:nǐ:. Sóhně:la. Lō. Ani:gayv̌:lí. V̌:sgí. Asú:sdi.
-bs|mp3-long/000434.mp3|Gv́:n à:wadu:lí. Á:ma. Dògi hadí. Kawo:ni.
-bs|mp3-long/000435.mp3|Uniwǒ:dígé junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli. Alsdâ:yv:hv́sga.
-bs|mp3-long/000436.mp3|Gadò anà:dv́:ne? Di:te:lǐ:do didihlahv̀. Lv̄.
-bs|mp3-long/000437.mp3|Yā. Kawo:n. Di:dihnó:gi. Hiyv:wi:yásg? Na doyu uwo:dű ajina. Gv́:n hiɂv̄.
-bs|mp3-long/000438.mp3|Wū. Unali:he:lísdi. Tla yà:gwanhta. I:ga. Digahi:nv̀:si.
-bs|mp3-long/000439.mp3|Achű:j. Ő:sda. Anisakǒ:nígé ju:gì:dáhl. À:li:hě:lí. Idalě:n. Nvhgi.
-bs|mp3-long/000440.mp3|Du:lì:sdi. Gő:la. À:ga:sg. Gő:l. Di:de:hyǒ:hv.
-bs|mp3-long/000441.mp3|Agv̌:níge̋:. Dikané:jv. Gadō adv:neɂa? Hadáɂnv.
-bs|mp3-long/000442.mp3|U:hyv:dla u:hyv:dlv. Ani:sgaya aniwó:ni. À:giha. Gadò dě:jádo:ɂa?
-bs|mp3-long/000443.mp3|Gv́:na à:wadu:lí. U:lò:gí:l. Hì:neha. Ǔ:gáma.
-bs|mp3-long/000444.mp3|Sóhne:li:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi.
-bs|mp3-long/000445.mp3|Galì:sdâ:yv:hv́sga. Go:hwe:l. Di:dǎ:hnehdi. Di:ni:yő:hli.
-bs|mp3-long/000446.mp3|Unihwasga.
-bs|mp3-long/000447.mp3|Juné:nv̀:sv́ à:né:ga. Dō gadv:ne? Galiɂě:lí.
-bs|mp3-long/000448.mp3|Gv:no:sásdi ti:dì:si. Dù:ninvhd. Gahligwo:gi:ne̋.
-bs|mp3-long/000449.mp3|Junsdiɂi. Ī. Agigǎ:nawa. Aniɂluhgī.
-bs|mp3-long/000450.mp3|Sakǒ:nígé u:gì:dáhli. Wado.
-bs|mp3-long/000451.mp3|Asú:sdi desgi:nehvsi. chuně:la. Hiɂa. Idihno:gí. Sū.
-bs|mp3-long/000452.mp3|Hlá kiloyi. Anigǐ:gáge gitǎ:yaɂi. Ā. Gadì:tásg.
-bs|mp3-long/000453.mp3|Galv:lő:hi. Jē. Anigǐ:gáge dehlgv́. Dō ű:sd? Sà:gwű.
-bs|mp3-long/000454.mp3|Go:gi. À:gwv̌:ya. Hé:ga. Jalagi.
-bs|mp3-long/000455.mp3|Digǐ:gágé ale dijé:ɂiyű:sd dà:gi di:jv̋sd. Ànsgv:. Anè:lía.
-bs|mp3-long/000456.mp3|V̄. U:nv̌:d hà:su:yv́:sgó? Joɂi:né.
-bs|mp3-long/000457.mp3|U:hyv:dla dǒ:yi. Kwv̄. Hì:ne. Wv̄. Dō ű:sd dadihno:gí? Ama. Ani:wi̋:n.
-bs|mp3-long/000458.mp3|Dǒ:y. Janht. U:gǎ:nawa e̋:hi. Kané:jv. Aniwó:ni.
-bs|mp3-long/000459.mp3|Sǔ:dáli. Didǐ:yé:li:hi. Kó:. Sakǒ:nígé u:gì:dáhl.
-bs|mp3-long/000460.mp3|Kó:ga. Dù:danv:hnv̋:ɂi. U:gǎ:nawa gě:dô:a. Jā. Yó:ne:ga.
-bs|mp3-long/000461.mp3|Jí:sgwa ani̋:da anì:jáɂiɂa. Gà:yő:hlike hiwó:ni Jalagi? Dinǐ:yé:li:.
-bs|mp3-long/000462.mp3|Agě:hyv. Go:hwe:la hi:nv̀:si.
-bs|mp3-long/000463.mp3|Waló:s. Wē. Agǔ:sa jiyv:wi. Sóhně:li:ne̋:ɂi.
-bs|mp3-long/000464.mp3|Jǔ:ntana wǒ:háɂli danì:gowhtíɂa uniwǒ:dígé salǒ:li. Chű:j. Ani:chű:ja. Sihgwa.
-bs|mp3-long/000465.mp3|Do:yu uwo:du sv:hiye. Lū. Tē. Digwé:nv̀:sv̋:ɂi gé:ga. Gahligwǒ:gi.
-bs|mp3-long/000466.mp3|Kiloɂi gawó:niɂa. Chuně:li:ne̋:ɂi. U:du:lí. U:ne̋:ga.
-bs|mp3-long/000467.mp3|Anà:lsdâ:yv:hv́sga. Galiɂě:lî:gi niga̋:da jijiɂluhgi. Gaɂlo:hni. Sgina.
-bs|mp3-long/000468.mp3|Ani:gayv̌:líge̋:.
-bs|mp3-long/000469.mp3|Hilâ:yv̋ dv́ɂhilúhji? Ha:dlv go:hwe:lv? Ayo.
-bs|mp3-long/000470.mp3|Ani:dalǒ:nígé digadv́:di danì:gíɂa. Gweti dà:wadó:ɂa.
-bs|mp3-long/000471.mp3|Ő:sdadv Jalagi gawó:ni. Naɂv. Táɂlduɂi Jalagi go:hwe:lv̀:ɂi. Hawi:ya. Sgo:hi:ne̋. Dù:ninvhdi.
-bs|mp3-long/000472.mp3|Hō. U:ne̋:g u:lò:gí:l. Gadō ű:sdi ayv:wi:yá?
-bs|mp3-long/000473.mp3|Asú:sdi desgi:nehv. Hī. Go:lì:. U:halv:na.
-bs|mp3-long/000474.mp3|Kǒ:l. Agayv̌:líge̋:. Nvhgi:ne̋. Gadō ű:sd ayv:wi:yá? Galiɂě:lî:ga.
-bs|mp3-long/000475.mp3|Anv:yi. Halihě:lî:ga.
-bs|mp3-long/000476.mp3|U:li:he:lísdi à:lsdàyh. U:hyv:dlv gě:dô:a. Nū. Dǒ:yi.
-bs|mp3-long/000477.mp3|V̄:. Ani:chű:j. Chuně:l.
-bs|mp3-long/000478.mp3|À:ga:sga u:hyv:dlahno dǒ:yi. Ani:sgayv. Ù:nihwasga.
-bs|mp3-long/000479.mp3|Jù:lúhjv̌ kò:hi̋, tlaidv́galúhji. Sgǒ:. Di:sésdi. Ayő:hli. Gv́:na hiɂvsi.
-bs|mp3-long/000480.mp3|Juwé:nv̀:sv́ é:. Kalsě:jis hà:su:yv́:sgó? Aji:lv́:sga. U:sganő:.
-bs|mp3-long/000481.mp3|Ha:dlv hině:la? Hū. Aniɂluh. Akwanv́:gi jiyv:wi. Nokwsi. Ani:dalǒ:nígé digadv́:d danì:gí.
-bs|mp3-long/000482.mp3|Kama:ma. Ù:nâ:ya. Nanaɂi.
-bs|mp3-long/000483.mp3|Uwǒ:dígé u:sdi̋ ǔ:tana wǒ:háɂli à:gowhtíɂa. Sǔ:dál.
-bs|mp3-long/000484.mp3|Jǐ:sa. Jiyv:wi:yádv.
-bs|mp3-long/000485.mp3|Uniwǒ:dígé. Děhlgv́. Hlū.
-bs|mp3-long/000486.mp3|Ani:gǐ:gágé ale ani:jé:ɂiyű:sdi.
-bs|mp3-long/000487.mp3|Juné:nv̀:sv́ à:né:. Aji:lv̋:sgi. U:gana̋:sdake jadu:líɂa? Gadò adā?
-bs|mp3-long/000488.mp3|Tla yigo:lì:ga. Kila. Chuně:li:ne̋ go:hwe:l. Gahlgwǒ:. Ka:gaɂli.
-bs|mp3-long/000489.mp3|À:kiwásga. Jo. Jiwó:niɂa. Hadí:ɂa. À:dáɂnv. Kilo gawó:ni.
-bs|mp3-long/000490.mp3|Unadu:líɂa. Donada:go:hv̄. Lī. Gadō hadv:neɂa?
-bs|mp3-long/000491.mp3|Nǔ:ni. Aniwó:niɂa. Ha:dlv go:hwe:lv̀:ɂi. Gadí:ɂa.
-bs|mp3-long/000492.mp3|Hā. U:no:lv̀:tani.
-bs|mp3-long/000493.mp3|Ijéɂiyű:sdi. Dà:ni:lâ:wì:. Sě:lu. I:ya. Ő:sd.
-bs|mp3-long/000494.mp3|Gadáɂnvɂa. Akwe:nhda go:hwe:li. Gē. Dē. Á:m.
-bs|mp3-long/000495.mp3|Gà:yő:hl jiwó:ni Jalagi. Dodada:go:hv:ɂi.
-bs|mp3-long/000496.mp3|Anà:dv́:neɂa. À:lsdâ:yv:hv́sga. À:dia. Dlā. hnv.
-bs|mp3-long/000497.mp3|Na doyu uwo:dű ajin. È:lí. hno. Gō:. U:ni:hyv̋:dla. Gà:yő:hli.
-bs|mp3-long/000498.mp3|Asú:sd. Gadò ad? Ù:lô:gi:lv. Dī. Ù:néha. Ù:lô:gi:li kò:hi̋ svná:le.
-bs|mp3-long/000499.mp3|Analsdâ:yv:hv́sg. Taɂli:né. Nǔ:n. Tī. Dō anadv:ne? Asgaya gawó:niɂa.
-bs|mp3-long/000500.mp3|U:gǎ:nawa u:gǎ:nawa. Ù:náɂa.
-bs|mp3-long/000501.mp3|Gahligwo:gi:ne̋:ɂi. Gadò ű:sdi i:ga atli:gili?
-bs|mp3-long/000502.mp3|Agǐ:gáge hlgv́. Ő:sdadv. U:gù:ku. Ù:nadu:lí. Ajv̋sdi.
-bs|mp3-long/000503.mp3|Uwo:duke kò:hi̋ sv:hiye? Suná:le̋:ɂi. Gé:ga.
-bs|mp3-long/000504.mp3|Agihyv̋:dla. Anihneha. Ani:chű:ji.
-bs|mp3-long/000505.mp3|À:ga:sga. Hé:gasgohv? Jiɂluhgī. Anà:lsdâ:yv:hv́. Táɂl. Gā.
-bs|mp3-long/000506.mp3|Tla yà:gwanht. Ju:ni:là:wisdi. Síyo. Jaha. Sǐ:gwu. Ge:lí. Agayv̋:li.
-bs|mp3-long/000507.mp3|Hē. Goɂi jadu:lí? Ha:dlvɂi? Sā. Agǐ:gáge aji:lv̋:sg.
-bs|mp3-long/000508.mp3|Juwé:nv̀:sv̋:ɂi é:ga. Ù:néa. U:ne̋:. Kā.
-bs|mp3-long/000509.mp3|Tā. Jv̌:ya. Yú:ne:gake hiwó:niɂa? Ù:du:lí. Kǒ:la.
-bs|mp3-long/000510.mp3|Ha:dlv hé:g? À:nadáɂnv. Gohlsga.
-bs|mp3-long/000511.mp3|U:no:lv̀:tani ka:la. Ǔ:tana hlgv́. Ǔ:tana wǒ:háɂl à:gowhtí.
-bs|mp3-long/000512.mp3|Dijé:nv̀:sv́ hé:g. U:hyv:dlake dǒ:yi? Ka:ga. Go:lì:ga. Howa. Gī.
-bs|mp3-long/000513.mp3|Chuně:li:ne̋ Jalagi go:hwe:lv̀:ɂi. Desgi:dì:si. Goɂike jadu:lí?
-bs|mp3-long/000514.mp3|Dà:ni:lâ:wì:ga. Go:hwe:la desgi:nv̀.
-bs|mp3-long/000515.mp3|Junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli. A̋ɂda.
-bs|mp3-long/000516.mp3|Gé. Táɂli. Kwan. Sō. Yó:ne:g. Mē. Dō.
-bs|mp3-long/000517.mp3|Jadu:líɂa. Anigǐ:gáge gitǎ:ya. Dla:nú:s.
-bs|mp3-long/000518.mp3|Agv̌:níge̋:ɂi kama:ma à:lsdâ:yv:hv́sga. Ē.
-bs|mp3-long/000519.mp3|De:halǔ:yi. Ù:hwasga. Unadu:lí. Gadō ű:sdi dadihno:gí:si? Dà:ni:sdayo:hihv̋:ɂi.
-bs|mp3-long/000520.mp3|I̋:. He:líɂa. À:di:tásga. Ge:líɂa.
-bs|mp3-long/000521.mp3|Anigǐ:gáge ani:ji:lv̋:sg. À:tv:gâ:nv nù:wè:sv. Kwē. Lē. Halsdâ:yv:hv́sga. Awi̋:na.
-bs|mp3-long/000522.mp3|À:wadu:lí. U:hyv:dla dò:dala. U:ni:gǎ:nawa. Ni!
-bs|mp3-long/000523.mp3|Kwā. À:ndi. Gadō ű:? Anè:lí. Wō. Dà:ni:sdayo:hihv́.
-bs|mp3-long/000524.mp3|Hisgi:ne̋. Ǔ:tan. Iga. U:gǎ:nawa.
-bs|mp3-long/000525.mp3|U:sdi̋ɂi. Gv:no:sásdi. É:gwő:n.
-bs|mp3-long/000526.mp3|Di:kwayő:di ale á:ma. Ayv gé. Ani:gayv̌:líge̋:. Hila̋ go:hwe:li jadu:líɂa? Hila̋dv?
-bs|mp3-long/000527.mp3|Hé:. Ani̋:da. U:ne̋:ga u:lò:gí:li. Am.
-bs|mp3-long/000528.mp3|Anigv̌:níge̋ kama:ma a:nalsdâ:yv:hv́sga. Gū. Asgaya.
-bs|mp3-long/000529.mp3|Ő:sdadv Jalagi gawó:niɂa. Saduɂi:ne̋ Jalagi go:hwe:lv̀:ɂi. Jī. Ma:ga. Unikáha.
-bs|mp3-long/000530.mp3|Gadò? U:galǒ:. Ǔ:tana. Hlā. Hlē. À:diɂa.
-bs|mp3-long/000531.mp3|Kǒ:li. Uwo:dű age:hyű:ja. Ani:ji:lv̋:sgi. Gawó:niɂa. U:nine̋:ga ju:lò:gí:la.
-bs|mp3-long/000532.mp3|Yú:ne:ga. Go:hi̋:gi. Di:kwayő:d ale á:m.
-bs|mp3-long/000533.mp3|Gv̄. Anisakǒ:nígé ju:gì:dáhli. Hila̋ ǐ:ga̋ɂi jadu:líɂa? Atv:gī.
-bs|mp3-long/000534.mp3|Galsdâ:yv:hv́sg. Sē. Alsdâ:yv:hv́. Wī.
-bs|mp3-long/000535.mp3|Jǔ:tana dehlgv́. Yv̄. Mā. Igv:yi̋:ɂi à:danv:hnv́. Ǔ:ha.
-bs|mp3-long/000536.mp3|À:gi:ká. U:halv:ni. Ù:we:káha. Ani:sgay. Asgayv.
-bs|mp3-long/000537.mp3|He:lí. Gadì:tásga. À:sdû:di. Nv:dadě:wa.
-bs|mp3-long/000538.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:ga.. Ijéɂiyű:sd. Awi̋:n.
-bs|mp3-long/000539.mp3|Ahu:li. Sgwi̋:sd. Dù:danv:hnv̋.
-bs|mp3-long/000540.mp3|Suná:le̋. Go:hlv:hnv́. Ayv gé:ga. Hiyv:wi:yádv. Gő:li. Gaɂlo:n. Sī. Gù:.
-bs|mp3-long/000541.mp3|Goɂi jadu:lísgo? Gaɂluhgī. À:ginéha. Ànsgv:ti.
-bs|mp3-long/000542.mp3|Hila̋ nà:ní:ɂa? V:v. Yv:w. Ká:gā na achű:ja?
-bs|mp3-long/000543.mp3|Adǎ:wé:hi. Taɂli:ne̋:ɂi. À:giná. Kwī. Nah.
-bs|mp3-long/000544.mp3|U:no:lv̀:tana ka:la. Nv:dadě:w. Na. Hlv̄. Hé:gaju? Hadì:tásg.
-bs|mp3-long/000545.mp3|À:lsdàyhd. À:gi:káha. À:giné. Igv:yí. Ù:we:ká. É:. À:di:tásg. Me:li.
-bs|mp3-long/000546.mp3|U:lò:gí:la. U:gǎ:nawa gě:dô:. Age:hyű:j. Gù:gu. Gv́:n desgv̄.
-bs|mp3-long/000547.mp3|Gv:no:sásd. Ayv:wi:yádv. Ù:ninéha. À:nadáɂnv:ɂa. Kilő:i. Dv.
-bs|mp3-long/000548.mp3|Ga:da:ha̋. E:lohi. Hisgi. Sv:hiye̋. Géɂi. Hiyv:wi:yásgohv?
-bs|mp3-long/000549.mp3|Dō u:sd? U:no:lv̀:tan ka:la. Hla. Yō. Ō. Dò dě:jádo? Hisg.
-bs|mp3-long/000550.mp3|Hlō. U:hyv:dlake adǐ:tas jadu:lí? Dodada:go:hv̄.
-bs|mp3-long/000551.mp3|Hila̋ ǐ:ga̋ɂi? Asgaya gawó:ni. Anali:hě:lí. Alà:sǔ:lo.
-bs|mp3-long/000552.mp3|Naɂvɂi. À:gináa. Gadò ű:sdi a:sésdi kò:hí? Dà:gikáha jí:sgwa. Jadu:lí.
-bs|mp3-long/000553.mp3|À:gwanhta. Idalě:na. Ga̋:du. Digo:hwe:la. Inadǐ:ta.
-bs|mp3-long/000554.mp3|Taladuɂi Jalagi go:hwe:lv̀:ɂi. Dla:ma:ha. À:sdû:.
-bs|mp3-long/000555.mp3|Sě:lu ga̋:du. U:hyv:dlv gě:dô:. À:dáɂnv:ɂa. Yū.
-bs|mp3-long/000556.mp3|Agv̌:nígé gi:hli uwǒ:dígé alà:sǔ:lo à:gowhtíɂa. Gǎ:sógwalv́. Aksdà:yv̌hv:sgi. A̋ɂdage.
-bs|mp3-long/000557.mp3|À:dv́:ne. Jv̄. Halâ:yv̋ wù:sda é:gwő:ni? U:hyv̋:dla.
-bs|mp3-long/000558.mp3|Kuye:gwǒ:n. Ju:natvhisdv. Gahlgwo:gi:ne̋ Jalagi go:hwe:lv̀:ɂi.
-bs|mp3-long/000559.mp3|Ő:sdadv̀. Sgo:hi:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi. Junsdi. Ani:ge:hyű:ja.
-bs|mp3-long/000560.mp3|Gé:. Chuně:li:ne̋. Halâ:yv̋ é:gwő:ni? Hila̋ nà:ní? Nà:hní. Agayv̌:lí.
-bs|mp3-long/000561.mp3|Dù:dǎ:sgó chuně:la go:hwe:la. Dijé:nv̀:sv̋:ɂi hé:ga. Achű:ja. Sóhně:l.
-bs|mp3-long/000562.mp3|Gadō ű:sdi? U:hyv:dlv. À:hne. Anali:hě:lî:ga. Dò ad? Gv̀:ne. Gǎ:da.
-bs|mp3-long/000563.mp3|Ajv̋sd. Hlī. Joɂi. Hlá kiloyigi. Wā. A:nadiɂa. Igv:yi̋:ɂi.
+bs|mp3-long/000001.mp3|Anigǐ:gáge gitǎ:yaɂi.
+bs|mp3-long/000002.mp3|Gaɂluh.
+bs|mp3-long/000003.mp3|Unináɂa.
+bs|mp3-long/000004.mp3|Nah.
+bs|mp3-long/000005.mp3|Wā.
+bs|mp3-long/000006.mp3|Galiɂě:lî:ga.
+bs|mp3-long/000007.mp3|Agayv̌:lí.
+bs|mp3-long/000008.mp3|À:tv:gâ:nv nù:wè:sv.
+bs|mp3-long/000009.mp3|U:halv:na.
+bs|mp3-long/000010.mp3|Ju:ntvhisd.
+bs|mp3-long/000011.mp3|Dv.
+bs|mp3-long/000012.mp3|Jù:lúhjv̌ kò:hi̋, tlaidv́galúhji.
+bs|mp3-long/000013.mp3|Na doyu uwo:dű ajina.
+bs|mp3-long/000014.mp3|Ayo.
+bs|mp3-long/000015.mp3|Kǒ:li.
+bs|mp3-long/000016.mp3|U:no:lv̀:tan ka:la.
+bs|mp3-long/000017.mp3|Gahlgwǒ:.
+bs|mp3-long/000018.mp3|Yó:ne:ga.
+bs|mp3-long/000019.mp3|Gǐ:ga.
+bs|mp3-long/000020.mp3|Jū.
+bs|mp3-long/000021.mp3|Igv:yí.
+bs|mp3-long/000022.mp3|Anadi:tásg.
+bs|mp3-long/000023.mp3|Kwana.
+bs|mp3-long/000024.mp3|Sgigaduɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000025.mp3|Agǐ:gáge gitǎ:ya.
+bs|mp3-long/000026.mp3|Gadō ű:sdi ayv:wi:yá?
+bs|mp3-long/000027.mp3|Jī.
+bs|mp3-long/000028.mp3|Yó:ne:g.
+bs|mp3-long/000029.mp3|Joɂi:né.
+bs|mp3-long/000030.mp3|Sō.
+bs|mp3-long/000031.mp3|Achű:j.
+bs|mp3-long/000032.mp3|Na achű:ja.
+bs|mp3-long/000033.mp3|Hila̋ ǐ:ga̋ɂi jadu:líɂa?
+bs|mp3-long/000034.mp3|Agě:hya.
+bs|mp3-long/000035.mp3|Asú:sd.
+bs|mp3-long/000036.mp3|Ayv:wi:yá.
+bs|mp3-long/000037.mp3|Uniwǒ:dígé junsdi ǔ:tana wǒ:háɂli anì:gowhtíɂa.
+bs|mp3-long/000038.mp3|À:gi:káha.
+bs|mp3-long/000039.mp3|À:ga:sga.
+bs|mp3-long/000040.mp3|Kwū.
+bs|mp3-long/000041.mp3|Hé:.
+bs|mp3-long/000042.mp3|Dijé:nv̀:sv́ hé:g.
+bs|mp3-long/000043.mp3|Galiɂě:lî:gi niga̋:da jijiɂluhgi.
+bs|mp3-long/000044.mp3|Gv:no:sásd.
+bs|mp3-long/000045.mp3|Di:de:hyǒ:hvsgi.
+bs|mp3-long/000046.mp3|Wū.
+bs|mp3-long/000047.mp3|Kilő:i.
+bs|mp3-long/000048.mp3|Naɂv.
+bs|mp3-long/000049.mp3|Dā.
+bs|mp3-long/000050.mp3|Hlō.
+bs|mp3-long/000051.mp3|Jí:sgwa juwě:ji
+bs|mp3-long/000052.mp3|Lū.
+bs|mp3-long/000053.mp3|A̋:ta.
+bs|mp3-long/000054.mp3|É:.
+bs|mp3-long/000055.mp3|Gǎ:da.
+bs|mp3-long/000056.mp3|Hnā.
+bs|mp3-long/000057.mp3|Dō adv:ne?
+bs|mp3-long/000058.mp3|Inadǐ:ta.
+bs|mp3-long/000059.mp3|Gv̀:ne.
+bs|mp3-long/000060.mp3|Kwā.
+bs|mp3-long/000061.mp3|Kawo:ni.
+bs|mp3-long/000062.mp3|Anà:dv́:neɂa.
+bs|mp3-long/000063.mp3|À:di.
+bs|mp3-long/000064.mp3|É:ga.
+bs|mp3-long/000065.mp3|Awi̋:n.
+bs|mp3-long/000066.mp3|U:gana̋:sdake jadu:lí?
+bs|mp3-long/000067.mp3|U:gǎ:nawa gě:dô:a.
+bs|mp3-long/000068.mp3|Uniha.
+bs|mp3-long/000069.mp3|Anà:lsdâ:yv:hv́sga.
+bs|mp3-long/000070.mp3|Ǔ:tan.
+bs|mp3-long/000071.mp3|Dla:nú:si.
+bs|mp3-long/000072.mp3|Gadò dě:jádo:ɂa?
+bs|mp3-long/000073.mp3|Jiɂluhgī.
+bs|mp3-long/000074.mp3|Dù:dǎ:sgó chuně:li go:hwe:li.
+bs|mp3-long/000075.mp3|Di:je̋ dikané:jv di:do:ja.
+bs|mp3-long/000076.mp3|Agǐ:gáge gitǎ:yaɂi.
+bs|mp3-long/000077.mp3|À:hne.
+bs|mp3-long/000078.mp3|U:ne̋:ga.
+bs|mp3-long/000079.mp3|Ani:chű:j.
+bs|mp3-long/000080.mp3|Ànsgv:ti.
+bs|mp3-long/000081.mp3|Ù:né.
+bs|mp3-long/000082.mp3|Kǎ:hwi inadǐ:ta.
+bs|mp3-long/000083.mp3|Ǔ:ha.
+bs|mp3-long/000084.mp3|Gadò adā?
+bs|mp3-long/000085.mp3|Ju:ni:là:wisdi gé:.
+bs|mp3-long/000086.mp3|Hisgi.
+bs|mp3-long/000087.mp3|E:lohi.
+bs|mp3-long/000088.mp3|Gő:la.
+bs|mp3-long/000089.mp3|Jv̄.
+bs|mp3-long/000090.mp3|À:nadáɂnv.
+bs|mp3-long/000091.mp3|Ana̋:ta.
+bs|mp3-long/000092.mp3|Ù:du:lí.
+bs|mp3-long/000093.mp3|Adǎ:wé:hi.
+bs|mp3-long/000094.mp3|À:ga:sga u:hyv:dlahno dǒ:yi.
+bs|mp3-long/000095.mp3|Gadò ű:sdi a:sésdi kò:hí?
+bs|mp3-long/000096.mp3|Táɂlduɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000097.mp3|Nv:dadě:w.
+bs|mp3-long/000098.mp3|Ani:gě:.
+bs|mp3-long/000099.mp3|Hawi:ya.
+bs|mp3-long/000100.mp3|U:gǎ:nawa.
+bs|mp3-long/000101.mp3|Ani:sgaya.
+bs|mp3-long/000102.mp3|Joɂi.
+bs|mp3-long/000103.mp3|Asú:sdi à:wadu:líɂa.
+bs|mp3-long/000104.mp3|Sū.
+bs|mp3-long/000105.mp3|Gahligwǒ:gi.
+bs|mp3-long/000106.mp3|Sgo:hi:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000107.mp3|Ayv gé.
+bs|mp3-long/000108.mp3|Hisgi:ne̋:ɂi.
+bs|mp3-long/000109.mp3|Sihgw.
+bs|mp3-long/000110.mp3|Lō.
+bs|mp3-long/000111.mp3|Gv́:na à:wadu:lí.
+bs|mp3-long/000112.mp3|Suná:le̋.
+bs|mp3-long/000113.mp3|Á:m.
+bs|mp3-long/000114.mp3|U:gana̋:sdake jadu:líɂa?
+bs|mp3-long/000115.mp3|Go:lì:.
+bs|mp3-long/000116.mp3|Digahi:nv̀.
+bs|mp3-long/000117.mp3|hno.
+bs|mp3-long/000118.mp3|Ē.
+bs|mp3-long/000119.mp3|Hlī.
+bs|mp3-long/000120.mp3|U:du:lí.
+bs|mp3-long/000121.mp3|Agě:.
+bs|mp3-long/000122.mp3|Dògi hadí.
+bs|mp3-long/000123.mp3|Hadí:ɂa.
+bs|mp3-long/000124.mp3|U:hyv:dlv e̋:hi.
+bs|mp3-long/000125.mp3|Ani:ji:lv̋:sgi.
+bs|mp3-long/000126.mp3|Do:yű.
+bs|mp3-long/000127.mp3|Ha:dlv hině:l?
+bs|mp3-long/000128.mp3|Wē.
+bs|mp3-long/000129.mp3|Di:kwayő:di ale á:ma.
+bs|mp3-long/000130.mp3|Hlá kiloyi.
+bs|mp3-long/000131.mp3|Hlá kiloyigi.
+bs|mp3-long/000132.mp3|Yū.
+bs|mp3-long/000133.mp3|Kwī.
+bs|mp3-long/000134.mp3|V̄:.
+bs|mp3-long/000135.mp3|U:gǎ:nawa gě:dô:.
+bs|mp3-long/000136.mp3|Sv:hiye̋.
+bs|mp3-long/000137.mp3|Jǐ:sa
+bs|mp3-long/000138.mp3|Gadò ű:sdi i:ga atli:gili?
+bs|mp3-long/000139.mp3|Asú:sdi desgi:nehvsi.
+bs|mp3-long/000140.mp3|Dà:ni:sdayo:hihv́.
+bs|mp3-long/000141.mp3|Ő:sdadv Jalagi gawó:ni.
+bs|mp3-long/000142.mp3|U:gǎ:nawa u:gǎ:nawa.
+bs|mp3-long/000143.mp3|Asú:sdi à:wadu:lí.
+bs|mp3-long/000144.mp3|Hé:gake?
+bs|mp3-long/000145.mp3|Unali:he:lísdi
+bs|mp3-long/000146.mp3|U:halv:ni.
+bs|mp3-long/000147.mp3|Nǔ:na.
+bs|mp3-long/000148.mp3|Gv́:n.
+bs|mp3-long/000149.mp3|Sǐ:gwu.
+bs|mp3-long/000150.mp3|Taɂli:ne̋ go:hwe:la.
+bs|mp3-long/000151.mp3|Jō.
+bs|mp3-long/000152.mp3|V̌:sgíyi.
+bs|mp3-long/000153.mp3|Ànsgv:.
+bs|mp3-long/000154.mp3|Gadō anadv:neɂa?
+bs|mp3-long/000155.mp3|Ha:dlv hině:la?
+bs|mp3-long/000156.mp3|À:dia.
+bs|mp3-long/000157.mp3|Jaha.
+bs|mp3-long/000158.mp3|Juwé:nv̀:sv́ é:.
+bs|mp3-long/000159.mp3|Gadò anà:dv́:ne?
+bs|mp3-long/000160.mp3|À:dáɂnv:ɂa.
+bs|mp3-long/000161.mp3|À:ndi.
+bs|mp3-long/000162.mp3|U:sganő:li hiwò:nǐ:hi.
+bs|mp3-long/000163.mp3|Aksdà:yv̌hv:sgi.
+bs|mp3-long/000164.mp3|Nihina?
+bs|mp3-long/000165.mp3|Tla yigo:lì:ga.
+bs|mp3-long/000166.mp3|Sihgwa.
+bs|mp3-long/000167.mp3|Kané:jv.
+bs|mp3-long/000168.mp3|Ī.
+bs|mp3-long/000169.mp3|Děhlgv́
+bs|mp3-long/000170.mp3|Gaɂlo:hni.
+bs|mp3-long/000171.mp3|Gv:no:sásdi.
+bs|mp3-long/000172.mp3|Dù:ninvhd.
+bs|mp3-long/000173.mp3|Su:dali:né Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000174.mp3|Asgayv.
+bs|mp3-long/000175.mp3|À:lsdâ:yv:hv́sga.
+bs|mp3-long/000176.mp3|Di:ni:yő:hli.
+bs|mp3-long/000177.mp3|Jiyú:ne:ga jiyv:wi.
+bs|mp3-long/000178.mp3|U:gǎ:no.
+bs|mp3-long/000179.mp3|U:hyv:dla dǒ:yi.
+bs|mp3-long/000180.mp3|Ani:chű:ji.
+bs|mp3-long/000181.mp3|Mā.
+bs|mp3-long/000182.mp3|Hī.
+bs|mp3-long/000183.mp3|Junsdi.
+bs|mp3-long/000184.mp3|Gadō hadv:neɂa?
+bs|mp3-long/000185.mp3|Ali:he:lísdi.
+bs|mp3-long/000186.mp3|Aniɂluh.
+bs|mp3-long/000187.mp3|È:lí.
+bs|mp3-long/000188.mp3|Nō.
+bs|mp3-long/000189.mp3|Joɂgaduɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000190.mp3|Ő:sdadv Jalagi gawó:niɂa.
+bs|mp3-long/000191.mp3|Wī.
+bs|mp3-long/000192.mp3|Tlaidv́galúhji.
+bs|mp3-long/000193.mp3|Gadò?
+bs|mp3-long/000194.mp3|Kǒ:l.
+bs|mp3-long/000195.mp3|Anali:hě:lî:ga.
+bs|mp3-long/000196.mp3|Gv̄.
+bs|mp3-long/000197.mp3|Gadí:ɂa.
+bs|mp3-long/000198.mp3|U:lò:gí:li.
+bs|mp3-long/000199.mp3|À:gwanhta.
+bs|mp3-long/000200.mp3|À:sdû:di.
+bs|mp3-long/000201.mp3|Ajéɂiyű:sdi.
+bs|mp3-long/000202.mp3|Nihinahv?
+bs|mp3-long/000203.mp3|À:gi.
+bs|mp3-long/000204.mp3|Du:lì:sd.
+bs|mp3-long/000205.mp3|Ő:sdadv̀.
+bs|mp3-long/000206.mp3|Go:hi̋:.
+bs|mp3-long/000207.mp3|U:no:lv̀:tani.
+bs|mp3-long/000208.mp3|Jē.
+bs|mp3-long/000209.mp3|U:gǎ:nowi.
+bs|mp3-long/000210.mp3|Hiyv:wi:yásgohv?
+bs|mp3-long/000211.mp3|Nihi gadíɂa hiɂa.
+bs|mp3-long/000212.mp3|Tla yà:gwanht.
+bs|mp3-long/000213.mp3|À:giné.
+bs|mp3-long/000214.mp3|Sgina.
+bs|mp3-long/000215.mp3|Yō.
+bs|mp3-long/000216.mp3|Dō.
+bs|mp3-long/000217.mp3|Nǔ:n.
+bs|mp3-long/000218.mp3|U:ne̋:ga u:lò:gí:li.
+bs|mp3-long/000219.mp3|Hiyv:wi:yádv.
+bs|mp3-long/000220.mp3|Ō.
+bs|mp3-long/000221.mp3|Achű:ja.
+bs|mp3-long/000222.mp3|Ù:nihwasga.
+bs|mp3-long/000223.mp3|Halsdâ:yv:hv́sga.
+bs|mp3-long/000224.mp3|Chuně:li:ne̋ Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000225.mp3|Sgo:hi:ne̋.
+bs|mp3-long/000226.mp3|Kwv̄.
+bs|mp3-long/000227.mp3|Sǔ:dáli.
+bs|mp3-long/000228.mp3|Ani:ji:lv́:sga.
+bs|mp3-long/000229.mp3|Á:ma.
+bs|mp3-long/000230.mp3|Lī.
+bs|mp3-long/000231.mp3|A:nadiɂa.
+bs|mp3-long/000232.mp3|Halihě:lî:ga.
+bs|mp3-long/000233.mp3|Unadu:lí.
+bs|mp3-long/000234.mp3|Akwe:nhda go:hwe:li.
+bs|mp3-long/000235.mp3|E:lo.
+bs|mp3-long/000236.mp3|Sgwi̋:sd.
+bs|mp3-long/000237.mp3|Nī.
+bs|mp3-long/000238.mp3|Sě:lu.
+bs|mp3-long/000239.mp3|Táɂl.
+bs|mp3-long/000240.mp3|Dinǐ:yé:li:hi.
+bs|mp3-long/000241.mp3|U:gù:ku.
+bs|mp3-long/000242.mp3|Hlā. Hlē.
+bs|mp3-long/000243.mp3|Hv?
+bs|mp3-long/000244.mp3|Hadáɂnvɂa.
+bs|mp3-long/000245.mp3|Galì:sdâ:yv:hv́sga.
+bs|mp3-long/000246.mp3|Ǔ:tana.
+bs|mp3-long/000247.mp3|Gawó:ni.
+bs|mp3-long/000248.mp3|Anisakǒ:nígé ju:gì:dáhl.
+bs|mp3-long/000249.mp3|Dù:danv:hnv̋.
+bs|mp3-long/000250.mp3|Awi̋:na.
+bs|mp3-long/000251.mp3|Asgaya gawó:ni.
+bs|mp3-long/000252.mp3|Ù:nadu:lí.
+bs|mp3-long/000253.mp3|Nana.
+bs|mp3-long/000254.mp3|Yú:ne:g.
+bs|mp3-long/000255.mp3|Joɂi:ne̋:ɂi.
+bs|mp3-long/000256.mp3|Uwǒ:dígé u:sdi̋ jǔ:ntana wǒ:háɂli dà:gowhtíɂa.
+bs|mp3-long/000257.mp3|Sgǒ:hi.
+bs|mp3-long/000258.mp3|Sě:lu ga̋:du.
+bs|mp3-long/000259.mp3|Gō.
+bs|mp3-long/000260.mp3|U:hyv:dla dò:dala.
+bs|mp3-long/000261.mp3|Ù:lô:gi:lv.
+bs|mp3-long/000262.mp3|Dō anadv:ne?
+bs|mp3-long/000263.mp3|Uwǒ:dígé u:sdi̋.
+bs|mp3-long/000264.mp3|Anigv̌:nígé gi:hli danì:gowhtíɂa juwǒ:dígé dilà:sǔ:lo.
+bs|mp3-long/000265.mp3|Hatv:gī.
+bs|mp3-long/000266.mp3|Ga:da:ha̋.
+bs|mp3-long/000267.mp3|Gv́:n hiɂv̄.
+bs|mp3-long/000268.mp3|Goɂi.
+bs|mp3-long/000269.mp3|Am.
+bs|mp3-long/000270.mp3|Ǔ:tana wǒ:háɂl à:gowhtí.
+bs|mp3-long/000271.mp3|Hiwó:niɂa.
+bs|mp3-long/000272.mp3|U:lò:gí:l.
+bs|mp3-long/000273.mp3|Ale.
+bs|mp3-long/000274.mp3|Ga̋:du.
+bs|mp3-long/000275.mp3|Ijéɂiyű:sd.
+bs|mp3-long/000276.mp3|Ù:ninéha.
+bs|mp3-long/000277.mp3|Anè:lía.
+bs|mp3-long/000278.mp3|U:galǒ:.
+bs|mp3-long/000279.mp3|Nvhgi:ne̋.
+bs|mp3-long/000280.mp3|Ū.
+bs|mp3-long/000281.mp3|Lē.
+bs|mp3-long/000282.mp3|U:hyv:dla u:hyv:dlv.
+bs|mp3-long/000283.mp3|Anigǐ:gáge gitǎ:ya.
+bs|mp3-long/000284.mp3|V̀:hla.
+bs|mp3-long/000285.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:ga..
+bs|mp3-long/000286.mp3|Iga.
+bs|mp3-long/000287.mp3|Me:li.
+bs|mp3-long/000288.mp3|Saduɂi:ne̋ Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000289.mp3|U:sganő hiwò:nǐ:.
+bs|mp3-long/000290.mp3|Tò:hi̋:ju.
+bs|mp3-long/000291.mp3|Hlū.
+bs|mp3-long/000292.mp3|Agv̌:nígé gi:hli uwǒ:dígé alà:sǔ:lo à:gowhtíɂa.
+bs|mp3-long/000293.mp3|Gadáɂnv.
+bs|mp3-long/000294.mp3|À:ga:sg.
+bs|mp3-long/000295.mp3|U:ne̋:g u:lò:gí:l.
+bs|mp3-long/000296.mp3|Junsdiɂi.
+bs|mp3-long/000297.mp3|Ǔ:gáma.
+bs|mp3-long/000298.mp3|Hilâ:yv̋ dv́ɂhilúhji?
+bs|mp3-long/000299.mp3|Hē.
+bs|mp3-long/000300.mp3|U:sdi̋ɂi.
+bs|mp3-long/000301.mp3|Dō u:sd?
+bs|mp3-long/000302.mp3|Na.
+bs|mp3-long/000303.mp3|Sakǒ:nígé u:gì:dáhl.
+bs|mp3-long/000304.mp3|Anihne.
+bs|mp3-long/000305.mp3|Ha:dlv hé:ga?
+bs|mp3-long/000306.mp3|Chuně:li:ne̋ go:hwe:l.
+bs|mp3-long/000307.mp3|Dinǐ:yé:li:.
+bs|mp3-long/000308.mp3|De:halǔ:yi.
+bs|mp3-long/000309.mp3|Age:hyű:j.
+bs|mp3-long/000310.mp3|Anv:yi.
+bs|mp3-long/000311.mp3|Su:dali:ne̋:ɂi.
+bs|mp3-long/000312.mp3|Aniwó:ni.
+bs|mp3-long/000313.mp3|Na achű:ja jù:lúhjv̌ kò:hi̋.
+bs|mp3-long/000314.mp3|Di:de:hyǒ:hv.
+bs|mp3-long/000315.mp3|Yv̄.
+bs|mp3-long/000316.mp3|Dǒ:y.
+bs|mp3-long/000317.mp3|Gà:yő:hlike hiwó:ni Jalagi?
+bs|mp3-long/000318.mp3|Ǔ:tana hlgv́.
+bs|mp3-long/000319.mp3|Ù:néa.
+bs|mp3-long/000320.mp3|Agv̌:níge̋:.
+bs|mp3-long/000321.mp3|Igv:yi̋:ɂi.
+bs|mp3-long/000322.mp3|Hì:ne.
+bs|mp3-long/000323.mp3|Go:hwe:la hi:nv̀:si.
+bs|mp3-long/000324.mp3|Kwō.
+bs|mp3-long/000325.mp3|Goɂi jadu:lísgo?
+bs|mp3-long/000326.mp3|A:sésdi.
+bs|mp3-long/000327.mp3|Digahi:nv̀:si.
+bs|mp3-long/000328.mp3|Nanaɂi.
+bs|mp3-long/000329.mp3|Dijé:nv̀:sv́ hé:.
+bs|mp3-long/000330.mp3|Dī.
+bs|mp3-long/000331.mp3|Di:te:lǐ:do didihlahv̀.
+bs|mp3-long/000332.mp3|Chű:j.
+bs|mp3-long/000333.mp3|Ù:hwasga.
+bs|mp3-long/000334.mp3|Anadi:tásga.
+bs|mp3-long/000335.mp3|Kwan.
+bs|mp3-long/000336.mp3|Yú:ne:gake hiwó:niɂa?
+bs|mp3-long/000337.mp3|Mū.
+bs|mp3-long/000338.mp3|Mē.
+bs|mp3-long/000339.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:.
+bs|mp3-long/000340.mp3|Anisakǒ:nígé ju:gì:dáhli.
+bs|mp3-long/000341.mp3|Mō.
+bs|mp3-long/000342.mp3|Gweti dà:wadó.
+bs|mp3-long/000343.mp3|Gv́:n desgv̄.
+bs|mp3-long/000344.mp3|Anihneha.
+bs|mp3-long/000345.mp3|À:ga:sgas?
+bs|mp3-long/000346.mp3|Gv:no:sásdi hi:dì:si.
+bs|mp3-long/000347.mp3|Gadògi hadí:ɂa.
+bs|mp3-long/000348.mp3|Anigǐ:gáge dehlgv́.
+bs|mp3-long/000349.mp3|Hadáɂnv.
+bs|mp3-long/000350.mp3|Adǎ:hnehdi.
+bs|mp3-long/000351.mp3|Go:hi̋:gi.
+bs|mp3-long/000352.mp3|Waló:si.
+bs|mp3-long/000353.mp3|Ha:dlv go:hwe:lv?
+bs|mp3-long/000354.mp3|Sgǒ:.
+bs|mp3-long/000355.mp3|U:tvhisdv.
+bs|mp3-long/000356.mp3|Dō gadv:ne?
+bs|mp3-long/000357.mp3|Didǐ:yé:li:.
+bs|mp3-long/000358.mp3|Hì:neha.
+bs|mp3-long/000359.mp3|Agayv̋:li.
+bs|mp3-long/000360.mp3|Asgaya.
+bs|mp3-long/000361.mp3|Taɂli:ne̋:ɂi.
+bs|mp3-long/000362.mp3|Kuye:gwǒ:ni.
+bs|mp3-long/000363.mp3|Dò:dala ju:gǎ:nawi.
+bs|mp3-long/000364.mp3|Agǐ:gáge aji:lv̋:sg.
+bs|mp3-long/000365.mp3|Akwanv́:gi jiyv:wi.
+bs|mp3-long/000366.mp3|Go:hlv:hnv́.
+bs|mp3-long/000367.mp3|Jalagi.
+bs|mp3-long/000368.mp3|Gadō adv:neɂa?
+bs|mp3-long/000369.mp3|Ù:we:ká.
+bs|mp3-long/000370.mp3|Taɂli:ne̋.
+bs|mp3-long/000371.mp3|Aji:lv́:sga.
+bs|mp3-long/000372.mp3|Anali:hě:lí.
+bs|mp3-long/000373.mp3|Asú:sdi.
+bs|mp3-long/000374.mp3|Anadv́:ne.
+bs|mp3-long/000375.mp3|Hō.
+bs|mp3-long/000376.mp3|Dà:gikáha jí:sgwa.
+bs|mp3-long/000377.mp3|U:hyv:dlake dǒ:yi?
+bs|mp3-long/000378.mp3|Ǔ:tana wǒ:háɂli à:gowhtíɂa uwǒ:dígé salǒ:li.
+bs|mp3-long/000379.mp3|Wō.
+bs|mp3-long/000380.mp3|Agě:hyv.
+bs|mp3-long/000381.mp3|Gő:l.
+bs|mp3-long/000382.mp3|Tā.
+bs|mp3-long/000383.mp3|À:li:hě:lî:ga.
+bs|mp3-long/000384.mp3|Sóhne:li:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000385.mp3|Na doyu uwo:dű ajin.
+bs|mp3-long/000386.mp3|Ama.
+bs|mp3-long/000387.mp3|Dō hadv:ne?
+bs|mp3-long/000388.mp3|Nà:hní.
+bs|mp3-long/000389.mp3|À:kiwásga.
+bs|mp3-long/000390.mp3|Gatv:gī.
+bs|mp3-long/000391.mp3|Jiwó:niɂa.
+bs|mp3-long/000392.mp3|Dù:danv:hnv̋:ɂi.
+bs|mp3-long/000393.mp3|Unikáha.
+bs|mp3-long/000394.mp3|Digǐ:gáge ale dijéɂiyű:sdi dà:gi di:jv̋sdi.
+bs|mp3-long/000395.mp3|Go:hwe:la.
+bs|mp3-long/000396.mp3|Gahligwo:gi:ne̋:ɂi.
+bs|mp3-long/000397.mp3|Ajina.
+bs|mp3-long/000398.mp3|Ù:we:káha.
+bs|mp3-long/000399.mp3|Waló:s.
+bs|mp3-long/000400.mp3|Ő:sdaju?
+bs|mp3-long/000401.mp3|U:hyv:dla.
+bs|mp3-long/000402.mp3|Jiyv:wi:yádv.
+bs|mp3-long/000403.mp3|Ani:gě:hya.
+bs|mp3-long/000404.mp3|À:sdû:.
+bs|mp3-long/000405.mp3|Galsdâ:yv:hv́sg.
+bs|mp3-long/000406.mp3|À:di:tásga.
+bs|mp3-long/000407.mp3|Ká:gā na achű:ja?
+bs|mp3-long/000408.mp3|Janáa
+bs|mp3-long/000409.mp3|Ge:lí.
+bs|mp3-long/000410.mp3|Age:hyű:ja.
+bs|mp3-long/000411.mp3|Ana̋:t.
+bs|mp3-long/000412.mp3|Jǔ:tana dehlgv́.
+bs|mp3-long/000413.mp3|Ajv̋sdi.
+bs|mp3-long/000414.mp3|Galv:lő:hi.
+bs|mp3-long/000415.mp3|Ju:ni:là:wisdi gé:ga.
+bs|mp3-long/000416.mp3|Ané:. Ané:ga.
+bs|mp3-long/000417.mp3|Ju:natvhisdv.
+bs|mp3-long/000418.mp3|Sa:sa.
+bs|mp3-long/000419.mp3|Gv́:na desgvsi.
+bs|mp3-long/000420.mp3|Nokwsi.
+bs|mp3-long/000421.mp3|Ani:gayv̌:líge̋:
+bs|mp3-long/000422.mp3|Nigaduɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000423.mp3|Kó:gi.
+bs|mp3-long/000424.mp3|Gà:yő:hl jiwó:ni Jalagi.
+bs|mp3-long/000425.mp3|Jadu:lí.
+bs|mp3-long/000426.mp3|Donada:go:hv:ɂi.
+bs|mp3-long/000427.mp3|À:di:tásg.
+bs|mp3-long/000428.mp3|Desgi:dì:.
+bs|mp3-long/000429.mp3|Dà:ni:lâ:wì:.
+bs|mp3-long/000430.mp3|Dò dě:jádo?
+bs|mp3-long/000431.mp3|À:giná.
+bs|mp3-long/000432.mp3|Uninéha.
+bs|mp3-long/000433.mp3|Anà:lsdâ:yv:hv́.
+bs|mp3-long/000434.mp3|Lv̄.
+bs|mp3-long/000435.mp3|Ajv̋sd.
+bs|mp3-long/000436.mp3|Ani̋:dage.
+bs|mp3-long/000437.mp3|U:hyv̋:dla.
+bs|mp3-long/000438.mp3|I̋:.
+bs|mp3-long/000439.mp3|Hé:ga.
+bs|mp3-long/000440.mp3|Hiɂa.
+bs|mp3-long/000441.mp3|Nà:sgi.
+bs|mp3-long/000442.mp3|Hila̋ go:hwe:li jadu:líɂa?
+bs|mp3-long/000443.mp3|Gadò ad?
+bs|mp3-long/000444.mp3|Juné:nv̀:sv́ à:né:.
+bs|mp3-long/000445.mp3|Gadáɂnvɂa.
+bs|mp3-long/000446.mp3|Gadō ű:?
+bs|mp3-long/000447.mp3|Idalě:na.
+bs|mp3-long/000448.mp3|U:no:lv̀:tani ka:la.
+bs|mp3-long/000449.mp3|Kalsě:jis hà:su:yv́:sgó?
+bs|mp3-long/000450.mp3|Anigǐ:gáge ani:ji:lv̋:sg.
+bs|mp3-long/000451.mp3|Hisg.
+bs|mp3-long/000452.mp3|chuně:la.
+bs|mp3-long/000453.mp3|U:ne̋:ga u:lò:gí:la.
+bs|mp3-long/000454.mp3|Sóhně:li:ne̋.
+bs|mp3-long/000455.mp3|À:giha.
+bs|mp3-long/000456.mp3|Go:gi.
+bs|mp3-long/000457.mp3|Ùnanht.
+bs|mp3-long/000458.mp3|Hlahv.
+bs|mp3-long/000459.mp3|Ő:sdadv.
+bs|mp3-long/000460.mp3|Sē.
+bs|mp3-long/000461.mp3|Ani:sgayv.
+bs|mp3-long/000462.mp3|Unihwasga.
+bs|mp3-long/000463.mp3|Gaɂlo:n.
+bs|mp3-long/000464.mp3|À:ndia.
+bs|mp3-long/000465.mp3|Sā.
+bs|mp3-long/000466.mp3|Nà:ní.
+bs|mp3-long/000467.mp3|U:hyv:dlv gě:dô:a.
+bs|mp3-long/000468.mp3|Mī.
+bs|mp3-long/000469.mp3|I:ya ge:li̋:stg.
+bs|mp3-long/000470.mp3|Yv:w.
+bs|mp3-long/000471.mp3|Hila̋ nà:ní:ɂa?
+bs|mp3-long/000472.mp3|Kwē.
+bs|mp3-long/000473.mp3|Agv̌:níge̋:ɂi kama:ma à:lsdâ:yv:hv́sga.
+bs|mp3-long/000474.mp3|Nvhgi:né.
+bs|mp3-long/000475.mp3|U:hyv:dlv u:hyv:dlv.
+bs|mp3-long/000476.mp3|Igv:yi̋:ɂi à:danv:hnv́.
+bs|mp3-long/000477.mp3|Ané:ga.
+bs|mp3-long/000478.mp3|Jā.
+bs|mp3-long/000479.mp3|Analsdâ:yv:hv́sga.
+bs|mp3-long/000480.mp3|Ù:lô:gi:li kò:hi̋ svná:le.
+bs|mp3-long/000481.mp3|Agayv̌:líge̋:.
+bs|mp3-long/000482.mp3|À:lsdàyhd.
+bs|mp3-long/000483.mp3|À:dáɂnv.
+bs|mp3-long/000484.mp3|He:líɂa.
+bs|mp3-long/000485.mp3|Dijv̋sd.
+bs|mp3-long/000486.mp3|Taɂli:né.
+bs|mp3-long/000487.mp3|Gahlgwo:gi:ne̋ Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000488.mp3|À:hneha.
+bs|mp3-long/000489.mp3|Agigǎ:nawa.
+bs|mp3-long/000490.mp3|Ù:nâ:ya.
+bs|mp3-long/000491.mp3|Janhta.
+bs|mp3-long/000492.mp3|Hiɂluhgī.
+bs|mp3-long/000493.mp3|Dego:hwe:la.
+bs|mp3-long/000494.mp3|Ani:ge:hyű:j.
+bs|mp3-long/000495.mp3|Idihno:.
+bs|mp3-long/000496.mp3|Adǐ:tasdi jadu:líɂa?
+bs|mp3-long/000497.mp3|Gadō ű:sdi dadihno:gí:si?
+bs|mp3-long/000498.mp3|Goɂi jadu:lí?
+bs|mp3-long/000499.mp3|Ayv gé:ga.
+bs|mp3-long/000500.mp3|Ani̋:da.
+bs|mp3-long/000501.mp3|Gadō ű:sdi?
+bs|mp3-long/000502.mp3|Gō:.
+bs|mp3-long/000503.mp3|Go:lì:ga.
+bs|mp3-long/000504.mp3|Gū.
+bs|mp3-long/000505.mp3|Ka:ga.
+bs|mp3-long/000506.mp3|Ge:líɂa.
+bs|mp3-long/000507.mp3|U:hyv:dla dǒ:y.
+bs|mp3-long/000508.mp3|Dodada:go:hv̄.
+bs|mp3-long/000509.mp3|Gà:yő:hli.
+bs|mp3-long/000510.mp3|Dū.
+bs|mp3-long/000511.mp3|Gadō u:sdi jadu:líɂa.?
+bs|mp3-long/000512.mp3|He:lí.
+bs|mp3-long/000513.mp3|Dikané:jv
+bs|mp3-long/000514.mp3|Ha:dlv hé:g?
+bs|mp3-long/000515.mp3|Sv̄.
+bs|mp3-long/000516.mp3|Digo:hwe:la.
+bs|mp3-long/000517.mp3|U:ni:hyv̋:dla.
+bs|mp3-long/000518.mp3|Gā.
+bs|mp3-long/000519.mp3|Agihyv̋:dla.
+bs|mp3-long/000520.mp3|Unadu:líɂa.
+bs|mp3-long/000521.mp3|Ahljadő:hvsg.
+bs|mp3-long/000522.mp3|Hla.
+bs|mp3-long/000523.mp3|Sakǒ:níge̋:.
+bs|mp3-long/000524.mp3|Sakǒ:nígé u:gì:dáhli.
+bs|mp3-long/000525.mp3|U:hyv:dlv gě:dô:.
+bs|mp3-long/000526.mp3|Junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli.
+bs|mp3-long/000527.mp3|Dō ű:sd?
+bs|mp3-long/000528.mp3|Ani:sgay.
+bs|mp3-long/000529.mp3|Tla yà:gwanhta.
+bs|mp3-long/000530.mp3|É:gwő:n.
+bs|mp3-long/000531.mp3|Kawo:n.
+bs|mp3-long/000532.mp3|Jí:sgwa ani̋:da anì:jáɂiɂa.
+bs|mp3-long/000533.mp3|U:du:líɂa.
+bs|mp3-long/000534.mp3|Anigǐ:gáge ani:ji:lv̋:sgi.
+bs|mp3-long/000535.mp3|Ha:dlv?
+bs|mp3-long/000536.mp3|Dijv̋sdi.
+bs|mp3-long/000537.mp3|Hlv̄.
+bs|mp3-long/000538.mp3|Kā.
+bs|mp3-long/000539.mp3|Sà:gwű.
+bs|mp3-long/000540.mp3|Ani:dalǒ:nígé digadv́:d danì:gí.
+bs|mp3-long/000541.mp3|Yú:ne:gake hiwó:ni?
+bs|mp3-long/000542.mp3|De:halǔ:.
+bs|mp3-long/000543.mp3|A̋ɂda.
+bs|mp3-long/000544.mp3|Di:dǎ:hnehdi.
+bs|mp3-long/000545.mp3|Agǔ:sa jiyv:wi.
+bs|mp3-long/000546.mp3|U:lò:gí:la.
+bs|mp3-long/000547.mp3|Kilo gawó:ni.
+bs|mp3-long/000548.mp3|Gadō gadv:neɂa?
+bs|mp3-long/000549.mp3|Gà:yő:hli jiwó:niɂa Jalagi.
+bs|mp3-long/000550.mp3|Nvh.
+bs|mp3-long/000551.mp3|Géɂi.
+bs|mp3-long/000552.mp3|Hiyv:wi:yá.
+bs|mp3-long/000553.mp3|Hiɂluh.
+bs|mp3-long/000554.mp3|Idihno:gí.
+bs|mp3-long/000555.mp3|Su:dali:ne̋.
+bs|mp3-long/000556.mp3|Nv:dadě:wa.
+bs|mp3-long/000557.mp3|À:gi:ká.
+bs|mp3-long/000558.mp3|Juné:nv̀:sv́ à:né:ga.
+bs|mp3-long/000559.mp3|Hū.
+bs|mp3-long/000560.mp3|Kuye:gwǒ:n.
+bs|mp3-long/000561.mp3|Gē.
+bs|mp3-long/000562.mp3|Hiwó:ni.
+bs|mp3-long/000563.mp3|Ā.
+bs|mp3-long/000564.mp3|È:lía.
+bs|mp3-long/000565.mp3|Ayő:hli.
+bs|mp3-long/000566.mp3|Alà:sǔ:lo.
+bs|mp3-long/000567.mp3|Hadì:tásg.
+bs|mp3-long/000568.mp3|Táɂli.
+bs|mp3-long/000569.mp3|Gù:gu.
+bs|mp3-long/000570.mp3|Hila̋ ǐ:ga̋?
+bs|mp3-long/000571.mp3|Digwé:nv̀:sv́ gé:.
+bs|mp3-long/000572.mp3|Ani:chű:ja.
+bs|mp3-long/000573.mp3|Goɂi jadu:líɂa?
+bs|mp3-long/000574.mp3|Uwo:du.
+bs|mp3-long/000575.mp3|Sóhně:l.
+bs|mp3-long/000576.mp3|Didǐ:yé:li:hi.
+bs|mp3-long/000577.mp3|Aji:lv̋:sgi.
+bs|mp3-long/000578.mp3|Dù:dǎ:sgó chuně:la go:hwe:la.
+bs|mp3-long/000579.mp3|À:dv́:ne.
+bs|mp3-long/000580.mp3|Dò:dala ju:hyv:dla.
+bs|mp3-long/000581.mp3|Asgay.
+bs|mp3-long/000582.mp3|Kwana děhlgv́ Da:ntvsga.
+bs|mp3-long/000583.mp3|U:nv̌:d hà:su:yv́:sgó?
+bs|mp3-long/000584.mp3|Ma:ga.
+bs|mp3-long/000585.mp3|Ha:dlv go:hwe:lv̀:ɂi.
+bs|mp3-long/000586.mp3|U:nine̋:ga ju:lò:gí:la.
+bs|mp3-long/000587.mp3|Dlù:dlu.
+bs|mp3-long/000588.mp3|Yē.
+bs|mp3-long/000589.mp3|À:lsdàyhdi.
+bs|mp3-long/000590.mp3|U:galǒ:ga.
+bs|mp3-long/000591.mp3|Ijéɂiyű:sdi.
+bs|mp3-long/000592.mp3|Uwo:duke kò:hi̋ sv:hiye?
+bs|mp3-long/000593.mp3|V:le.
+bs|mp3-long/000594.mp3|Hila̋dv?
+bs|mp3-long/000595.mp3|Ùnanhta.
+bs|mp3-long/000596.mp3|Ge:li̋:stgi.
+bs|mp3-long/000597.mp3|Dà:ni:sdayo:hihv̋:ɂi.
+bs|mp3-long/000598.mp3|Uwo:dű age:hyű:ja.
+bs|mp3-long/000599.mp3|V:v.
+bs|mp3-long/000600.mp3|Kila.
+bs|mp3-long/000601.mp3|Di:dihnó:gi.
+bs|mp3-long/000602.mp3|Ju:ni:là:wisdi.
+bs|mp3-long/000603.mp3|Digǐ:gágé ale dijé:ɂiyű:sd dà:gi di:jv̋sd.
+bs|mp3-long/000604.mp3|Naɂvɂi.
+bs|mp3-long/000605.mp3|Ka:gaɂli.
+bs|mp3-long/000606.mp3|Dò ű:sdi a:sésdi kò:hí?
+bs|mp3-long/000607.mp3|Nvhgi:ne̋:ɂi.
+bs|mp3-long/000608.mp3|U:ne̋:.
+bs|mp3-long/000609.mp3|Ù:néha.
+bs|mp3-long/000610.mp3|I:ya.
+bs|mp3-long/000611.mp3|V̌:sgí.
+bs|mp3-long/000612.mp3|À:diɂa.
+bs|mp3-long/000613.mp3|Kó:.
+bs|mp3-long/000614.mp3|Ani:gǐ:gágé ale ani:jé:ɂiyű:sdi.
+bs|mp3-long/000615.mp3|Juwé:nv̀:sv̋:ɂi é:ga.
+bs|mp3-long/000616.mp3|Ni!
+bs|mp3-long/000617.mp3|Ő:sda.
+bs|mp3-long/000618.mp3|Asgaya gawó:niɂa.
+bs|mp3-long/000619.mp3|U:gǎ:nawa dò:dala.
+bs|mp3-long/000620.mp3|U:hyv:dlake dǒ:y?
+bs|mp3-long/000621.mp3|Dē.
+bs|mp3-long/000622.mp3|Aniɂluhgī.
+bs|mp3-long/000623.mp3|À:gináa.
+bs|mp3-long/000624.mp3|Di:sésdi.
+bs|mp3-long/000625.mp3|À:li:hě:lí.
+bs|mp3-long/000626.mp3|E̋:gwa.
+bs|mp3-long/000627.mp3|Ù:lô:gi:li kò:hi̋ svná:le̋ɂi.
+bs|mp3-long/000628.mp3|Halâ:yv̋ é:gwő:ni?
+bs|mp3-long/000629.mp3|Gé:.
+bs|mp3-long/000630.mp3|Halâ:yv̋ wù:sda é:gwő:ni?
+bs|mp3-long/000631.mp3|Digǐ:gágé ale dijé:ɂiyű:sdi dà:giha di:jv̋sdi.
+bs|mp3-long/000632.mp3|Gawó:niɂa.
+bs|mp3-long/000633.mp3|Nē.
+bs|mp3-long/000634.mp3|Uniwǒ:dígé junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli.
+bs|mp3-long/000635.mp3|Ajéɂiyű:sd.
+bs|mp3-long/000636.mp3|Ahő:li.
+bs|mp3-long/000637.mp3|Tī.
+bs|mp3-long/000638.mp3|Nvhgi.
+bs|mp3-long/000639.mp3|Hé:gaju?
+bs|mp3-long/000640.mp3|Sī.
+bs|mp3-long/000641.mp3|Jiwó:ni.
+bs|mp3-long/000642.mp3|U:no:lv̀:tana.
+bs|mp3-long/000643.mp3|Suná:le̋:ɂi
+bs|mp3-long/000644.mp3|Ő:sd.
+bs|mp3-long/000645.mp3|Jiɂluh.
+bs|mp3-long/000646.mp3|Aksdà:yv̌hv̄.
+bs|mp3-long/000647.mp3|À:gwv̌:ya.
+bs|mp3-long/000648.mp3|Howa.
+bs|mp3-long/000649.mp3|Dō ű:sd dadihno:gí?
+bs|mp3-long/000650.mp3|Tē.
+bs|mp3-long/000651.mp3|Ani:ge:hyű:ja.
+bs|mp3-long/000652.mp3|Gadì:tásga.
+bs|mp3-long/000653.mp3|Kiloɂi gawó:niɂa.
+bs|mp3-long/000654.mp3|Do:yu uwo:du sv:hiye.
+bs|mp3-long/000655.mp3|Gő:li.
+bs|mp3-long/000656.mp3|Kama:ma.
+bs|mp3-long/000657.mp3|Donada:go:hv̄.
+bs|mp3-long/000658.mp3|U:hyv:dlake adǐ:tas jadu:lí?
+bs|mp3-long/000659.mp3|Janht.
+bs|mp3-long/000660.mp3|U:ga̋:nawa.
+bs|mp3-long/000661.mp3|Dla:ma:ha.
+bs|mp3-long/000662.mp3|Ù:náɂa.
+bs|mp3-long/000663.mp3|Go:hwe:la desgi:nv̀.
+bs|mp3-long/000664.mp3|Sóhně:la.
+bs|mp3-long/000665.mp3|Alsdâ:yv:hv́sga.
+bs|mp3-long/000666.mp3|Dù:ninvhdi.
+bs|mp3-long/000667.mp3|Yī.
+bs|mp3-long/000668.mp3|U:hyv:dlv.
+bs|mp3-long/000669.mp3|Chuně:li:ne̋.
+bs|mp3-long/000670.mp3|Gohlsga.
+bs|mp3-long/000671.mp3|Jǔ:ntana wǒ:háɂli danì:gowhtíɂa uniwǒ:dígé salǒ:li.
+bs|mp3-long/000672.mp3|Gǐ:.
+bs|mp3-long/000673.mp3|Ani:sgaya aniwó:ni.
+bs|mp3-long/000674.mp3|À:wadu:lí.
+bs|mp3-long/000675.mp3|Dla:nú:s.
+bs|mp3-long/000676.mp3|Hā.
+bs|mp3-long/000677.mp3|Taladuɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000678.mp3|Digwé:nv̀:sv̋:ɂi gé:ga.
+bs|mp3-long/000679.mp3|Ani:sgaya aniwó:niɂa.
+bs|mp3-long/000680.mp3|Dijé:nv̀:sv̋:ɂi hé:ga.
+bs|mp3-long/000681.mp3|Wv̄.
+bs|mp3-long/000682.mp3|Gv́:na hiɂvsi.
+bs|mp3-long/000683.mp3|Ahu:li.
+bs|mp3-long/000684.mp3|Jadu:líɂa.
+bs|mp3-long/000685.mp3|V̄.
+bs|mp3-long/000686.mp3|Hila̋ go:hwe:li jadu:lí?
+bs|mp3-long/000687.mp3|Ahljadő:hvsgi.
+bs|mp3-long/000688.mp3|U:sganő:.
+bs|mp3-long/000689.mp3|Áhni.
+bs|mp3-long/000690.mp3|Yā.
+bs|mp3-long/000691.mp3|Nū.
+bs|mp3-long/000692.mp3|Ù:wâ:ya.
+bs|mp3-long/000693.mp3|Achű:ji.
+bs|mp3-long/000694.mp3|Dò ad?
+bs|mp3-long/000695.mp3|Uwǒ:dígé u:sdi̋ ǔ:tana wǒ:háɂli à:gowhtíɂa.
+bs|mp3-long/000696.mp3|Gǎ:sógwalv́.
+bs|mp3-long/000697.mp3|Goɂike jadu:lí?
+bs|mp3-long/000698.mp3|O:síyo.
+bs|mp3-long/000699.mp3|É:gwő:ni.
+bs|mp3-long/000700.mp3|Agǐ:gáge
+bs|mp3-long/000701.mp3|Du:lì:sdi.
+bs|mp3-long/000702.mp3|Agǐ:gáge hlgv́.
+bs|mp3-long/000703.mp3|Hiyv:wi:yásg?
+bs|mp3-long/000704.mp3|Gadì:tásg.
+bs|mp3-long/000705.mp3|Kó:ga.
+bs|mp3-long/000706.mp3|U:nv̌:dis hà:su:yv́:sgó?
+bs|mp3-long/000707.mp3|Dv̄.
+bs|mp3-long/000708.mp3|U:gǎ:nawa e̋:hi.
+bs|mp3-long/000709.mp3|Ani:gayv̌:lí.
+bs|mp3-long/000710.mp3|Ha:dlvɂi?
+bs|mp3-long/000711.mp3|Sóhně:li:ne̋:ɂi.
+bs|mp3-long/000712.mp3|I:ga.
+bs|mp3-long/000713.mp3|À:ginéha.
+bs|mp3-long/000714.mp3|Gv́:n à:wadu:lí.
+bs|mp3-long/000715.mp3|Go:hwe:li.
+bs|mp3-long/000716.mp3|Yú:ne:ga.
+bs|mp3-long/000717.mp3|Hila̋ ǐ:ga̋ɂi?
+bs|mp3-long/000718.mp3|Dla:me:ha.
+bs|mp3-long/000719.mp3|Ani:dalǒ:nígé digadv́:di danì:gíɂa.
+bs|mp3-long/000720.mp3|Ani:gǐ:gágé ale ani:jé:ɂiyű:sdi dà:gikáha jí:sgwa.
+bs|mp3-long/000721.mp3|Desgi:nv̀:si.
+bs|mp3-long/000722.mp3|Gahligwo:gi:ne̋.
+bs|mp3-long/000723.mp3|Dǒ:yi.
+bs|mp3-long/000724.mp3|Ani:wi̋:n.
+bs|mp3-long/000725.mp3|A̋ɂdage.
+bs|mp3-long/000726.mp3|Anè:lí.
+bs|mp3-long/000727.mp3|Gadō ű:sd ayv:wi:yá?
+bs|mp3-long/000728.mp3|Gī.
+bs|mp3-long/000729.mp3|Halihě:lí.
+bs|mp3-long/000730.mp3|U:li:he:lísdi à:lsdàyh.
+bs|mp3-long/000731.mp3|Sà:wűɂi.
+bs|mp3-long/000732.mp3|Asú:sdi desgi:nehv.
+bs|mp3-long/000733.mp3|Sǔ:dál.
+bs|mp3-long/000734.mp3|Gù:.
+bs|mp3-long/000735.mp3|Yv:wi.
+bs|mp3-long/000736.mp3|Hé:gasgohv?
+bs|mp3-long/000737.mp3|Galiɂě:lí.
+bs|mp3-long/000738.mp3|Hisgi:né jalagi go:hwe:lvɂi.
+bs|mp3-long/000739.mp3|E̋:.
+bs|mp3-long/000740.mp3|Gadō u:sdi?
+bs|mp3-long/000741.mp3|Jo.
+bs|mp3-long/000742.mp3|Aniwó:niɂa.
+bs|mp3-long/000743.mp3|U:ni:gǎ:nawa.
+bs|mp3-long/000744.mp3|Go:hwe:l.
+bs|mp3-long/000745.mp3|Atv:gī.
+bs|mp3-long/000746.mp3|U:no:lv̀:tana ka:la.
+bs|mp3-long/000747.mp3|Ani:gayv̌:líge̋:.
+bs|mp3-long/000748.mp3|Hila̋ nà:ní?
+bs|mp3-long/000749.mp3|Chuně:l
+bs|mp3-long/000750.mp3|Gv:no:sásdi ti:dì:si.
+bs|mp3-long/000751.mp3|Lu:ga.
+bs|mp3-long/000752.mp3|Síyo.
+bs|mp3-long/000753.mp3|Gweti dà:wadó:ɂa.
+bs|mp3-long/000754.mp3|Lā.
+bs|mp3-long/000755.mp3|Dlā.
+bs|mp3-long/000756.mp3|Gé:ga.
+bs|mp3-long/000757.mp3|Taɂli:ne̋:ɂi go:hwe:lvɂi.
+bs|mp3-long/000758.mp3|Ayv:wi:yádv.
+bs|mp3-long/000759.mp3|Nǔ:ni.
+bs|mp3-long/000760.mp3|À:nadáɂnv:ɂa.
+bs|mp3-long/000761.mp3|Kǒ:la.
+bs|mp3-long/000762.mp3|Gé.
+bs|mp3-long/000763.mp3|hnv.
+bs|mp3-long/000764.mp3|Gaɂluhgī.
+bs|mp3-long/000765.mp3|Uniwǒ:dígé.
+bs|mp3-long/000766.mp3|Gv́:na.
+bs|mp3-long/000767.mp3|Dodada:go:hv:ɂi.
+bs|mp3-long/000768.mp3|Chuně:li:ne̋:ɂi.
+bs|mp3-long/000769.mp3|Wado.
+bs|mp3-long/000770.mp3|Hv̄.
+bs|mp3-long/000771.mp3|A̋:t.
+bs|mp3-long/000772.mp3|Desgi:dì:si.
+bs|mp3-long/000773.mp3|Idalě:n.
+bs|mp3-long/000774.mp3|Hisgi:ne̋.
+bs|mp3-long/000775.mp3|Di:kwayő:d ale á:m.
+bs|mp3-long/000776.mp3|Anigv̌:níge̋ kama:ma a:nalsdâ:yv:hv́sga.
+bs|mp3-long/000777.mp3|Alsdâ:yv:hv́.
+bs|mp3-long/000778.mp3|Dà:ni:lâ:wì:ga.
+bs|mp3-long/000779.mp3|Ùnhta.
+bs|mp3-long/000780.mp3|Analsdâ:yv:hv́sg.
+bs|mp3-long/000781.mp3|Jv̌:ya.
+bs|mp3-long/000782.mp3|Nā.
+bs|mp3-long/000005.mp3|Táɂlduɂi Jalagi go:hwe:lv̀:ɂi. Anadv́:ne. Jv̄. À:kiwásga.
+bs|mp3-long/000009.mp3|Dē. Jī. Gv:no:sásd. Sakǒ:nígé u:gì:dáhl.
+bs|mp3-long/000013.mp3|Gweti dà:wadó:ɂa. Asú:sd. Go:hwe:la desgi:nv̀. Dà:ni:sdayo:hihv́.
+bs|mp3-long/000019.mp3|Sgo:hi:ne̋. Suná:le̋. Di:de:hyǒ:hvsgi. Dinǐ:yé:li:hi. Dà:ni:sdayo:hihv̋:ɂi. Sihgwa.
+bs|mp3-long/000026.mp3|Uninéha. Hnā. Tī. È:lía. À:sdû:. À:dáɂnv. Sóhně:li:ne̋:ɂi.
+bs|mp3-long/000032.mp3|U:nv̌:dis hà:su:yv́:sgó? Hisg. Dla:nú:s. Gahligwǒ:gi. Didǐ:yé:li:. Gà:yő:hli.
+bs|mp3-long/000039.mp3|Kwv̄. Jaha. Ù:lô:gi:li kò:hi̋ svná:le̋ɂi. Gaɂlo:n. Desgi:nv̀:si. Taɂli:ne̋. Gv́:n.
+bs|mp3-long/000041.mp3|Go:hlv:hnv́. Uniwǒ:dígé junsdi ǔ:tana wǒ:háɂli anì:gowhtíɂa.
+bs|mp3-long/000044.mp3|Jā. Goɂi. Dv.
+bs|mp3-long/000048.mp3|Ha:dlv hé:g? Ani:dalǒ:nígé digadv́:d danì:gí. Yú:ne:gake hiwó:ni? Nah.
+bs|mp3-long/000057.mp3|Ana̋:ta. Ka:ga. Dī. Dā. Agě:hya. Kǎ:hwi inadǐ:ta. Chű:j. Ané:ga. U:lò:gí:l.
+bs|mp3-long/000062.mp3|Ù:néha. Age:hyű:ja. À:lsdâ:yv:hv́sga. Ani:gayv̌:lí. Kó:.
+bs|mp3-long/000067.mp3|Ù:nihwasga. Yī. Janht. Mī. Gadò adā?
+bs|mp3-long/000070.mp3|Joɂgaduɂi Jalagi go:hwe:lv̀:ɂi. Ő:sdadv Jalagi gawó:niɂa. Di:dǎ:hnehdi.
+bs|mp3-long/000072.mp3|Kó:gi. Ǔ:tana wǒ:háɂl à:gowhtí.
+bs|mp3-long/000075.mp3|Asú:sdi desgi:nehv. Janhta. Dijé:nv̀:sv́ hé:.
+bs|mp3-long/000080.mp3|Hila̋ go:hwe:li jadu:lí? Ani:wi̋:n. Ő:sdaju? Yú:ne:g. Géɂi.
+bs|mp3-long/000085.mp3|Gohlsga. Alsdâ:yv:hv́sga. Hiɂluhgī. Ahu:li. Lu:ga.
+bs|mp3-long/000090.mp3|U:hyv:dla dò:dala. Dù:ninvhdi. U:hyv:dlv gě:dô:. Sǔ:dál. Gv̀:ne.
+bs|mp3-long/000096.mp3|Aji:lv́:sga. Juné:nv̀:sv́ à:né:ga. Agǐ:gáge. Iga. À:sdû:di. Hì:neha.
+bs|mp3-long/000101.mp3|U:li:he:lísdi à:lsdàyh. Ga:da:ha̋. I̋:. U:ga̋:nawa. Gadō anadv:neɂa?
+bs|mp3-long/000103.mp3|Ani:gě:. Anigǐ:gáge ani:ji:lv̋:sg.
+bs|mp3-long/000108.mp3|Gadò ad? Agǐ:gáge gitǎ:ya. U:galǒ:. Naɂv. Galiɂě:lí.
+bs|mp3-long/000110.mp3|Gadò dě:jádo:ɂa? Gadògi hadí:ɂa.
+bs|mp3-long/000116.mp3|Ká:gā na achű:ja? Kilő:i. Do:yű. Gà:yő:hlike hiwó:ni Jalagi? Jv̌:ya. Unihwasga.
+bs|mp3-long/000121.mp3|Asgayv. À:diɂa. Hv? À:lsdàyhd. Igv:yí.
+bs|mp3-long/000126.mp3|Nvh. U:gana̋:sdake jadu:lí? Yó:ne:ga. U:hyv:dla dǒ:yi. Adǎ:wé:hi.
+bs|mp3-long/000130.mp3|À:dv́:ne. U:hyv:dlake adǐ:tas jadu:lí? Unadu:líɂa. À:gwanhta.
+bs|mp3-long/000137.mp3|Ùnanhta. Gadō ű:sdi ayv:wi:yá? U:gǎ:nawa dò:dala. Anigǐ:gáge dehlgv́. Gő:la. À:ga:sga. Chuně:l.
+bs|mp3-long/000140.mp3|Sgǒ:. Gadō adv:neɂa? Ő:sdadv̀.
+bs|mp3-long/000143.mp3|Digǐ:gáge ale dijéɂiyű:sdi dà:gi di:jv̋sdi. Ànsgv:. Idalě:na.
+bs|mp3-long/000146.mp3|Ha:dlv hině:la? Dù:danv:hnv̋. Desgi:dì:.
+bs|mp3-long/000148.mp3|Chuně:li:ne̋ Jalagi go:hwe:lv̀:ɂi. Agǐ:gáge aji:lv̋:sg.
+bs|mp3-long/000152.mp3|Gv́:na à:wadu:lí. Joɂi. Gadò anà:dv́:ne? Sv:hiye̋.
+bs|mp3-long/000156.mp3|Mē. Wv̄. Waló:si. À:wadu:lí.
+bs|mp3-long/000162.mp3|Hila̋ go:hwe:li jadu:líɂa? Waló:s. hno. Hé:gasgohv? Anihneha. Sǔ:dáli.
+bs|mp3-long/000170.mp3|Nà:hní. U:gǎ:nawa gě:dô:a. Ō. Gaɂluhgī. U:hyv:dla. Ù:náɂa. Ani:sgaya. Dijv̋sd.
+bs|mp3-long/000173.mp3|Gatv:gī. U:hyv:dlake dǒ:y? Donada:go:hv:ɂi.
+bs|mp3-long/000177.mp3|Age:hyű:j. Sgigaduɂi Jalagi go:hwe:lv̀:ɂi. À:gwv̌:ya. Ù:nadu:lí.
+bs|mp3-long/000182.mp3|Gawó:niɂa. Sī. Sǐ:gwu. Uwo:du. Gadō ű:sdi dadihno:gí:si?
+bs|mp3-long/000188.mp3|Agv̌:níge̋:. Wado. Ǔ:tan. I:ga. Sóhně:li:ne̋. Gé.
+bs|mp3-long/000190.mp3|Uwǒ:dígé u:sdi̋ jǔ:ntana wǒ:háɂli dà:gowhtíɂa. Jiwó:niɂa.
+bs|mp3-long/000194.mp3|Gà:yő:hli jiwó:niɂa Jalagi. Síyo. Sakǒ:nígé u:gì:dáhli. À:giha.
+bs|mp3-long/000196.mp3|De:halǔ:yi. Ù:we:káha.
+bs|mp3-long/000198.mp3|Junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli. U:gù:ku.
+bs|mp3-long/000201.mp3|Mā. Digahi:nv̀:si. U:ne̋:ga u:lò:gí:li.
+bs|mp3-long/000205.mp3|Ané:. Ané:ga. À:ndi. Sō. Kó:ga.
+bs|mp3-long/000207.mp3|Chuně:li:ne̋:ɂi. Dò ű:sdi a:sésdi kò:hí?
+bs|mp3-long/000212.mp3|Goɂi jadu:lí? Lū. Gadō u:sdi jadu:líɂa.? Idihno:. Unadu:lí.
+bs|mp3-long/000217.mp3|Chuně:li:ne̋. Dō ű:sd dadihno:gí? V̄. Ī. Hiwó:ni.
+bs|mp3-long/000222.mp3|Yú:ne:ga. Goɂi jadu:lísgo? Lō. Saduɂi:ne̋ Jalagi go:hwe:lv̀:ɂi. Dodada:go:hv̄.
+bs|mp3-long/000229.mp3|Dō adv:ne? Ùnanht. Su:dali:ne̋. U:gǎ:nawa gě:dô:. Ha:dlv hině:l? Agě:. Sihgw.
+bs|mp3-long/000235.mp3|Nō. Dù:danv:hnv̋:ɂi. Dikané:jv. Dinǐ:yé:li:. Ajéɂiyű:sd. Dō ű:sd?
+bs|mp3-long/000238.mp3|Nǔ:n. Hlá kiloyi. U:hyv:dlv.
+bs|mp3-long/000243.mp3|Ani:ji:lv́:sga. He:lí. Áhni. Achű:ja. Hila̋ nà:ní:ɂa?
+bs|mp3-long/000248.mp3|U:sdi̋ɂi. U:hyv:dlv gě:dô:a. À:gi:ká. Gù:. Gadō ű:sd ayv:wi:yá?
+bs|mp3-long/000253.mp3|Dlā. U:hyv:dlv u:hyv:dlv. Gv:no:sásdi. Ayv:wi:yádv. Ani:sgayv.
+bs|mp3-long/000258.mp3|Unináɂa. Dò ad? Anali:hě:lí. Adǐ:tasdi jadu:líɂa? Yv:w.
+bs|mp3-long/000263.mp3|Hisgi:ne̋. Táɂl. Analsdâ:yv:hv́sg. À:di:tásg. U:no:lv̀:tan ka:la.
+bs|mp3-long/000266.mp3|Nvhgi:né. U:du:líɂa. Ajv̋sdi.
+bs|mp3-long/000271.mp3|Agayv̌:líge̋:. Ju:no:dű ani:ge:hyű:ja anili:hě:lî:ga.. Kā. Anè:lí. É:.
+bs|mp3-long/000275.mp3|Na. Ga̋:du. Jǔ:ntana wǒ:háɂli danì:gowhtíɂa uniwǒ:dígé salǒ:li. Junsdi.
+bs|mp3-long/000282.mp3|Dijv̋sdi. Uwo:dű age:hyű:ja. V̌:sgíyi. Sa:sa. Hē. Jadu:líɂa. Idalě:n.
+bs|mp3-long/000286.mp3|Ù:du:lí. U:du:lí. De:halǔ:. Digahi:nv̀.
+bs|mp3-long/000290.mp3|Ù:wâ:ya. Halâ:yv̋ é:gwő:ni? Sgo:hi:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi. U:hyv:dla dǒ:y.
+bs|mp3-long/000295.mp3|Ū. Ge:líɂa. U:sganő:. U:hyv:dlake dǒ:yi? Donada:go:hv̄.
+bs|mp3-long/000301.mp3|Go:hwe:la. Junsdiɂi. Gǐ:. Ajéɂiyű:sdi. Ajina. Desgi:dì:si.
+bs|mp3-long/000306.mp3|Ő:sdadv. Dù:dǎ:sgó chuně:la go:hwe:la. Ǔ:tana. Ijéɂiyű:sdi. Kilo gawó:ni.
+bs|mp3-long/000310.mp3|Dla:ma:ha. Su:dali:né Jalagi go:hwe:lv̀:ɂi. Hila̋ ǐ:ga̋ɂi? Su:dali:ne̋:ɂi.
+bs|mp3-long/000315.mp3|Hiwó:niɂa. He:líɂa. Adǎ:hnehdi. Agihyv̋:dla. Kila.
+bs|mp3-long/000319.mp3|Anè:lía. Dò:dala ju:hyv:dla. Dà:gikáha jí:sgwa. Aksdà:yv̌hv:sgi.
+bs|mp3-long/000323.mp3|Hé:gake? Kwana. Jǔ:tana dehlgv́. Nihi gadíɂa hiɂa.
+bs|mp3-long/000326.mp3|Juwé:nv̀:sv́ é:. Ǔ:tana wǒ:háɂli à:gowhtíɂa uwǒ:dígé salǒ:li. Uwǒ:dígé u:sdi̋.
+bs|mp3-long/000330.mp3|Asgaya gawó:niɂa. Ùnhta. Awi̋:na. U:no:lv̀:tani ka:la.
+bs|mp3-long/000332.mp3|U:sganő hiwò:nǐ:. Gù:gu.
+bs|mp3-long/000335.mp3|À:ga:sg. Di:kwayő:d ale á:m. U:halv:na.
+bs|mp3-long/000341.mp3|Tā. Wē. U:ni:gǎ:nawa. Gadò? Ha:dlv go:hwe:lv? Á:ma.
+bs|mp3-long/000343.mp3|Ànsgv:ti. A̋:t.
+bs|mp3-long/000347.mp3|Digǐ:gágé ale dijé:ɂiyű:sd dà:gi di:jv̋sd. Ni! Dv̄. Uniwǒ:dígé junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli.
+bs|mp3-long/000353.mp3|Asgaya. Di:de:hyǒ:hv. Hiyv:wi:yá. Dù:dǎ:sgó chuně:li go:hwe:li. À:giné. Go:gi.
+bs|mp3-long/000357.mp3|Go:lì:ga. Hila̋ nà:ní? Nv:dadě:w. Ǔ:gáma.
+bs|mp3-long/000361.mp3|Uniha. Tò:hi̋:ju. Achű:ji. Kwī.
+bs|mp3-long/000366.mp3|Sě:lu ga̋:du. Hadáɂnvɂa. Dò:dala ju:gǎ:nawi. Ha:dlv? Alsdâ:yv:hv́.
+bs|mp3-long/000370.mp3|Asú:sdi à:wadu:líɂa. U:ne̋:. E̋:gwa. Dō u:sd?
+bs|mp3-long/000377.mp3|Ju:ni:là:wisdi gé:. Anihne. U:no:lv̀:tani. Hé:ga. Mō. Ő:sd. À:dia.
+bs|mp3-long/000381.mp3|Kwō. Aniɂluhgī. Kwū. Ani:sgaya aniwó:niɂa.
+bs|mp3-long/000384.mp3|Anv:yi. Tla yà:gwanht. À:li:hě:lí.
+bs|mp3-long/000385.mp3|Jǐ:sa.
+bs|mp3-long/000389.mp3|Ani:chű:j. U:hyv:dlv e̋:hi. U:halv:ni. Taɂli:ne̋:ɂi go:hwe:lvɂi.
+bs|mp3-long/000394.mp3|À:giná. Hō. Uniwǒ:dígé. Aksdà:yv̌hv̄. Ayv:wi:yá.
+bs|mp3-long/000397.mp3|Di:kwayő:di ale á:ma. U:nv̌:d hà:su:yv́:sgó? Ge:lí.
+bs|mp3-long/000402.mp3|Hadí:ɂa. Ju:ntvhisd. Gv:no:sásdi ti:dì:si. Gv́:na hiɂvsi. Gadáɂnvɂa.
+bs|mp3-long/000406.mp3|Sū. Tē. Unali:he:lísdi. É:gwő:ni.
+bs|mp3-long/000409.mp3|Igv:yi̋:ɂi à:danv:hnv́. Dijé:nv̀:sv̋:ɂi hé:ga. Ani:gayv̌:líge̋:.
+bs|mp3-long/000414.mp3|Nē. Nokwsi. Go:hi̋:gi. À:di. Dijé:nv̀:sv́ hé:g.
+bs|mp3-long/000417.mp3|Lī. Na achű:ja. Akwe:nhda go:hwe:li.
+bs|mp3-long/000422.mp3|Sgina. U:ni:hyv̋:dla. Anigǐ:gáge gitǎ:yaɂi. Hlv̄. U:sganő:li hiwò:nǐ:hi.
+bs|mp3-long/000425.mp3|Ju:ni:là:wisdi gé:ga. Hiyv:wi:yásg? chuně:la.
+bs|mp3-long/000432.mp3|Gadáɂnv. Wō. Yū. U:no:lv̀:tana ka:la. V̌:sgí. Hī. Nà:ní.
+bs|mp3-long/000434.mp3|À:hne. À:ga:sgas?
+bs|mp3-long/000438.mp3|Di:je̋ dikané:jv di:do:ja. Hadì:tásg. Atv:gī. À:gi:káha.
+bs|mp3-long/000443.mp3|Dego:hwe:la. Taɂli:ne̋ go:hwe:la. Alà:sǔ:lo. Wū. Hiɂluh.
+bs|mp3-long/000450.mp3|Ē. Aniwó:ni. Go:hwe:l. Ù:ninéha. Gv́:na. Jiɂluhgī. Dò dě:jádo?
+bs|mp3-long/000455.mp3|Ani:chű:ja. Ahljadő:hvsgi. Nǔ:na. À:nadáɂnv. Go:hwe:la hi:nv̀:si.
+bs|mp3-long/000460.mp3|U:hyv̋:dla. Galv:lő:hi. Analsdâ:yv:hv́sga. Gadō hadv:neɂa? À:ndia.
+bs|mp3-long/000464.mp3|E:lo. Ijéɂiyű:sd. Naɂvɂi. Di:te:lǐ:do didihlahv̀.
+bs|mp3-long/000467.mp3|Nana. Tla yà:gwanhta. Ayo.
+bs|mp3-long/000470.mp3|Anigv̌:níge̋ kama:ma a:nalsdâ:yv:hv́sga. Gadō u:sdi? Di:sésdi.
+bs|mp3-long/000475.mp3|U:hyv:dla u:hyv:dlv. À:lsdàyhdi. Hū. Hv̄. Gā.
+bs|mp3-long/000479.mp3|Agǔ:sa jiyv:wi. Agv̌:nígé gi:hli uwǒ:dígé alà:sǔ:lo à:gowhtíɂa. Yā. Hila̋dv?
+bs|mp3-long/000483.mp3|Dō. A:nadiɂa. U:gǎ:nawa. Agayv̋:li.
+bs|mp3-long/000488.mp3|À:ginéha. Gà:yő:hl jiwó:ni Jalagi. Dō hadv:ne? Jē. Digo:hwe:la.
+bs|mp3-long/000491.mp3|U:no:lv̀:tana. Uwo:duke kò:hi̋ sv:hiye? Ù:we:ká.
+bs|mp3-long/000494.mp3|Janáa. Asú:sdi desgi:nehvsi. Idihno:gí.
+bs|mp3-long/000498.mp3|Sóhně:l. Gē. Ani:gǐ:gágé ale ani:jé:ɂiyű:sdi. À:li:hě:lî:ga.
+bs|mp3-long/000501.mp3|Digwé:nv̀:sv́ gé:. Achű:j. Ali:he:lísdi.
+bs|mp3-long/000504.mp3|Gv́:n desgv̄. Ù:nâ:ya. Anisakǒ:nígé ju:gì:dáhli.
+bs|mp3-long/000508.mp3|Ju:natvhisdv. U:gǎ:nawa e̋:hi. Uwǒ:dígé u:sdi̋ ǔ:tana wǒ:háɂli à:gowhtíɂa. Nvhgi:ne̋.
+bs|mp3-long/000511.mp3|Kawo:ni. Agǐ:gáge gitǎ:yaɂi. Jù:lúhjv̌ kò:hi̋, tlaidv́galúhji.
+bs|mp3-long/000516.mp3|V:le. Hlahv. Sgwi̋:sd. Hla. Go:hwe:li.
+bs|mp3-long/000519.mp3|Gadò ű:sdi i:ga atli:gili? Hawi:ya. Ā.
+bs|mp3-long/000525.mp3|U:ne̋:g u:lò:gí:l. Gő:li. Hé:gaju? Gv̄. Jiɂluh. O:síyo.
+bs|mp3-long/000530.mp3|Dà:ni:lâ:wì:ga. Gő:l. Sv̄. Jiyv:wi:yádv. Halihě:lî:ga.
+bs|mp3-long/000534.mp3|Asgaya gawó:ni. Di:ni:yő:hli. É:gwő:n. Igv:yi̋:ɂi.
+bs|mp3-long/000537.mp3|Anisakǒ:nígé ju:gì:dáhl. Du:lì:sdi. Taɂli:ne̋:ɂi.
+bs|mp3-long/000539.mp3|Ani:gǐ:gágé ale ani:jé:ɂiyű:sdi dà:gikáha jí:sgwa. Hlū.
+bs|mp3-long/000545.mp3|Du:lì:sd. Chuně:li:ne̋ go:hwe:l. Sē. Kǒ:l. À:gi. Mū.
+bs|mp3-long/000550.mp3|Kané:jv. Ajv̋sd. Nà:sgi. Asú:sdi à:wadu:lí. Anadi:tásga.
+bs|mp3-long/000555.mp3|Hisgi:ne̋:ɂi. Am. Hé:. Děhlgv́. Halâ:yv̋ wù:sda é:gwő:ni?
+bs|mp3-long/000560.mp3|U:ne̋:ga. Ǔ:tana hlgv́. Anigǐ:gáge gitǎ:ya. Jo. Hila̋ ǐ:ga̋?
+bs|mp3-long/000564.mp3|Ayv gé. E:lohi. Ani:sgay. Gv́:n hiɂv̄.
+bs|mp3-long/000571.mp3|Gahlgwǒ:. Nihina? Jiyú:ne:ga jiyv:wi. Gawó:ni. Gǎ:da. Yē. Howa.
+bs|mp3-long/000575.mp3|Gī. Gahligwo:gi:ne̋. Ù:lô:gi:li kò:hi̋ svná:le. Hì:ne.
+bs|mp3-long/000581.mp3|Ha:dlvɂi? Halihě:lí. À:dáɂnv:ɂa. Ù:né. Ani:ge:hyű:ja. Gō.
+bs|mp3-long/000584.mp3|E̋:. Kuye:gwǒ:n. V̄:.
+bs|mp3-long/000586.mp3|Ani:dalǒ:nígé digadv́:di danì:gíɂa. Ha:dlv go:hwe:lv̀:ɂi.
+bs|mp3-long/000590.mp3|U:gǎ:nawa u:gǎ:nawa. Gahligwo:gi:ne̋:ɂi. Nvhgi:ne̋:ɂi. Dū.
+bs|mp3-long/000595.mp3|Jí:sgwa ani̋:da anì:jáɂiɂa. A:sésdi. Goɂike jadu:lí? Ani:ge:hyű:j. Me:li.
+bs|mp3-long/000600.mp3|Yú:ne:gake hiwó:niɂa? Digwé:nv̀:sv̋:ɂi gé:ga. Kwana děhlgv́ Da:ntvsga. Dla:nú:si. Kwā.
+bs|mp3-long/000608.mp3|Ani:chű:ji. Anà:lsdâ:yv:hv́. hnv. Gō:. Kawo:n. Agigǎ:nawa. Hadáɂnv. Wā.
+bs|mp3-long/000615.mp3|Ge:li̋:stgi. Jū. Gaɂluh. Aji:lv̋:sgi. Nanaɂi. Gadì:tásga. Lē.
+bs|mp3-long/000623.mp3|Hlā. Hlē. Sě:lu. Asgay. Joɂi:né. Ahljadő:hvsg. É:ga. Lā. Yv:wi.
+bs|mp3-long/000627.mp3|Nī. À:tv:gâ:nv nù:wè:sv. Na doyu uwo:dű ajin. Dlù:dlu.
+bs|mp3-long/000633.mp3|Hilâ:yv̋ dv́ɂhilúhji? Taɂli:né. Dla:me:ha. Yó:ne:g. Hatv:gī. Ani̋:dage.
+bs|mp3-long/000637.mp3|Lv̄. Anigǐ:gáge ani:ji:lv̋:sgi. Agǐ:gáge hlgv́. Kalsě:jis hà:su:yv́:sgó?
+bs|mp3-long/000641.mp3|Do:yu uwo:du sv:hiye. Sā. I:ya ge:li̋:stg. Sóhně:la.
+bs|mp3-long/000644.mp3|U:nine̋:ga ju:lò:gí:la. Gadò ű:sdi a:sésdi kò:hí? Sóhne:li:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000651.mp3|A̋ɂdage. Gadí:ɂa. Na doyu uwo:dű ajina. I:ya. V:v. Gweti dà:wadó. Hā.
+bs|mp3-long/000656.mp3|Galì:sdâ:yv:hv́sga. Gé:. Ama. È:lí. Ayv gé:ga.
+bs|mp3-long/000659.mp3|U:tvhisdv. Dodada:go:hv:ɂi. Ani:ji:lv̋:sgi.
+bs|mp3-long/000665.mp3|Dō gadv:ne? Yv̄. Kama:ma. Tlaidv́galúhji. Ani:gayv̌:líge̋:. Nv:dadě:wa.
+bs|mp3-long/000669.mp3|Tla yigo:lì:ga. Ù:lô:gi:lv. Kǒ:la. Hiyv:wi:yásgohv?
+bs|mp3-long/000671.mp3|Asú:sdi. Gv:no:sásdi hi:dì:si.
+bs|mp3-long/000676.mp3|Agv̌:níge̋:ɂi kama:ma à:lsdâ:yv:hv́sga. Dògi hadí. Kwan. À:hneha. A̋ɂda.
+bs|mp3-long/000681.mp3|À:nadáɂnv:ɂa. Nū. Joɂi:ne̋:ɂi. Sà:gwű. Agě:hyv.
+bs|mp3-long/000684.mp3|Jō. A̋:ta. Galiɂě:lî:gi niga̋:da jijiɂluhgi.
+bs|mp3-long/000689.mp3|Hila̋ ǐ:ga̋ɂi jadu:líɂa? Dǒ:yi. Nā. Dà:ni:lâ:wì:. Ju:ni:là:wisdi.
+bs|mp3-long/000691.mp3|Hisgi:né jalagi go:hwe:lvɂi. Gadō ű:?
+bs|mp3-long/000693.mp3|Galsdâ:yv:hv́sg. À:ga:sga u:hyv:dlahno dǒ:yi.
+bs|mp3-long/000696.mp3|Gahlgwo:gi:ne̋ Jalagi go:hwe:lv̀:ɂi. Taladuɂi Jalagi go:hwe:lv̀:ɂi. Akwanv́:gi jiyv:wi.
+bs|mp3-long/000700.mp3|Nigaduɂi Jalagi go:hwe:lv̀:ɂi. Gaɂlo:hni. Didǐ:yé:li:hi. Hiyv:wi:yádv.
+bs|mp3-long/000703.mp3|Ani̋:da. U:lò:gí:li. Juwé:nv̀:sv̋:ɂi é:ga.
+bs|mp3-long/000707.mp3|U:gana̋:sdake jadu:líɂa? U:gǎ:no. À:di:tásga. Di:dihnó:gi.
+bs|mp3-long/000712.mp3|Gadō ű:sdi? Gǎ:sógwalv́. Ahő:li. Anà:dv́:neɂa. Agayv̌:lí.
+bs|mp3-long/000717.mp3|Unikáha. Á:m. Yō. Ő:sda. Dù:ninvhd.
+bs|mp3-long/000722.mp3|Gadì:tásg. Nvhgi. Gv́:na desgvsi. Gv́:n à:wadu:lí. Goɂi jadu:líɂa?
+bs|mp3-long/000727.mp3|Gé:ga. Hlō. Hlá kiloyigi. Gadō gadv:neɂa? Halsdâ:yv:hv́sga.
+bs|mp3-long/000731.mp3|U:gǎ:nowi. Ayő:hli. Dǒ:y. Jalagi.
+bs|mp3-long/000734.mp3|Aniwó:niɂa. Aniɂluh. Kiloɂi gawó:niɂa.
+bs|mp3-long/000740.mp3|À:gináa. Hisgi. Gū. Anadi:tásg. Hlī. Go:hi̋:.
+bs|mp3-long/000742.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:. Kuye:gwǒ:ni.
+bs|mp3-long/000744.mp3|Anigv̌:nígé gi:hli danì:gowhtíɂa juwǒ:dígé dilà:sǔ:lo. Sakǒ:níge̋:.
+bs|mp3-long/000749.mp3|Juné:nv̀:sv́ à:né:. Na achű:ja jù:lúhjv̌ kò:hi̋. Suná:le̋:ɂi. Anali:hě:lî:ga. Ka:gaɂli.
+bs|mp3-long/000754.mp3|U:galǒ:ga. Hiɂa. Ha:dlv hé:ga? Awi̋:n. Dō anadv:ne?
+bs|mp3-long/000757.mp3|Jí:sgwa juwě:ji. Wī. U:ne̋:ga u:lò:gí:la.
+bs|mp3-long/000765.mp3|V̀:hla. Galiɂě:lî:ga. Sgǒ:hi. U:lò:gí:la. Ani:sgaya aniwó:ni. Inadǐ:ta. Jadu:lí. Jiwó:ni.
+bs|mp3-long/000770.mp3|Go:lì:. Táɂli. Nihinahv? Sà:wűɂi. Anà:lsdâ:yv:hv́sga.
+bs|mp3-long/000774.mp3|Nǔ:ni. Ő:sdadv Jalagi gawó:ni. Ma:ga. Ana̋:t.
+bs|mp3-long/000781.mp3|Ale. Ǔ:ha. Ani:gě:hya. Ù:néa. Gǐ:ga. Kwē. Kǒ:li.
+bs|mp3-long/000787.mp3|Ù:hwasga. Anigǐ:gáge gitǎ:yaɂi. Gaɂluh. Unináɂa. Nah.
+bs|mp3-long/000794.mp3|Wā. Galiɂě:lî:ga. Agayv̌:lí. À:tv:gâ:nv nù:wè:sv. U:halv:na. Ju:ntvhisd. Dv.
+bs|mp3-long/000797.mp3|Jù:lúhjv̌ kò:hi̋, tlaidv́galúhji. Na doyu uwo:dű ajina. Ayo.
+bs|mp3-long/000801.mp3|Kǒ:li. U:no:lv̀:tan ka:la. Gahlgwǒ:. Yó:ne:ga.
+bs|mp3-long/000807.mp3|Gǐ:ga. Jū. Igv:yí. Anadi:tásg. Kwana. Sgigaduɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000811.mp3|Agǐ:gáge gitǎ:ya. Gadō ű:sdi ayv:wi:yá? Jī. Yó:ne:g.
+bs|mp3-long/000814.mp3|Joɂi:né. Sō. Achű:j.
+bs|mp3-long/000818.mp3|Na achű:ja. Hila̋ ǐ:ga̋ɂi jadu:líɂa? Agě:hya. Asú:sd.
+bs|mp3-long/000821.mp3|Ayv:wi:yá. Uniwǒ:dígé junsdi ǔ:tana wǒ:háɂli anì:gowhtíɂa. À:gi:káha.
+bs|mp3-long/000827.mp3|À:ga:sga. Kwū. Hé:. Dijé:nv̀:sv́ hé:g. Galiɂě:lî:gi niga̋:da jijiɂluhgi. Gv:no:sásd.
+bs|mp3-long/000834.mp3|Di:de:hyǒ:hvsgi. Wū. Kilő:i. Naɂv. Dā. Hlō. Jí:sgwa juwě:ji.
+bs|mp3-long/000843.mp3|Lū. A̋:ta. É:. Gǎ:da. Hnā. Dō adv:ne? Inadǐ:ta. Gv̀:ne. Kwā.
+bs|mp3-long/000849.mp3|Kawo:ni. Anà:dv́:neɂa. À:di. É:ga. Awi̋:n. U:gana̋:sdake jadu:lí?
+bs|mp3-long/000852.mp3|U:gǎ:nawa gě:dô:a. Uniha. Anà:lsdâ:yv:hv́sga.
+bs|mp3-long/000857.mp3|Ǔ:tan. Dla:nú:si. Gadò dě:jádo:ɂa? Jiɂluhgī. Dù:dǎ:sgó chuně:li go:hwe:li.
+bs|mp3-long/000860.mp3|Di:je̋ dikané:jv di:do:ja. Agǐ:gáge gitǎ:yaɂi. À:hne.
+bs|mp3-long/000866.mp3|U:ne̋:ga. Ani:chű:j. Ànsgv:ti. Ù:né. Kǎ:hwi inadǐ:ta. Ǔ:ha.
+bs|mp3-long/000870.mp3|Gadò adā? Ju:ni:là:wisdi gé:. Hisgi. E:lohi.
+bs|mp3-long/000876.mp3|Gő:la. Jv̄. À:nadáɂnv. Ana̋:ta. Ù:du:lí. Adǎ:wé:hi.
+bs|mp3-long/000879.mp3|À:ga:sga u:hyv:dlahno dǒ:yi. Gadò ű:sdi a:sésdi kò:hí? Táɂlduɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/000884.mp3|Nv:dadě:w. Ani:gě:. Hawi:ya. U:gǎ:nawa. Ani:sgaya.
+bs|mp3-long/000888.mp3|Joɂi. Asú:sdi à:wadu:líɂa. Sū. Gahligwǒ:gi.
+bs|mp3-long/000892.mp3|Sgo:hi:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi. Ayv gé. Hisgi:ne̋:ɂi. Sihgw.
+bs|mp3-long/000897.mp3|Lō. Gv́:na à:wadu:lí. Suná:le̋. Á:m. U:gana̋:sdake jadu:líɂa?
+bs|mp3-long/000905.mp3|Go:lì:. Digahi:nv̀. hno. Ē. Hlī. U:du:lí. Agě:. Dògi hadí.
+bs|mp3-long/000909.mp3|Hadí:ɂa. U:hyv:dlv e̋:hi. Ani:ji:lv̋:sgi. Do:yű.
+bs|mp3-long/000913.mp3|Ha:dlv hině:l? Wē. Di:kwayő:di ale á:ma. Hlá kiloyi.
+bs|mp3-long/000918.mp3|Hlá kiloyigi. Yū. Kwī. V̄:. U:gǎ:nawa gě:dô:.
+bs|mp3-long/000920.mp3|Sv:hiye̋. Jǐ:sa.
+bs|mp3-long/000923.mp3|Gadò ű:sdi i:ga atli:gili? Asú:sdi desgi:nehvsi. Dà:ni:sdayo:hihv́.
+bs|mp3-long/000926.mp3|Ő:sdadv Jalagi gawó:ni. U:gǎ:nawa u:gǎ:nawa. Asú:sdi à:wadu:lí.
+bs|mp3-long/000933.mp3|Hé:gake? Unali:he:lísdi. U:halv:ni. Nǔ:na. Gv́:n. Sǐ:gwu. Taɂli:ne̋ go:hwe:la.
+bs|mp3-long/000940.mp3|Jō. V̌:sgíyi. Ànsgv:. Gadō anadv:neɂa? Ha:dlv hině:la? À:dia. Jaha.
+bs|mp3-long/000943.mp3|Juwé:nv̀:sv́ é:. Gadò anà:dv́:ne? À:dáɂnv:ɂa.
+bs|mp3-long/000949.mp3|À:ndi. U:sganő:li hiwò:nǐ:hi. Aksdà:yv̌hv:sgi. Nihina? Tla yigo:lì:ga. Sihgwa.
+bs|mp3-long/000954.mp3|Kané:jv. Ī. Děhlgv́. Gaɂlo:hni. Gv:no:sásdi.
+bs|mp3-long/000958.mp3|Dù:ninvhd. Su:dali:né Jalagi go:hwe:lv̀:ɂi. Asgayv. À:lsdâ:yv:hv́sga.
+bs|mp3-long/000962.mp3|Di:ni:yő:hli. Jiyú:ne:ga jiyv:wi. U:gǎ:no. U:hyv:dla dǒ:yi.
+bs|mp3-long/000971.mp3|Ani:chű:ji. Mā. Hī. Junsdi. Gadō hadv:neɂa? Ali:he:lísdi. Aniɂluh. È:lí. Nō.
+bs|mp3-long/000975.mp3|Joɂgaduɂi Jalagi go:hwe:lv̀:ɂi. Ő:sdadv Jalagi gawó:niɂa. Wī. Tlaidv́galúhji.
+bs|mp3-long/000981.mp3|Gadò? Kǒ:l. Anali:hě:lî:ga. Gv̄. Gadí:ɂa. U:lò:gí:li.
+bs|mp3-long/000987.mp3|À:gwanhta. À:sdû:di. Ajéɂiyű:sdi. Nihinahv? À:gi. Du:lì:sd.
+bs|mp3-long/000993.mp3|Ő:sdadv̀. Go:hi̋:. U:no:lv̀:tani. Jē. U:gǎ:nowi. Hiyv:wi:yásgohv?
+bs|mp3-long/000998.mp3|Nihi gadíɂa hiɂa. Tla yà:gwanht. À:giné. Sgina. Yō.
+bs|mp3-long/001005.mp3|Dō. Nǔ:n. U:ne̋:ga u:lò:gí:li. Hiyv:wi:yádv. Ō. Achű:ja. Ù:nihwasga.
+bs|mp3-long/001010.mp3|Chuně:li:ne̋ Jalagi go:hwe:lv̀:ɂi. Sgo:hi:ne̋. Kwv̄. Sǔ:dáli.
+bs|mp3-long/001012.mp3|Ani:ji:lv́:sga. Á:ma.
+bs|mp3-long/001016.mp3|Lī. A:nadiɂa. Halihě:lî:ga. Unadu:lí.
+bs|mp3-long/001024.mp3|Akwe:nhda go:hwe:li. E:lo. Sgwi̋:sd. Nī. Sě:lu. Táɂl. Dinǐ:yé:li:hi. U:gù:ku.
+bs|mp3-long/001030.mp3|Hlā. Hlē. Hv? Hadáɂnvɂa. Galì:sdâ:yv:hv́sga. Ǔ:tana. Gawó:ni.
+bs|mp3-long/001035.mp3|Anisakǒ:nígé ju:gì:dáhl. Dù:danv:hnv̋. Awi̋:na. Asgaya gawó:ni. Ù:nadu:lí.
+bs|mp3-long/001038.mp3|Nana. Yú:ne:g. Joɂi:ne̋:ɂi.
+bs|mp3-long/001044.mp3|Sgǒ:hi. Sě:lu ga̋:du. Gō. U:hyv:dla dò:dala. Ù:lô:gi:lv.
+bs|mp3-long/001046.mp3|Dō anadv:ne? Uwǒ:dígé u:sdi̋.
+bs|mp3-long/001053.mp3|Hatv:gī. Ga:da:ha̋. Gv́:n hiɂv̄. Goɂi. Am. Ǔ:tana wǒ:háɂl à:gowhtí.
+bs|mp3-long/001057.mp3|Hiwó:niɂa. U:lò:gí:l. Ale. Ga̋:du.
+bs|mp3-long/001063.mp3|Ijéɂiyű:sd. Ù:ninéha. Anè:lía. U:galǒ:. Nvhgi:ne̋. Ū.
+bs|mp3-long/001065.mp3|Lē. U:hyv:dla u:hyv:dlv.
+bs|mp3-long/001067.mp3|Anigǐ:gáge gitǎ:ya. V̀:hla.
+bs|mp3-long/001071.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:ga.. Iga. Me:li. Saduɂi:ne̋ Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/001074.mp3|U:sganő hiwò:nǐ:. Tò:hi̋:ju. Hlū.
+bs|mp3-long/001077.mp3|Agv̌:nígé gi:hli uwǒ:dígé alà:sǔ:lo à:gowhtíɂa. Gadáɂnv. À:ga:sg.
+bs|mp3-long/001082.mp3|U:ne̋:g u:lò:gí:l. Junsdiɂi. Ǔ:gáma. Hilâ:yv̋ dv́ɂhilúhji? Hē.
+bs|mp3-long/001087.mp3|U:sdi̋ɂi. Dō u:sd? Na. Sakǒ:nígé u:gì:dáhl. Anihne.
+bs|mp3-long/001092.mp3|Ha:dlv hé:ga? Chuně:li:ne̋ go:hwe:l. Dinǐ:yé:li:. De:halǔ:yi. Age:hyű:j.
+bs|mp3-long/001095.mp3|Anv:yi. Su:dali:ne̋:ɂi. Aniwó:ni.
+bs|mp3-long/001099.mp3|Na achű:ja jù:lúhjv̌ kò:hi̋. Di:de:hyǒ:hv. Yv̄. Dǒ:y.
+bs|mp3-long/001104.mp3|Gà:yő:hlike hiwó:ni Jalagi? Ǔ:tana hlgv́. Ù:néa. Agv̌:níge̋:. Igv:yi̋:ɂi.
+bs|mp3-long/001109.mp3|Hì:ne. Go:hwe:la hi:nv̀:si. Kwō. Goɂi jadu:lísgo? A:sésdi.
+bs|mp3-long/001113.mp3|Digahi:nv̀:si. Nanaɂi. Dijé:nv̀:sv́ hé:. Dī.
+bs|mp3-long/001117.mp3|Di:te:lǐ:do didihlahv̀. Chű:j. Ù:hwasga. Anadi:tásga.
+bs|mp3-long/001121.mp3|Kwan. Yú:ne:gake hiwó:niɂa? Mū. Mē.
+bs|mp3-long/001126.mp3|Anisakǒ:nígé ju:gì:dáhli. Mō. Gweti dà:wadó. Gv́:n desgv̄.
+bs|mp3-long/001130.mp3|Anihneha. À:ga:sgas? Gv:no:sásdi hi:dì:si. Gadògi hadí:ɂa.
+bs|mp3-long/001135.mp3|Anigǐ:gáge dehlgv́. Hadáɂnv. Adǎ:hnehdi. Go:hi̋:gi. Waló:si.
+bs|mp3-long/001140.mp3|Ha:dlv go:hwe:lv? Sgǒ:. U:tvhisdv. Dō gadv:ne? Didǐ:yé:li:.
+bs|mp3-long/001146.mp3|Hì:neha. Agayv̋:li. Asgaya. Taɂli:ne̋:ɂi. Kuye:gwǒ:ni. Dò:dala ju:gǎ:nawi.
+bs|mp3-long/001150.mp3|Agǐ:gáge aji:lv̋:sg. Akwanv́:gi jiyv:wi. Go:hlv:hnv́. Jalagi.
+bs|mp3-long/001155.mp3|Gadō adv:neɂa? Ù:we:ká. Taɂli:ne̋. Aji:lv́:sga. Anali:hě:lí.
+bs|mp3-long/001159.mp3|Asú:sdi. Anadv́:ne. Hō. Dà:gikáha jí:sgwa.
+bs|mp3-long/001163.mp3|Ǔ:tana wǒ:háɂli à:gowhtíɂa uwǒ:dígé salǒ:li. Wō. Agě:hyv.
+bs|mp3-long/001166.mp3|Gő:l. Tā. À:li:hě:lî:ga.
+bs|mp3-long/001169.mp3|Sóhne:li:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi. Na doyu uwo:dű ajin. Ama.
+bs|mp3-long/001174.mp3|Dō hadv:ne? Nà:hní. À:kiwásga. Gatv:gī. Jiwó:niɂa.
+bs|mp3-long/001176.mp3|Dù:danv:hnv̋:ɂi. Unikáha.
+bs|mp3-long/001178.mp3|Digǐ:gáge ale dijéɂiyű:sdi dà:gi di:jv̋sdi. Go:hwe:la.
+bs|mp3-long/001182.mp3|Gahligwo:gi:ne̋:ɂi. Ajina. Ù:we:káha. Waló:s.
+bs|mp3-long/001187.mp3|Ő:sdaju? U:hyv:dla. Jiyv:wi:yádv. Ani:gě:hya. À:sdû:.
+bs|mp3-long/001192.mp3|Galsdâ:yv:hv́sg. À:di:tásga. Ká:gā na achű:ja? Janáa. Ge:lí.
+bs|mp3-long/001197.mp3|Age:hyű:ja. Ana̋:t. Jǔ:tana dehlgv́. Ajv̋sdi. Galv:lő:hi.
+bs|mp3-long/001201.mp3|Ané:. Ané:ga. Ju:natvhisdv. Sa:sa.
+bs|mp3-long/001204.mp3|Gv́:na desgvsi. Nokwsi. Ani:gayv̌:líge̋:.
+bs|mp3-long/001206.mp3|Nigaduɂi Jalagi go:hwe:lv̀:ɂi. Kó:gi.
+bs|mp3-long/001208.mp3|Gà:yő:hl jiwó:ni Jalagi. Jadu:lí.
+bs|mp3-long/001215.mp3|Donada:go:hv:ɂi. À:di:tásg. Desgi:dì:. Dà:ni:lâ:wì:. Dò dě:jádo? À:giná. Uninéha.
+bs|mp3-long/001222.mp3|Anà:lsdâ:yv:hv́. Lv̄. Ajv̋sd. Ani̋:dage. U:hyv̋:dla. I̋:. Hé:ga.
+bs|mp3-long/001226.mp3|Hiɂa. Nà:sgi. Hila̋ go:hwe:li jadu:líɂa? Gadò ad?
+bs|mp3-long/001230.mp3|Juné:nv̀:sv́ à:né:. Gadáɂnvɂa. Gadō ű:? Idalě:na.
+bs|mp3-long/001232.mp3|U:no:lv̀:tani ka:la. Kalsě:jis hà:su:yv́:sgó?
+bs|mp3-long/001236.mp3|Anigǐ:gáge ani:ji:lv̋:sg. Hisg. chuně:la. U:ne̋:ga u:lò:gí:la.
+bs|mp3-long/001241.mp3|Sóhně:li:ne̋. À:giha. Go:gi. Ùnanht. Hlahv.
+bs|mp3-long/001247.mp3|Ő:sdadv. Sē. Ani:sgayv. Unihwasga. Gaɂlo:n. À:ndia.
+bs|mp3-long/001254.mp3|Sā. Nà:ní. U:hyv:dlv gě:dô:a. Mī. I:ya ge:li̋:stg. Yv:w. Hila̋ nà:ní:ɂa?
+bs|mp3-long/001257.mp3|Kwē. Agv̌:níge̋:ɂi kama:ma à:lsdâ:yv:hv́sga. Nvhgi:né.
+bs|mp3-long/001259.mp3|U:hyv:dlv u:hyv:dlv. Igv:yi̋:ɂi à:danv:hnv́.
+bs|mp3-long/001262.mp3|Ané:ga. Jā. Analsdâ:yv:hv́sga.
+bs|mp3-long/001266.mp3|Ù:lô:gi:li kò:hi̋ svná:le. Agayv̌:líge̋:. À:lsdàyhd. À:dáɂnv.
+bs|mp3-long/001272.mp3|He:líɂa. Dijv̋sd. Taɂli:né. Gahlgwo:gi:ne̋ Jalagi go:hwe:lv̀:ɂi. À:hneha. Agigǎ:nawa.
+bs|mp3-long/001278.mp3|Ù:nâ:ya. Janhta. Hiɂluhgī. Dego:hwe:la. Ani:ge:hyű:j. Idihno:.
+bs|mp3-long/001284.mp3|Adǐ:tasdi jadu:líɂa? Gadō ű:sdi dadihno:gí:si? Goɂi jadu:lí? Ayv gé:ga. Ani̋:da. Gadō ű:sdi?
+bs|mp3-long/001291.mp3|Gō:. Go:lì:ga. Gū. Ka:ga. Ge:líɂa. U:hyv:dla dǒ:y. Dodada:go:hv̄.
+bs|mp3-long/001296.mp3|Gà:yő:hli. Dū. Gadō u:sdi jadu:líɂa.? He:lí. Dikané:jv.
+bs|mp3-long/001302.mp3|Ha:dlv hé:g? Sv̄. Digo:hwe:la. U:ni:hyv̋:dla. Gā. Agihyv̋:dla.
+bs|mp3-long/001307.mp3|Unadu:líɂa. Ahljadő:hvsg. Hla. Sakǒ:níge̋:. Sakǒ:nígé u:gì:dáhli.
+bs|mp3-long/001310.mp3|U:hyv:dlv gě:dô:. Junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli. Dō ű:sd?
+bs|mp3-long/001314.mp3|Ani:sgay. Tla yà:gwanhta. É:gwő:n. Kawo:n.
+bs|mp3-long/001316.mp3|Jí:sgwa ani̋:da anì:jáɂiɂa. U:du:líɂa.
+bs|mp3-long/001319.mp3|Anigǐ:gáge ani:ji:lv̋:sgi. Ha:dlv? Dijv̋sdi.
+bs|mp3-long/001324.mp3|Hlv̄. Kā. Sà:gwű. Ani:dalǒ:nígé digadv́:d danì:gí. Yú:ne:gake hiwó:ni?
+bs|mp3-long/001327.mp3|De:halǔ:. A̋ɂda. Di:dǎ:hnehdi.
+bs|mp3-long/001330.mp3|Agǔ:sa jiyv:wi. U:lò:gí:la. Kilo gawó:ni.
+bs|mp3-long/001335.mp3|Gadō gadv:neɂa? Gà:yő:hli jiwó:niɂa Jalagi. Nvh. Géɂi. Hiyv:wi:yá.
+bs|mp3-long/001341.mp3|Hiɂluh. Idihno:gí. Su:dali:ne̋. Nv:dadě:wa. À:gi:ká. Juné:nv̀:sv́ à:né:ga.
+bs|mp3-long/001348.mp3|Hū. Kuye:gwǒ:n. Gē. Hiwó:ni. Ā. È:lía. Ayő:hli.
+bs|mp3-long/001355.mp3|Alà:sǔ:lo. Hadì:tásg. Táɂli. Gù:gu. Hila̋ ǐ:ga̋? Digwé:nv̀:sv́ gé:. Ani:chű:ja.
+bs|mp3-long/001360.mp3|Goɂi jadu:líɂa? Uwo:du. Sóhně:l. Didǐ:yé:li:hi. Aji:lv̋:sgi.
+bs|mp3-long/001364.mp3|Dù:dǎ:sgó chuně:la go:hwe:la. À:dv́:ne. Dò:dala ju:hyv:dla. Asgay.
+bs|mp3-long/001367.mp3|Kwana děhlgv́ Da:ntvsga. U:nv̌:d hà:su:yv́:sgó? Ma:ga.
+bs|mp3-long/001371.mp3|Ha:dlv go:hwe:lv̀:ɂi. U:nine̋:ga ju:lò:gí:la. Dlù:dlu. Yē.
+bs|mp3-long/001376.mp3|À:lsdàyhdi. U:galǒ:ga. Ijéɂiyű:sdi. Uwo:duke kò:hi̋ sv:hiye? V:le.
+bs|mp3-long/001379.mp3|Hila̋dv? Ùnanhta. Ge:li̋:stgi.
+bs|mp3-long/001383.mp3|Dà:ni:sdayo:hihv̋:ɂi. Uwo:dű age:hyű:ja. V:v. Kila.
+bs|mp3-long/001386.mp3|Di:dihnó:gi. Ju:ni:là:wisdi. Digǐ:gágé ale dijé:ɂiyű:sd dà:gi di:jv̋sd.
+bs|mp3-long/001390.mp3|Naɂvɂi. Ka:gaɂli. Dò ű:sdi a:sésdi kò:hí? Nvhgi:ne̋:ɂi.
+bs|mp3-long/001396.mp3|U:ne̋:. Ù:néha. I:ya. V̌:sgí. À:diɂa. Kó:.
+bs|mp3-long/001400.mp3|Juwé:nv̀:sv̋:ɂi é:ga. Ni! Ő:sda.
+bs|mp3-long/001406.mp3|Asgaya gawó:niɂa. U:gǎ:nawa dò:dala. U:hyv:dlake dǒ:y? Dē. Aniɂluhgī. À:gináa.
+bs|mp3-long/001409.mp3|Di:sésdi. À:li:hě:lí. E̋:gwa.
+bs|mp3-long/001413.mp3|Ù:lô:gi:li kò:hi̋ svná:le̋ɂi. Halâ:yv̋ é:gwő:ni? Gé:. Halâ:yv̋ wù:sda é:gwő:ni?
+bs|mp3-long/001415.mp3|Digǐ:gágé ale dijé:ɂiyű:sdi dà:giha di:jv̋sdi. Gawó:niɂa.
+bs|mp3-long/001417.mp3|Nē. Uniwǒ:dígé junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli.
+bs|mp3-long/001424.mp3|Ajéɂiyű:sd. Ahő:li. Tī. Nvhgi. Hé:gaju? Sī. Jiwó:ni.
+bs|mp3-long/001427.mp3|U:no:lv̀:tana. Suná:le̋:ɂi. Ő:sd.
+bs|mp3-long/001430.mp3|Jiɂluh. Aksdà:yv̌hv̄. À:gwv̌:ya.
+bs|mp3-long/001434.mp3|Howa. Dō ű:sd dadihno:gí? Tē. Ani:ge:hyű:ja.
+bs|mp3-long/001437.mp3|Gadì:tásga. Kiloɂi gawó:niɂa. Do:yu uwo:du sv:hiye.
+bs|mp3-long/001441.mp3|Gő:li. Kama:ma. Donada:go:hv̄. U:hyv:dlake adǐ:tas jadu:lí?
+bs|mp3-long/001446.mp3|Janht. U:ga̋:nawa. Dla:ma:ha. Ù:náɂa. Go:hwe:la desgi:nv̀.
+bs|mp3-long/001450.mp3|Sóhně:la. Alsdâ:yv:hv́sga. Dù:ninvhdi. Yī.
+bs|mp3-long/001453.mp3|U:hyv:dlv. Chuně:li:ne̋. Gohlsga.
+bs|mp3-long/001456.mp3|Jǔ:ntana wǒ:háɂli danì:gowhtíɂa uniwǒ:dígé salǒ:li. Gǐ:. Ani:sgaya aniwó:ni.
+bs|mp3-long/001460.mp3|À:wadu:lí. Dla:nú:s. Hā. Taladuɂi Jalagi go:hwe:lv̀:ɂi.
+bs|mp3-long/001465.mp3|Digwé:nv̀:sv̋:ɂi gé:ga. Ani:sgaya aniwó:niɂa. Dijé:nv̀:sv̋:ɂi hé:ga. Wv̄. Gv́:na hiɂvsi.
+bs|mp3-long/001471.mp3|Ahu:li. Jadu:líɂa. V̄. Hila̋ go:hwe:li jadu:lí? Ahljadő:hvsgi. U:sganő:.
+bs|mp3-long/001477.mp3|Áhni. Yā. Nū. Ù:wâ:ya. Achű:ji. Dò ad?
+bs|mp3-long/001481.mp3|Uwǒ:dígé u:sdi̋ ǔ:tana wǒ:háɂli à:gowhtíɂa. Gǎ:sógwalv́. Goɂike jadu:lí? O:síyo.
+bs|mp3-long/001485.mp3|É:gwő:ni. Agǐ:gáge. Du:lì:sdi. Agǐ:gáge hlgv́.
+bs|mp3-long/001488.mp3|Hiyv:wi:yásg? Gadì:tásg. Kó:ga.
+bs|mp3-long/001494.mp3|U:nv̌:dis hà:su:yv́:sgó? Dv̄. U:gǎ:nawa e̋:hi. Ani:gayv̌:lí. Ha:dlvɂi? Sóhně:li:ne̋:ɂi.
+bs|mp3-long/001498.mp3|I:ga. À:ginéha. Gv́:n à:wadu:lí. Go:hwe:li.
+bs|mp3-long/001502.mp3|Yú:ne:ga. Hila̋ ǐ:ga̋ɂi? Dla:me:ha. Ani:dalǒ:nígé digadv́:di danì:gíɂa.
+bs|mp3-long/001507.mp3|Desgi:nv̀:si. Gahligwo:gi:ne̋. Dǒ:yi. Ani:wi̋:n.
+bs|mp3-long/001512.mp3|A̋ɂdage. Anè:lí. Gadō ű:sd ayv:wi:yá? Gī. Halihě:lí.
+bs|mp3-long/001514.mp3|U:li:he:lísdi à:lsdàyh. Sà:wűɂi.
+bs|mp3-long/001518.mp3|Asú:sdi desgi:nehv. Sǔ:dál. Gù:. Yv:wi.
+bs|mp3-long/001521.mp3|Hé:gasgohv? Galiɂě:lí. Hisgi:né jalagi go:hwe:lvɂi.
+bs|mp3-long/001527.mp3|E̋:. Gadō u:sdi? Jo. Aniwó:niɂa. U:ni:gǎ:nawa. Go:hwe:l.
+bs|mp3-long/001530.mp3|Atv:gī. U:no:lv̀:tana ka:la. Ani:gayv̌:líge̋:.
+bs|mp3-long/001532.mp3|Hila̋ nà:ní? Chuně:l.
+bs|mp3-long/001538.mp3|Gv:no:sásdi ti:dì:si. Lu:ga. Síyo. Gweti dà:wadó:ɂa. Lā. Dlā.
+bs|mp3-long/001543.mp3|Gé:ga. Taɂli:ne̋:ɂi go:hwe:lvɂi. Ayv:wi:yádv. Nǔ:ni. À:nadáɂnv:ɂa.
+bs|mp3-long/001549.mp3|Kǒ:la. Gé. hnv. Gaɂluhgī. Uniwǒ:dígé. Gv́:na.
+bs|mp3-long/001553.mp3|Dodada:go:hv:ɂi. Chuně:li:ne̋:ɂi. Wado. Hv̄.
+bs|mp3-long/001557.mp3|A̋:t. Desgi:dì:si. Idalě:n. Hisgi:ne̋.
+bs|mp3-long/001559.mp3|Di:kwayő:d ale á:m. Anigv̌:níge̋ kama:ma a:nalsdâ:yv:hv́sga.
+bs|mp3-long/001565.mp3|Alsdâ:yv:hv́. Dà:ni:lâ:wì:ga. Ùnhta. Analsdâ:yv:hv́sg. Jv̌:ya. Nā.
