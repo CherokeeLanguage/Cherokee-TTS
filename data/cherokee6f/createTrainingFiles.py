@@ -3,6 +3,7 @@ import os
 import sys
 import unicodedata as ud
 import random
+import json
 from shutil import rmtree
 
 comvoiIgnore:list=["nl", "zh"]
@@ -32,7 +33,7 @@ for parent in [ "../cherokee-audio/beginning-cherokee",
 			line=ud.normalize("NFC",line.strip())
 			line=line.replace("|wav/", "|"+parent+"/wav/")
 			lines.append(line)
-		random.Random(1).shuffle(lines)
+		random.Random(len(lines)).shuffle(lines)
 		size=len(lines)
 		trainSize=int((size*90/100))
 		with open("train.txt", "a") as t:
@@ -63,12 +64,12 @@ with open("../comvoi_clean/all.txt") as f:
 			#even though the training process ignores the entries
 			#the spectrogram preprocessing step does not ignore them.
 			continue
-		text:str=ud.normalize("NFC",fields[4]) #use composed diactrics for donor voices
+		text:str=ud.normalize("NFD",fields[4]) #use decomposed diactrics for donor voices
 		commonVoice.append(f"{recno}|{speaker}-{language}|{language}|../comvoi_clean/{wav}|||{text}|")
 
-	random.Random(2).shuffle(commonVoice)
+	random.Random(len(commonVoice)).shuffle(commonVoice)
 	size=len(commonVoice)
-	trainSize=int((size*95/100))
+	trainSize=int((size*90/100))
 	with open("train.txt", "a") as t:
 		for line in commonVoice[:trainSize]:
 			t.write(line)
@@ -82,12 +83,37 @@ with open("../comvoi_clean/all.txt") as f:
 			t.write(line)
 			t.write("\n")
 
+#get char listing needed for params file
+letters=""
+chars:list=[]
+with open("all.txt", "r") as f:
+	for line in f:
+		fields=line.split("|")
+		text:str=fields[6].lower()
+		text=ud.normalize("NFC", text)+ud.normalize("NFD", text)
+		for c in text:
+			if c in "!\"',.?@&-()*^%$#;":
+				continue
+			if c in chars:
+				continue
+			chars.append(c)
+	chars.sort()
+	for c in chars:
+		letters+=str(c)
+	config:dict=dict()
+	config["characters"]=letters
+	tmp=json.dumps(config, ensure_ascii=False, sort_keys=True, indent=3)
+	with open("json-characters.json", "w") as f:
+		f.write(tmp)
+		f.write("\n")
+	
+
 #rewrite shuffled
 lines=[]
 with open("train.txt", "r") as t:
 	for line in t:
 		lines.append(line)
-random.Random(4).shuffle(lines)
+random.Random(len(lines)).shuffle(lines)
 with open("train.txt", "w") as t:
 	for line in lines:
 		t.write(line)
@@ -97,7 +123,7 @@ lines=[]
 with open("val.txt", "r") as v:
 	for line in v:
 		lines.append(line)
-random.Random(5).shuffle(lines)
+random.Random(len(lines)).shuffle(lines)
 with open("val.txt", "w") as v:
 	for line in lines:
 		v.write(line)

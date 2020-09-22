@@ -15,6 +15,6 @@ date
 
 cd "$WORK"
 export PYTHONIOENCODING=utf-8
-python train-ga.py --hyper_parameters generated_switching_"$params" --accumulation_size 4
+python train-ga.py --hyper_parameters "$params" --accumulation_size 4
 
 date

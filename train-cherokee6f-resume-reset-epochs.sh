@@ -6,7 +6,7 @@ clear
 params="cherokee6f"
 #cp="GENERATED-SWITCHING-CHEROKEE6F_loss-44-0.226"
 #cp="GENERATED-SWITCHING-CHEROKEE6F_loss-52-0.213"
-cp="GENERATED-SWITCHING-CHEROKEE6F_loss-52-0.154"
+cp="CHEROKEE6F_loss-52-0.154"
 
 cd "$(dirname "$0")"
 WORK="$(pwd)"
