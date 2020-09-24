@@ -73,11 +73,11 @@ for mp3 in mp3s:
     
     for i, segment in enumerate(segments):
         # Normalize the entire chunk.
-        normalized = match_target_amplitude(segment, -18.0)
+        normalized = match_target_amplitude(segment, -16.0)
         
         # Trim off leading and trailing silence
-        start_trim = detect_leading_silence(normalized, silence_threshold=-34)
-        end_trim = detect_leading_silence(normalized.reverse(), silence_threshold=-34)
+        start_trim = detect_leading_silence(normalized, silence_threshold=-50)
+        end_trim = detect_leading_silence(normalized.reverse(), silence_threshold=-50)
         duration = len(normalized)
         trimmed = normalized[start_trim:duration-end_trim]
         
@@ -85,7 +85,7 @@ for mp3 in mp3s:
         trimmed.export(f"mp3/{mp3}-{i:03d}.mp3",bitrate="192k",format="mp3")
         splits.append(f"mp3/{mp3}-{i:03d}.mp3")
 
-with open("beginning-cherokee.txt", "w") as f:
+with open("see-say-write.txt", "w") as f:
     for mp3 in splits:
         if os.path.splitext(mp3)[1].lower()!=".mp3":
             continue
