@@ -15,6 +15,6 @@ date
 
 cd "$WORK"
 export PYTHONIOENCODING=utf-8
-python trainGa.py --hyper_parameters "$params" --accumulation_size 1 --logging_start 0
+python trainGa.py --hyper_parameters "$params" --accumulation_size 5 --logging_start 0
 
 date

@@ -2,7 +2,7 @@
 	"balanced_sampling": true,
 	"batch_size": 12,
 	"case_sensitive": false,
-	"characters": " abcdefghijklmnopqrstuvwxyzçèéßäöōǎǐíǒàáǔüìūòóùúāēěīâêôûñőűабвгдежзийклмнопрстуфхцчшщъыьэюяёɂ̄̀̌î̂́̋¹²³⁴ạẹịọụṿ0123456789",
+	"characters": " :abcdefghijklmnopqrstuvwxyzßàáâäçèéêìíîòóôöùúûüāēěīōőūűǎǐǒǔɂ̧̀́̂̄̆̈̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяё–’",
 	"checkpoint_each_epochs": 4,
 	"dataset": "cherokee6f",
 	"encoder_dimension": 256,
