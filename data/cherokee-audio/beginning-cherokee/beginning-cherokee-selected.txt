@@ -466,8 +466,8 @@ bs|mp3/Lesson-09-029.mp3|Ali:he:lísdi.
 bs|mp3/Lesson-09-032.mp3|U:no:lv̀:tan ka:la.
 bs|mp3/Lesson-09-033.mp3|U:no:lv̀:tana ka:la.
 bs|mp3/Lesson-09-034.mp3|U:no:lv̀:tani ka:la.
-bs|mp3/Lesson-09-035.mp3|U:no:lv̀:tana.
-bs|mp3/Lesson-09-036.mp3|U:no:lv̀:tani.
+bs|mp3/Lesson-09-036.mp3|U:no:lv̀:tana.
+bs|mp3/Lesson-09-037.mp3|U:no:lv̀:tani.
 bs|mp3/Lesson-09-039.mp3|Ka:ga.
 bs|mp3/Lesson-09-040.mp3|Ka:gaɂli.
 bs|mp3/Lesson-09-042.mp3|Anv:yi.

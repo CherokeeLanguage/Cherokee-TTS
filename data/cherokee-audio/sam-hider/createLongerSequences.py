@@ -135,12 +135,12 @@ if __name__ == "__main__":
                 if speaker+"|"+text not in already:
                     totalTime+=track.duration_seconds
                     totalCount+=1
-                    track.export(f"mp3-long/{ix:06d}.mp3", format="mp3", bitrate="192")
+                    track.export(f"mp3-long/{totalCount:06d}.mp3", format="mp3", bitrate="192")
                     already.add(speaker+"|"+text)
                     with open(LONG_TEXT, "a") as f:
                         f.write(f"{speaker}")
                         f.write("|")
-                        f.write(f"mp3-long/{ix:06d}.mp3")
+                        f.write(f"mp3-long/{totalCount:06d}.mp3")
                         f.write("|")
                         f.write(ud.normalize("NFC", text))
                         f.write("\n")
@@ -159,11 +159,11 @@ if __name__ == "__main__":
         if len(track)>0 and speaker+"|"+text not in already:
             totalTime+=track.duration_seconds
             totalCount+=1
-            track.export(f"mp3-long/{ix+1:06d}.mp3", format="mp3", bitrate="192")
+            track.export(f"mp3-long/{totalCount:06d}.mp3", format="mp3", bitrate="192")
             with open(LONG_TEXT, "a") as f:
                     f.write(f"{speaker}")
                     f.write("|")
-                    f.write(f"mp3-long/{ix+1:06d}.mp3")
+                    f.write(f"mp3-long/{totalCount:06d}.mp3")
                     f.write("|")
                     f.write(ud.normalize("NFC", text))
                     f.write("\n")
@@ -173,5 +173,16 @@ if __name__ == "__main__":
     print(f"Average track time: {totalTime/totalCount:.2f}.")
     print("Folder:",pathlib.Path(".").resolve().name)
     
-    sys.exit()
+    #verify all are unique audio file entries
+    with open(LONG_TEXT, "r") as f:
+        already:set=set()
+        for line in f:
+            fields=line.split("|")
+            if fields[1] in already:
+                print(f"FATAL: DUPLICATE AUDIO FILE ENTRY: {line}")
+                sys.exit(-1)
+            already.add(fields[1])
+        print(f"All entries test as unique.")
+    
+    sys.exit(0)
     
