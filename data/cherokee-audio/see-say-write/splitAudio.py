@@ -89,7 +89,7 @@ with open("see-say-write.txt", "w") as f:
     for mp3 in splits:
         if os.path.splitext(mp3)[1].lower()!=".mp3":
             continue
-        f.write("?") #speaker
+        f.write("df3") #speaker
         f.write("|")
         f.write(mp3) #audio file
         f.write("|")
