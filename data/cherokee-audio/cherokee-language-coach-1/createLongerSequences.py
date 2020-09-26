@@ -9,15 +9,10 @@ import pathlib
 import subprocess
 from pydub import AudioSegment
 from shutil import rmtree
+from pydub.effects import normalize
 
 MASTER_TEXT:str="coach-1-selected.txt"
 LONG_TEXT:str="coach-1-longer-sequences.txt"
-
-# Define a function to normalize a chunk to a target amplitude.
-def match_target_amplitude(aChunk, target_dBFS):
-    ''' Normalize given audio chunk '''
-    change_in_dBFS = target_dBFS - aChunk.dBFS
-    return aChunk.apply_gain(change_in_dBFS)
 
 if __name__ == "__main__":
     
@@ -95,7 +90,7 @@ if __name__ == "__main__":
             if entry[2] != speaker:
                 continue
             audioData:AudioSegment = AudioSegment.from_mp3(entry[0])
-            track:AudioSegment = match_target_amplitude(audioData, -16)
+            track:AudioSegment = normalize(audioData)
             text:str=entry[1].strip()
             if ix % 100 == 0:
                 print(f"... {speaker}: {text} [totalCount={totalCount:,}, {int(ix/len(startingEntries)*100):d}%] / Duration (minutes): {int(totalTime/60)} [se]")
@@ -150,7 +145,7 @@ if __name__ == "__main__":
             
             if len(track) > 0:
                 track += AudioSegment.silent(500, 22050)
-            track += match_target_amplitude(audioData, -16)
+            track += normalize(audioData)
             
             if len(text)>0:
                 text += " "

@@ -9,6 +9,7 @@ import re
 import pathlib
 import subprocess
 from shutil import rmtree
+from pydub.effects import normalize
 
 workdir:str = os.path.dirname(sys.argv[0])
 if workdir.strip() != "":
@@ -40,12 +41,6 @@ def detect_leading_silence(sound, silence_threshold=-50.0, chunk_size=10):
 
     return trim_ms
 
-# Define a function to normalize a chunk to a target amplitude.
-def match_target_amplitude(aChunk, target_dBFS):
-    ''' Normalize given audio chunk '''
-    change_in_dBFS = target_dBFS - aChunk.dBFS
-    return aChunk.apply_gain(change_in_dBFS)
-
 #clean up any previous files
 rmtree("mp3", ignore_errors=True)
 os.mkdir("mp3")
@@ -64,7 +59,7 @@ for mp3 in mp3s:
     data = AudioSegment.from_mp3("src/" + mp3)
     mp3=os.path.splitext(mp3)[0]
     print(f" - silence hunting")
-    segments = split_on_silence(match_target_amplitude(data, -16.0), 1200, -40, keep_silence=600)
+    segments = split_on_silence(normalize(data), 900, -40, keep_silence=400)
     
     if len(segments)==0:
         print(f"=== NO SPLITS FROM: {mp3}")
@@ -73,11 +68,11 @@ for mp3 in mp3s:
     
     for i, segment in enumerate(segments):
         # Normalize the entire chunk.
-        normalized = match_target_amplitude(segment, -16.0)
+        normalized = normalize(segment)
         
         # Trim off leading and trailing silence
-        start_trim = detect_leading_silence(normalized, silence_threshold=-50)
-        end_trim = detect_leading_silence(normalized.reverse(), silence_threshold=-50)
+        start_trim = detect_leading_silence(normalized, silence_threshold=-45)
+        end_trim = detect_leading_silence(normalized.reverse(), silence_threshold=-45)
         duration = len(normalized)
         trimmed = normalized[start_trim:duration-end_trim]
         
