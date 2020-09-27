@@ -2082,3 +2082,560 @@
 013326|03-ru|ru|../comvoi_clean/ru/wavs/03/common_voice_ru_18892677.wav|mel_spectrograms/ru_03-ru-002082.npy|lin_spectrograms/ru_03-ru-002082.npy|За этим занятием и застала его вернувшаяся из огорода бабка.|
 005289|49-de|de|../comvoi_clean/de/wavs/49/common_voice_de_18205902.wav|mel_spectrograms/de_49-de-002083.npy|lin_spectrograms/de_49-de-002083.npy|Und wieder diskutieren die Bewohner von Palermo, wer der Mörder sein könnte.|
 000141|01-de|de|../comvoi_clean/de/wavs/01/common_voice_de_18654392.wav|mel_spectrograms/de_01-de-002084.npy|lin_spectrograms/de_01-de-002084.npy|Wir waren lange nicht skaten.|
+008574|17-fr|fr|../comvoi_clean/fr/wavs/17/common_voice_fr_18130659.wav|mel_spectrograms/fr_17-fr-002085.npy|lin_spectrograms/fr_17-fr-002085.npy|Ah! quelle rage d'épousseter!|
+014428|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18932823.wav|mel_spectrograms/ru_05-ru-002086.npy|lin_spectrograms/ru_05-ru-002086.npy|Напрасно.|
+013047|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18907246.wav|mel_spectrograms/ru_02-ru-002087.npy|lin_spectrograms/ru_02-ru-002087.npy|На этот пункт повестки дня опираются и многочисленные резолюции Генеральной Ассамблеи.|
+014559|06-ru|ru|../comvoi_clean/ru/wavs/06/common_voice_ru_18920799.wav|mel_spectrograms/ru_06-ru-002088.npy|lin_spectrograms/ru_06-ru-002088.npy|В принципе, всё верно, но в каждом отдельном случае есть свои особенности.|
+005841|52-de|de|../comvoi_clean/de/wavs/52/common_voice_de_18686453.wav|mel_spectrograms/de_52-de-002089.npy|lin_spectrograms/de_52-de-002089.npy|Styropor ist ein Markenname für weißen Schaumstoff.|
+030876|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000877.wav|mel_spectrograms/chr_03-chr-002090.npy|lin_spectrograms/chr_03-chr-002090.npy|Nē. Nokwsi. Go:hi̋:gi. À:di. Dijé:nv̀:sv́ hé:g.|
+006447|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18602353.wav|mel_spectrograms/fr_04-fr-002091.npy|lin_spectrograms/fr_04-fr-002091.npy|Ce petit précepteur riait.|
+030073|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000074.wav|mel_spectrograms/chr_03-chr-002092.npy|lin_spectrograms/chr_03-chr-002092.npy|Dù:dǎ:sgó chuně:li go:hwe:li.|
+014623|06-ru|ru|../comvoi_clean/ru/wavs/06/common_voice_ru_18920933.wav|mel_spectrograms/ru_06-ru-002093.npy|lin_spectrograms/ru_06-ru-002093.npy|В августе Организация Объединенных Наций стала жертвой роста насилия.|
+030379|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000380.wav|mel_spectrograms/chr_03-chr-002094.npy|lin_spectrograms/chr_03-chr-002094.npy|Agě:hyv.|
+006343|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18576631.wav|mel_spectrograms/fr_04-fr-002095.npy|lin_spectrograms/fr_04-fr-002095.npy|J'arrivais même pas à voir les effets spéciaux.|
+030914|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000915.wav|mel_spectrograms/chr_03-chr-002096.npy|lin_spectrograms/chr_03-chr-002096.npy|Gī. Gahligwo:gi:ne̋. Ù:lô:gi:li kò:hi̋ svná:le. Hì:ne.|
+005116|48-de|de|../comvoi_clean/de/wavs/48/common_voice_de_18762942.wav|mel_spectrograms/de_48-de-002097.npy|lin_spectrograms/de_48-de-002097.npy|Nie ohne Seife waschen!|
+001346|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18450619.wav|mel_spectrograms/de_13-de-002098.npy|lin_spectrograms/de_13-de-002098.npy|Am Mozartplatz steigst du aus und gehst einfach die Wagnerstraße nach Süden runter.|
+008425|16-fr|fr|../comvoi_clean/fr/wavs/16/common_voice_fr_18143783.wav|mel_spectrograms/fr_16-fr-002099.npy|lin_spectrograms/fr_16-fr-002099.npy|Une heure sonna à quelque clocher lointain.|
+014407|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18932295.wav|mel_spectrograms/ru_05-ru-002100.npy|lin_spectrograms/ru_05-ru-002100.npy|Мы надеемся, что Генеральная Ассамблея примет этот проект резолюции консенсусом.|
+030846|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000847.wav|mel_spectrograms/chr_03-chr-002101.npy|lin_spectrograms/chr_03-chr-002101.npy|Ù:wâ:ya. Halâ:yv̋ é:gwő:ni? Sgo:hi:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi. U:hyv:dla dǒ:y.|
+003567|31-de|de|../comvoi_clean/de/wavs/31/common_voice_de_18357981.wav|mel_spectrograms/de_31-de-002102.npy|lin_spectrograms/de_31-de-002102.npy|Die Kobaltmine ist vor Jahrzehnten aufgegeben worden.|
+030210|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000211.wav|mel_spectrograms/chr_03-chr-002103.npy|lin_spectrograms/chr_03-chr-002103.npy|Nihi gadíɂa hiɂa.|
+030653|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000654.wav|mel_spectrograms/chr_03-chr-002104.npy|lin_spectrograms/chr_03-chr-002104.npy|Do:yu uwo:du sv:hiye.|
+012673|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18891493.wav|mel_spectrograms/ru_02-ru-002105.npy|lin_spectrograms/ru_02-ru-002105.npy|Хотя последние политические события осложнили организацию такой конференции, они одновременно повысили актуальность этого вопроса.|
+005569|52-de|de|../comvoi_clean/de/wavs/52/common_voice_de_18685656.wav|mel_spectrograms/de_52-de-002106.npy|lin_spectrograms/de_52-de-002106.npy|Schreib dir das hinter die Ohren!|
+012536|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888343.wav|mel_spectrograms/ru_02-ru-002107.npy|lin_spectrograms/ru_02-ru-002107.npy|Почему люди в Америке так много улыбаются?|
+007798|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17861581.wav|mel_spectrograms/fr_11-fr-002108.npy|lin_spectrograms/fr_11-fr-002108.npy|Marcof les calma du geste.|
+030562|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000563.wav|mel_spectrograms/chr_03-chr-002109.npy|lin_spectrograms/chr_03-chr-002109.npy|Ā.|
+012347|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888120.wav|mel_spectrograms/ru_02-ru-002110.npy|lin_spectrograms/ru_02-ru-002110.npy|Сомали не может терять времени.|
+007573|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18653217.wav|mel_spectrograms/fr_09-fr-002111.npy|lin_spectrograms/fr_09-fr-002111.npy|Si: les royalistes sauront en tirer des trahisons inutiles ou des indiscrétions d'ivrogne.|
+020036|02-chr|chr|../cherokee-audio/sam-hider/wav/000037.wav|mel_spectrograms/chr_02-chr-002112.npy|lin_spectrograms/chr_02-chr-002112.npy|Joɂi:ne̋ I:ga.|
+002891|24-de|de|../comvoi_clean/de/wavs/24/common_voice_de_18863705.wav|mel_spectrograms/de_24-de-002113.npy|lin_spectrograms/de_24-de-002113.npy|In der Fabrik werden alle möglichen Küchenutensilien gefertigt.|
+004462|41-de|de|../comvoi_clean/de/wavs/41/common_voice_de_18224732.wav|mel_spectrograms/de_41-de-002114.npy|lin_spectrograms/de_41-de-002114.npy|Manchmal ist irgendeine Entscheidung besser als gar keine Entscheidung.|
+009523|25-fr|fr|../comvoi_clean/fr/wavs/25/common_voice_fr_18493642.wav|mel_spectrograms/fr_25-fr-002115.npy|lin_spectrograms/fr_25-fr-002115.npy|Marie ne comprenait pas comment la situation avait pu dégénérer aussi vite.|
+014564|06-ru|ru|../comvoi_clean/ru/wavs/06/common_voice_ru_18920813.wav|mel_spectrograms/ru_06-ru-002116.npy|lin_spectrograms/ru_06-ru-002116.npy|Увидав Тимура, она не испугалась и даже не удивилась.|
+009465|22-fr|fr|../comvoi_clean/fr/wavs/22/common_voice_fr_18771278.wav|mel_spectrograms/fr_22-fr-002117.npy|lin_spectrograms/fr_22-fr-002117.npy|Elle avait fait de vous un vrai dandy, disait-elle en jouant avec ses cheveux.|
+006372|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18576680.wav|mel_spectrograms/fr_04-fr-002118.npy|lin_spectrograms/fr_04-fr-002118.npy|Sous le déroulement des fumées grises et rouges, l'incendie ronflait.|
+009296|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18240269.wav|mel_spectrograms/fr_21-fr-002119.npy|lin_spectrograms/fr_21-fr-002119.npy|Je m'en vas!|
+013222|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18911831.wav|mel_spectrograms/ru_02-ru-002120.npy|lin_spectrograms/ru_02-ru-002120.npy|Сейчас я предоставлю слово членам Совета.|
+009789|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17695932.wav|mel_spectrograms/nl_01-nl-002121.npy|lin_spectrograms/nl_01-nl-002121.npy|Door de druk kon ik niet helder nadenken.|
+005539|51-de|de|../comvoi_clean/de/wavs/51/common_voice_de_18771470.wav|mel_spectrograms/de_51-de-002122.npy|lin_spectrograms/de_51-de-002122.npy|Schreib dir das hinter die Ohren!|
+013443|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18875246.wav|mel_spectrograms/ru_04-ru-002123.npy|lin_spectrograms/ru_04-ru-002123.npy|Именно в этом состоит цель переходных мероприятий.|
+007192|07-fr|fr|../comvoi_clean/fr/wavs/07/common_voice_fr_18085097.wav|mel_spectrograms/fr_07-fr-002124.npy|lin_spectrograms/fr_07-fr-002124.npy|De fait, il convient de souligner les avancées offertes par ce texte de compromis.|
+005159|49-de|de|../comvoi_clean/de/wavs/49/common_voice_de_18205060.wav|mel_spectrograms/de_49-de-002125.npy|lin_spectrograms/de_49-de-002125.npy|Überall stehen grasbewachsene Häuser wie im Auenland.|
+008157|13-fr|fr|../comvoi_clean/fr/wavs/13/common_voice_fr_18399410.wav|mel_spectrograms/fr_13-fr-002126.npy|lin_spectrograms/fr_13-fr-002126.npy|Route de Guise, zéro deux, cent quarante Vervins|
+004055|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18327463.wav|mel_spectrograms/de_36-de-002127.npy|lin_spectrograms/de_36-de-002127.npy|Wo ist Wolfsburg?|
+006304|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18576422.wav|mel_spectrograms/fr_04-fr-002128.npy|lin_spectrograms/fr_04-fr-002128.npy|Certainement la Loi condamnait les pillards de l'archevêché.|
+009144|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18239631.wav|mel_spectrograms/fr_21-fr-002129.npy|lin_spectrograms/fr_21-fr-002129.npy|La parole est à Monsieur Philippe Le Ray.|
+001859|17-de|de|../comvoi_clean/de/wavs/17/common_voice_de_18233514.wav|mel_spectrograms/de_17-de-002130.npy|lin_spectrograms/de_17-de-002130.npy|In der Folge steigt die Leistung.|
+013036|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18897082.wav|mel_spectrograms/ru_02-ru-002131.npy|lin_spectrograms/ru_02-ru-002131.npy|Необходимо продолжать и наращивать такие усилия.|
+002485|22-de|de|../comvoi_clean/de/wavs/22/common_voice_de_18725270.wav|mel_spectrograms/de_22-de-002132.npy|lin_spectrograms/de_22-de-002132.npy|Hier stand ein Duplikat.|
+013330|03-ru|ru|../comvoi_clean/ru/wavs/03/common_voice_ru_18892686.wav|mel_spectrograms/ru_03-ru-002133.npy|lin_spectrograms/ru_03-ru-002133.npy|Это хорошо!|
+002099|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18211975.wav|mel_spectrograms/de_21-de-002134.npy|lin_spectrograms/de_21-de-002134.npy|Schnell wurden Videospiele allgemein verteufelt.|
+030424|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000425.wav|mel_spectrograms/chr_03-chr-002135.npy|lin_spectrograms/chr_03-chr-002135.npy|Jadu:lí.|
+001233|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18439359.wav|mel_spectrograms/de_13-de-002136.npy|lin_spectrograms/de_13-de-002136.npy|Wir haben nichts zu trinken und auch nichts zu essen.|
+001549|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18716249.wav|mel_spectrograms/de_13-de-002137.npy|lin_spectrograms/de_13-de-002137.npy|Tatsächlich ist der zu häufige Gebrauch von Seife schlecht für die Haut.|
+010245|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000246.wav|mel_spectrograms/chr_01-chr-002138.npy|lin_spectrograms/chr_01-chr-002138.npy|gahlgwǒ:gi.|
+014161|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931326.wav|mel_spectrograms/ru_05-ru-002139.npy|lin_spectrograms/ru_05-ru-002139.npy|Мы должны обеспечить, чтобы они включались в состав этих делегаций.|
+030755|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000756.wav|mel_spectrograms/chr_03-chr-002140.npy|lin_spectrograms/chr_03-chr-002140.npy|Gé:ga.|
+010877|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18735856.wav|mel_spectrograms/nl_08-nl-002141.npy|lin_spectrograms/nl_08-nl-002141.npy|Joden komen samen in die synagoge.|
+005295|50-de|de|../comvoi_clean/de/wavs/50/common_voice_de_18639111.wav|mel_spectrograms/de_50-de-002142.npy|lin_spectrograms/de_50-de-002142.npy|So hat jeder seine Präferenz.|
+001092|12-de|de|../comvoi_clean/de/wavs/12/common_voice_de_18582473.wav|mel_spectrograms/de_12-de-002143.npy|lin_spectrograms/de_12-de-002143.npy|Ich werde immer für dich da sein.|
+010736|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18735398.wav|mel_spectrograms/nl_08-nl-002144.npy|lin_spectrograms/nl_08-nl-002144.npy|Zij heeft miljoenen verdient door op de beurs te spelen.|
+030199|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000200.wav|mel_spectrograms/chr_03-chr-002145.npy|lin_spectrograms/chr_03-chr-002145.npy|À:sdû:di.|
+005631|52-de|de|../comvoi_clean/de/wavs/52/common_voice_de_18685980.wav|mel_spectrograms/de_52-de-002146.npy|lin_spectrograms/de_52-de-002146.npy|Blattsalate sind meistens grün, geraspelte Salate können viele Farben haben.|
+000361|02-de|de|../comvoi_clean/de/wavs/02/common_voice_de_18437782.wav|mel_spectrograms/de_02-de-002147.npy|lin_spectrograms/de_02-de-002147.npy|Es muss wie ein Unfall aussehen!|
+010145|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000146.wav|mel_spectrograms/chr_01-chr-002148.npy|lin_spectrograms/chr_01-chr-002148.npy|hihtayo:hiha. gáɂluhga. o:síyo. gv́:na. i:né:ga. kó:ga.|
+006568|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18602822.wav|mel_spectrograms/fr_04-fr-002149.npy|lin_spectrograms/fr_04-fr-002149.npy|Omer eut le désir de contempler sa femme, et rentra dans la chambre.|
+011432|01-ru|ru|../comvoi_clean/ru/wavs/01/common_voice_ru_18894141.wav|mel_spectrograms/ru_01-ru-002150.npy|lin_spectrograms/ru_01-ru-002150.npy|Он может рассчитывать на меня и на моих сотрудников, которые обеспечат эффективную передачу полномочий.|
+011128|09-nl|nl|../comvoi_clean/nl/wavs/09/common_voice_nl_17700394.wav|mel_spectrograms/nl_09-nl-002151.npy|lin_spectrograms/nl_09-nl-002151.npy|Die doos bevat honderd verschillende kleurpotloden.|
+031067|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/001068.wav|mel_spectrograms/chr_03-chr-002152.npy|lin_spectrograms/chr_03-chr-002152.npy|Ù:lô:gi:li kò:hi̋ svná:le. Agayv̌:líge̋:. À:lsdàyhd. À:dáɂnv.|
+010001|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696695.wav|mel_spectrograms/nl_01-nl-002153.npy|lin_spectrograms/nl_01-nl-002153.npy|Ze hebben haar twee jaar onterecht gevangen gehouden.|
+050011|05-chr|chr|../cherokee-audio/cherokee-language-coach-1/wav/000012.wav|mel_spectrograms/chr_05-chr-002154.npy|lin_spectrograms/chr_05-chr-002154.npy|O:síyo.|
+012590|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888460.wav|mel_spectrograms/ru_02-ru-002155.npy|lin_spectrograms/ru_02-ru-002155.npy|Я хотел бы заверить Вас в полном сотрудничестве Колумбии.|
+013110|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18907427.wav|mel_spectrograms/ru_02-ru-002156.npy|lin_spectrograms/ru_02-ru-002156.npy|Любопытно, чего люди больше всего боятся?|
+006772|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18603366.wav|mel_spectrograms/fr_04-fr-002157.npy|lin_spectrograms/fr_04-fr-002157.npy|Papa elle existe la petite souris des dents?|
+012126|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18887822.wav|mel_spectrograms/ru_02-ru-002158.npy|lin_spectrograms/ru_02-ru-002158.npy|В этом отношении мы согласны, что тут есть потенциал для более активной роли председателей.|
+004566|43-de|de|../comvoi_clean/de/wavs/43/common_voice_de_18473872.wav|mel_spectrograms/de_43-de-002159.npy|lin_spectrograms/de_43-de-002159.npy|Danach kommen zwei Containerschiffe aus Shanghai.|
+014195|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931364.wav|mel_spectrograms/ru_05-ru-002160.npy|lin_spectrograms/ru_05-ru-002160.npy|С другой стороны, это совершенно прекрасное время.|
+007605|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18653285.wav|mel_spectrograms/fr_09-fr-002161.npy|lin_spectrograms/fr_09-fr-002161.npy|L'argent donnerait mieux.|
+014377|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931887.wav|mel_spectrograms/ru_05-ru-002162.npy|lin_spectrograms/ru_05-ru-002162.npy|Разумеется, мы очень рассчитываем на следующий саммит - в Гааге.|
+030184|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000185.wav|mel_spectrograms/chr_03-chr-002163.npy|lin_spectrograms/chr_03-chr-002163.npy|Ali:he:lísdi.|
+001287|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18439429.wav|mel_spectrograms/de_13-de-002164.npy|lin_spectrograms/de_13-de-002164.npy|Zuweisungen erfolgen von rechts nach links.|
+030052|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000053.wav|mel_spectrograms/chr_03-chr-002165.npy|lin_spectrograms/chr_03-chr-002165.npy|A̋:ta.|
+011528|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18877331.wav|mel_spectrograms/ru_02-ru-002166.npy|lin_spectrograms/ru_02-ru-002166.npy|Я хотел бы искренне поблагодарить его и пожелать ему всего наилучшего в будущем.|
+000905|09-de|de|../comvoi_clean/de/wavs/09/common_voice_de_18717857.wav|mel_spectrograms/de_09-de-002167.npy|lin_spectrograms/de_09-de-002167.npy|Deshalb lässt sie sich leicht als Sprachrohr missbrauchen.|
+007826|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17861609.wav|mel_spectrograms/fr_11-fr-002168.npy|lin_spectrograms/fr_11-fr-002168.npy|Il ne faut point essayer d'expliquer l'instinct ni le définir.|
+001751|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18888977.wav|mel_spectrograms/de_14-de-002169.npy|lin_spectrograms/de_14-de-002169.npy|Dem Chauffeur kommt eine Schlüsselrolle zu.|
+004331|40-de|de|../comvoi_clean/de/wavs/40/common_voice_de_18532872.wav|mel_spectrograms/de_40-de-002170.npy|lin_spectrograms/de_40-de-002170.npy|Die Union sollte ihre Prämisse überdenken.|
+012032|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18882172.wav|mel_spectrograms/ru_02-ru-002171.npy|lin_spectrograms/ru_02-ru-002171.npy|Такой подход ограничивает манёвренность данного органа и увековечивает его паралич.|
+001746|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18888972.wav|mel_spectrograms/de_14-de-002172.npy|lin_spectrograms/de_14-de-002172.npy|Die neue Azubine schlägt sich ganz wacker.|
+030934|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000935.wav|mel_spectrograms/chr_03-chr-002173.npy|lin_spectrograms/chr_03-chr-002173.npy|Asú:sdi. Gv:no:sásdi hi:dì:si.|
+014291|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931604.wav|mel_spectrograms/ru_05-ru-002174.npy|lin_spectrograms/ru_05-ru-002174.npy|Да, приходится, ответил старик.|
+004134|37-de|de|../comvoi_clean/de/wavs/37/common_voice_de_18243122.wav|mel_spectrograms/de_37-de-002175.npy|lin_spectrograms/de_37-de-002175.npy|Die Kanten müssen geschliffen werden.|
+002625|23-de|de|../comvoi_clean/de/wavs/23/common_voice_de_18389128.wav|mel_spectrograms/de_23-de-002176.npy|lin_spectrograms/de_23-de-002176.npy|Cabrios gibt es mit Stoff- oder Metalldach.|
+009813|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696076.wav|mel_spectrograms/nl_01-nl-002177.npy|lin_spectrograms/nl_01-nl-002177.npy|Regent het buiten?|
+008152|13-fr|fr|../comvoi_clean/fr/wavs/13/common_voice_fr_18399400.wav|mel_spectrograms/fr_13-fr-002178.npy|lin_spectrograms/fr_13-fr-002178.npy|Rue Pascal au numéro quarante-huit|
+005905|01-fr|fr|../comvoi_clean/fr/wavs/01/common_voice_fr_17810188.wav|mel_spectrograms/fr_01-fr-002179.npy|lin_spectrograms/fr_01-fr-002179.npy|Malheureusement, cette maison qui était un couvent ne voulut pas le recevoir.|
+011616|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18877442.wav|mel_spectrograms/ru_02-ru-002180.npy|lin_spectrograms/ru_02-ru-002180.npy|Я тебе знакомых не выбираю, с отчаянием защищалась Женя.|
+010030|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696867.wav|mel_spectrograms/nl_01-nl-002181.npy|lin_spectrograms/nl_01-nl-002181.npy|Ze hadden Emma herkent door middel van een robotfoto.|
+012556|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888365.wav|mel_spectrograms/ru_02-ru-002182.npy|lin_spectrograms/ru_02-ru-002182.npy|Но вот Ольга накинула ремень на плечо.|
+001986|19-de|de|../comvoi_clean/de/wavs/19/common_voice_de_18874284.wav|mel_spectrograms/de_19-de-002183.npy|lin_spectrograms/de_19-de-002183.npy|Nach dem Login kommt immer eine Fehlermeldung.|
+003533|29-de|de|../comvoi_clean/de/wavs/29/common_voice_de_18509596.wav|mel_spectrograms/de_29-de-002184.npy|lin_spectrograms/de_29-de-002184.npy|Ohne die geostationären Satelliten kommt das System nicht aus.|
+001078|12-de|de|../comvoi_clean/de/wavs/12/common_voice_de_18582385.wav|mel_spectrograms/de_12-de-002185.npy|lin_spectrograms/de_12-de-002185.npy|Linux-Anfänger sind oft irritiert, dass selbst Geräte als Datei behandelt werden.|
+013039|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18897093.wav|mel_spectrograms/ru_02-ru-002186.npy|lin_spectrograms/ru_02-ru-002186.npy|Однако безопасность всех наших сотрудников, национальных и международных, имеет первостепенное значение.|
+011438|01-ru|ru|../comvoi_clean/ru/wavs/01/common_voice_ru_18894149.wav|mel_spectrograms/ru_01-ru-002187.npy|lin_spectrograms/ru_01-ru-002187.npy|Я не люблю овощи.|
+003140|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18520691.wav|mel_spectrograms/de_27-de-002188.npy|lin_spectrograms/de_27-de-002188.npy|Wer hat das Licht angelassen?|
+031029|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/001030.wav|mel_spectrograms/chr_03-chr-002189.npy|lin_spectrograms/chr_03-chr-002189.npy|Hì:ne. Go:hwe:la hi:nv̀:si. Kwō. Goɂi jadu:lísgo? A:sésdi.|
+010344|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_17862944.wav|mel_spectrograms/nl_03-nl-002190.npy|lin_spectrograms/nl_03-nl-002190.npy|Het weer is ideaal om terrasjes te doen.|
+030161|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000162.wav|mel_spectrograms/chr_03-chr-002191.npy|lin_spectrograms/chr_03-chr-002191.npy|U:sganő:li hiwò:nǐ:hi.|
+012450|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888244.wav|mel_spectrograms/ru_02-ru-002192.npy|lin_spectrograms/ru_02-ru-002192.npy|А у тебя - вот. вот. и вот.|
+004867|46-de|de|../comvoi_clean/de/wavs/46/common_voice_de_18215322.wav|mel_spectrograms/de_46-de-002193.npy|lin_spectrograms/de_46-de-002193.npy|Sie hat die Anfangsbuchstaben zweier aufeinander folgender Worte vertauscht.|
+012553|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888362.wav|mel_spectrograms/ru_02-ru-002194.npy|lin_spectrograms/ru_02-ru-002194.npy|И рассмотрение таких вариантов не разрушит Конференцию.|
+001469|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18653379.wav|mel_spectrograms/de_13-de-002195.npy|lin_spectrograms/de_13-de-002195.npy|Entweder Fenster auf oder Heizung an, aber nicht beides gleichzeitig!|
+010468|04-nl|nl|../comvoi_clean/nl/wavs/04/common_voice_nl_18646447.wav|mel_spectrograms/nl_04-nl-002196.npy|lin_spectrograms/nl_04-nl-002196.npy|Het is de W van Waaijenberg.|
+000102|01-de|de|../comvoi_clean/de/wavs/01/common_voice_de_18376054.wav|mel_spectrograms/de_01-de-002197.npy|lin_spectrograms/de_01-de-002197.npy|Die Kobaltmine ist vor Jahrzehnten aufgegeben worden.|
+009487|25-fr|fr|../comvoi_clean/fr/wavs/25/common_voice_fr_18493596.wav|mel_spectrograms/fr_25-fr-002198.npy|lin_spectrograms/fr_25-fr-002198.npy|Comment je fais pour aller à l'ambassade des États-Unis?|
+001748|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18888974.wav|mel_spectrograms/de_14-de-002199.npy|lin_spectrograms/de_14-de-002199.npy|Freiwillige vor!|
+001813|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18889067.wav|mel_spectrograms/de_14-de-002200.npy|lin_spectrograms/de_14-de-002200.npy|Jörn hat am Wochenende sturmfreie Bude.|
+010280|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000281.wav|mel_spectrograms/chr_01-chr-002201.npy|lin_spectrograms/chr_01-chr-002201.npy|gvɂihlv́sga. hi:yě:wa. i:né:ga. Dù:yu:kdv yijadvhndi ge̋:tssehehdi. È:tsdohydi nigǒ:lv hatuɂisdi̋:sgo:ɂi.|
+007279|08-fr|fr|../comvoi_clean/fr/wavs/08/common_voice_fr_18648495.wav|mel_spectrograms/fr_08-fr-002202.npy|lin_spectrograms/fr_08-fr-002202.npy|Peu après le départ, nous avons bu une bière.|
+011308|12-nl|nl|../comvoi_clean/nl/wavs/12/common_voice_nl_17700390.wav|mel_spectrograms/nl_12-nl-002203.npy|lin_spectrograms/nl_12-nl-002203.npy|Koeien en paarden staan 's zomers in de wei.|
+030503|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000504.wav|mel_spectrograms/chr_03-chr-002204.npy|lin_spectrograms/chr_03-chr-002204.npy|Gū.|
+000307|02-de|de|../comvoi_clean/de/wavs/02/common_voice_de_18433161.wav|mel_spectrograms/de_02-de-002205.npy|lin_spectrograms/de_02-de-002205.npy|Letzte Nacht musste die freiwillige Feuerwehr fünfmal ausrücken.|
+020404|02-chr|chr|../cherokee-audio/sam-hider/wav/000405.wav|mel_spectrograms/chr_02-chr-002206.npy|lin_spectrograms/chr_02-chr-002206.npy|Ha:dlv isdé:ga? lā. lē. lī. lō. lū. lv̄.|
+010381|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_18133155.wav|mel_spectrograms/nl_03-nl-002207.npy|lin_spectrograms/nl_03-nl-002207.npy|Ze plofte in de zitzak.|
+007996|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17863395.wav|mel_spectrograms/fr_11-fr-002208.npy|lin_spectrograms/fr_11-fr-002208.npy|Malheureusement il prononçait difficilement, ayant perdu la luette par la maladie. (Hub.|
+009643|26-fr|fr|../comvoi_clean/fr/wavs/26/common_voice_fr_18408517.wav|mel_spectrograms/fr_26-fr-002209.npy|lin_spectrograms/fr_26-fr-002209.npy|Il a réussi en travaillant dur.|
+009105|20-fr|fr|../comvoi_clean/fr/wavs/20/common_voice_fr_17778742.wav|mel_spectrograms/fr_20-fr-002210.npy|lin_spectrograms/fr_20-fr-002210.npy|Le pont, la ville, et la position d'Ebersberg, serons des monumens durables de leur courage.|
+005431|51-de|de|../comvoi_clean/de/wavs/51/common_voice_de_18771327.wav|mel_spectrograms/de_51-de-002211.npy|lin_spectrograms/de_51-de-002211.npy|Ich dreh durch!|
+013174|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18911639.wav|mel_spectrograms/ru_02-ru-002212.npy|lin_spectrograms/ru_02-ru-002212.npy|Гарантируется свобода массовой информации.|
+009352|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18240395.wav|mel_spectrograms/fr_21-fr-002213.npy|lin_spectrograms/fr_21-fr-002213.npy|Mais tu as un vilain défaut, tu es emporté, colère.|
+010582|06-nl|nl|../comvoi_clean/nl/wavs/06/common_voice_nl_17906243.wav|mel_spectrograms/nl_06-nl-002214.npy|lin_spectrograms/nl_06-nl-002214.npy|Wordt oled de nieuwe standaard voor schermen?|
+000703|06-de|de|../comvoi_clean/de/wavs/06/common_voice_de_18375309.wav|mel_spectrograms/de_06-de-002215.npy|lin_spectrograms/de_06-de-002215.npy|Roseau ist die Hauptstadt von Dominica.|
+010256|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000257.wav|mel_spectrograms/chr_01-chr-002216.npy|lin_spectrograms/chr_01-chr-002216.npy|Ani:yv:wi:ya amáyé:hli aně:hiya̋:ɂi.|
+030466|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000467.wav|mel_spectrograms/chr_03-chr-002217.npy|lin_spectrograms/chr_03-chr-002217.npy|U:hyv:dlv gě:dô:a.|
+000802|07-de|de|../comvoi_clean/de/wavs/07/common_voice_de_18430020.wav|mel_spectrograms/de_07-de-002218.npy|lin_spectrograms/de_07-de-002218.npy|Ich habe sehr gerne mit ihm zusammen gearbeitet. Schade, dass das vorbei ist.|
+009297|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18240270.wav|mel_spectrograms/fr_21-fr-002219.npy|lin_spectrograms/fr_21-fr-002219.npy|En zone rurale également.|
+008154|13-fr|fr|../comvoi_clean/fr/wavs/13/common_voice_fr_18399407.wav|mel_spectrograms/fr_13-fr-002220.npy|lin_spectrograms/fr_13-fr-002220.npy|six rue Charles Bouffier, zéro quatre, sept cents Oraison|
+013781|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18914989.wav|mel_spectrograms/ru_05-ru-002221.npy|lin_spectrograms/ru_05-ru-002221.npy|Здравствуй, сказала ей высокая темноглазая девочка.|
+000294|02-de|de|../comvoi_clean/de/wavs/02/common_voice_de_18433118.wav|mel_spectrograms/de_02-de-002222.npy|lin_spectrograms/de_02-de-002222.npy|Hey Schatz, das Klopapier ist alle.|
+001029|11-de|de|../comvoi_clean/de/wavs/11/common_voice_de_18737748.wav|mel_spectrograms/de_11-de-002223.npy|lin_spectrograms/de_11-de-002223.npy|Chile hat die Netzneutralität gesetzlich verankert.|
+006911|06-fr|fr|../comvoi_clean/fr/wavs/06/common_voice_fr_18863731.wav|mel_spectrograms/fr_06-fr-002224.npy|lin_spectrograms/fr_06-fr-002224.npy|Trois articles plus loin, vous prévoyez un délai.|
+014415|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18932793.wav|mel_spectrograms/ru_05-ru-002225.npy|lin_spectrograms/ru_05-ru-002225.npy|Колотила ее бабка.|
+008590|18-fr|fr|../comvoi_clean/fr/wavs/18/common_voice_fr_18428631.wav|mel_spectrograms/fr_18-fr-002226.npy|lin_spectrograms/fr_18-fr-002226.npy|A cette dernière probabilité, le jeune homme s'arrêta.|
+011162|10-nl|nl|../comvoi_clean/nl/wavs/10/common_voice_nl_17722694.wav|mel_spectrograms/nl_10-nl-002227.npy|lin_spectrograms/nl_10-nl-002227.npy|Na het aftreden van de directeur kwam de manager meer naar de voorgrond.|
+005803|52-de|de|../comvoi_clean/de/wavs/52/common_voice_de_18686400.wav|mel_spectrograms/de_52-de-002228.npy|lin_spectrograms/de_52-de-002228.npy|Der Mann verfügt über eine Beobachtungsgabe wie kein zweiter.|
+013972|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18915995.wav|mel_spectrograms/ru_05-ru-002229.npy|lin_spectrograms/ru_05-ru-002229.npy|Когда мы начинали совместную работу, ядерное разоружение было безнадежным делом.|
+030145|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000146.wav|mel_spectrograms/chr_03-chr-002230.npy|lin_spectrograms/chr_03-chr-002230.npy|U:halv:ni.|
+010056|02-nl|nl|../comvoi_clean/nl/wavs/02/common_voice_nl_18008116.wav|mel_spectrograms/nl_02-nl-002231.npy|lin_spectrograms/nl_02-nl-002231.npy|De wieltjes onder mijn bureaustoel blokkeren.|
+009219|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18240044.wav|mel_spectrograms/fr_21-fr-002232.npy|lin_spectrograms/fr_21-fr-002232.npy|Ce théâtre était, selon la parole de Robespierre, le repaire de l'aristocratie.|
+009728|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17695434.wav|mel_spectrograms/nl_01-nl-002233.npy|lin_spectrograms/nl_01-nl-002233.npy|Heeft Marc zijn bachelor al afgemaakt?|
+012095|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18887763.wav|mel_spectrograms/ru_02-ru-002234.npy|lin_spectrograms/ru_02-ru-002234.npy|Во-вторых, для продолжения политического процесса мы должны удвоить наши усилия по противодействию терроризму.|
+003792|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18326589.wav|mel_spectrograms/de_36-de-002235.npy|lin_spectrograms/de_36-de-002235.npy|Wenn du deinen Spinat nicht aufisst, gibt es für dich keinen Nachtisch.|
+007040|07-fr|fr|../comvoi_clean/fr/wavs/07/common_voice_fr_18084708.wav|mel_spectrograms/fr_07-fr-002236.npy|lin_spectrograms/fr_07-fr-002236.npy|Il agira contre Luther, mais, s'il peut, par un concile, pour réformer le pape même.|
+012584|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888454.wav|mel_spectrograms/ru_02-ru-002237.npy|lin_spectrograms/ru_02-ru-002237.npy|А сейчас слово имеет представитель Италии.|
+012611|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888496.wav|mel_spectrograms/ru_02-ru-002238.npy|lin_spectrograms/ru_02-ru-002238.npy|Первый момент касается исследования вопроса о прекращении безнаказанности.|
+001713|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18886058.wav|mel_spectrograms/de_14-de-002239.npy|lin_spectrograms/de_14-de-002239.npy|Das Namensschild auf dem Kittel ist immer noch nicht ausgetauscht.|
+005892|01-fr|fr|../comvoi_clean/fr/wavs/01/common_voice_fr_17810174.wav|mel_spectrograms/fr_01-fr-002240.npy|lin_spectrograms/fr_01-fr-002240.npy|Dans l'enlèvement général du Parlement (en mai mille sept cent cinquante-trois), M.|
+014591|06-ru|ru|../comvoi_clean/ru/wavs/06/common_voice_ru_18920854.wav|mel_spectrograms/ru_06-ru-002241.npy|lin_spectrograms/ru_06-ru-002241.npy|Мы готовы поддержать страны, которые избрали путь демократических изменений.|
+009410|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18278378.wav|mel_spectrograms/fr_21-fr-002242.npy|lin_spectrograms/fr_21-fr-002242.npy|Piqué dans la vase et incorporé dans une botte de roseaux.|
+010391|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000392.wav|mel_spectrograms/chr_01-chr-002243.npy|lin_spectrograms/chr_01-chr-002243.npy|mǎ:gi. Gadō ù:lsdá:si jaji? À:dawó:sgó:ɂi. Adawő:sgi.|
+020290|02-chr|chr|../cherokee-audio/sam-hider/wav/000291.wav|mel_spectrograms/chr_02-chr-002244.npy|lin_spectrograms/chr_02-chr-002244.npy|Kawǒ:ni. Nvhgi. Aksganike idihla? Yv:gi.|
+001319|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18450396.wav|mel_spectrograms/de_13-de-002245.npy|lin_spectrograms/de_13-de-002245.npy|Nimm lieber gleich Knetrührer!|
+010313|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000314.wav|mel_spectrograms/chr_01-chr-002246.npy|lin_spectrograms/chr_01-chr-002246.npy|gi:hli. Gő:sdigwu i:jadǎ:hntehdi ì:jv:ne:ha.|
+010041|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696938.wav|mel_spectrograms/nl_01-nl-002247.npy|lin_spectrograms/nl_01-nl-002247.npy|Onderaan de stuwdam bevindt zich een waterkrachtcentrale.|
+004554|43-de|de|../comvoi_clean/de/wavs/43/common_voice_de_18432789.wav|mel_spectrograms/de_43-de-002248.npy|lin_spectrograms/de_43-de-002248.npy|Die ersten Läufer haben bereits wegen Seitenstichen abgebrochen.|
+014348|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931787.wav|mel_spectrograms/ru_05-ru-002249.npy|lin_spectrograms/ru_05-ru-002249.npy|Представитель Соединенных Штатов, пожалуйста.|
+009981|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696589.wav|mel_spectrograms/nl_01-nl-002250.npy|lin_spectrograms/nl_01-nl-002250.npy|Zij zit in haar pyjama voor de tv.|
+020096|02-chr|chr|../cherokee-audio/sam-hider/wav/000097.wav|mel_spectrograms/chr_02-chr-002251.npy|lin_spectrograms/chr_02-chr-002251.npy|Ha:dlv dané:si?|
+030662|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000663.wav|mel_spectrograms/chr_03-chr-002252.npy|lin_spectrograms/chr_03-chr-002252.npy|Go:hwe:la desgi:nv̀.|
+009251|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18240142.wav|mel_spectrograms/fr_21-fr-002253.npy|lin_spectrograms/fr_21-fr-002253.npy|Résultat, ce projet de loi ne contient, à l'évidence, aucun bouleversement.|
+010382|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_18133158.wav|mel_spectrograms/nl_03-nl-002254.npy|lin_spectrograms/nl_03-nl-002254.npy|Zelfrijdende auto's kunnen binnenkort dronken passagiers veilig thuis brengen.|
+013754|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18881354.wav|mel_spectrograms/ru_04-ru-002255.npy|lin_spectrograms/ru_04-ru-002255.npy|Бомба, упавшая на территории рынка, не взорвалась.|
+010284|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000285.wav|mel_spectrograms/chr_01-chr-002256.npy|lin_spectrograms/chr_01-chr-002256.npy|hahkwiyíha. à:yé:ga. gáɂluhga. sohnela:du. digv̌:tladǐ:sgi.|
+010660|06-nl|nl|../comvoi_clean/nl/wavs/06/common_voice_nl_17906340.wav|mel_spectrograms/nl_06-nl-002257.npy|lin_spectrograms/nl_06-nl-002257.npy|Tussen twee woorden zet je een spatie.|
+003433|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18521070.wav|mel_spectrograms/de_27-de-002258.npy|lin_spectrograms/de_27-de-002258.npy|Vivien blies die Backen auf.|
+008753|19-fr|fr|../comvoi_clean/fr/wavs/19/common_voice_fr_18088774.wav|mel_spectrograms/fr_19-fr-002259.npy|lin_spectrograms/fr_19-fr-002259.npy|Oh! Impossible! Elle passe la mesure.|
+008102|13-fr|fr|../comvoi_clean/fr/wavs/13/common_voice_fr_18171808.wav|mel_spectrograms/fr_13-fr-002260.npy|lin_spectrograms/fr_13-fr-002260.npy|L'industrie automobile bénéficie en France d’un écosystème favorable à l’innovation.|
+020238|02-chr|chr|../cherokee-audio/sam-hider/wav/000239.wav|mel_spectrograms/chr_02-chr-002261.npy|lin_spectrograms/chr_02-chr-002261.npy|Yà:gwadu:lígwu uwě:ji.|
+003505|29-de|de|../comvoi_clean/de/wavs/29/common_voice_de_18509452.wav|mel_spectrograms/de_29-de-002262.npy|lin_spectrograms/de_29-de-002262.npy|Hä, was?|
+002550|23-de|de|../comvoi_clean/de/wavs/23/common_voice_de_18388995.wav|mel_spectrograms/de_23-de-002263.npy|lin_spectrograms/de_23-de-002263.npy|Monaco ist die Hauptstadt von Monaco.|
+009853|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696219.wav|mel_spectrograms/nl_01-nl-002264.npy|lin_spectrograms/nl_01-nl-002264.npy|Het stuk metaal was gedraaid in een draaibank.|
+008919|20-fr|fr|../comvoi_clean/fr/wavs/20/common_voice_fr_17778398.wav|mel_spectrograms/fr_20-fr-002265.npy|lin_spectrograms/fr_20-fr-002265.npy|Finalement, les choses sont donc assez équilibrées.|
+014158|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931322.wav|mel_spectrograms/ru_05-ru-002266.npy|lin_spectrograms/ru_05-ru-002266.npy|Мы знаем, как более эффективно использовать ресурсы.|
+001529|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18716189.wav|mel_spectrograms/de_13-de-002267.npy|lin_spectrograms/de_13-de-002267.npy|Mit dieser Sisyphusarbeit ist die Kanzlei für die nächsten Wochen außer Gefecht gesetzt.|
+013463|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18875303.wav|mel_spectrograms/ru_04-ru-002268.npy|lin_spectrograms/ru_04-ru-002268.npy|Я там повесил картинку, называлась Смерть абстракциониста.|
+009857|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696229.wav|mel_spectrograms/nl_01-nl-002269.npy|lin_spectrograms/nl_01-nl-002269.npy|Jan en Mieke rennen rond in de tuin.|
+007365|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18652924.wav|mel_spectrograms/fr_09-fr-002270.npy|lin_spectrograms/fr_09-fr-002270.npy|Le clairon de la caserne jetait ses notes allègres.|
+012525|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888332.wav|mel_spectrograms/ru_02-ru-002271.npy|lin_spectrograms/ru_02-ru-002271.npy|Эк они завернули: гнуснопрославленный!|
+012398|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888180.wav|mel_spectrograms/ru_02-ru-002272.npy|lin_spectrograms/ru_02-ru-002272.npy|Оборонительная позиция по Фолклендским островам остается неизменной на протяжении многих лет.|
+020189|02-chr|chr|../cherokee-audio/sam-hider/wav/000190.wav|mel_spectrograms/chr_02-chr-002273.npy|lin_spectrograms/chr_02-chr-002273.npy|U:hyǒ:ni.|
+013985|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18916044.wav|mel_spectrograms/ru_05-ru-002274.npy|lin_spectrograms/ru_05-ru-002274.npy|Ситуация в Сирии является источником глубокой и растущей озабоченности Организации Объединенных Наций.|
+009146|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18239633.wav|mel_spectrograms/fr_21-fr-002275.npy|lin_spectrograms/fr_21-fr-002275.npy|Je suis pas trop conne et pas encore ramollie. Et puis j'ai pas le choix.|
+009563|25-fr|fr|../comvoi_clean/fr/wavs/25/common_voice_fr_18493686.wav|mel_spectrograms/fr_25-fr-002276.npy|lin_spectrograms/fr_25-fr-002276.npy|Que Monsieur soit tranquille!|
+002246|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18213143.wav|mel_spectrograms/de_21-de-002277.npy|lin_spectrograms/de_21-de-002277.npy|Die Vierbeiner wühlten im Sand, als würden sie etwas Bestimmtes suchen.|
+001771|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18888998.wav|mel_spectrograms/de_14-de-002278.npy|lin_spectrograms/de_14-de-002278.npy|Eine künstliche Intelligenz kann den Arbeitsprozess beschleunigen.|
+010394|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_18133201.wav|mel_spectrograms/nl_03-nl-002279.npy|lin_spectrograms/nl_03-nl-002279.npy|Waar rook is, is vuur|
+005232|49-de|de|../comvoi_clean/de/wavs/49/common_voice_de_18205772.wav|mel_spectrograms/de_49-de-002280.npy|lin_spectrograms/de_49-de-002280.npy|Ein weiterer Raum für Selbstversorger soll entstehen.|
+004532|43-de|de|../comvoi_clean/de/wavs/43/common_voice_de_18432742.wav|mel_spectrograms/de_43-de-002281.npy|lin_spectrograms/de_43-de-002281.npy|Traut sich sonst noch jemand?|
+008052|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17872455.wav|mel_spectrograms/fr_11-fr-002282.npy|lin_spectrograms/fr_11-fr-002282.npy|Quel est l'avis du Gouvernement? Je confirme les propos du rapporteur.|
+008685|19-fr|fr|../comvoi_clean/fr/wavs/19/common_voice_fr_18088593.wav|mel_spectrograms/fr_19-fr-002283.npy|lin_spectrograms/fr_19-fr-002283.npy|Rue du Gué Romain, trente-sept, trois cent dix Reignac-sur-Indre|
+000809|07-de|de|../comvoi_clean/de/wavs/07/common_voice_de_18430048.wav|mel_spectrograms/de_07-de-002284.npy|lin_spectrograms/de_07-de-002284.npy|Sie hat mit mir Schluss gemacht.|
+030796|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000797.wav|mel_spectrograms/chr_03-chr-002285.npy|lin_spectrograms/chr_03-chr-002285.npy|Kó:gi. Ǔ:tana wǒ:háɂl à:gowhtí.|
+001438|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18596940.wav|mel_spectrograms/de_13-de-002286.npy|lin_spectrograms/de_13-de-002286.npy|Sein Telefon ist verwanzt.|
+009542|25-fr|fr|../comvoi_clean/fr/wavs/25/common_voice_fr_18493663.wav|mel_spectrograms/fr_25-fr-002287.npy|lin_spectrograms/fr_25-fr-002287.npy|Un mètre carré et quart.|
+008795|19-fr|fr|../comvoi_clean/fr/wavs/19/common_voice_fr_18096615.wav|mel_spectrograms/fr_19-fr-002288.npy|lin_spectrograms/fr_19-fr-002288.npy|T'as une âme d’aristocrate, t’es fait pour être esclave.|
+050021|05-chr|chr|../cherokee-audio/cherokee-language-coach-1/wav/000022.wav|mel_spectrograms/chr_05-chr-002289.npy|lin_spectrograms/chr_05-chr-002289.npy|Hla yà:gwanhta. Go:lì:ga. Jǒ:hlê:sdi. Di:dě:hlo:gwà:sgi. Jalagis hiwó:ni jadu:lí? Digo:hwe:li. Hidô:gé:sdi.|
+014206|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931415.wav|mel_spectrograms/ru_05-ru-002290.npy|lin_spectrograms/ru_05-ru-002290.npy|Харун - губернатор штата Южный Кордофан и преподносит себя как человека, умеющего решать проблемы.|
+006982|06-fr|fr|../comvoi_clean/fr/wavs/06/common_voice_fr_18863936.wav|mel_spectrograms/fr_06-fr-002291.npy|lin_spectrograms/fr_06-fr-002291.npy|Et on fait ça quand?|
+005076|48-de|de|../comvoi_clean/de/wavs/48/common_voice_de_18293510.wav|mel_spectrograms/de_48-de-002292.npy|lin_spectrograms/de_48-de-002292.npy|Aufgrund einer verfehlten Bildungspolitik muss man sich Medienkompetenz meistens autodidaktisch beibringen.|
+011519|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18877321.wav|mel_spectrograms/ru_02-ru-002293.npy|lin_spectrograms/ru_02-ru-002293.npy|Я завез людей, которые восемь лет как минимум проработали в поле.|
+005876|01-fr|fr|../comvoi_clean/fr/wavs/01/common_voice_fr_17810152.wav|mel_spectrograms/fr_01-fr-002294.npy|lin_spectrograms/fr_01-fr-002294.npy|Donc, maintenant l'on me marie Sans seulement me consulter?|
+006585|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18602860.wav|mel_spectrograms/fr_04-fr-002295.npy|lin_spectrograms/fr_04-fr-002295.npy|La générale l'excusa: malaise de fillette troublée par une émotion imprévue.|
+013793|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18915007.wav|mel_spectrograms/ru_05-ru-002296.npy|lin_spectrograms/ru_05-ru-002296.npy|Все так, говорила Ольга. Но я не знаю, куда пропала Женя.|
+001963|17-de|de|../comvoi_clean/de/wavs/17/common_voice_de_18238123.wav|mel_spectrograms/de_17-de-002297.npy|lin_spectrograms/de_17-de-002297.npy|Es bleibt also weiterhin trocken.|
+004694|45-de|de|../comvoi_clean/de/wavs/45/common_voice_de_18366189.wav|mel_spectrograms/de_45-de-002298.npy|lin_spectrograms/de_45-de-002298.npy|Zur Vernissage kamen rund hundert geladene Gäste aus Politik und Kultur.|
+010334|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000335.wav|mel_spectrograms/chr_01-chr-002299.npy|lin_spectrograms/chr_01-chr-002299.npy|è:sdagà:tǒ:sdi. Àginv̌:lv̂hvsgo jalagi agiwo:nǐ:hísdi̋:ɂi.|
+010971|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18736243.wav|mel_spectrograms/nl_08-nl-002300.npy|lin_spectrograms/nl_08-nl-002300.npy|Ik wordt helemaal vrolijk van de versieringen.|
+007381|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18652957.wav|mel_spectrograms/fr_09-fr-002301.npy|lin_spectrograms/fr_09-fr-002301.npy|Tu as un gros disque dur?|
+013681|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18881279.wav|mel_spectrograms/ru_04-ru-002302.npy|lin_spectrograms/ru_04-ru-002302.npy|Тогда старик расхохотался.|
+020402|02-chr|chr|../cherokee-audio/sam-hider/wav/000403.wav|mel_spectrograms/chr_02-chr-002303.npy|lin_spectrograms/chr_02-chr-002303.npy|Yà:gwadu:lígwu à:gwalsdàyhdiyi. Jitǎ:ga.|
+010887|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18735882.wav|mel_spectrograms/nl_08-nl-002304.npy|lin_spectrograms/nl_08-nl-002304.npy|Vandaar dat we een dag eerder naar huis zijn gegaan.|
+004550|43-de|de|../comvoi_clean/de/wavs/43/common_voice_de_18432785.wav|mel_spectrograms/de_43-de-002305.npy|lin_spectrograms/de_43-de-002305.npy|Käpt'n, wir kentern!|
+031075|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/001076.wav|mel_spectrograms/chr_03-chr-002306.npy|lin_spectrograms/chr_03-chr-002306.npy|U:hyv:dlv gě:dô:. Junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli. Dō ű:sd?|
+004201|37-de|de|../comvoi_clean/de/wavs/37/common_voice_de_18250382.wav|mel_spectrograms/de_37-de-002307.npy|lin_spectrograms/de_37-de-002307.npy|Moskau war die Hauptstadt der Sowjetunion.|
+000912|10-de|de|../comvoi_clean/de/wavs/10/common_voice_de_18390596.wav|mel_spectrograms/de_10-de-002308.npy|lin_spectrograms/de_10-de-002308.npy|Zweitens mussten die Minen aufgegeben werden.|
+006050|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18573241.wav|mel_spectrograms/fr_04-fr-002309.npy|lin_spectrograms/fr_04-fr-002309.npy|Le verrou même dénoncerait trop bien la vérité.|
+013472|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18875337.wav|mel_spectrograms/ru_04-ru-002310.npy|lin_spectrograms/ru_04-ru-002310.npy|Пятьдесят два миллиарда сто двадцать четыре миллиона шестьсот сорок одна тысяча семьсот шестьдесят четыре.|
+003632|32-de|de|../comvoi_clean/de/wavs/32/common_voice_de_18634027.wav|mel_spectrograms/de_32-de-002311.npy|lin_spectrograms/de_32-de-002311.npy|Ja, wenn es um seine Gartenzwerge geht, ist Herr Scholz immer sehr empfindlich.|
+009299|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18240272.wav|mel_spectrograms/fr_21-fr-002312.npy|lin_spectrograms/fr_21-fr-002312.npy|Comprenez-vous maintenant? Oh! oui, oui, dit mademoiselle de Valois.|
+009142|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18239608.wav|mel_spectrograms/fr_21-fr-002313.npy|lin_spectrograms/fr_21-fr-002313.npy|Ces amendements identiques me semblent sains et protecteurs.|
+011324|12-nl|nl|../comvoi_clean/nl/wavs/12/common_voice_nl_17700464.wav|mel_spectrograms/nl_12-nl-002314.npy|lin_spectrograms/nl_12-nl-002314.npy|Ik moet nog even tanken in het benzinestation.|
+009840|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696170.wav|mel_spectrograms/nl_01-nl-002315.npy|lin_spectrograms/nl_01-nl-002315.npy|Haar handtas was gestolen in Madrid.|
+006186|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18576274.wav|mel_spectrograms/fr_04-fr-002316.npy|lin_spectrograms/fr_04-fr-002316.npy|Où que j'irai, je vous le demande?|
+005217|49-de|de|../comvoi_clean/de/wavs/49/common_voice_de_18205740.wav|mel_spectrograms/de_49-de-002317.npy|lin_spectrograms/de_49-de-002317.npy|Zu so später Stunde sind die meisten Schüler nicht mehr besonders aufnahmefähig.|
+005437|51-de|de|../comvoi_clean/de/wavs/51/common_voice_de_18771334.wav|mel_spectrograms/de_51-de-002318.npy|lin_spectrograms/de_51-de-002318.npy|Trotzdem muss man nicht den Teufel an die Wand malen.|
+040096|04-chr|chr|../cherokee-audio/michael-conrad/wav/000097.wav|mel_spectrograms/chr_04-chr-002319.npy|lin_spectrograms/chr_04-chr-002319.npy|gadō űnsdi? nvhgi. tla. nǔ:na. ő:sda.|
+030773|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000774.wav|mel_spectrograms/chr_03-chr-002320.npy|lin_spectrograms/chr_03-chr-002320.npy|Hisgi:ne̋.|
+007873|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17861656.wav|mel_spectrograms/fr_11-fr-002321.npy|lin_spectrograms/fr_11-fr-002321.npy|Il fallait attendre, les étudier, et en être, être de toutes.|
+003278|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18520884.wav|mel_spectrograms/de_27-de-002322.npy|lin_spectrograms/de_27-de-002322.npy|Solche Spekulationen helfen niemandem weiter.|
+013333|03-ru|ru|../comvoi_clean/ru/wavs/03/common_voice_ru_18892689.wav|mel_spectrograms/ru_03-ru-002323.npy|lin_spectrograms/ru_03-ru-002323.npy|Подходит ко мне сегодня какой-то дяденька.|
+007410|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18652986.wav|mel_spectrograms/fr_09-fr-002324.npy|lin_spectrograms/fr_09-fr-002324.npy|Les dalles retentissaient sous les crosses et les fourreaux de sabres.|
+000303|02-de|de|../comvoi_clean/de/wavs/02/common_voice_de_18433157.wav|mel_spectrograms/de_02-de-002325.npy|lin_spectrograms/de_02-de-002325.npy|Laut Verfassung unterliegt kein Abgeordneter einem Fraktionszwang.|
+008579|17-fr|fr|../comvoi_clean/fr/wavs/17/common_voice_fr_18130673.wav|mel_spectrograms/fr_17-fr-002326.npy|lin_spectrograms/fr_17-fr-002326.npy|Hier, j'ai annoncé officiellement votre mariage au prince de Conti.|
+011726|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18881825.wav|mel_spectrograms/ru_02-ru-002327.npy|lin_spectrograms/ru_02-ru-002327.npy|Многое будет зависеть, разумеется, и от исхода работы группы правительственных экспертов.|
+030826|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000827.wav|mel_spectrograms/chr_03-chr-002328.npy|lin_spectrograms/chr_03-chr-002328.npy|Junsdi danì:gowhtíɂa jǔ:ntana wǒ:háɂli. U:gù:ku.|
+009983|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696591.wav|mel_spectrograms/nl_01-nl-002329.npy|lin_spectrograms/nl_01-nl-002329.npy|Is dat eetbaar?|
+003617|31-de|de|../comvoi_clean/de/wavs/31/common_voice_de_18358060.wav|mel_spectrograms/de_31-de-002330.npy|lin_spectrograms/de_31-de-002330.npy|Die größten Städte Englands sind London, Birmingham und Manchester.|
+004951|47-de|de|../comvoi_clean/de/wavs/47/common_voice_de_18529099.wav|mel_spectrograms/de_47-de-002331.npy|lin_spectrograms/de_47-de-002331.npy|Oder warum riecht es hier so streng?|
+011100|09-nl|nl|../comvoi_clean/nl/wavs/09/common_voice_nl_17699989.wav|mel_spectrograms/nl_09-nl-002332.npy|lin_spectrograms/nl_09-nl-002332.npy|Kikkers leven vaak aan de oevers van rivieren of vijvers.|
+014344|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931777.wav|mel_spectrograms/ru_05-ru-002333.npy|lin_spectrograms/ru_05-ru-002333.npy|Да мы, собственно, и постулировали бы обратное.|
+010318|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_17862909.wav|mel_spectrograms/nl_03-nl-002334.npy|lin_spectrograms/nl_03-nl-002334.npy|Een bevel sluit je af met een uitroepteken.|
+020089|02-chr|chr|../cherokee-audio/sam-hider/wav/000090.wav|mel_spectrograms/chr_02-chr-002335.npy|lin_spectrograms/chr_02-chr-002335.npy|Jigiɂli:li.|
+009912|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696373.wav|mel_spectrograms/nl_01-nl-002336.npy|lin_spectrograms/nl_01-nl-002336.npy|De dief klom langs de regenpijp naar boven.|
+004600|44-de|de|../comvoi_clean/de/wavs/44/common_voice_de_18229631.wav|mel_spectrograms/de_44-de-002337.npy|lin_spectrograms/de_44-de-002337.npy|An der Primärspule liegen permanent zwölf Volt an.|
+014170|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931335.wav|mel_spectrograms/ru_05-ru-002338.npy|lin_spectrograms/ru_05-ru-002338.npy|Мы абсолютно уверены в его успехе.|
+007670|10-fr|fr|../comvoi_clean/fr/wavs/10/common_voice_fr_18868682.wav|mel_spectrograms/fr_10-fr-002339.npy|lin_spectrograms/fr_10-fr-002339.npy|Rue du Clos Méry au numéro dix-huit|
+031061|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/001062.wav|mel_spectrograms/chr_03-chr-002340.npy|lin_spectrograms/chr_03-chr-002340.npy|Sóhně:li:ne̋. À:giha. Go:gi. Ùnanht. Hlahv.|
+001799|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18889028.wav|mel_spectrograms/de_14-de-002341.npy|lin_spectrograms/de_14-de-002341.npy|Dafür wird es bei ihm auch sauber.|
+010317|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000318.wav|mel_spectrograms/chr_01-chr-002342.npy|lin_spectrograms/chr_01-chr-002342.npy|lo:lo. à:ktǐ:ya. jigǎ:tǐ:ya.|
+003343|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18520957.wav|mel_spectrograms/de_27-de-002343.npy|lin_spectrograms/de_27-de-002343.npy|Wenn es jedoch auftritt, sind die Folgen umso verheerender.|
+030935|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000936.wav|mel_spectrograms/chr_03-chr-002344.npy|lin_spectrograms/chr_03-chr-002344.npy|Agv̌:níge̋:ɂi kama:ma à:lsdâ:yv:hv́sga. Dògi hadí. Kwan. À:hneha. A̋ɂda.|
+001983|17-de|de|../comvoi_clean/de/wavs/17/common_voice_de_18238143.wav|mel_spectrograms/de_17-de-002345.npy|lin_spectrograms/de_17-de-002345.npy|Wir wollen der Website eine optische Auffrischung verpassen.|
+000206|01-de|de|../comvoi_clean/de/wavs/01/common_voice_de_18663447.wav|mel_spectrograms/de_01-de-002346.npy|lin_spectrograms/de_01-de-002346.npy|Man sollte ein paar Deutschlehrer zum Korrekturlesen rekrutieren.|
+005535|51-de|de|../comvoi_clean/de/wavs/51/common_voice_de_18771466.wav|mel_spectrograms/de_51-de-002347.npy|lin_spectrograms/de_51-de-002347.npy|Was machst du denn jetzt mit der anderen Hälfte?|
+020363|02-chr|chr|../cherokee-audio/sam-hider/wav/000364.wav|mel_spectrograms/chr_02-chr-002348.npy|lin_spectrograms/chr_02-chr-002348.npy|Digalà:wiɂsdi̋:ɂi. Galv̀:na.|
+008494|17-fr|fr|../comvoi_clean/fr/wavs/17/common_voice_fr_17845094.wav|mel_spectrograms/fr_17-fr-002349.npy|lin_spectrograms/fr_17-fr-002349.npy|trente-quatre rue Hippolyte Lètard, quatre-vingt-dix-sept, trois cent quinze à Sinnamary|
+002121|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18212038.wav|mel_spectrograms/de_21-de-002350.npy|lin_spectrograms/de_21-de-002350.npy|Noch dazu sind die Videos voll mit Schleichwerbung.|
+005105|48-de|de|../comvoi_clean/de/wavs/48/common_voice_de_18762920.wav|mel_spectrograms/de_48-de-002351.npy|lin_spectrograms/de_48-de-002351.npy|Kann ich Kirschwasser trinken oder muss das filtriert werden?|
+010374|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_18133143.wav|mel_spectrograms/nl_03-nl-002352.npy|lin_spectrograms/nl_03-nl-002352.npy|Je kan hem bezoeken in de gevangenis.|
+000647|06-de|de|../comvoi_clean/de/wavs/06/common_voice_de_18358105.wav|mel_spectrograms/de_06-de-002353.npy|lin_spectrograms/de_06-de-002353.npy|Im Norden liegen die A-zwei und die A-zweiundvierzig, im Süden die A-zweiundfünfzig.|
+005265|49-de|de|../comvoi_clean/de/wavs/49/common_voice_de_18205862.wav|mel_spectrograms/de_49-de-002354.npy|lin_spectrograms/de_49-de-002354.npy|Damit ein Funke überspringt, sind über tausend Volt nötig.|
+013076|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18907322.wav|mel_spectrograms/ru_02-ru-002355.npy|lin_spectrograms/ru_02-ru-002355.npy|Наконец вот и дача.|
+004471|41-de|de|../comvoi_clean/de/wavs/41/common_voice_de_18224780.wav|mel_spectrograms/de_41-de-002356.npy|lin_spectrograms/de_41-de-002356.npy|Es ist eiskalt.|
+010199|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_17708668.wav|mel_spectrograms/nl_03-nl-002357.npy|lin_spectrograms/nl_03-nl-002357.npy|Met een virtualrealitybril kan je in een virtualrealityomgeving avonturen beleven.|
+011822|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18881927.wav|mel_spectrograms/ru_02-ru-002358.npy|lin_spectrograms/ru_02-ru-002358.npy|Я рад присутствовать здесь сегодня по случаю окончания Международного года молодежи.|
+014135|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931292.wav|mel_spectrograms/ru_05-ru-002359.npy|lin_spectrograms/ru_05-ru-002359.npy|На Голливудском бульваре идут последние приготовления к ежегодной церемонии вручения премии Оскар.|
+009622|26-fr|fr|../comvoi_clean/fr/wavs/26/common_voice_fr_18408477.wav|mel_spectrograms/fr_26-fr-002360.npy|lin_spectrograms/fr_26-fr-002360.npy|Venez.|
+014043|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18923033.wav|mel_spectrograms/ru_05-ru-002361.npy|lin_spectrograms/ru_05-ru-002361.npy|Ужасает беспрецедентно высокий процент детей среди всех погибших.|
+000316|02-de|de|../comvoi_clean/de/wavs/02/common_voice_de_18433187.wav|mel_spectrograms/de_02-de-002362.npy|lin_spectrograms/de_02-de-002362.npy|Aber da wird die dritte Dimension auch nicht sichtbar.|
+007475|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18653084.wav|mel_spectrograms/fr_09-fr-002363.npy|lin_spectrograms/fr_09-fr-002363.npy|Plus il tentait de surveiller ses arrières, plus il se persuadait être suivi.|
+012717|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18891572.wav|mel_spectrograms/ru_02-ru-002364.npy|lin_spectrograms/ru_02-ru-002364.npy|Стук и вой повторился.|
+000089|01-de|de|../comvoi_clean/de/wavs/01/common_voice_de_18376028.wav|mel_spectrograms/de_01-de-002365.npy|lin_spectrograms/de_01-de-002365.npy|Teheran ist die Hauptstadt vom Iran.|
+014375|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931869.wav|mel_spectrograms/ru_05-ru-002366.npy|lin_spectrograms/ru_05-ru-002366.npy|Необходимо одновременно добиваться прогресса в обеспечении политической стабилизации, безопасности, развития и верховенства закона.|
+011833|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18881939.wav|mel_spectrograms/ru_02-ru-002367.npy|lin_spectrograms/ru_02-ru-002367.npy|Мы знаем, как более эффективно использовать ресурсы.|
+011169|10-nl|nl|../comvoi_clean/nl/wavs/10/common_voice_nl_17722704.wav|mel_spectrograms/nl_10-nl-002368.npy|lin_spectrograms/nl_10-nl-002368.npy|Je hebt een mooie stem.|
+004070|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18327536.wav|mel_spectrograms/de_36-de-002369.npy|lin_spectrograms/de_36-de-002369.npy|Langfristig sollten wir nicht abhängig von einem einzelnen Zulieferer sein.|
+040042|04-chr|chr|../cherokee-audio/michael-conrad/wav/000043.wav|mel_spectrograms/chr_04-chr-002370.npy|lin_spectrograms/chr_04-chr-002370.npy|Joɂi nǔ:na.|
+001901|17-de|de|../comvoi_clean/de/wavs/17/common_voice_de_18233595.wav|mel_spectrograms/de_17-de-002371.npy|lin_spectrograms/de_17-de-002371.npy|Dreh mir bitte keinen Strick daraus.|
+030381|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000382.wav|mel_spectrograms/chr_03-chr-002372.npy|lin_spectrograms/chr_03-chr-002372.npy|Tā.|
+008477|16-fr|fr|../comvoi_clean/fr/wavs/16/common_voice_fr_18143892.wav|mel_spectrograms/fr_16-fr-002373.npy|lin_spectrograms/fr_16-fr-002373.npy|L'avis est donc toujours défavorable.|
+010048|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000049.wav|mel_spectrograms/chr_01-chr-002374.npy|lin_spectrograms/chr_01-chr-002374.npy|à:kwiyíha.|
+030112|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000113.wav|mel_spectrograms/chr_03-chr-002375.npy|lin_spectrograms/chr_03-chr-002375.npy|Á:m.|
+007273|08-fr|fr|../comvoi_clean/fr/wavs/08/common_voice_fr_18648473.wav|mel_spectrograms/fr_08-fr-002376.npy|lin_spectrograms/fr_08-fr-002376.npy|Le Honduras fait appel à une frégate.|
+006042|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18573229.wav|mel_spectrograms/fr_04-fr-002377.npy|lin_spectrograms/fr_04-fr-002377.npy|Ces façons déridaient Omer, mais lui répugnaient aussi.|
+013436|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18875224.wav|mel_spectrograms/ru_04-ru-002378.npy|lin_spectrograms/ru_04-ru-002378.npy|"Я не думаю, что в Организации Объединенных Наций есть группировка под названием ""крупные державы""."|
+013301|03-ru|ru|../comvoi_clean/ru/wavs/03/common_voice_ru_18892630.wav|mel_spectrograms/ru_03-ru-002379.npy|lin_spectrograms/ru_03-ru-002379.npy|Это должно быть прямо закреплено.|
+002682|24-de|de|../comvoi_clean/de/wavs/24/common_voice_de_18777894.wav|mel_spectrograms/de_24-de-002380.npy|lin_spectrograms/de_24-de-002380.npy|So hat es die Leitstelle durchgegeben.|
+007895|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17861678.wav|mel_spectrograms/fr_11-fr-002381.npy|lin_spectrograms/fr_11-fr-002381.npy|Olivier Plumartin tapotait de l'index sur un journal qu'il tenait à la main.|
+014295|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931614.wav|mel_spectrograms/ru_05-ru-002382.npy|lin_spectrograms/ru_05-ru-002382.npy|Был ли ты когда-нибудь на Колыме?|
+000699|06-de|de|../comvoi_clean/de/wavs/06/common_voice_de_18364623.wav|mel_spectrograms/de_06-de-002383.npy|lin_spectrograms/de_06-de-002383.npy|Warschau ist die Hauptstadt von Polen.|
+005256|49-de|de|../comvoi_clean/de/wavs/49/common_voice_de_18205841.wav|mel_spectrograms/de_49-de-002384.npy|lin_spectrograms/de_49-de-002384.npy|Ein Karatekämpfer wendet nie denselben Trick zweimal an.|
+010837|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18735687.wav|mel_spectrograms/nl_08-nl-002385.npy|lin_spectrograms/nl_08-nl-002385.npy|De regisseur schreeuwde actie om de scene te starten.|
+002491|22-de|de|../comvoi_clean/de/wavs/22/common_voice_de_18725278.wav|mel_spectrograms/de_22-de-002386.npy|lin_spectrograms/de_22-de-002386.npy|Die Saison neigt sich dem Ende zu.|
+001626|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18860964.wav|mel_spectrograms/de_14-de-002387.npy|lin_spectrograms/de_14-de-002387.npy|Bettina befindet sich schon wieder auf dem Weg der Besserung.|
+007133|07-fr|fr|../comvoi_clean/fr/wavs/07/common_voice_fr_18084877.wav|mel_spectrograms/fr_07-fr-002388.npy|lin_spectrograms/fr_07-fr-002388.npy|quatorze impasse du Hameau des Graines, soixante-dix-neuf, cent, Thouars|
+006471|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18602421.wav|mel_spectrograms/fr_04-fr-002389.npy|lin_spectrograms/fr_04-fr-002389.npy|Elle se dandinait prudemment.|
+010633|06-nl|nl|../comvoi_clean/nl/wavs/06/common_voice_nl_17906307.wav|mel_spectrograms/nl_06-nl-002390.npy|lin_spectrograms/nl_06-nl-002390.npy|Het vertonen van het toneelstuk viel in het water door te weinig publiek.|
+005091|48-de|de|../comvoi_clean/de/wavs/48/common_voice_de_18762892.wav|mel_spectrograms/de_48-de-002391.npy|lin_spectrograms/de_48-de-002391.npy|Wenn man sich freiwillig versichern muss, ist es nicht mehr freiwillig.|
+004423|41-de|de|../comvoi_clean/de/wavs/41/common_voice_de_18224452.wav|mel_spectrograms/de_41-de-002392.npy|lin_spectrograms/de_41-de-002392.npy|Sei Epsilon kleiner als Null.|
+006324|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18576603.wav|mel_spectrograms/fr_04-fr-002393.npy|lin_spectrograms/fr_04-fr-002393.npy|Leurs boucles volèrent sur leurs cols de velours.|
+003737|33-de|de|../comvoi_clean/de/wavs/33/common_voice_de_18360259.wav|mel_spectrograms/de_33-de-002394.npy|lin_spectrograms/de_33-de-002394.npy|Die Elbe mündet in die Nordsee.|
+008641|18-fr|fr|../comvoi_clean/fr/wavs/18/common_voice_fr_18428691.wav|mel_spectrograms/fr_18-fr-002395.npy|lin_spectrograms/fr_18-fr-002395.npy|Ton père est grand.|
+004876|46-de|de|../comvoi_clean/de/wavs/46/common_voice_de_18215345.wav|mel_spectrograms/de_46-de-002396.npy|lin_spectrograms/de_46-de-002396.npy|In einer Tageszeitung blätternd sitzt Siegfried auf einer Parkbank.|
+011030|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18736422.wav|mel_spectrograms/nl_08-nl-002397.npy|lin_spectrograms/nl_08-nl-002397.npy|Toen ik klein was heb ik leren zwemmen in het zwembad.|
+002679|24-de|de|../comvoi_clean/de/wavs/24/common_voice_de_18777886.wav|mel_spectrograms/de_24-de-002398.npy|lin_spectrograms/de_24-de-002398.npy|Seine Lieblingsband war am neunzehnten April in Berlin zu Gast.|
+001670|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18862762.wav|mel_spectrograms/de_14-de-002399.npy|lin_spectrograms/de_14-de-002399.npy|So etwas würde mir nie in den Sinn kommen.|
+007269|08-fr|fr|../comvoi_clean/fr/wavs/08/common_voice_fr_18648464.wav|mel_spectrograms/fr_08-fr-002400.npy|lin_spectrograms/fr_08-fr-002400.npy|Je ne vais pas mettre le nez dehors aujourd'hui, je suis malade.|
+012111|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18887795.wav|mel_spectrograms/ru_02-ru-002401.npy|lin_spectrograms/ru_02-ru-002401.npy|Я особенно рад видеть, что сегодня в Совете Гаити представляют ее дипломаты.|
+030913|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000914.wav|mel_spectrograms/chr_03-chr-002402.npy|lin_spectrograms/chr_03-chr-002402.npy|Gahlgwǒ:. Nihina? Jiyú:ne:ga jiyv:wi. Gawó:ni. Gǎ:da. Yē. Howa.|
+006174|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18576257.wav|mel_spectrograms/fr_04-fr-002403.npy|lin_spectrograms/fr_04-fr-002403.npy|Ha je comprends, c'est une bonne raison.|
+009233|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18240088.wav|mel_spectrograms/fr_21-fr-002404.npy|lin_spectrograms/fr_21-fr-002404.npy|Sauvée! murmura Pauline.|
+002431|22-de|de|../comvoi_clean/de/wavs/22/common_voice_de_18706444.wav|mel_spectrograms/de_22-de-002405.npy|lin_spectrograms/de_22-de-002405.npy|Bei der Hitze ziehe ich ganz bestimmt kein Unterhemd an.|
+020042|02-chr|chr|../cherokee-audio/sam-hider/wav/000043.wav|mel_spectrograms/chr_02-chr-002406.npy|lin_spectrograms/chr_02-chr-002406.npy|A:yanű:la dagwalé:la.|
+002607|23-de|de|../comvoi_clean/de/wavs/23/common_voice_de_18389100.wav|mel_spectrograms/de_23-de-002407.npy|lin_spectrograms/de_23-de-002407.npy|Teheran ist die Hauptstadt vom Iran.|
+012179|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18887912.wav|mel_spectrograms/ru_02-ru-002408.npy|lin_spectrograms/ru_02-ru-002408.npy|Координатор должен также изучить прошлую и нынешнюю практику в плане согласования программы работы.|
+003195|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18520793.wav|mel_spectrograms/de_27-de-002409.npy|lin_spectrograms/de_27-de-002409.npy|Vom Wind wird die Brücke zum Schwingen angeregt.|
+012345|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888114.wav|mel_spectrograms/ru_02-ru-002410.npy|lin_spectrograms/ru_02-ru-002410.npy|Внимания заслуживают все предложения, направленные на формирование основы для возобновления переговоров.|
+030023|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000024.wav|mel_spectrograms/chr_03-chr-002411.npy|lin_spectrograms/chr_03-chr-002411.npy|Sgigaduɂi Jalagi go:hwe:lv̀:ɂi.|
+001608|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18860917.wav|mel_spectrograms/de_14-de-002412.npy|lin_spectrograms/de_14-de-002412.npy|Das Leben ist schön!|
+013915|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18915679.wav|mel_spectrograms/ru_05-ru-002413.npy|lin_spectrograms/ru_05-ru-002413.npy|Можешь бровями не дергать и губы не облизывать.|
+004692|45-de|de|../comvoi_clean/de/wavs/45/common_voice_de_18366182.wav|mel_spectrograms/de_45-de-002414.npy|lin_spectrograms/de_45-de-002414.npy|Daressalam ist der Regierungssitz von Tansania.|
+006216|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18576310.wav|mel_spectrograms/fr_04-fr-002415.npy|lin_spectrograms/fr_04-fr-002415.npy|Les jurons répondirent.|
+014260|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931521.wav|mel_spectrograms/ru_05-ru-002416.npy|lin_spectrograms/ru_05-ru-002416.npy|Она повернула штурвальное колесо.|
+009065|20-fr|fr|../comvoi_clean/fr/wavs/20/common_voice_fr_17778656.wav|mel_spectrograms/fr_20-fr-002417.npy|lin_spectrograms/fr_20-fr-002417.npy|Il est de mon cercle, dit un autre.|
+005578|52-de|de|../comvoi_clean/de/wavs/52/common_voice_de_18685672.wav|mel_spectrograms/de_52-de-002418.npy|lin_spectrograms/de_52-de-002418.npy|Irgendwie läuft die Suppe nicht mehr richtig ab.|
+003385|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18521001.wav|mel_spectrograms/de_27-de-002419.npy|lin_spectrograms/de_27-de-002419.npy|Niemand wird Ihre Hilfeschreie hören.|
+010830|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18735667.wav|mel_spectrograms/nl_08-nl-002420.npy|lin_spectrograms/nl_08-nl-002420.npy|Jan en Mieke gingen samen bergen beklimmen in de buurt van Lyon.|
+001391|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18589816.wav|mel_spectrograms/de_13-de-002421.npy|lin_spectrograms/de_13-de-002421.npy|Einmal hat uns eine alte Frau dafür gelobt, dass wir das Essen retten.|
+000228|02-de|de|../comvoi_clean/de/wavs/02/common_voice_de_18368725.wav|mel_spectrograms/de_02-de-002422.npy|lin_spectrograms/de_02-de-002422.npy|Waschkeller sollten gut belüftet werden, damit es nicht zu Schimmelbildung kommt.|
+020208|02-chr|chr|../cherokee-audio/sam-hider/wav/000209.wav|mel_spectrograms/chr_02-chr-002423.npy|lin_spectrograms/chr_02-chr-002423.npy|Yà:gwadu:lígwu akihwáhísdiɂi dì:sano.|
+002292|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18213239.wav|mel_spectrograms/de_21-de-002424.npy|lin_spectrograms/de_21-de-002424.npy|Tante Gisela war es stets wichtig, dass alle gleich viel bekommen.|
+005252|49-de|de|../comvoi_clean/de/wavs/49/common_voice_de_18205827.wav|mel_spectrograms/de_49-de-002425.npy|lin_spectrograms/de_49-de-002425.npy|Dort Reklame zu schalten, lohnt sich daher doppelt.|
+010386|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000387.wav|mel_spectrograms/chr_01-chr-002426.npy|lin_spectrograms/chr_01-chr-002426.npy|Yijadu:li̋:ha. Yì:jadu:li̋:ha. sv̌:gi. adǐ:tasdi. di:dǐ:tasdi.|
+014169|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931334.wav|mel_spectrograms/ru_05-ru-002427.npy|lin_spectrograms/ru_05-ru-002427.npy|Люксембург обязуется продолжать вносить свой вклад в эти коллективные усилия.|
+012524|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888331.wav|mel_spectrograms/ru_02-ru-002428.npy|lin_spectrograms/ru_02-ru-002428.npy|Все это необычно и во многом впервые.|
+007585|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18653250.wav|mel_spectrograms/fr_09-fr-002429.npy|lin_spectrograms/fr_09-fr-002429.npy|Eux, rapides, se déployèrent.|
+011393|01-ru|ru|../comvoi_clean/ru/wavs/01/common_voice_ru_18863901.wav|mel_spectrograms/ru_01-ru-002430.npy|lin_spectrograms/ru_01-ru-002430.npy|Значит, кто-то телеграмму отцу отправил.|
+002208|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18212309.wav|mel_spectrograms/de_21-de-002431.npy|lin_spectrograms/de_21-de-002431.npy|Die Mona-Lisa in der Galerie ist natürlich nur eine Kopie.|
+002139|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18212077.wav|mel_spectrograms/de_21-de-002432.npy|lin_spectrograms/de_21-de-002432.npy|Zum Schutz der Artenvielfalt wird der Abbau immer weiter reglementiert.|
+014056|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18923086.wav|mel_spectrograms/ru_05-ru-002433.npy|lin_spectrograms/ru_05-ru-002433.npy|Она разрушает общее понимание норм приличий и уважение прав человека.|
+030140|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000141.wav|mel_spectrograms/chr_03-chr-002434.npy|lin_spectrograms/chr_03-chr-002434.npy|Ő:sdadv Jalagi gawó:ni.|
+030393|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000394.wav|mel_spectrograms/chr_03-chr-002435.npy|lin_spectrograms/chr_03-chr-002435.npy|Digǐ:gáge ale dijéɂiyű:sdi dà:gi di:jv̋sdi.|
+002088|19-de|de|../comvoi_clean/de/wavs/19/common_voice_de_18877881.wav|mel_spectrograms/de_19-de-002436.npy|lin_spectrograms/de_19-de-002436.npy|Wie lautet die ideale Mischform aus Kapitalismus und Kommunismus?|
+030246|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000247.wav|mel_spectrograms/chr_03-chr-002437.npy|lin_spectrograms/chr_03-chr-002437.npy|Gawó:ni.|
+030216|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000217.wav|mel_spectrograms/chr_03-chr-002438.npy|lin_spectrograms/chr_03-chr-002438.npy|Nǔ:n.|
+004357|40-de|de|../comvoi_clean/de/wavs/40/common_voice_de_18532900.wav|mel_spectrograms/de_40-de-002439.npy|lin_spectrograms/de_40-de-002439.npy|Es liegt in der Natur der Sache.|
+013304|03-ru|ru|../comvoi_clean/ru/wavs/03/common_voice_ru_18892633.wav|mel_spectrograms/ru_03-ru-002440.npy|lin_spectrograms/ru_03-ru-002440.npy|Благодарю посла Бразилии за его заявление и за его добрые слова.|
+000454|04-de|de|../comvoi_clean/de/wavs/04/common_voice_de_18372783.wav|mel_spectrograms/de_04-de-002441.npy|lin_spectrograms/de_04-de-002441.npy|Der Pazifische Ozean wird auch Pazifik genannt.|
+002972|25-de|de|../comvoi_clean/de/wavs/25/common_voice_de_18629604.wav|mel_spectrograms/de_25-de-002442.npy|lin_spectrograms/de_25-de-002442.npy|Mit einem halben Punkt mehr hätte der Pechvogel bestanden.|
+009630|26-fr|fr|../comvoi_clean/fr/wavs/26/common_voice_fr_18408485.wav|mel_spectrograms/fr_26-fr-002443.npy|lin_spectrograms/fr_26-fr-002443.npy|Les sonneries des cloches redoublèrent.|
+012508|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888315.wav|mel_spectrograms/ru_02-ru-002444.npy|lin_spectrograms/ru_02-ru-002444.npy|Однако важно продолжать наращивать потенциал и профессионализм сотрудников сил безопасности и полиции Афганистана.|
+010289|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000290.wav|mel_spectrograms/chr_01-chr-002445.npy|lin_spectrograms/chr_01-chr-002445.npy|Hiɂina jo:ksdi. hè:na. jayó:siha.|
+010022|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000023.wav|mel_spectrograms/chr_01-chr-002446.npy|lin_spectrograms/chr_01-chr-002446.npy|Ő:sda di:kino:gì:sdíɂi.|
+003685|32-de|de|../comvoi_clean/de/wavs/32/common_voice_de_18634258.wav|mel_spectrograms/de_32-de-002447.npy|lin_spectrograms/de_32-de-002447.npy|Dies ist die Aufgabe des Sprengmeisters.|
+020029|02-chr|chr|../cherokee-audio/sam-hider/wav/000030.wav|mel_spectrograms/chr_02-chr-002448.npy|lin_spectrograms/chr_02-chr-002448.npy|gwā. gwē. gwī. gwō. gwū. gwv̄.|
+004801|45-de|de|../comvoi_clean/de/wavs/45/common_voice_de_18366414.wav|mel_spectrograms/de_45-de-002449.npy|lin_spectrograms/de_45-de-002449.npy|Der Mount Everest ist der höchste Berg im Himalaya, und damit auch der höchste der Welt.|
+006683|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18603246.wav|mel_spectrograms/fr_04-fr-002450.npy|lin_spectrograms/fr_04-fr-002450.npy|Et ses bottes piétinèrent le plancher.|
+011018|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18736396.wav|mel_spectrograms/nl_08-nl-002451.npy|lin_spectrograms/nl_08-nl-002451.npy|Mijn moeder heeft de ziekte van Parkinson.|
+040066|04-chr|chr|../cherokee-audio/michael-conrad/wav/000067.wav|mel_spectrograms/chr_04-chr-002452.npy|lin_spectrograms/chr_04-chr-002452.npy|de:higowhtíha.|
+001814|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18889068.wav|mel_spectrograms/de_14-de-002453.npy|lin_spectrograms/de_14-de-002453.npy|Kann man Whitespace ignorieren?|
+003292|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18520898.wav|mel_spectrograms/de_27-de-002454.npy|lin_spectrograms/de_27-de-002454.npy|Vom Hochbett aus kann man die Sterne nicht mehr sehen.|
+012850|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18891738.wav|mel_spectrograms/ru_02-ru-002455.npy|lin_spectrograms/ru_02-ru-002455.npy|А если кто не пойдет?|
+014376|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931870.wav|mel_spectrograms/ru_05-ru-002456.npy|lin_spectrograms/ru_05-ru-002456.npy|Подвели Квакина.|
+010222|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_17712669.wav|mel_spectrograms/nl_03-nl-002457.npy|lin_spectrograms/nl_03-nl-002457.npy|Is een pizza hawaï een echte pizza?|
+001782|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18889010.wav|mel_spectrograms/de_14-de-002458.npy|lin_spectrograms/de_14-de-002458.npy|Nicht alle durcheinander!|
+001421|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18596913.wav|mel_spectrograms/de_13-de-002459.npy|lin_spectrograms/de_13-de-002459.npy|Bist du gut darin, Leute zu verkuppeln?|
+001464|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18653374.wav|mel_spectrograms/de_13-de-002460.npy|lin_spectrograms/de_13-de-002460.npy|Weißt du wo mein Schlüssel ist?|
+008629|18-fr|fr|../comvoi_clean/fr/wavs/18/common_voice_fr_18428677.wav|mel_spectrograms/fr_18-fr-002461.npy|lin_spectrograms/fr_18-fr-002461.npy|Il en avait dessiné les plans pendant des années.|
+030967|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000968.wav|mel_spectrograms/chr_03-chr-002462.npy|lin_spectrograms/chr_03-chr-002462.npy|Joɂi:né. Sō. Achű:j.|
+004266|40-de|de|../comvoi_clean/de/wavs/40/common_voice_de_18532790.wav|mel_spectrograms/de_40-de-002463.npy|lin_spectrograms/de_40-de-002463.npy|Niemand ist so leicht zu betrügen, wie man selbst.|
+002606|23-de|de|../comvoi_clean/de/wavs/23/common_voice_de_18389099.wav|mel_spectrograms/de_23-de-002464.npy|lin_spectrograms/de_23-de-002464.npy|Ist das Garagentor geöffnet?|
+007503|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18653129.wav|mel_spectrograms/fr_09-fr-002465.npy|lin_spectrograms/fr_09-fr-002465.npy|Il vous est facile de proposer, comme il m'est difficile de choisir.|
+010349|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000350.wav|mel_spectrograms/chr_01-chr-002466.npy|lin_spectrograms/chr_01-chr-002466.npy|hi:yagà:tǒ:sdi. è:sdagà:tǒ:sdi. è:jagà:tǒ:sdi. hnv́:hndági.|
+009176|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18239819.wav|mel_spectrograms/fr_21-fr-002467.npy|lin_spectrograms/fr_21-fr-002467.npy|Une fois la Mini repartie, les deux vieux respirèrent un bon coup.|
+011101|09-nl|nl|../comvoi_clean/nl/wavs/09/common_voice_nl_17699990.wav|mel_spectrograms/nl_09-nl-002468.npy|lin_spectrograms/nl_09-nl-002468.npy|Zij droeg de balk op haar schouder.|
+010161|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000162.wav|mel_spectrograms/chr_01-chr-002469.npy|lin_spectrograms/chr_01-chr-002469.npy|chuhga.|
+007574|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18653218.wav|mel_spectrograms/fr_09-fr-002470.npy|lin_spectrograms/fr_09-fr-002470.npy|J'ai soif, je vais boire un grand verre d’eau.|
+002725|24-de|de|../comvoi_clean/de/wavs/24/common_voice_de_18779459.wav|mel_spectrograms/de_24-de-002471.npy|lin_spectrograms/de_24-de-002471.npy|Wenn es jedoch auftritt, sind die Folgen umso verheerender.|
+005320|50-de|de|../comvoi_clean/de/wavs/50/common_voice_de_18641850.wav|mel_spectrograms/de_50-de-002472.npy|lin_spectrograms/de_50-de-002472.npy|Der Herr ist ein überaus begnadeter Maler aus Übersee.|
+008798|19-fr|fr|../comvoi_clean/fr/wavs/19/common_voice_fr_18096620.wav|mel_spectrograms/fr_19-fr-002473.npy|lin_spectrograms/fr_19-fr-002473.npy|Boulevard des Combes, Manosque|
+005441|51-de|de|../comvoi_clean/de/wavs/51/common_voice_de_18771339.wav|mel_spectrograms/de_51-de-002474.npy|lin_spectrograms/de_51-de-002474.npy|Ist in der Schüssel noch eine Apfelsine?|
+030535|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000536.wav|mel_spectrograms/chr_03-chr-002475.npy|lin_spectrograms/chr_03-chr-002475.npy|Dijv̋sdi.|
+003992|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18327232.wav|mel_spectrograms/de_36-de-002476.npy|lin_spectrograms/de_36-de-002476.npy|Meine Oma hört Stimmen, wenn sie einsam ist.|
+005780|52-de|de|../comvoi_clean/de/wavs/52/common_voice_de_18686372.wav|mel_spectrograms/de_52-de-002477.npy|lin_spectrograms/de_52-de-002477.npy|Herr Meißner führt garantiert etwas im Schilde.|
+030221|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000222.wav|mel_spectrograms/chr_03-chr-002478.npy|lin_spectrograms/chr_03-chr-002478.npy|Ù:nihwasga.|
+008692|19-fr|fr|../comvoi_clean/fr/wavs/19/common_voice_fr_18088601.wav|mel_spectrograms/fr_19-fr-002479.npy|lin_spectrograms/fr_19-fr-002479.npy|Si vous voulez manger du pain rassis, il ne viendra que toutes les semaines.|
+009052|20-fr|fr|../comvoi_clean/fr/wavs/20/common_voice_fr_17778629.wav|mel_spectrograms/fr_20-fr-002480.npy|lin_spectrograms/fr_20-fr-002480.npy|Philtre inexpliqué . illusion peut-être . ivresse, à coup sûr.|
+011936|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18882049.wav|mel_spectrograms/ru_02-ru-002481.npy|lin_spectrograms/ru_02-ru-002481.npy|Это какой-то болван кладет колесом десять ударов кряду.|
+004605|44-de|de|../comvoi_clean/de/wavs/44/common_voice_de_18229636.wav|mel_spectrograms/de_44-de-002482.npy|lin_spectrograms/de_44-de-002482.npy|Geh hinunter und hilf deinem Vater!|
+006075|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18573287.wav|mel_spectrograms/fr_04-fr-002483.npy|lin_spectrograms/fr_04-fr-002483.npy|C'est ce qu'on appelle l'apostrophe de Mirabeau.|
+050031|05-chr|chr|../cherokee-audio/cherokee-language-coach-2/wav/000032.wav|mel_spectrograms/chr_05-chr-002484.npy|lin_spectrograms/chr_05-chr-002484.npy|Gv́:na.|
+004568|43-de|de|../comvoi_clean/de/wavs/43/common_voice_de_18473874.wav|mel_spectrograms/de_43-de-002485.npy|lin_spectrograms/de_43-de-002485.npy|In der Toskana war es auch nicht viel wärmer.|
+009453|22-fr|fr|../comvoi_clean/fr/wavs/22/common_voice_fr_18771249.wav|mel_spectrograms/fr_22-fr-002486.npy|lin_spectrograms/fr_22-fr-002486.npy|Tous, d'un seul cri.|
+006939|06-fr|fr|../comvoi_clean/fr/wavs/06/common_voice_fr_18863775.wav|mel_spectrograms/fr_06-fr-002487.npy|lin_spectrograms/fr_06-fr-002487.npy|Ripostait Cavrois, qui, de son corps épais, couvrit son cousin.|
+030405|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000406.wav|mel_spectrograms/chr_03-chr-002488.npy|lin_spectrograms/chr_03-chr-002488.npy|À:di:tásga.|
+001251|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18439382.wav|mel_spectrograms/de_13-de-002489.npy|lin_spectrograms/de_13-de-002489.npy|Jetzt langts dann aber.|
+010106|02-nl|nl|../comvoi_clean/nl/wavs/02/common_voice_nl_18056982.wav|mel_spectrograms/nl_02-nl-002490.npy|lin_spectrograms/nl_02-nl-002490.npy|Ik moet mijn haar nog föhnen.|
+000289|02-de|de|../comvoi_clean/de/wavs/02/common_voice_de_18393015.wav|mel_spectrograms/de_02-de-002491.npy|lin_spectrograms/de_02-de-002491.npy|Ein Schatzmeister ist für die Finanzen eines Vereins zuständig.|
+011566|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18877379.wav|mel_spectrograms/ru_02-ru-002492.npy|lin_spectrograms/ru_02-ru-002492.npy|Радость, которую я испытала, когда впервые стала что-то делать сама, хорошо помню.|
+004036|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18327364.wav|mel_spectrograms/de_36-de-002493.npy|lin_spectrograms/de_36-de-002493.npy|Totschweigen funktioniert immer.|
+013530|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18875608.wav|mel_spectrograms/ru_04-ru-002494.npy|lin_spectrograms/ru_04-ru-002494.npy|Откашливаясь, она села на ступеньку, отдышалась, взяла лейку и пошла в огород.|
+000677|06-de|de|../comvoi_clean/de/wavs/06/common_voice_de_18358189.wav|mel_spectrograms/de_06-de-002495.npy|lin_spectrograms/de_06-de-002495.npy|Könnten wir den Tunnel verlegen, damit wir keinen Einsturz riskieren?|
+013125|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18911496.wav|mel_spectrograms/ru_02-ru-002496.npy|lin_spectrograms/ru_02-ru-002496.npy|Может быть, действительно, эта разница в семнадцать порядков требуется для того, чтобы существовала жизнь.|
+004509|43-de|de|../comvoi_clean/de/wavs/43/common_voice_de_18432669.wav|mel_spectrograms/de_43-de-002497.npy|lin_spectrograms/de_43-de-002497.npy|Wenn alle Stricke reißen, landet sie auf der Straße.|
+050009|05-chr|chr|../cherokee-audio/cherokee-language-coach-1/wav/000010.wav|mel_spectrograms/chr_05-chr-002498.npy|lin_spectrograms/chr_05-chr-002498.npy|À:gwanhta.|
+008793|19-fr|fr|../comvoi_clean/fr/wavs/19/common_voice_fr_18096613.wav|mel_spectrograms/fr_19-fr-002499.npy|lin_spectrograms/fr_19-fr-002499.npy|sept chemin Olivetto|
+002426|22-de|de|../comvoi_clean/de/wavs/22/common_voice_de_18706434.wav|mel_spectrograms/de_22-de-002500.npy|lin_spectrograms/de_22-de-002500.npy|Solche Leute wie Theo, zum Beispiel.|
+003397|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18521013.wav|mel_spectrograms/de_27-de-002501.npy|lin_spectrograms/de_27-de-002501.npy|Mit einer Art übergroßem Hamsterrad, will das Startup das Bewegungsproblem in VR lösen.|
+030582|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000583.wav|mel_spectrograms/chr_03-chr-002502.npy|lin_spectrograms/chr_03-chr-002502.npy|U:nv̌:d hà:su:yv́:sgó?|
+012662|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18891465.wav|mel_spectrograms/ru_02-ru-002503.npy|lin_spectrograms/ru_02-ru-002503.npy|На основе этой программы можно будет создать научное подразделение.|
+001725|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18886092.wav|mel_spectrograms/de_14-de-002504.npy|lin_spectrograms/de_14-de-002504.npy|Ein Eigenbau ist nicht immer die billigste Lösung.|
+004354|40-de|de|../comvoi_clean/de/wavs/40/common_voice_de_18532897.wav|mel_spectrograms/de_40-de-002505.npy|lin_spectrograms/de_40-de-002505.npy|Aus irgendeinem Grund ist die Turnhalle abgeschlossen.|
+005118|48-de|de|../comvoi_clean/de/wavs/48/common_voice_de_18762944.wav|mel_spectrograms/de_48-de-002506.npy|lin_spectrograms/de_48-de-002506.npy|Möglicherweise handelt es sich um eine Art Kriegsbemalung.|
+009599|25-fr|fr|../comvoi_clean/fr/wavs/25/common_voice_fr_18493724.wav|mel_spectrograms/fr_25-fr-002507.npy|lin_spectrograms/fr_25-fr-002507.npy|La parole est à Madame Valérie Boyer, pour soutenir l'amendement numéro quatre-vingt-dix-huit.|
+009183|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18239901.wav|mel_spectrograms/fr_21-fr-002508.npy|lin_spectrograms/fr_21-fr-002508.npy|Madame Follentin, Marthe, Follentin Ensemble Marthe. - Ah! papa! te voilà!|
+012497|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18888299.wav|mel_spectrograms/ru_02-ru-002509.npy|lin_spectrograms/ru_02-ru-002509.npy|Несомненно, Байкал - самое глубокое озеро в мире.|
+005063|48-de|de|../comvoi_clean/de/wavs/48/common_voice_de_18293497.wav|mel_spectrograms/de_48-de-002510.npy|lin_spectrograms/de_48-de-002510.npy|Diese alten Topflappen halten kaum Hitze ab.|
+008421|16-fr|fr|../comvoi_clean/fr/wavs/16/common_voice_fr_18143769.wav|mel_spectrograms/fr_16-fr-002511.npy|lin_spectrograms/fr_16-fr-002511.npy|Quel est l'avis du Gouvernement? Cet amendement supprime aussi les rapports annuels d’activité.|
+002044|19-de|de|../comvoi_clean/de/wavs/19/common_voice_de_18874501.wav|mel_spectrograms/de_19-de-002512.npy|lin_spectrograms/de_19-de-002512.npy|"Traumatisch" ist nicht die Steigerung von "schlimm", sondern eine andere Kategorie.|
+007394|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18652970.wav|mel_spectrograms/fr_09-fr-002513.npy|lin_spectrograms/fr_09-fr-002513.npy|Si, c'est mon plan pour devenir riche.|
+003703|32-de|de|../comvoi_clean/de/wavs/32/common_voice_de_18634297.wav|mel_spectrograms/de_32-de-002514.npy|lin_spectrograms/de_32-de-002514.npy|Lea ließ einen erstaunten Pfiff ertönen.|
+001508|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18653455.wav|mel_spectrograms/de_13-de-002515.npy|lin_spectrograms/de_13-de-002515.npy|Kostprobe gefällig?|
+006730|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18603307.wav|mel_spectrograms/fr_04-fr-002516.npy|lin_spectrograms/fr_04-fr-002516.npy|Et pour Dieu!|
+004676|45-de|de|../comvoi_clean/de/wavs/45/common_voice_de_18366149.wav|mel_spectrograms/de_45-de-002517.npy|lin_spectrograms/de_45-de-002517.npy|Bogota ist die Hauptstadt von Kolumbien.|
+030849|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000850.wav|mel_spectrograms/chr_03-chr-002518.npy|lin_spectrograms/chr_03-chr-002518.npy|Ő:sdadv. Dù:dǎ:sgó chuně:la go:hwe:la. Ǔ:tana. Ijéɂiyű:sdi. Kilo gawó:ni.|
+020434|02-chr|chr|../cherokee-audio/sam-hider/wav/000435.wav|mel_spectrograms/chr_02-chr-002519.npy|lin_spectrograms/chr_02-chr-002519.npy|Síyo. Ù:nadǒ:dágwohnvɂi. V̌:sgíhyi.|
+020049|02-chr|chr|../cherokee-audio/sam-hider/wav/000050.wav|mel_spectrograms/chr_02-chr-002520.npy|lin_spectrograms/chr_02-chr-002520.npy|Digwò:ye̋:ni.|
+014340|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931763.wav|mel_spectrograms/ru_05-ru-002521.npy|lin_spectrograms/ru_05-ru-002521.npy|Я и не вступала.|
+011921|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18882033.wav|mel_spectrograms/ru_02-ru-002522.npy|lin_spectrograms/ru_02-ru-002522.npy|В некотором размытом смысле это, конечно, поле философии и есть.|
+011535|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18877338.wav|mel_spectrograms/ru_02-ru-002523.npy|lin_spectrograms/ru_02-ru-002523.npy|Прекрасным подтверждением этого служит финансовое обязательство, взятое Европейским союзом на прошлогодней международной конференции.|
+000151|01-de|de|../comvoi_clean/de/wavs/01/common_voice_de_18654408.wav|mel_spectrograms/de_01-de-002524.npy|lin_spectrograms/de_01-de-002524.npy|Der Ansager zählt laut von zehn herunter.|
+012238|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18887980.wav|mel_spectrograms/ru_02-ru-002525.npy|lin_spectrograms/ru_02-ru-002525.npy|Я, в общем-то, не особо хотел ехать в Саратов.|
+008882|19-fr|fr|../comvoi_clean/fr/wavs/19/common_voice_fr_18103644.wav|mel_spectrograms/fr_19-fr-002526.npy|lin_spectrograms/fr_19-fr-002526.npy|quatorze rue des Quatre Frères Laurent, quinze, quatre cents, Riom-ès-Montagnes|
+006587|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18602862.wav|mel_spectrograms/fr_04-fr-002527.npy|lin_spectrograms/fr_04-fr-002527.npy|Omer fut content qu'elle le saisít au poignet.|
+003845|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18326756.wav|mel_spectrograms/de_36-de-002528.npy|lin_spectrograms/de_36-de-002528.npy|Gernot ist ein wahrer Überlebenskünstler.|
+014436|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18932855.wav|mel_spectrograms/ru_05-ru-002529.npy|lin_spectrograms/ru_05-ru-002529.npy|И тебя я тоже знаю, обернулась она к Тане.|
+009833|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696148.wav|mel_spectrograms/nl_01-nl-002530.npy|lin_spectrograms/nl_01-nl-002530.npy|Heb jij nog een papieren rijbewijs?|
+030237|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000238.wav|mel_spectrograms/chr_03-chr-002531.npy|lin_spectrograms/chr_03-chr-002531.npy|Sě:lu.|
+040086|04-chr|chr|../cherokee-audio/michael-conrad/wav/000087.wav|mel_spectrograms/chr_04-chr-002532.npy|lin_spectrograms/chr_04-chr-002532.npy|yv́:wúne:ga. hila̋ iyáni. i̋:na.|
+006986|06-fr|fr|../comvoi_clean/fr/wavs/06/common_voice_fr_18863946.wav|mel_spectrograms/fr_06-fr-002533.npy|lin_spectrograms/fr_06-fr-002533.npy|Je souhaite faire quelques mises au point.|
+002304|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18213275.wav|mel_spectrograms/de_21-de-002534.npy|lin_spectrograms/de_21-de-002534.npy|Muss es denn gleich so ein extravagantes Teil sein?|
+012864|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18891754.wav|mel_spectrograms/ru_02-ru-002535.npy|lin_spectrograms/ru_02-ru-002535.npy|Она несравнима с другими механизмами.|
+030911|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000912.wav|mel_spectrograms/chr_03-chr-002536.npy|lin_spectrograms/chr_03-chr-002536.npy|U:ne̋:ga. Ǔ:tana hlgv́. Anigǐ:gáge gitǎ:ya. Jo. Hila̋ ǐ:ga̋?|
+002833|24-de|de|../comvoi_clean/de/wavs/24/common_voice_de_18863543.wav|mel_spectrograms/de_24-de-002537.npy|lin_spectrograms/de_24-de-002537.npy|Ihr Vater musste Julina mehrfach ermahnen.|
+001437|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18596939.wav|mel_spectrograms/de_13-de-002538.npy|lin_spectrograms/de_13-de-002538.npy|Dann bekommt er eine Rettungsweste.|
+020201|02-chr|chr|../cherokee-audio/sam-hider/wav/000202.wav|mel_spectrograms/chr_02-chr-002539.npy|lin_spectrograms/chr_02-chr-002539.npy|Álsdàyhdi.|
+013590|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18875840.wav|mel_spectrograms/ru_04-ru-002540.npy|lin_spectrograms/ru_04-ru-002540.npy|Достаю альбомчик, открываю - на любой странице.|
+007741|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17861521.wav|mel_spectrograms/fr_11-fr-002541.npy|lin_spectrograms/fr_11-fr-002541.npy|Je jetai un regard sur eux.|
+010399|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_18133212.wav|mel_spectrograms/nl_03-nl-002542.npy|lin_spectrograms/nl_03-nl-002542.npy|De wijkverpleegster deed de kous aan bij de mevrouw.|
+004541|43-de|de|../comvoi_clean/de/wavs/43/common_voice_de_18432761.wav|mel_spectrograms/de_43-de-002543.npy|lin_spectrograms/de_43-de-002543.npy|Widmen wir uns nun der Glasur.|
+007984|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17863383.wav|mel_spectrograms/fr_11-fr-002544.npy|lin_spectrograms/fr_11-fr-002544.npy|Je suis prêt à retirer cet amendement.|
+014489|06-ru|ru|../comvoi_clean/ru/wavs/06/common_voice_ru_18920658.wav|mel_spectrograms/ru_06-ru-002545.npy|lin_spectrograms/ru_06-ru-002545.npy|Он не является их предпосылкой.|
+010089|02-nl|nl|../comvoi_clean/nl/wavs/02/common_voice_nl_18056954.wav|mel_spectrograms/nl_02-nl-002546.npy|lin_spectrograms/nl_02-nl-002546.npy|Hij had een depressie en was suïcidaal.|
+005463|51-de|de|../comvoi_clean/de/wavs/51/common_voice_de_18771368.wav|mel_spectrograms/de_51-de-002547.npy|lin_spectrograms/de_51-de-002547.npy|Dann kann er Gegenmaßnahmen ergreifen.|
+001336|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18450433.wav|mel_spectrograms/de_13-de-002548.npy|lin_spectrograms/de_13-de-002548.npy|Auf einer Sackkarre schiebt der Verwalter einen Stapel Getränkekisten zum Laster.|
+008813|19-fr|fr|../comvoi_clean/fr/wavs/19/common_voice_fr_18096675.wav|mel_spectrograms/fr_19-fr-002549.npy|lin_spectrograms/fr_19-fr-002549.npy|quinze villa des Falaises, soixante-quinze mille vingt Paris|
+000949|10-de|de|../comvoi_clean/de/wavs/10/common_voice_de_18390638.wav|mel_spectrograms/de_10-de-002550.npy|lin_spectrograms/de_10-de-002550.npy|Honiara ist die Hauptstadt der Salomonen.|
+012759|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18891639.wav|mel_spectrograms/ru_02-ru-002551.npy|lin_spectrograms/ru_02-ru-002551.npy|Работа над предлагаемой конвенцией должна строиться на недискриминационной основе.|
+050023|05-chr|chr|../cherokee-audio/cherokee-language-coach-1/wav/000024.wav|mel_spectrograms/chr_05-chr-002552.npy|lin_spectrograms/chr_05-chr-002552.npy|Gò:wě:líɂa. Di:de:hyǒ:hvsgi. À:gwanhta. Digo:hwě:lò:di. O:síyo. Go:lì:ga. Jalagis hiwó:ni jadu:lí?|
+009174|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18239816.wav|mel_spectrograms/fr_21-fr-002553.npy|lin_spectrograms/fr_21-fr-002553.npy|Rue Conen de Prépéan, vingt-deux, cinq cent quatre-vingt-dix Pordic|
+009449|22-fr|fr|../comvoi_clean/fr/wavs/22/common_voice_fr_18771234.wav|mel_spectrograms/fr_22-fr-002554.npy|lin_spectrograms/fr_22-fr-002554.npy|J'ai demandé que vous m’apportassiez les rince-bouche.|
+002595|23-de|de|../comvoi_clean/de/wavs/23/common_voice_de_18389086.wav|mel_spectrograms/de_23-de-002555.npy|lin_spectrograms/de_23-de-002555.npy|Jedoch besitzt die Farbladung auch eine Außenwirkung.|
+002219|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18212382.wav|mel_spectrograms/de_21-de-002556.npy|lin_spectrograms/de_21-de-002556.npy|Nieser sollte man nicht unterdrücken, sondern rauslassen.|
+000173|01-de|de|../comvoi_clean/de/wavs/01/common_voice_de_18663398.wav|mel_spectrograms/de_01-de-002557.npy|lin_spectrograms/de_01-de-002557.npy|Appetit holt man sich woanders, gegessen wird zu Hause.|
+003557|31-de|de|../comvoi_clean/de/wavs/31/common_voice_de_18357970.wav|mel_spectrograms/de_31-de-002558.npy|lin_spectrograms/de_31-de-002558.npy|Manila ist die Hauptstadt der Philippinen.|
+009962|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696521.wav|mel_spectrograms/nl_01-nl-002559.npy|lin_spectrograms/nl_01-nl-002559.npy|Neem je ook meteen wat koekjes mee?|
+050110|08-chr|chr|../cherokee-audio/cherokee-language-coach-2/wav/000111.wav|mel_spectrograms/chr_08-chr-002560.npy|lin_spectrograms/chr_08-chr-002560.npy|Kayv:ső:li. Dì:sano. Ganv:di̋:ɂi. Átihldi. À:su:lo. Gànhgó:ɂi.|
+014471|06-ru|ru|../comvoi_clean/ru/wavs/06/common_voice_ru_18920621.wav|mel_spectrograms/ru_06-ru-002561.npy|lin_spectrograms/ru_06-ru-002561.npy|Наша делегация также положительно оценивает недавние поправки к Конституции и назначение Председателя Верховного суда.|
+010364|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_17862965.wav|mel_spectrograms/nl_03-nl-002562.npy|lin_spectrograms/nl_03-nl-002562.npy|Dat kind is een echte lastpost.|
+007783|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17861566.wav|mel_spectrograms/fr_11-fr-002563.npy|lin_spectrograms/fr_11-fr-002563.npy|Le Conseil constitutionnel ne peut l'ignorer.|
+013830|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18915160.wav|mel_spectrograms/ru_05-ru-002564.npy|lin_spectrograms/ru_05-ru-002564.npy|Но никто не разделял его счастья.|
+004515|43-de|de|../comvoi_clean/de/wavs/43/common_voice_de_18432710.wav|mel_spectrograms/de_43-de-002565.npy|lin_spectrograms/de_43-de-002565.npy|Ich wusste gar nicht, dass Marek aus Tschechien kommt.|
+030952|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000953.wav|mel_spectrograms/chr_03-chr-002566.npy|lin_spectrograms/chr_03-chr-002566.npy|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:. Kuye:gwǒ:ni.|
+000510|05-de|de|../comvoi_clean/de/wavs/05/common_voice_de_18689489.wav|mel_spectrograms/de_05-de-002567.npy|lin_spectrograms/de_05-de-002567.npy|Vermeiden Sie bitte, dass die Zwiebeln noch Saft enthalten.|
+014352|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931793.wav|mel_spectrograms/ru_05-ru-002568.npy|lin_spectrograms/ru_05-ru-002568.npy|Как много еще тысяч смертей понадобится для того, чтобы Совет выполнил свои обязанности?|
+006297|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18576415.wav|mel_spectrograms/fr_04-fr-002569.npy|lin_spectrograms/fr_04-fr-002569.npy|D'Orichamps prédit que les cartouches manqueraient aux soldats, tantôt.|
+004590|44-de|de|../comvoi_clean/de/wavs/44/common_voice_de_18229621.wav|mel_spectrograms/de_44-de-002570.npy|lin_spectrograms/de_44-de-002570.npy|Der Atlantische Ozean wird auch Atlantik genannt.|
+050064|08-chr|chr|../cherokee-audio/cherokee-language-coach-2/wav/000065.wav|mel_spectrograms/chr_08-chr-002571.npy|lin_spectrograms/chr_08-chr-002571.npy|Ganv:di̋:ɂi.|
+006862|05-fr|fr|../comvoi_clean/fr/wavs/05/common_voice_fr_18444377.wav|mel_spectrograms/fr_05-fr-002572.npy|lin_spectrograms/fr_05-fr-002572.npy|À moitié vivant.|
+006383|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18576713.wav|mel_spectrograms/fr_04-fr-002573.npy|lin_spectrograms/fr_04-fr-002573.npy|Ah la belle chandelle que je vous devrai là!|
+008134|13-fr|fr|../comvoi_clean/fr/wavs/13/common_voice_fr_18207498.wav|mel_spectrograms/fr_13-fr-002574.npy|lin_spectrograms/fr_13-fr-002574.npy|Je l'attends. ce cher ami.|
+004828|46-de|de|../comvoi_clean/de/wavs/46/common_voice_de_18215198.wav|mel_spectrograms/de_46-de-002575.npy|lin_spectrograms/de_46-de-002575.npy|Damit ist der Start schon einmal geglückt.|
+004391|41-de|de|../comvoi_clean/de/wavs/41/common_voice_de_18224343.wav|mel_spectrograms/de_41-de-002576.npy|lin_spectrograms/de_41-de-002576.npy|Sibylle hat angerufen und wollte dich sprechen.|
+030137|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000138.wav|mel_spectrograms/chr_03-chr-002577.npy|lin_spectrograms/chr_03-chr-002577.npy|Gadò ű:sdi i:ga atli:gili?|
+011238|11-nl|nl|../comvoi_clean/nl/wavs/11/common_voice_nl_18267197.wav|mel_spectrograms/nl_11-nl-002578.npy|lin_spectrograms/nl_11-nl-002578.npy|We zochten naar een kalende man.|
+006756|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18603345.wav|mel_spectrograms/fr_04-fr-002579.npy|lin_spectrograms/fr_04-fr-002579.npy|Les motocyclistes crachent pour partir en vacances en l'air.|
+050082|08-chr|chr|../cherokee-audio/cherokee-language-coach-2/wav/000083.wav|mel_spectrograms/chr_08-chr-002580.npy|lin_spectrograms/chr_08-chr-002580.npy|Asgwa:ge̋:ni.|
+001723|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18886090.wav|mel_spectrograms/de_14-de-002581.npy|lin_spectrograms/de_14-de-002581.npy|Waldpool, hat das eigentlich jemand gelesen? Wie cool ist das denn?|
+007517|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18653144.wav|mel_spectrograms/fr_09-fr-002582.npy|lin_spectrograms/fr_09-fr-002582.npy|Comme quoi, quand une idée est bonne, elle l'est jusqu’au bout.|
+020114|02-chr|chr|../cherokee-audio/sam-hider/wav/000115.wav|mel_spectrograms/chr_02-chr-002583.npy|lin_spectrograms/chr_02-chr-002583.npy|Ò:dalv̋:ɂi.|
+007967|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17863364.wav|mel_spectrograms/fr_11-fr-002584.npy|lin_spectrograms/fr_11-fr-002584.npy|Je retire l'amendement numéro cinq cent cinquante-quatre.|
+003826|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18326718.wav|mel_spectrograms/de_36-de-002585.npy|lin_spectrograms/de_36-de-002585.npy|Das könnte ich auch.|
+013712|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18881311.wav|mel_spectrograms/ru_04-ru-002586.npy|lin_spectrograms/ru_04-ru-002586.npy|В прошлом Конференция играла важную роль в продвижении вперед переговоров по важнейшим вопросам разоружения.|
+010031|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696868.wav|mel_spectrograms/nl_01-nl-002587.npy|lin_spectrograms/nl_01-nl-002587.npy|Onze aarde is geologisch actief terwijl andere planeten dat niet zijn.|
+002496|22-de|de|../comvoi_clean/de/wavs/22/common_voice_de_18725283.wav|mel_spectrograms/de_22-de-002588.npy|lin_spectrograms/de_22-de-002588.npy|Gesucht wird eine Stadt mit W.|
+011962|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18882076.wav|mel_spectrograms/ru_02-ru-002589.npy|lin_spectrograms/ru_02-ru-002589.npy|Теперь я предоставляю слово представителю Испании.|
+010851|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18735744.wav|mel_spectrograms/nl_08-nl-002590.npy|lin_spectrograms/nl_08-nl-002590.npy|Ken jij de naam van de hoogste berg van Mars?|
+001480|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18653402.wav|mel_spectrograms/de_13-de-002591.npy|lin_spectrograms/de_13-de-002591.npy|Zu Befehl!|
+020200|02-chr|chr|../cherokee-audio/sam-hider/wav/000201.wav|mel_spectrograms/chr_02-chr-002592.npy|lin_spectrograms/chr_02-chr-002592.npy|Anv:hyi.|
+011965|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18882079.wav|mel_spectrograms/ru_02-ru-002593.npy|lin_spectrograms/ru_02-ru-002593.npy|Я, батюшка, потом. подхватывая бидон и поспешно удаляясь, заговорила молочница.|
+009063|20-fr|fr|../comvoi_clean/fr/wavs/20/common_voice_fr_17778654.wav|mel_spectrograms/fr_20-fr-002594.npy|lin_spectrograms/fr_20-fr-002594.npy|C'est ça, monsieur, dépêchez-vous!|
+001990|19-de|de|../comvoi_clean/de/wavs/19/common_voice_de_18874299.wav|mel_spectrograms/de_19-de-002595.npy|lin_spectrograms/de_19-de-002595.npy|Bei Föhn kann man bis zu den Alpen sehen.|
+007061|07-fr|fr|../comvoi_clean/fr/wavs/07/common_voice_fr_18084769.wav|mel_spectrograms/fr_07-fr-002596.npy|lin_spectrograms/fr_07-fr-002596.npy|On était même vexé de ne pas te voir.|
+000749|07-de|de|../comvoi_clean/de/wavs/07/common_voice_de_18423448.wav|mel_spectrograms/de_07-de-002597.npy|lin_spectrograms/de_07-de-002597.npy|Zu guter Letzt fehlt es an Rettungsschwimmern.|
+005663|52-de|de|../comvoi_clean/de/wavs/52/common_voice_de_18686036.wav|mel_spectrograms/de_52-de-002598.npy|lin_spectrograms/de_52-de-002598.npy|Als Aperitif oder Digestif gibt es meistens alkoholische Getränke.|
+011943|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18882056.wav|mel_spectrograms/ru_02-ru-002599.npy|lin_spectrograms/ru_02-ru-002599.npy|Эти меры проложат путь к более активному участию молодежи в процессе национального развития.|
+000907|09-de|de|../comvoi_clean/de/wavs/09/common_voice_de_18717859.wav|mel_spectrograms/de_09-de-002600.npy|lin_spectrograms/de_09-de-002600.npy|Natürlich hat Merlin seine Karte sofort sperren lassen.|
+007840|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17861623.wav|mel_spectrograms/fr_11-fr-002601.npy|lin_spectrograms/fr_11-fr-002601.npy|Qui vous a appris ça?|
+008503|17-fr|fr|../comvoi_clean/fr/wavs/17/common_voice_fr_17845103.wav|mel_spectrograms/fr_17-fr-002602.npy|lin_spectrograms/fr_17-fr-002602.npy|Il nous propose un amendement de compromis, équilibré, que je vais évidemment voter .|
+011989|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18882103.wav|mel_spectrograms/ru_02-ru-002603.npy|lin_spectrograms/ru_02-ru-002603.npy|Мы напоминаем, что наша цель - более безопасный мир - важнее существующих инструментов.|
+001886|17-de|de|../comvoi_clean/de/wavs/17/common_voice_de_18233580.wav|mel_spectrograms/de_17-de-002604.npy|lin_spectrograms/de_17-de-002604.npy|Johanna liegt mit einer Magen-Darm-Erkrankung flach.|
+014160|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931325.wav|mel_spectrograms/ru_05-ru-002605.npy|lin_spectrograms/ru_05-ru-002605.npy|У марксизма, как известно, три источника, три составных части.|
+012725|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18891582.wav|mel_spectrograms/ru_02-ru-002606.npy|lin_spectrograms/ru_02-ru-002606.npy|Татьяна получила высокую дозу облучения.|
+011279|11-nl|nl|../comvoi_clean/nl/wavs/11/common_voice_nl_18267263.wav|mel_spectrograms/nl_11-nl-002607.npy|lin_spectrograms/nl_11-nl-002607.npy|Na drie weken vakantie moest de familie weer terugkeren naar Nederland.|
+011867|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18881976.wav|mel_spectrograms/ru_02-ru-002608.npy|lin_spectrograms/ru_02-ru-002608.npy|Эти оставшиеся меры необходимо отменить.|
+004397|41-de|de|../comvoi_clean/de/wavs/41/common_voice_de_18224373.wav|mel_spectrograms/de_41-de-002609.npy|lin_spectrograms/de_41-de-002609.npy|Wenn Melinda und Irene miteinander telefonieren, plaudern sie üblicherweise stundenlang.|
+009795|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17696003.wav|mel_spectrograms/nl_01-nl-002610.npy|lin_spectrograms/nl_01-nl-002610.npy|Hij heeft zijn spier verrekt tijdens het sporten.|
+003663|32-de|de|../comvoi_clean/de/wavs/32/common_voice_de_18634230.wav|mel_spectrograms/de_32-de-002611.npy|lin_spectrograms/de_32-de-002611.npy|Kann ich euch Hagebuttentee anbieten?|
+013070|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18907311.wav|mel_spectrograms/ru_02-ru-002612.npy|lin_spectrograms/ru_02-ru-002612.npy|Формально Конференция по разоружению еще будет существовать, но она уже будет увядать.|
+013458|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18875292.wav|mel_spectrograms/ru_04-ru-002613.npy|lin_spectrograms/ru_04-ru-002613.npy|Как я уже сказал, наш министр иностранных дел посетил Кабул в прошлом месяце.|
+012946|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18896932.wav|mel_spectrograms/ru_02-ru-002614.npy|lin_spectrograms/ru_02-ru-002614.npy|Мы хотели бы продолжать размышления о том, как вернуть Конференции ее центральную роль.|
+004029|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18327321.wav|mel_spectrograms/de_36-de-002615.npy|lin_spectrograms/de_36-de-002615.npy|Nach der Einführung des Alkoholverbots gingen Reinigungskosten und Vandalismusschäden signifikant zurück.|
+003340|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18520954.wav|mel_spectrograms/de_27-de-002616.npy|lin_spectrograms/de_27-de-002616.npy|Was haben wir in der Speisekammer?|
+004663|45-de|de|../comvoi_clean/de/wavs/45/common_voice_de_18366125.wav|mel_spectrograms/de_45-de-002617.npy|lin_spectrograms/de_45-de-002617.npy|Oldtimer müssen mindestens dreißig Jahre alt sein, bevor sie ein H-Kennzeichen erhalten.|
+012249|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18887992.wav|mel_spectrograms/ru_02-ru-002618.npy|lin_spectrograms/ru_02-ru-002618.npy|Следует особо отметить использование Южным Суданом этого опыта при планировании деятельности его судебной системы.|
+006079|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18573293.wav|mel_spectrograms/fr_04-fr-002619.npy|lin_spectrograms/fr_04-fr-002619.npy|Car les exécuteurs avaient empoigné ses manchettes et le tiraient ainsi.|
+013011|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18897035.wav|mel_spectrograms/ru_02-ru-002620.npy|lin_spectrograms/ru_02-ru-002620.npy|Слово имеет представитель Италии.|
+003412|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18521028.wav|mel_spectrograms/de_27-de-002621.npy|lin_spectrograms/de_27-de-002621.npy|Nimm doch mal den Hut ab!|
+010742|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18735463.wav|mel_spectrograms/nl_08-nl-002622.npy|lin_spectrograms/nl_08-nl-002622.npy|Een videotheek zie je tegenwoordig nog nauwelijks.|
+009665|26-fr|fr|../comvoi_clean/fr/wavs/26/common_voice_fr_18408549.wav|mel_spectrograms/fr_26-fr-002623.npy|lin_spectrograms/fr_26-fr-002623.npy|Une étoile au Michelin ça aurait été plus vendeur|
+001132|12-de|de|../comvoi_clean/de/wavs/12/common_voice_de_18643641.wav|mel_spectrograms/de_12-de-002624.npy|lin_spectrograms/de_12-de-002624.npy|Flüsternd stimmt der Gitarrist den Takt an.|
+014281|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18931578.wav|mel_spectrograms/ru_05-ru-002625.npy|lin_spectrograms/ru_05-ru-002625.npy|Нельзя переоценить необходимость учета гендерной проблематики в инициативах по поддержанию мира и миростроительству.|
+010057|01-chr|chr|../cherokee-audio/durbin-feeling/wav/000058.wav|mel_spectrograms/chr_01-chr-002626.npy|lin_spectrograms/chr_01-chr-002626.npy|lo:lo.|
+010664|06-nl|nl|../comvoi_clean/nl/wavs/06/common_voice_nl_17906345.wav|mel_spectrograms/nl_06-nl-002627.npy|lin_spectrograms/nl_06-nl-002627.npy|De keuken moet gerenoveerd worden.|
+013700|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18881298.wav|mel_spectrograms/ru_04-ru-002628.npy|lin_spectrograms/ru_04-ru-002628.npy|Сначала я хотел бы остановиться на проблемах, существующих в регионе.|
+006716|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18603292.wav|mel_spectrograms/fr_04-fr-002629.npy|lin_spectrograms/fr_04-fr-002629.npy|Non, non, rien de tout ça.|
+002945|24-de|de|../comvoi_clean/de/wavs/24/common_voice_de_18864220.wav|mel_spectrograms/de_24-de-002630.npy|lin_spectrograms/de_24-de-002630.npy|Zum Beispiel: Ich sehe, ich habe, ich gehe.|
+008348|16-fr|fr|../comvoi_clean/fr/wavs/16/common_voice_fr_18143547.wav|mel_spectrograms/fr_16-fr-002631.npy|lin_spectrograms/fr_16-fr-002631.npy|Vous l'aurez compris: il s’agit d’un amendement de précision technique, mais nécessaire.|
+007366|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18652925.wav|mel_spectrograms/fr_09-fr-002632.npy|lin_spectrograms/fr_09-fr-002632.npy|J'ai quarante de fièvre.|
+008547|17-fr|fr|../comvoi_clean/fr/wavs/17/common_voice_fr_17848142.wav|mel_spectrograms/fr_17-fr-002633.npy|lin_spectrograms/fr_17-fr-002633.npy|Je voudrais rappeler deux faits.|
+030244|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000245.wav|mel_spectrograms/chr_03-chr-002634.npy|lin_spectrograms/chr_03-chr-002634.npy|Galì:sdâ:yv:hv́sga.|
+030556|03-chr|chr|../cherokee-audio/beginning-cherokee/wav/000557.wav|mel_spectrograms/chr_03-chr-002635.npy|lin_spectrograms/chr_03-chr-002635.npy|À:gi:ká.|
+002070|19-de|de|../comvoi_clean/de/wavs/19/common_voice_de_18874557.wav|mel_spectrograms/de_19-de-002636.npy|lin_spectrograms/de_19-de-002636.npy|Es heißt nicht "Was" sondern "Wie bitte"|
+002107|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18211996.wav|mel_spectrograms/de_21-de-002637.npy|lin_spectrograms/de_21-de-002637.npy|Schläfrig blickte Marianne auf den Wecker.|
+000862|09-de|de|../comvoi_clean/de/wavs/09/common_voice_de_18717350.wav|mel_spectrograms/de_09-de-002638.npy|lin_spectrograms/de_09-de-002638.npy|Die besten Plätze sind schnell vergeben.|
+003811|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18326659.wav|mel_spectrograms/de_36-de-002639.npy|lin_spectrograms/de_36-de-002639.npy|Eine gigantische Mehlstaubexplosion zerfetzte die Mühle in Sekunden.|
+010872|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18735848.wav|mel_spectrograms/nl_08-nl-002640.npy|lin_spectrograms/nl_08-nl-002640.npy|Het stopbord stond aan de rechterkant.|
+007428|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18653005.wav|mel_spectrograms/fr_09-fr-002641.npy|lin_spectrograms/fr_09-fr-002641.npy|Les sauveteurs souscrivent à tous les canulars.|
