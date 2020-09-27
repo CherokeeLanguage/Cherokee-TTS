@@ -11,3 +11,7 @@ The audio data comes from the first two "Introduction to Cherokee" audio tapes.
 * The extracted audio data is NOT available for download and will NOT be redistributed. (Copyright reasons.)
 
 * The "ssa." entry for mp3/syllabary-2-04-gwasv.mp3 is intentional. Sam is combining the Ꮝ and Ꮜ when pronouncing them.
+
+Original appears to be tape.
+
+45Hz to 9KHz. There is a definite drop in frequency response starting at 9KHz.
