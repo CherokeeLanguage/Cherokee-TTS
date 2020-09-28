@@ -4,7 +4,7 @@
 	"case_sensitive": false,
 	"characters": " 2:abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̧̀́̂̄̆̈̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяё–’",
 	"checkpoint_each_epochs": 4,
-	"dataset": "cherokee6f",
+	"dataset": "cherokee6i",
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
 	"epochs": 300,
