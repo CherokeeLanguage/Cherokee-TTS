@@ -21,7 +21,7 @@ source ~/miniconda3/etc/profile.d/conda.sh
 
 conda activate ./env
 
-cp="$(ls -1tr checkpoints/*CHEROKEE*|tail -n 1)"
+cp="$(ls -1tr checkpoints/*|tail -n 1)"
 cp="$(basename "$cp")"
 
 printf "Using checkpoint: $cp\n"
