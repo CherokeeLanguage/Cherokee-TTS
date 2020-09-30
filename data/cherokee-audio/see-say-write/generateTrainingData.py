@@ -11,7 +11,7 @@ from shutil import rmtree
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
-MASTER_TEXTS:list=["beginning-cherokee-longer-sequences.txt"]
+MASTER_TEXTS:list=["see-say-write-longer-sequences.txt"]
 
 #cleanup any previous runs
 for dir in ["linear_spectrograms", "spectrograms", "wav"]:

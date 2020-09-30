@@ -10,8 +10,8 @@ import subprocess
 from pydub import AudioSegment
 from shutil import rmtree
 
-MASTER_TEXT:str="beginning-cherokee-selected.txt"
-LONG_TEXT:str="beginning-cherokee-longer-sequences.txt"
+MASTER_TEXT:str="see-say-write-selected.txt"
+LONG_TEXT:str="see-say-write-longer-sequences.txt"
 
 # Define a function to normalize a chunk to a target amplitude.
 def match_target_amplitude(aChunk, target_dBFS):
