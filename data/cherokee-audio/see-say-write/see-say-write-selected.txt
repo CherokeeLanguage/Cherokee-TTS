@@ -127,12 +127,11 @@ df3|mp3-selected/Lessons31_to_40-048.mp3|Kilő anisgaya danidô:ga.
 df3|mp3-selected/Lessons31_to_40-049.mp3|Ǐ:náda gahnǐ:dô na asgaya.
 df3|mp3-selected/Lessons31_to_40-051.mp3|Gadogi u:sdi?
 df3|mp3-selected/Lessons31_to_40-055.mp3|Jalagi.
-df3|mp3-selected/Lessons31_to_40-057.mp3|
-df3|mp3-selected/Lessons31_to_40-058.mp3|
-df3|mp3-selected/Lessons31_to_40-060.mp3|
-df3|mp3-selected/Lessons31_to_40-062.mp3|
-df3|mp3-selected/Lessons31_to_40-067.mp3|
-df3|mp3-selected/Lessons31_to_40-069.mp3|
+df3|mp3-selected/Lessons31_to_40-058.mp3|Na à:lâ:sgalǐ:sgi.
+df3|mp3-selected/Lessons31_to_40-060.mp3|Idalà:sgala.
+df3|mp3-selected/Lessons31_to_40-062.mp3|Sáɂdu iyáni ani:jalagi analâ:sgalí.
+df3|mp3-selected/Lessons31_to_40-067.mp3|Jǒ:lani.
+df3|mp3-selected/Lessons31_to_40-069.mp3|Jǒ:lani ukịɂla wě:sa.
 df3|mp3-selected/Lessons31_to_40-071.mp3|
 df3|mp3-selected/Lessons31_to_40-073.mp3|
 df3|mp3-selected/Lessons31_to_40-078.mp3|
