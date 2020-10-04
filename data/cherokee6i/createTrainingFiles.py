@@ -5,6 +5,7 @@ import unicodedata as ud
 import random
 import json
 from shutil import rmtree
+import pathlib
 
 comvoiIgnore:list=["zh"]
 
@@ -25,63 +26,21 @@ for parent in [ "../cherokee-audio/beginning-cherokee",
 				"../cherokee-audio/cherokee-language-coach-2",
 				"../cherokee-audio/durbin-feeling",
 				"../cherokee-audio/michael-conrad",
-				"../cherokee-audio/sam-hider"
+				"../cherokee-audio/sam-hider",
+				"../comvoi_clean"
 				]:
-	with open(parent + "/all.txt", "r") as f:
-		lines:list = []
-		for line in f:
-			line=ud.normalize("NFC",line.strip())
-			line=line.replace("|wav/", "|"+parent+"/wav/")
-			lines.append(line)
-		random.Random(len(lines)).shuffle(lines)
-		size=len(lines)
-		trainSize=int((size*90/100))
-		with open("train.txt", "a") as t:
-			for line in lines[:trainSize]:
-				t.write(line)
-				t.write("\n")
-		with open("val.txt", "a") as t:
-			for line in lines[trainSize:]:
-				t.write(line)
-				t.write("\n")
-		with open("all.txt", "a") as t:
-			for line in lines:
-				t.write(line)
-				t.write("\n")
-
-#Common Voice Data
-commonVoice:list=[]
-with open("../comvoi_clean/all.txt") as f:
-	for line in f:
-		line=line.strip()
-		fields=line.split("|")
-		recno:str=fields[0]
-		speaker:str=fields[1]
-		language:str=fields[2]
-		wav:str=fields[3]
-		if language in comvoiIgnore:
-			#don't put unused languages in train and val files.
-			#even though the training process ignores the entries
-			#the spectrogram preprocessing step does not ignore them.
-			continue
-		text:str=ud.normalize("NFD",fields[4]) #use decomposed diactrics for donor voices
-		commonVoice.append(f"{recno}|{speaker}-{language}|{language}|../comvoi_clean/{wav}|||{text}|")
-
-	random.Random(len(commonVoice)).shuffle(commonVoice)
-	size=len(commonVoice)
-	trainSize=int((size*90/100))
-	with open("train.txt", "a") as t:
-		for line in commonVoice[:trainSize]:
-			t.write(line)
-			t.write("\n")
-	with open("val.txt", "a") as t:
-		for line in commonVoice[trainSize:]:
-			t.write(line)
-			t.write("\n")
-	with open("all.txt", "a") as t:
-		for line in commonVoice:
-			t.write(line)
-			t.write("\n")
+	for txt in ("all.txt", "val.txt", "train.txt"):
+		with open(pathlib.Path(parent).joinpath(txt), "r") as f:
+			lines:list = []
+			for line in f:
+				line=ud.normalize("NFC",line.strip())
+				line=line.replace("|wav/", "|"+parent+"/wav/")
+				lines.append(line)
+			random.Random(len(lines)).shuffle(lines)
+			with open(txt, "a") as t:
+				for line in lines:
+					t.write(line)
+					t.write("\n")
 
 #get char listing needed for params file
 letters=""
@@ -107,7 +66,6 @@ with open("all.txt", "r") as f:
 		f.write(tmp)
 		f.write("\n")
 	
-
 #rewrite shuffled
 lines=[]
 with open("train.txt", "r") as t:
