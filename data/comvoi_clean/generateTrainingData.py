@@ -45,7 +45,7 @@ if __name__ == "__main__":
     print("Creating training files")
     
     #save all copy before shuffling
-    with open("comvoi-all.txt", "w") as f:
+    with open("all.txt", "w") as f:
         for line in rows:
             f.write(line)
             f.write("\n")
