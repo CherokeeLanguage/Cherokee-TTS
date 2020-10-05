@@ -4,8 +4,10 @@ import sys
 import unicodedata as ud
 import random
 import pathlib
-import subprocess
 from shutil import rmtree
+
+from pydub import AudioSegment
+import pydub.effects as effects
 
 if __name__ == "__main__":
 
@@ -34,13 +36,24 @@ if __name__ == "__main__":
     
     print(f"Loaded {len(entries):,} entries with audio and text.")
     
+    totalLength:float=0.0
     print("Creating wavs")
     rows:list=[]
     for xid, speaker, lang, mp3, text in entries.values():
         wav:str="wav/"+os.path.splitext(os.path.basename(mp3))[0]+".wav"
         text:str=ud.normalize('NFC', text)
-        subprocess.run(["ffmpeg","-y","-i",mp3,"-ac","1","-ar","22050",wav], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        audio=AudioSegment.from_file(mp3)
+        audio.set_frame_rate(22050)
+        audio.set_channels(1)
+        audio = effects.normalize(audio)
+        audio.export(wav, format="wav")
+        totalLength+=audio.duration_seconds
         rows.append(f"{xid}|{speaker}|{lang}|{wav}|||{text}|")
+    
+    totalLength=int(totalLength)
+    minutes=int(totalLength/60)
+    seconds=int(totalLength%60)
+    print(f"Total duration: {minutes:,}:{seconds:02}")
     
     print("Creating training files")
     

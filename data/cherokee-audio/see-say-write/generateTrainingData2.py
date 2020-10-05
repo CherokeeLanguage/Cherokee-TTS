@@ -71,9 +71,9 @@ if __name__ == "__main__":
         wav:str="wav/"+os.path.splitext(os.path.basename(mp3))[0]+".wav"
         text:str=ud.normalize('NFC', text)
         audio=AudioSegment.from_file(mp3)
-        audio.set_frame_rate(22050)
-        audio.set_channels(1)
         audio = effects.normalize(audio)
+        audio = audio.set_channels(1)
+        audio = audio.set_frame_rate(22050)
         audio.export(wav, format="wav")
         totalLength+=audio.duration_seconds
         vid:str=speaker
