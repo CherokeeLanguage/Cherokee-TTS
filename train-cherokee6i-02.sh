@@ -12,7 +12,7 @@ WORK="$(pwd)"
 cp data/"$params"/checkpoint/"$cp" checkpoints/
 
 cd data
-python prepare_spectrograms.py --directory "$params"
+python prepare_spectrograms.py --sample_rate 22050 --directory "$params"
 
 date
 
