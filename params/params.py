@@ -135,7 +135,8 @@ class Params:
     use_preemphasis = True               # if True, a preemphasis is applied to raw waveform before using them (spectrogram computation)
     preemphasis = 0.97                   # amount of preemphasis, used if use_preemphasis is True
 
-
+    unique_speakers = []
+    
     @staticmethod
     def load_state_dict(d):
         for k, v in d.items(): setattr(Params, k, v)
