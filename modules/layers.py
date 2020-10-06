@@ -176,3 +176,18 @@ class HighwayConvBlockGenerated(ConvBlockGenerated):
         h2 = torch.cat(chunks[1::2], 1)
         p = self._gate(h1)
         return e, h2 * p + x * (1.0 - p)
+    
+class ConstantEmbedding(torch.nn.Module):
+    """
+    Simple layer returning frozen constant embedding (suitable for fine-tuning). 
+    
+    Arguments:
+        weights -- The tensor to be returned for any input.
+    """
+
+    def __init__(self, weights):
+        super(ConstantEmbedding, self).__init__()
+        self.register_buffer('embedding_weights', weights)
+
+    def forward(self, x):
+        return self.embedding_weights.unsqueeze(0).expand(x.shape[0], -1)

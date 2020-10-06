@@ -9,7 +9,7 @@ cp="cherokee6i_loss-192-0.216"
 cd "$(dirname "$0")"
 WORK="$(pwd)"
 
-cp data/"$params"/checkpoint/"$cp" checkpoints/
+cp data/"$params"/checkpoint/"$cp" checkpoints
 
 cd data
 python prepare_spectrograms.py --sample_rate 22050 --directory "$params"

@@ -1,4 +1,3 @@
-import os
 import time
 import datetime
 import math
@@ -11,12 +10,13 @@ matplotlib.use("Qt5Agg")
 
 from dataset.dataset import TextToSpeechDatasetCollection, TextToSpeechCollate
 from params.params import Params as hp
-from utils import audio, text
+from utils import audio
 from modules.tacotron2 import Tacotron, TacotronLoss
 from utils.logging import Logger
 from utils.samplers import RandomImbalancedSampler, PerfectBatchSampler
 from utils import lengths_to_mask, to_gpu
 
+from modules.layers import ConstantEmbedding
 
 def cos_decay(global_step, decay_steps):
     """Cosine decay function
@@ -45,7 +45,8 @@ def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
     # initialize counters, etc.
     learning_rate = optimizer.param_groups[0]['lr']
     cla = 0
-    done, start_time = 0, time.time()
+    done = 0
+    start_time = time.time()
 
     optimizer.zero_grad() # once before loop start
     # loop through epoch batches
@@ -83,11 +84,6 @@ def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
             matches[~input_mask] = False
             cla = torch.sum(matches).item() / torch.sum(input_mask).item()
 
-        # comptute gradients and make a step
-        #loss.backward()      
-        #gradient = torch.nn.utils.clip_grad_norm_(model.parameters(), hp.gradient_clipping)
-        #optimizer.step()   
-        
         # calculate gradient accumulated loss
         if args.accumulation_size > 1:
             loss = loss / args.accumulation_size
@@ -102,11 +98,11 @@ def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
             # log training progress
             if epoch >= logging_start_epoch:
                 Logger.training(global_step, batch_losses, gradient, learning_rate, time.time() - start_time, cla) 
+            start_time = time.time()
 
             # update criterion states (params and decay of the loss and so on ...)
             criterion.update_states()
 
-            start_time = time.time()
             
         done += 1 
     
@@ -211,7 +207,7 @@ if __name__ == '__main__':
     parser.add_argument('--max_gpus', type=int, default=2, help="Maximal number of GPUs of the local machine to use.")
     parser.add_argument('--loader_workers', type=int, default=2, help="Number of subprocesses to use for data loading.")
     parser.add_argument("--accumulation_size", type=int, default=1, help="How many batches to perform gradient accumulation over.")
-    parser.add_argument("--reset_epoch", type=bool, default=False, help="Reset the epoch counter back to 0.")
+    parser.add_argument('--fine_tuning', action='store_true', help="Fine tune checkpoint to possibly unseen language.")
     args = parser.parse_args()
 
     # set up seeds and the target torch device
@@ -231,11 +227,21 @@ if __name__ == '__main__':
         checkpoint = os.path.join(checkpoint_dir, args.checkpoint)
         checkpoint_state = torch.load(checkpoint, map_location='cpu')
         hp.load_state_dict(checkpoint_state['parameters'])
+        used_input_characters = hp.phonemes if hp.use_phonemes else hp.characters
+        used_languages = hp.languages
+        used_speakers = hp.unique_speakers
 
     # load hyperparameters
     if args.hyper_parameters is not None:
         hp_path = os.path.join(args.base_directory, 'params', f'{args.hyper_parameters}.json')
         hp.load(hp_path)
+        
+    if args.fine_tuning: 
+        new_input_characters = hp.phonemes if hp.use_phonemes else hp.characters
+        extra_input_characters = [x for x in new_input_characters if x not in used_input_characters]
+        ordered_new_input_characters = used_input_characters + ''.join(extra_input_characters)
+        if hp.use_phonemes: hp.phonemes = ordered_new_input_characters
+        else: hp.characters = ordered_new_input_characters
 
     # load dataset
     dataset = TextToSpeechDatasetCollection(os.path.join(args.data_root, hp.dataset))
@@ -269,6 +275,10 @@ if __name__ == '__main__':
         if hp.predict_linear:
             hp.lin_normalize_mean, hp.lin_normalize_variance = dataset.train.get_normalization_constants(False)   
 
+    if args.fine_tuning: 
+        if hp.use_phonemes: hp.phonemes = used_input_characters
+        else: hp.characters = used_input_characters
+        
     # instantiate model
     if torch.cuda.is_available(): 
         model = Tacotron().cuda()
@@ -299,16 +309,35 @@ if __name__ == '__main__':
         pretrained_dict = {k: v for k, v in checkpoint_state['model'].items() if k in model_dict}
         model_dict.update(pretrained_dict) 
         model.load_state_dict(model_dict)
-        # other states from checkpoint -- optimizer, scheduler, loss, epoch
-        if not args.reset_epoch:
+        if checkpoint_state['epoch']:
             initial_epoch = checkpoint_state['epoch'] + 1
+        if checkpoint_state['optimizer']:
             optimizer.load_state_dict(checkpoint_state['optimizer'])
+        if checkpoint_state['scheduler']:
             scheduler.load_state_dict(checkpoint_state['scheduler'])
+        if checkpoint_state['criterion']:
             criterion.load_state_dict(checkpoint_state['criterion'])
+            
+    if args.fine_tuning:
+        # make speaker and language embeddings constant
+        hp.embedding_type = "constant"
+        if hp.multi_speaker:
+            embedding = model._decoder._speaker_embedding.weight.mean(dim=0)
+            model._decoder._speaker_embedding = ConstantEmbedding(embedding)
+        if hp.multi_language:
+            embedding = model._decoder._language_embedding.weight.mean(dim=0)
+            model._decoder._language_embedding = ConstantEmbedding(embedding)
 
-    if args.reset_epoch:
-        initial_epoch = 0
-        
+        # enlarge the input embedding to fit all new characters
+        if hp.use_phonemes: hp.phonemes = ordered_new_input_characters
+        else: hp.characters = ordered_new_input_characters
+        num_news = len(extra_input_characters)
+        input_embedding = model._embedding.weight     
+        with torch.no_grad():
+            input_embedding = torch.nn.functional.pad(input_embedding, (0,0,0, num_news))
+            torch.nn.init.xavier_uniform_(input_embedding[-num_news:, :])
+        model._embedding = torch.nn.Embedding.from_pretrained(input_embedding, padding_idx=0, freeze=False)
+
     # initialize logger
     log_dir = os.path.join(args.base_directory, "logs", f'{hp.version}-{datetime.datetime.now().strftime("%Y-%m-%d_%H%M%S")}')
     Logger.initialize(log_dir, args.flush_seconds)
