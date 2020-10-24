@@ -16,6 +16,9 @@ LONG_TEXT:str="entries-timestamps.txt"
 
 if __name__ == "__main__":
     
+    align:float=1
+    gap:float=0.25
+    
     mp3Combined:str="mp3-combined"
     
     dname=os.path.dirname(sys.argv[0])
@@ -44,10 +47,11 @@ if __name__ == "__main__":
     with open(LONG_TEXT, "w") as f:
         f.write("")
 
-    track:AudioSegment=AudioSegment.silent(500, 22050)
+    track:AudioSegment=AudioSegment.silent(0, 44100)
     
     print("Creating composite track")
     
+    idx:int=0
     speechTime:int=0
     for entry in entries:
         entry=entry.strip()
@@ -55,17 +59,25 @@ if __name__ == "__main__":
         audioData:AudioSegment = AudioSegment.from_mp3(entry)
         speechTime+=audioData.duration_seconds
         track += normalize(audioData)
-        track += AudioSegment.silent(500, 22050)
+        track += AudioSegment.silent(gap*1000, 44100)
+        tmp:float=float(align) - (track.duration_seconds % align)
+        if tmp>0:
+            track += AudioSegment.silent(tmp*1000, 44100)
         with open(LONG_TEXT, "a") as f:
+            f.write(f"{idx}")
+            f.write("|")
             f.write(f"{position:.2f}")
             f.write("|")
             f.write(f"{entry}")
             f.write("|")
             f.write("\n")
+        idx+=1
+        if idx>10:
+            break
     
     totalTime=track.duration_seconds
     print("Exporting MP3")
-    track.export(mp3Combined+"/composite.mp3")
+    track.export(mp3Combined+"/composite.mp3", bitrate="96k")
     print("")
     print(f"Total speech time (minutes): {int(speechTime/60)}")
     print(f"Total track time (minutes): {int(totalTime/60)}")    
