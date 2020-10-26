@@ -16,7 +16,7 @@ LONG_TEXT:str="entries-timestamps.txt"
 
 if __name__ == "__main__":
     
-    align:float=1
+    align:float=0.5
     gap:float=0.25
     
     mp3Combined:str="mp3-combined"
@@ -64,7 +64,7 @@ if __name__ == "__main__":
         if tmp>0:
             track += AudioSegment.silent(tmp*1000, 44100)
         with open(LONG_TEXT, "a") as f:
-            f.write(f"{idx}")
+            f.write(f"{idx:05d}")
             f.write("|")
             f.write(f"{position:.2f}")
             f.write("|")
@@ -72,8 +72,6 @@ if __name__ == "__main__":
             f.write("|")
             f.write("\n")
         idx+=1
-        if idx>10:
-            break
     
     totalTime=track.duration_seconds
     print("Exporting MP3")
