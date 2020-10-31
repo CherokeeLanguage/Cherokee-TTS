@@ -101,3 +101,7 @@ if __name__ == "__main__":
 
         print(f"Found {len(cno_lookup)} matches.")
         
+    with open("matches.txt", "w") as file:
+        for key in cno_lookup.keys():
+            print(f"{key}|{cno_lookup[key]}",file=file)
+        
