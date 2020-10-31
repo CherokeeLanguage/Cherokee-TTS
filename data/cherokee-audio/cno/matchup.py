@@ -28,18 +28,14 @@ if __name__ == "__main__":
     
     ambig:dict=dict()
     
-    # TODO: Split on commas for syll && pron entries
-    
-    # TODO: Check if CNOS entries ending in 'Ꮫ' will match entries ending in 'Ꮣ'
-    
     with open(ced, mode='r', encoding='utf-8-sig') as csvfile:
         records = csv.DictReader(csvfile)
         for record in records:
             for fields in zip(syllabaryList, pronounceList):
                 sfield:str=fields[0]
                 pfield:str=fields[1]
-                value:str=record[sfield].strip()
-                pronounce:str=record[pfield].strip()
+                value:str=record[sfield].strip().strip(",")
+                pronounce:str=record[pfield].strip().strip(",")
                 if "-" in value or "-" in pronounce:
                     continue
                 if len(value)==0:
@@ -53,6 +49,29 @@ if __name__ == "__main__":
                     ced_lookup.pop(value)
                     continue                
                 ced_lookup[value]=pronounce
+                
+    for key in [*ced_lookup]:
+        if " " not in key and "," not in key:
+            continue
+        pronounce = ced_lookup[key]
+        if " " not in pronounce and "," not in pronounce:
+            continue
+        if len(key.split(",")) != len(pronounce.split(",")):
+            continue
+        if len(key.split(" ")) != len(pronounce.split(" ")):
+            continue
+        for new_key, new_pronounce in zip(key.split(","), pronounce.split(",")):
+            new_key = new_key.strip()
+            new_pronounce = new_pronounce.strip()
+            if new_key in ced_lookup.keys():
+                continue
+            ced_lookup[new_key]=new_pronounce
+        for new_key, new_pronounce in zip(key.split(" "), pronounce.split(" ")):
+            new_key = new_key.strip().strip(" ,")
+            new_pronounce = new_pronounce.strip().strip(" ,")
+            if new_key in ced_lookup.keys():
+                continue
+            ced_lookup[new_key]=new_pronounce
         
     with open(rrd, mode='r', encoding='utf-8-sig') as csvfile:
         records = csv.DictReader(csvfile)
@@ -80,6 +99,29 @@ if __name__ == "__main__":
                 pronounce=re.sub("(?i)(ṿ)([a-zɂ?])", "\\g<1>2\\g<2>", pronounce, flags=re.IGNORECASE)
                 rrd_lookup[value]=pronounce
                 
+    for key in [*rrd_lookup]:
+        if " " not in key and "," not in key:
+            continue
+        pronounce = rrd_lookup[key]
+        if " " not in pronounce and "," not in pronounce:
+            continue
+        if len(key.split(",")) != len(pronounce.split(",")):
+            continue
+        if len(key.split(" ")) != len(pronounce.split(" ")):
+            continue
+        for new_key, new_pronounce in zip(key.split(","), pronounce.split(",")):
+            new_key = new_key.strip()
+            new_pronounce = new_pronounce.strip()
+            if new_key in rrd_lookup.keys():
+                continue
+            rrd_lookup[new_key]=new_pronounce
+        for new_key, new_pronounce in zip(key.split(" "), pronounce.split(" ")):
+            new_key = new_key.strip().strip(" ,")
+            new_pronounce = new_pronounce.strip().strip(" ,")
+            if new_key in rrd_lookup.keys():
+                continue
+            rrd_lookup[new_key]=new_pronounce
+    
     print(f"Skipped loading {len(ambig):,} ambiguous entries from main dictionary files")
     
     with open(cno, mode='r', encoding='utf-8-sig') as csvfile:
@@ -118,7 +160,7 @@ if __name__ == "__main__":
                     mp3_lookup[value]=record["notes"]
                     continue
                 if value+"Ꭲ" in rrd_lookup.keys():
-                    rrd_lookup[value+"Ꭲ"]
+                    pronounce=rrd_lookup[value+"Ꭲ"]
                     if pronounce[-1] == "i":
                         pronounce=pronounce[:-1]
                     if pronounce[-1] == "?":
@@ -127,7 +169,23 @@ if __name__ == "__main__":
                         pronounce=pronounce[:-1]
                     cno_lookup[value]=pronounce
                     mp3_lookup[value]=record["notes"]
-                    continue                            
+                    continue
+                if value[-1] == "Ꮫ":
+                    xvalue = value[:-1] + "Ꮣ"
+                    if xvalue in ced_lookup.keys():
+                        pronounce=ced_lookup[xvalue]
+                        pronounce=pronounce[:-1]+"v"
+                        cno_lookup[value]=pronounce
+                        mp3_lookup[value]=record["notes"]
+                        continue
+                    if xvalue in rrd_lookup.keys():
+                        pronounce=rrd_lookup[xvalue]
+                        pronounce=pronounce[:-1]+"v"
+                        cno_lookup[value]=pronounce
+                        mp3_lookup[value]=record["notes"]
+                        continue
+                    
+                    
 
         print(f"Found {len(cno_lookup)} matches.")
         
