@@ -30,6 +30,8 @@ if __name__ == "__main__":
     
     # TODO: Split on commas for syll && pron entries
     
+    # TODO: Check if CNOS entries ending in 'Ꮫ' will match entries ending in 'Ꮣ'
+    
     with open(ced, mode='r', encoding='utf-8-sig') as csvfile:
         records = csv.DictReader(csvfile)
         for record in records:
