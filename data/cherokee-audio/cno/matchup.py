@@ -28,6 +28,8 @@ if __name__ == "__main__":
     
     ambig:dict=dict()
     
+    # TODO: Split on commas for syll && pron entries
+    
     with open(ced, mode='r', encoding='utf-8-sig') as csvfile:
         records = csv.DictReader(csvfile)
         for record in records:
@@ -47,8 +49,7 @@ if __name__ == "__main__":
                 if value in ced_lookup.keys() and pronounce != ced_lookup[value]:
                     ambig[value]=True
                     ced_lookup.pop(value)
-                    continue
-                
+                    continue                
                 ced_lookup[value]=pronounce
         
     with open(rrd, mode='r', encoding='utf-8-sig') as csvfile:
@@ -103,11 +104,26 @@ if __name__ == "__main__":
                 if value+"Ꭲ" in ambig.keys():
                     continue
                 if value+"Ꭲ" in ced_lookup.keys():
-                    cno_lookup[value]=ced_lookup[value+"Ꭲ"]
+                    pronounce=ced_lookup[value+"Ꭲ"]
+                    if pronounce[-1] == "i":
+                        pronounce=pronounce[:-1]
+                    if pronounce[-1] == "?":
+                        pronounce=pronounce[:-1]
+                    if pronounce[-1] == "ɂ":
+                        pronounce=pronounce[:-1]
+                        
+                    cno_lookup[value]=pronounce
                     mp3_lookup[value]=record["notes"]
                     continue
                 if value+"Ꭲ" in rrd_lookup.keys():
-                    cno_lookup[value]=rrd_lookup[value+"Ꭲ"]
+                    rrd_lookup[value+"Ꭲ"]
+                    if pronounce[-1] == "i":
+                        pronounce=pronounce[:-1]
+                    if pronounce[-1] == "?":
+                        pronounce=pronounce[:-1]
+                    if pronounce[-1] == "ɂ":
+                        pronounce=pronounce[:-1]
+                    cno_lookup[value]=pronounce
                     mp3_lookup[value]=record["notes"]
                     continue                            
 
