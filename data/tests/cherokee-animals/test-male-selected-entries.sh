@@ -24,7 +24,7 @@ tmp="$z/tmp.txt"
 selected="$z/selected.txt"
 cp /dev/null "$tmp"
 
-for x in "$z"/animals-[0-9][0-9]-*; do
+for x in "$z"/animals-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done

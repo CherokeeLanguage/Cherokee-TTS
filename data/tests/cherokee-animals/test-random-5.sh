@@ -33,9 +33,7 @@ cp /dev/null "$z"/voices.txt
 ) >> "$z"/voices.txt
 
 
-#cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
-
-for x in "$z"/animals-[0-9][0-9]-*; do
+for x in "$z"/animals-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
