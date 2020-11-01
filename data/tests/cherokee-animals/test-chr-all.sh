@@ -26,21 +26,12 @@ tmp="$z/tmp.txt"
 selected="$z/selected.txt"
 cp /dev/null "$tmp"
 
-cp /dev/null "$z"/voices.txt
-
-(
-	echo "02-chr"
-	echo "01-chr"
-) >> "$z"/voices.txt
-
-#cat "$z"/all-voices.txt | grep 'fr' | sort | uniq >> "$z"/voices.txt
-
 for x in "$z"/animals-[0-9][0-9]-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
 
-v=($(cat "$z"/voices.txt))
+v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"

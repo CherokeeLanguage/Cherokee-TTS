@@ -29,7 +29,7 @@ for x in "$z"/ced-[0-9][0-9]-*; do
 	rm -r "$x"
 done
 
-v=("01-chr" "02-chr" "03-chr" "04-chr" "05-chr")
+v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"

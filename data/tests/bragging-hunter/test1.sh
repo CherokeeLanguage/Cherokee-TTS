@@ -28,10 +28,7 @@ printf "Using checkpoint: $cp\n"
 
 selected="$z/selected.txt"
 
-#v=("02-ru" "03-ru" "14-de" "02-fr" "01-chr" "02-chr" "03-chr" "04-chr" "05-chr")
-#v=("03-ru" "02-ru" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
-#v=("14-de" "51-de" "02-fr" "04-fr" "14-fr" "18-fr" "19-fr" "22-fr" "03-ru" "03-chr")
-v=("cno-spk_0" "cno-spk_2" "cno-spk_3" "02-fr" "04-fr" "18-fr" "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
+v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
