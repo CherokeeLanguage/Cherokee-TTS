@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-from jedi.debug import _start_time
 
 if __name__ == "__main__":
     import os
