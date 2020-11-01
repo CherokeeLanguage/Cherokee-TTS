@@ -31,10 +31,24 @@ if __name__ == "__main__":
             mp3=fields[2]
             speakers[mp3]=speaker
     
+    speaker_counts:dict=dict()
     with open("cno-training-data.txt", "w") as file:
         for mp3 in [*matches]:
             speaker=speakers[mp3]
             mco=matches[mp3]
             print(f"{speaker}|cno_cwl/{mp3}|{mco}", file=file)
+            if speaker not in speaker_counts:
+                speaker_counts[speaker]=1
+            else:
+                speaker_counts[speaker]=speaker_counts[speaker]+1
     
+    count=len(matches)
+    print(f"Entries: {count:,}")
+    print()
+    print("Speaker Counts:")
+    speakers=[*speaker_counts]
+    speakers.sort()
+    for speaker in speakers:
+        count=speaker_counts[speaker]
+        print(f"   {speaker}: {count:,}")
         

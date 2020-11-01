@@ -64,6 +64,8 @@ if __name__ == "__main__":
     
     id:int=1
     
+    speaker_counts:dict=dict()
+    
     totalLength:float=0.0
     print("Creating wavs")
     rows:list=[]
@@ -83,6 +85,10 @@ if __name__ == "__main__":
             vid=voiceid        
         rows.append(f"{id:06d}|{vid}|chr|{wav}|||{text}|")
         id+=1
+        if speaker not in speaker_counts:
+                speaker_counts[speaker]=1
+        else:
+            speaker_counts[speaker]=speaker_counts[speaker]+1
     
     totalLength=int(totalLength)
     minutes=int(totalLength/60)
@@ -114,6 +120,14 @@ if __name__ == "__main__":
     print(f"Train size: {trainSize}")
     print(f"Val size: {valSize}")
     print(f"All size: {len(rows)}")
+    print()
+    print("Speaker Counts:")
+    speakers=[*speaker_counts]
+    speakers.sort()
+    for speaker in speakers:
+        count=speaker_counts[speaker]
+        print(f"   {speaker}: {count:,}")
+    print()
     print("Folder:",pathlib.Path(".").resolve().name)        
     
     sys.exit()

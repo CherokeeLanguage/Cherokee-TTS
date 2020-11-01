@@ -184,9 +184,6 @@ if __name__ == "__main__":
                         cno_lookup[value]=pronounce
                         mp3_lookup[value]=record["notes"]
                         continue
-                    
-                    
-
         print(f"Found {len(cno_lookup)} matches.")
         
     with open("matches.txt", "w") as file:
