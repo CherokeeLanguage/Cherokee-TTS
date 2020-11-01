@@ -57,7 +57,7 @@ df3|mp3-selected/Lessons11_to_20-081.mp3|Ga̋:du agigísi na gi:hli.
 df3|mp3-selected/Lessons11_to_20-083.mp3|Agá:li:siga.
 df3|mp3-selected/Lessons11_to_20-092.mp3|Ó:si.
 df3|mp3-selected/Lessons11_to_20-094.mp3|Usdi̋ ó:si.
-df3|mp3-selected/Lessons11_to_20-095.mp3|O:gana anahlị gi:hli.
+df3|mp3-selected/Lessons11_to_20-095.mp3|O:gana anahli gi:hli.
 df3|mp3-selected/Lessons11_to_20-097.mp3|Ga̋:du u:gana̋:sda à:gíɂa.
 df3|mp3-selected/Lessons11_to_20-098.mp3|Ogina:li̋:ɂi.
 df3|mp3-selected/Lessons11_to_20-107.mp3|O:síyo.
@@ -139,65 +139,62 @@ df3|mp3-selected/Lessons31_to_40-089.mp3|Awǒ:háɂli.
 df3|mp3-selected/Lessons31_to_40-091.mp3|Awǒ:háɂli u:gì:dáhli gà:hǐ:dô na ayv:wi:ya̋.
 df3|mp3-selected/Lessons31_to_40-094.mp3|Jalagi gawó:ni na ayó:ne:ga.
 df3|mp3-selected/Lessons31_to_40-096.mp3|Nv:wô:ti ù:du:lí na udanili.
-df3|mp3-selected/Lessons41_to_50-003.mp3|nu-na
-df3|mp3-selected/Lessons41_to_50-004.mp3|nu-na do-gi-wi-sa tlo-ge-si
-df3|mp3-selected/Lessons41_to_50-006.mp3|a-ya-nu-li ha-ni-gi.
-df3|mp3-selected/Lessons41_to_50-007.mp3|nu-la ha-da-na-wi-s-da.
-df3|mp3-selected/Lessons41_to_50-010.mp3|ka-nu-na
-df3|mp3-selected/Lessons41_to_50-011.mp3|ka-nu-na ni-ga-we-a.
-df3|mp3-selected/Lessons41_to_50-012.mp3|u-s-di ka-na-wo-ga.
-df3|mp3-selected/Lessons41_to_50-014.mp3|ka-wi wi-da-yu-wa-si di-da-na-nv-i.
-df3|mp3-selected/Lessons41_to_50-018.mp3|di-se-s-di
-df3|mp3-selected/Lessons41_to_50-020.mp3|di-se-s-di du-wo-we-la
-df3|mp3-selected/Lessons41_to_50-022.mp3|ka-li-se-tsi u-du-li na a-yo-tli.
-df3|mp3-selected/Lessons41_to_50-023.mp3|se-di da-gi-a na sa-lo-li.
-df3|mp3-selected/Lessons41_to_50-026.mp3|se-lu
-df3|mp3-selected/Lessons41_to_50-027.mp3|se-lu-ga-du da-ga-du-ni
-df3|mp3-selected/Lessons41_to_50-029.mp3|s-gi-ga-du u-da-lu-la nv-gi.
-df3|mp3-selected/Lessons41_to_50-030.mp3|se-lu do-da-tsi-wi-si a-di-ha na a-s-ga-ya.
-df3|mp3-selected/Lessons41_to_50-034.mp3|di-ga-dv-di
-df3|mp3-selected/Lessons41_to_50-036.mp3|ga-do ha-dv-ne?
-df3|mp3-selected/Lessons41_to_50-038.mp3|u-li-si-gi u-lo-gi-la
-df3|mp3-selected/Lessons41_to_50-039.mp3|dv-ga-hna-ni ge-li-a
-df3|mp3-selected/Lessons41_to_50-041.mp3|di-ga-dv-di a-yo-s-da na u-da-ge-da a-tsu-tsa.
-df3|mp3-selected/Lessons41_to_50-046.mp3|a-dla-wa-dv
-df3|mp3-selected/Lessons41_to_50-047.mp3|u-dla-wa-dv u-yo-tsi-si.
-df3|mp3-selected/Lessons41_to_50-049.mp3|u-yv-dla a-ma a-qua-du-li.
-df3|mp3-selected/Lessons41_to_50-050.mp3|a-ha-ni u-dla-nv-da
-df3|mp3-selected/Lessons41_to_50-054.mp3|hi-s-gi
-df3|mp3-selected/Lessons41_to_50-055.mp3|hi-la a-tli-i-li?
-df3|mp3-selected/Lessons41_to_50-056.mp3|hi-yo-li-gi-s na a-s-ga-ya?
-df3|mp3-selected/Lessons41_to_50-057.mp3|ga-nv-hi-da u-s-ti-ga na a-ge-yu-tsa.
-df3|mp3-selected/Lessons41_to_50-063.mp3|hi-s-gi a-ye-tli a-tli-i-li.
-df3|mp3-selected/Lessons41_to_50-064.mp3|u-wo-ye-ni u-we-hi-s-da-ne.
-df3|mp3-selected/Lessons41_to_50-065.mp3|ye-ga-tli a-ni-ye-wi-s-ga.
-df3|mp3-selected/Lessons41_to_50-069.mp3|e-lo-hi. 
-df3|mp3-selected/Lessons41_to_50-071.mp3|i-ga e-hi nv-da ka-la.
-df3|mp3-selected/Lessons41_to_50-073.mp3|hi-a e-do-da.
-df3|mp3-selected/Lessons41_to_50-074.mp3|hi-a e-tsi.
-df3|mp3-selected/Lessons41_to_50-078.mp3|s-quya-tle-s-di
-df3|mp3-selected/Lessons41_to_50-079.mp3|a-ha-ni tso-tle-s-di.
-df3|mp3-selected/Lessons41_to_50-080.mp3|di-da-na-nv wi-da-ge-do-li tle-ga.
-df3|mp3-selected/Lessons41_to_50-081.mp3|u-do-hi-yu u-di-tle-ga
-df3|mp3-selected/Lessons51_to_60-002.mp3|gv-hna-ge
-df3|mp3-selected/Lessons51_to_60-003.mp3|gv-hna-ge gi-tli a-gi-ka-ha.
-df3|mp3-selected/Lessons51_to_60-004.mp3|ga-nv-qua-lo-s-di e-s-gv-si.
-df3|mp3-selected/Lessons51_to_60-005.mp3|we-sa ni-ga-we-s-gv ga-dv-gi-a.
-df3|mp3-selected/Lessons51_to_60-008.mp3|go-i
-df3|mp3-selected/Lessons51_to_60-010.mp3|ga-do-u-s-di a-go-wa-ti na gi-tli.
-df3|mp3-selected/Lessons51_to_60-011.mp3|go-la i-go-hi-da a-tli-i-li-da?
-df3|mp3-selected/Lessons51_to_60-012.mp3|di-go-we-lo-di e-s-gi-di-si.
-df3|mp3-selected/Lessons51_to_60-016.mp3|te-li-do
-df3|mp3-selected/Lessons51_to_60-018.mp3|tsi-s-du a-te-s-da na gi-tli.
-df3|mp3-selected/Lessons51_to_60-019.mp3|hi-la i-go-hi-da wi-te-do-li?
-df3|mp3-selected/Lessons51_to_60-020.mp3|di-hna-wo da-te-s-ga.
-df3|mp3-selected/Lessons51_to_60-024.mp3|ta-lu-tsa
-df3|mp3-selected/Lessons51_to_60-026.mp3|u-ta-na yo-na tsi-go-wa-ta.
-df3|mp3-selected/Lessons51_to_60-027.mp3|ta-wo-di ni-ga-we-a.
-df3|mp3-selected/Lessons51_to_60-028.mp3|u-do-hi-yu u-wo-du-hi hi-a ta-lu-tsa.
-df3|mp3-selected/Lessons51_to_60-032.mp3|gv-he
-df3|mp3-selected/Lessons51_to_60-033.mp3|gv-he a-na-tli-ha gi-tli.
-df3|mp3-selected/Lessons51_to_60-034.mp3|he-s-di!
+df3|mp3-selected/Lessons41_to_50-003.mp3|Nǔ:na.
+df3|mp3-selected/Lessons41_to_50-004.mp3|Nǔ:na do:gihwisa dlo:ge̋:si.
+df3|mp3-selected/Lessons41_to_50-006.mp3|A:yanű:li ha:hnigi.
+df3|mp3-selected/Lessons41_to_50-007.mp3|Nű:la, hadanàwsda.
+df3|mp3-selected/Lessons41_to_50-010.mp3|Kanu:na.
+df3|mp3-selected/Lessons41_to_50-011.mp3|Kanu:na nigaweɂa.
+df3|mp3-selected/Lessons41_to_50-012.mp3|U:sdi̋ kanawô:ga.
+df3|mp3-selected/Lessons41_to_50-014.mp3|Kǎ:hwi widayù:hwasi dì:da:náɂnv̋:i.
+df3|mp3-selected/Lessons41_to_50-018.mp3|Di:sésdi.
+df3|mp3-selected/Lessons41_to_50-020.mp3|Di:sésdi dù:wo:hwě:lâ. 
+df3|mp3-selected/Lessons41_to_50-022.mp3|Kalsě:ji ù:du:lí na ayő:hli.
+df3|mp3-selected/Lessons41_to_50-023.mp3|Sě:di dà:gíɂa na salǒ:li.
+df3|mp3-selected/Lessons41_to_50-026.mp3|Sě:lu.
+df3|mp3-selected/Lessons41_to_50-027.mp3|Sě:lu ga̋:du dagá:du:hni.
+df3|mp3-selected/Lessons41_to_50-030.mp3|Sě:lu dodajì:hwisi à:diha na asgaya.
+df3|mp3-selected/Lessons41_to_50-034.mp3|Digadv́:di.
+df3|mp3-selected/Lessons41_to_50-036.mp3|Gadò hà:dv́:ne?
+df3|mp3-selected/Lessons41_to_50-038.mp3|Ùlsíhgí ù:lô:gi:la
+df3|mp3-selected/Lessons41_to_50-039.mp3|Dv̀:ga:hnani ge:líɂa.
+df3|mp3-selected/Lessons41_to_50-041.mp3|Digadv́:di à:yo:sda na ù:da:ge̋:da achű:ja.
+df3|mp3-selected/Lessons41_to_50-046.mp3|A:dlawáɂdv̋
+df3|mp3-selected/Lessons41_to_50-049.mp3|U:hyv:dla ama à:gwadu:lí.
+df3|mp3-selected/Lessons41_to_50-050.mp3|Áhani ù:dlanv:da.
+df3|mp3-selected/Lessons41_to_50-054.mp3|Hisgi
+df3|mp3-selected/Lessons41_to_50-055.mp3|Hila̋ à:hlíɂili?
+df3|mp3-selected/Lessons41_to_50-056.mp3|Hi:yo:lì:gis na asgaya?
+df3|mp3-selected/Lessons41_to_50-057.mp3|Ganv:hi̋:da ù:stihga na age:hyű:ja.
+df3|mp3-selected/Lessons41_to_50-063.mp3|Hisgi aye̋:hli à:hlíɂili.
+df3|mp3-selected/Lessons41_to_50-064.mp3|Uwò:ye̋:ni ù:we:hisdâ:ne.
+df3|mp3-selected/Lessons41_to_50-065.mp3|Hyehgahli aniyewsga.
+df3|mp3-selected/Lessons41_to_50-069.mp3|E:lohi. 
+df3|mp3-selected/Lessons41_to_50-071.mp3|I:ga e̋:hi nv:da kala.
+df3|mp3-selected/Lessons41_to_50-073.mp3|Hiɂa e:do:da.
+df3|mp3-selected/Lessons41_to_50-074.mp3|Hiɂa e:ji.
+df3|mp3-selected/Lessons41_to_50-078.mp3|Sgwà:hle̋:sdi.
+df3|mp3-selected/Lessons41_to_50-079.mp3|Áhani jǒ:hlê:sdi.
+df3|mp3-selected/Lessons41_to_50-080.mp3|Di:da:náɂnv̋ widage:doli hle̋:ga.
+df3|mp3-selected/Lessons41_to_50-081.mp3|U:do:hiyű ù:di:hléhga.
+df3|mp3-selected/Lessons51_to_60-002.mp3|Gv̌:hnáge̋.
+df3|mp3-selected/Lessons51_to_60-003.mp3|Gv̌:hnáge̋ gi:hli à:gi:káha.
+df3|mp3-selected/Lessons51_to_60-004.mp3|Ganv:gwalő:sdi e:sgv́hsi.
+df3|mp3-selected/Lessons51_to_60-005.mp3|Wě:sa nigawè:sgv́ gà:tv:gí:ɂa.
+df3|mp3-selected/Lessons51_to_60-008.mp3|Goɂi.
+df3|mp3-selected/Lessons51_to_60-010.mp3|Gadō u:sdi à:gowhtí na gi:tli.
+df3|mp3-selected/Lessons51_to_60-011.mp3|Hila̋ ǐ:gó:hi̋:da a:tliɂilida?
+df3|mp3-selected/Lessons51_to_60-012.mp3|Digo:hwě:lò:di è:sgidisi.
+df3|mp3-selected/Lessons51_to_60-016.mp3|Te:lǐ:do.
+df3|mp3-selected/Lessons51_to_60-018.mp3|Ji:sdu ate:sda na gi:tli.
+df3|mp3-selected/Lessons51_to_60-020.mp3|Dihnawo dà:tě:sga.
+df3|mp3-selected/Lessons51_to_60-024.mp3|Talǔ:ja.
+df3|mp3-selected/Lessons51_to_60-026.mp3|Ǔ:tana yǒ:na ji:gò:wahtā.
+df3|mp3-selected/Lessons51_to_60-027.mp3|Tawǒ:di nigaweɂa.
+df3|mp3-selected/Lessons51_to_60-028.mp3|U:do:hiyű uwo:dű:hi hiɂa talǔ:ja.
+df3|mp3-selected/Lessons51_to_60-032.mp3|Gv:he.
+df3|mp3-selected/Lessons51_to_60-033.mp3|Gv:he anahliha gi:hli.
+df3|mp3-selected/Lessons51_to_60-034.mp3|Hè:sdi!
 df3|mp3-selected/Lessons51_to_60-035.mp3|hi-la-i-yv dv-he-do-li?
 df3|mp3-selected/Lessons51_to_60-040.mp3|wa-hu-hi
 df3|mp3-selected/Lessons51_to_60-042.mp3|wa-hu-hi ni-ga-we-s-gv ga-dv-gi-a.
