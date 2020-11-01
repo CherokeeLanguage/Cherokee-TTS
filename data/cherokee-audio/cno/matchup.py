@@ -195,5 +195,5 @@ if __name__ == "__main__":
             mp3=mp3_lookup[key].replace("https://data.cherokee.org/Cherokee/LexiconSoundFiles/", "")
             mco=ascii_ced2mco(pronounce)
             pced=ascii_ced2ced(pronounce)
-            print(f"{key}|{mco}|{mp3}|{pronounce}|{pced}",file=file)
+            print(f"{key}|{pced}|{mco}|{mp3}|",file=file)
         
