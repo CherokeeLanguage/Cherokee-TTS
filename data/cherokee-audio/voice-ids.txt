@@ -1,13 +1,13 @@
-01-chr|Durbin Feeling - Older|df
-02-chr|Sam Hider|sh
-03-chr|Betty Smith|bs
-04-chr|Michael Conrad|mc
-05-chr|Gregg Howard|gh
-06-chr|Wynema Smith|ws
-07-chr|Marie Junaluska|mj
-08-chr|Durbin Feeling - Younger|df2
+01-chr|Durbin Feeling - Montgomery-Anderson|df
+02-chr|Sam Hider - Introduction to Cherokee|sh
+03-chr|Betty Smith - Beginning Cherokee|bs
+04-chr|Michael Conrad - Cherokee Language Lessons 1|mc
+05-chr|Gregg Howard - Cherokee Language Coach|gh
+06-chr|Wynema Smith - Cherokee Parenting Phrases|ws
+07-chr|Marie Junaluska - Eastern Cherokee Sampler|mj
+08-chr|Durbin Feeling - Cherokee Language Coach|df2
 09-chr|Durbin Feeling - See Say Write|df3
-cno-spk_0|Anonymous CNO speaker #1|spk_0
-cno-spk_1|Anonymous CNO speaker #2|spk_1
-cno-spk_2|Anonymous CNO speaker #3|spk_2
-cno-spk_3|Anonymous CNO speaker #4|spk_3
+cno-spk_0|Anonymous CNO speaker #1|cno-spk_0
+cno-spk_1|Anonymous CNO speaker #2|cno-spk_1
+cno-spk_2|Anonymous CNO speaker #3|cno-spk_2
+cno-spk_3|Anonymous CNO speaker #4|cno-spk_3
