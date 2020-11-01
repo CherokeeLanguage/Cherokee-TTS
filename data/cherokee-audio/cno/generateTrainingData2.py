@@ -16,7 +16,7 @@ if __name__ == "__main__":
     if (sys.argv[0].strip()!=""):
         os.chdir(os.path.dirname(sys.argv[0]))
     
-    MASTER_TEXTS:list=["coach-1-selected.txt"]
+    MASTER_TEXTS:list=["cno-training-data.txt"]
     
     #cleanup any previous runs
     for dir in ["linear_spectrograms", "spectrograms", "wav"]:
