@@ -12,7 +12,7 @@ CHECKPOINTS_FOLDER = GIT_FOLDER + "/_checkpoints"
 if not os.path.isdir(CHECKPOINTS_FOLDER):
     os.mkdir(CHECKPOINTS_FOLDER)
 
-TACOTRON_FOLDER = GIT_FOLDER + "/Multilingual_Text_to_Speech"
+TACOTRON_FOLDER = GIT_FOLDER + "/Cherokee-TTS"
 CHR_FOLDER = TACOTRON_FOLDER+"/data/tests/bragging-hunter"
 
 wavernn_chpt = "wavernn_weight.pyt"

@@ -126,7 +126,7 @@ def evaluate(epoch, data, model, criterion):
 
     # loop through epoch batches
     with torch.no_grad():  
-        for i, batch in enumerate(data):
+        for _, batch in enumerate(data):
 
             # parse batch
             batch = list(map(to_gpu, batch))
@@ -194,7 +194,6 @@ class DataParallelPassthrough(torch.nn.DataParallel):
 if __name__ == '__main__':
     import argparse
     import os
-    import re
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--base_directory", type=str, default=".", help="Base directory of the project.")
@@ -208,6 +207,7 @@ if __name__ == '__main__':
     parser.add_argument('--loader_workers', type=int, default=2, help="Number of subprocesses to use for data loading.")
     parser.add_argument("--accumulation_size", type=int, default=1, help="How many batches to perform gradient accumulation over.")
     parser.add_argument('--fine_tuning', action='store_true', help="Fine tune checkpoint to possibly unseen language.")
+    parser.add_argument('--log_high_loss', action='store_true', help="Log batch details for high loss values.")
     args = parser.parse_args()
 
     # set up seeds and the target torch device

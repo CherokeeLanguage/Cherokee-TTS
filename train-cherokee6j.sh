@@ -9,7 +9,7 @@ cp="cherokee6i-192-0.216"
 cd "$(dirname "$0")"
 WORK="$(pwd)"
 
-cp -v data/"$params"/checkpoint/"$cp" checkpoints/
+#cp -v data/"$params"/checkpoint/"$cp" checkpoints/
 
 cd data
 python prepare_spectrograms.py --directory "$params"

@@ -21,7 +21,7 @@ source ~/miniconda3/etc/profile.d/conda.sh
 
 conda activate ./env
 
-cp="$(ls -1tr checkpoints/*CHEROKEE*|tail -n 1)"
+cp="$(ls -1tr checkpoints/*|tail -n 1)"
 cp="$(basename "$cp")"
 
 printf "Using checkpoint: $cp\n"
@@ -32,13 +32,13 @@ cp /dev/null "$tmp"
 
 cp /dev/null "$z"/voices.txt
 
-wg="bc"
+wg="osiyo-then"
 for x in "$z"/"$wg"-[0-9][0-9]-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
 
-v=("01-chr" "02-chr" "03-chr" "04-chr" "05-chr")
+v=("09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"

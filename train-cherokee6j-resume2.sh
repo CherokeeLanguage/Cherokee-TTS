@@ -4,7 +4,7 @@ set -o pipefail
 clear
 
 params="cherokee6j"
-cp="cherokee6j_loss-36-0.332"
+cp="cherokee6j_loss-216-0.301"
 
 cd "$(dirname "$0")"
 WORK="$(pwd)"
