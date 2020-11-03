@@ -33,7 +33,7 @@ cp /dev/null "$tmp"
 cp /dev/null "$z"/voices.txt
 
 wg="osiyo-then"
-for x in "$z"/"$wg"-[0-9][0-9]-*; do
+for x in "$z"/"$wg"-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
