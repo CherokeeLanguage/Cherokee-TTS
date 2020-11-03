@@ -2,6 +2,7 @@
 ᎫᎴ|gu²le|gu:le|Acorn.mp3|
 ᏄᏛᏁᎸ|nu²dṿ²nẹ²lv²³|nu:dvnelv̌|Performed.mp3|
 ᎠᏛᏁᎵᏍᎩ|ạ²dv¹ne²³li⁴sgi|adv̀:ně:li̋:sgi|Wizard.mp3|
+ᎠᎴᏅᏗ|a²lẹ²nhdị|a:lenhdi|Commence.mp3|
 ᎠᏓᏫ|A²³dạ³wi|Ǎ:dáwi|Adam.mp3|
 ᎢᎾᏛ|i²³nạ³dv|ǐ:nádv|Snake.mp3|
 ᏚᏂᏰᎵᏒ|du¹ni²ye²li²sv²³|dù:ni:ye:li:sv̌|Adjourned.mp3|
@@ -65,7 +66,9 @@
 ᏔᎷᏣ|tạ²lu²³ja|talǔ:ja|Basket.mp3|
 ᎥᏓᎵ|v²dạ²li|v:dali|Pond.mp3|
 ᎤᏬᏚᎯ|ụ²wo²du⁴hi|uwo:dű:hi|Pretty.mp3|
+ᎤᏬᏚ|u²wo²dụ|u:wo:du|Beauty.mp3|
 ᏙᏯ|do²ya|do:ya|Beaver.mp3|
+ᎠᏓᏁᏟᏴᏍᏗ|a¹dạ²ne²³dli³yv¹sdị|à:daně:dlí:yv̀:sdi|Became.mp3|
 ᎦᏂᏟ|gạ²ni²hli|gani:hli|Bed.mp3|
 ᏅᏲᎯ|nv¹yo⁴hi|nv̀:yő:hi|Bedrock.mp3|
 ᏩᏚᎵᏏ|wa³du²li³si|wá:du:lí:si|Syrup.mp3|
@@ -83,12 +86,12 @@
 ᏗᎦᏓᏲᏍᏗ|dị²gạ²da²yọ²sdi|digada:yosdi|Billiard.mp3|
 ᏥᏍᏆ|ji³sgwa|jí:sgwa|Bird.mp3|
 ᎤᏕᏅ|ụ²de²nv|ude:nv|Born.mp3|
-ᎤᏙᏪᎸ|ụ²do²we²lṿ²|udo:we:lv̄|Mark.mp3|
+ᎤᏙᏪᎸ|ụ²do²we²lṿ|udo:we:lv|Mark.mp3|
 ᎬᎿᎨ|gv²³hnạ³ge⁴|gv̌:hnáge̋|Black.mp3|
 ᏗᎪᏪᎶᏗ|dị²go²hwe²³lo¹di|digo:hwě:lò:di|Typewriter.mp3|
 ᎦᎴᎩ|gạɂ²le¹gi|gaɂlè:gi|Blacksnake.mp3|
 ᎤᏁᎬᎭ|u²ne²gv²ha⁴|u:ne:gv:ha̋|Blanket.mp3|
-ᎠᏔᏍᎩᏍᎬ|ạ²tạ²sgi²sgṿ²|atasgi:sgv̄|Sap.mp3|
+ᎠᏔᏍᎩᏍᎬ|ạ²tạ²sgi²sgṿ|atasgi:sgv|Sap.mp3|
 ᎠᏓᏙᎵᏍᏗ|ạ²da²do²³li³²sdi|ada:dǒ:lî:sdi|Sympathize.mp3|
 ᎤᏦᏔᎲ|u¹jo³tạ²hv²³|ù:jó:tahv̌|Blew.mp3|
 ᏗᎨᏫ|di²ke⁴wi|di:ke̋:wi|Blind.mp3|
@@ -96,6 +99,7 @@
 ᏌᎪᏂᎨ|sạ²ko²nị²ge|sako:nige|Blue.mp3|
 ᏣᏉᎳᏕ|tsa²gwo²lde|tsa:gwo:lde|Bluebird.mp3|
 ᎪᏍᏗᏳᎵ|go²sdi¹yu⁴hli|go:sdì:yű:hli|Dull.mp3|
+ᎠᏕᎰᎯᏍᏗ|a¹de²ho²³hị³sdị|à:de:hǒ:hísdi|Shame.mp3|
 ᏥᏳ|ji²³yu|jǐ:yu|Yacht.mp3|
 ᎠᏰᎸ|ạ²ye²lv⁴|aye:lv̋|Body.mp3|
 ᎠᎵᏍᏚᎶ|al²sdu²lo|alsdu:lo|Crown.mp3|
@@ -119,12 +123,14 @@
 ᎧᏄᎦᎵ|kạ²nu²ga²li|kanu:ga:li|Briar.mp3|
 ᎠᏒᏢᎢ|a¹svh²dlv⁴ɂi|à:svhdlv̋:ɂi|Bridge.mp3|
 ᏧᏔᎾᎶ|tsu²tạ²na²lo|tsu:tana:lo|Bridle.mp3|
+ᏍᏆᎳᎢ|di²dị²sgwạ²la⁴ɂi|di:disgwala̋:ɂi|Short.mp3|
+ᎠᏲᎯᏍᏗ|a¹yọ³hị²sdị³|à:yóhisdí|Fetch.mp3|
 ᎩᎵᏏ|Gị²li²si|Gili:si|English.mp3|
 ᎠᏯᏖᎾ|ạ²yạ²te³na|ayaté:na|Wide.mp3|
 ᏧᎵᏍᏆᎵᏛ|jul³sgwạ²lị²dv|júlsgwalidv|Broke.mp3|
 ᎬᏃᏌᏍᏗ|gv²no²sạ³sdi|gv:no:sásdi|Sweep.mp3|
 ᏗᎾᏓᏅᏟ|di²nạ²da²hnv⁴hli|di:nada:hnv̋:hli|Stepbrother.mp3|
-ᏬᏗᎨ|wo²dị²ge²|wo:digē|Brown.mp3|
+ᏬᏗᎨ|wo²dị²ge|wo:dige|Brown.mp3|
 ᎠᏓᏁᎸ|a¹da²ne²³lv⁴|à:da:ně:lv̋|Given.mp3|
 ᎤᏁᏍᎨᎲ|u¹hne³sge²hv²³|ù:hné:sge:hv̌|Built.mp3|
 ᎦᏂ|gạɂ³ni|gáɂni|Lead.mp3|
@@ -133,7 +139,7 @@
 ᏗᏎᎯᏍᏗ|di¹se²³hị³sdi⁴|dì:sě:hísdi̋|Dresser.mp3|
 ᎦᏃᏍᎩᏍᎩ|gạ²no²sgi⁴sgi|gano:sgi̋:sgi|Burglar.mp3|
 ᏗᏓᏂᏐᏗ|di²da²ni²³soh³di⁴|di:da:nǐ:sóhdi̋|Burial.mp3|
-ᎦᏂᏌᎲ|gạ²ni²sạ²hv²|gani:sahv̄|Tomb.mp3|
+ᎦᏂᏌᎲ|gạ²ni²sạ²hv|gani:sahv|Tomb.mp3|
 ᏑᏟᎶᏛ|su²hli²lo⁴dv|su:hli:lő:dv|Yard.mp3|
 ᏗᎦᎸᏫᏍᏓᏁᏗ|dị²gạ²lv²hwị²sdạ²ndi|digalv:hwisdandi|Work.mp3|
 ᎪᏢᏅ|go²hlv²hnv⁴|go:hlv:hnv̋|Established.mp3|
@@ -143,18 +149,20 @@
 ᏑᎵ|su²li|su:li|Buzzard.mp3|
 ᎤᏯᏅᎲ|u¹hyạ²nv²hv²³|ù:hyanv:hv̌|Called.mp3|
 ᎨᎻᎵ|ke²³mị³li|kě:míli|Camel.mp3|
+ᎠᎴᏫᏍᏙᏗ|a¹le²hwị²sdoh³dị³|à:le:hwisdóhdí|Stop.mp3|
 ᎠᏎᏒᏓ|a¹se²³sv⁴da|à:sě:sv̋:da|Drawn.mp3|
 ᎠᏓᏰᏍᎩ|ạ²da²hye⁴sgi|ada:hye̋:sgi|Leprosy.mp3|
 ᎤᎵᏬᏨᎯ|ụ²lị²wo²tsṿ²hi|uliwo:tsvhi|Carcass.mp3|
 ᎨᏯᏔᎯ|ge³hyah²tạ²hi|gé:hyahtahi|Wild.mp3|
 ᏗᏁᏍᎨᏍᎩ|di²hne¹sge⁴sgi|di:hnè:sge̋:sgi|Carpenter.mp3|
+ᎠᏫᏗ|a¹hwi²di³|à:hwi:dí|Carries.mp3|
 ᎠᏕᎸ|ạ³de²lv⁴|áde:lv̋|Cash.mp3|
 ᏪᏌ|we²³sa|wě:sa|Cat.mp3|
 ᏧᎵᏍᏓᎾᎵ|ju²li¹sdạ²na²li|ju:lì:sdana:li|Catfish.mp3|
 ᏩᎦ|wah²ga|wahga|Cow.mp3|
 ᎤᏍᏓᎦᎸ|u¹sda³²gạ²lv⁴|ù:sdâ:galv̋|Cavern.mp3|
 ᎠᏥᎾ|ạ²jị²na|ajina|Cedar.mp3|
-ᎤᎾᏕᏘᏱᏍᎬ|ụ²nạ²de²tị²yị²sgv²|unade:tiyisgv̄|Holiday.mp3|
+ᎤᎾᏕᏘᏱᏍᎬ|ụ²nạ²de²tị²yị²sgv|unade:tiyisgv|Holiday.mp3|
 ᎢᏯᏓᏅᏖᏗ|ị²yạ³danh³teh³di|iyádánhtéhdi|Cent.mp3|
 ᎤᏙᎯᏳ|u²do²hị²yu⁴|u:do:hiyű|Very.mp3|
 ᎤᎾᏓᏕᏒᏓ|u²nạ²da²de¹sv⁴da|u:nada:dè:sv̋:da|Chain.mp3|
@@ -163,6 +171,8 @@
 ᏗᎦᏍᎩᎶ|dị²ga²sgị²lo|diga:sgilo|Tables.mp3|
 ᎤᏂᏴᏍᏗ|u²nị³hyṿ²sdi|u:níhyvsdi|Chamber.mp3|
 ᏧᎾᏍᏗ|jun²sdi|junsdi|Change.mp3|
+ᏓᎬᏩᎶᏗ|da¹gv²wahl²dị³|dà:gv:wahldí|Charge.mp3|
+ᎠᎵᏃᎮᏗ|a²hlị²nọ²hẹ³hdị|a:hlinohéhdi|Confer.mp3|
 ᏥᏔᎦ|jị²ta²³ga|jitǎ:ga|Chicken.mp3|
 ᎤᎬᏫᏳᎯ|u²gv²wị²yu²hi|u:gv:wiyu:hi|President.mp3|
 ᎠᏲᎵ|ạ²yo²hli|ayo:hli|Young.mp3|
@@ -185,7 +195,10 @@
 ᏚᏓᏅᏅ|du¹dạ²nv²hnv⁴|dù:danv:hnv̋|Columns.mp3|
 ᎠᎵᏔᏬᏍᏗ|ahl²tạ²wo³sdi|ahltawó:sdi|Comb.mp3|
 ᎧᏁᎢᏍᏗᎭ|kạ²ne³ɂị²sdị³ha|kané:ɂisdíha|Comments.mp3|
+ᎪᏪᎶᏗ|di²dị²go²hwe²³lo¹di|di:digo:hwě:lò:di|Write.mp3|
+ᎤᏬᎯᏳ|u¹wo²hị²yụ³|ù:wo:hiyú|Faithful.mp3|
 ᏂᎪᎯᎸ|nị²go²³hi³lv⁴|nigǒ:hí:lv̋|Permanent.mp3|
+ᎠᏓᏅᏖ|a¹danh²tẹ³|à:danhté|Contemplate.mp3|
 ᎠᏓᎪᎾᏙᏗ|ạ²dạ²go²nạ²do²di|adago:nado:di|Contest.mp3|
 ᎪᎯᏳᏗ|go²hiyh²di|go:hiyhdi|Proves.mp3|
 ᏎᎷ|se²³lu|sě:lu|Maize.mp3|
@@ -204,6 +217,8 @@
 ᎠᏲᎱᎯᏍᏗ|ạ²yo²hu²hị²sdi|ayo:hu:hisdi|Die.mp3|
 ᎥᏍᎩᏱ|V²³sgị³hyi|V̌:sgíhyi|December.mp3|
 ᏚᏭᎪᏔᏅ|du¹wu²ktạ³nv³|dù:wu:ktánv́|Decided.mp3|
+ᎧᏁᎢᏍᏗ|kạ²ne³ɂị²sdị³|kané:ɂisdí|Utter.mp3|
+ᎠᏓᏯᏍᏗ|a¹da²hya³²sdị|à:da:hyâ:sdi|Refuse.mp3|
 ᎤᎵᏍᏕᎸᏗ|ul²sdehl²di|ulsdehldi|Defense.mp3|
 ᏩᏂᎨ|wạ²nị³ge⁴|waníge̋|Mush.mp3|
 ᎤᎦᎾᏍᏛ|u²gạ²na⁴sdv|u:gana̋:sdv|Sweet.mp3|
@@ -221,6 +236,7 @@
 ᏗᏖᎵᏙ|di²te²li²³do|di:te:lǐ:do|Plates.mp3|
 ᎦᎾᎦᏘ|gạ²ɂnạ²kdi|gaɂnakdi|Surgeon.mp3|
 ᎠᏂᎦᎾᎦᏘ|ạ²ni²gạɂ³nạ²kti|ani:gáɂnakti|Doctors.mp3|
+ᎾᏛᏁ|na²dṿ²ne|na:dvne|Does.mp3|
 ᎩᏟ|gi²hli|gi:hli|Dog.mp3|
 ᎤᏃᏍᏓ|u²hno⁴sda|u:hnő:sda|Dollar.mp3|
 ᏗᏍᏚᏗ|di²sdu¹di|di:sdù:di|Doors.mp3|
@@ -239,7 +255,7 @@
 ᎢᎬᏱ|ị²gv²³yi|igv̌:yi|First.mp3|
 ᏗᎦᎴᏂ|dị²gạɂ²le⁴ni|digaɂle̋:ni|Ears.mp3|
 ᎡᎶᎯ|e²lọ²hi|e:lohi|World.mp3|
-ᎧᎸᎬ|ka²lṿ²gv²|ka:lvgv̄|Sunrise.mp3|
+ᎧᎸᎬ|ka²lṿ²gv|ka:lvgv|Sunrise.mp3|
 ᎬᎩᏍᏗ|gv²gi¹sdi|gv:gì:sdi|Watermelon.mp3|
 ᎤᏂᎩᏍᏗ|u²³hnị³gi¹sdi|ǔ:hnígì:sdi|Eats.mp3|
 ᎠᏍᏛᎢ|ạ²sdv²ɂi|asdv:ɂi|Edge.mp3|
@@ -258,6 +274,7 @@
 ᎠᏐᏴᎢ|a¹so²³hyv⁴ɂi|à:sǒ:hyv̋:ɂi|Enclosure.mp3|
 ᏗᏠᎯᏍᏗ|di²dlo²hị²sdi⁴|di:dlo:hisdi̋|Meet.mp3|
 ᎤᎵᏍᏛ|u²hlị²sdv|u:hlisdv|End.mp3|
+ᎠᏴᏍᏗ|ạ²yv²sdi|ayv:sdi|Entry.mp3|
 ᎠᏴᏍᏙᏗ|ạ¹yv²sdoh³di⁴|àyv:sdóhdi̋|Ticket.mp3|
 ᎤᎵᏍᎨᏛ|ul²sge⁴dv|ulsge̋:dv|Important.mp3|
 ᎦᎸᏉᏗ|gạ²lṿ²kwdi|galvkwdi|Sacred.mp3|
@@ -266,6 +283,7 @@
 ᏒᎯᏰᏱ|sv²hị²ye⁴yi|sv:hiye̋:yi|Evening.mp3|
 ᎤᏍᎦᏎᏗ|ụ²sgạ²se²d|usgase:d|Exciting.mp3|
 ᎤᎵᏍᏆᏛ|ul¹sgwạ³dv²³|ùlsgwádv̌|Expired.mp3|
+ᏕᎪᏏᏏ|de²go³²si²sị³|de:gô:si:sí|Explains.mp3|
 ᎧᏁᏉᏛ|kạ²ne²gwo²dv|kane:gwo:dv|Extended.mp3|
 ᏗᎾᏕᏲᎲᏍᎩ|di²nạ²de²hyo²³hṿ²sgi|di:nade:hyǒ:hvsgi|Teachers.mp3|
 ᎤᏄᎸᏅ|u²nu³lṿ²ɂhnv²³|u:nú:lvɂhnv̌|Fail.mp3|
@@ -294,6 +312,7 @@
 ᎤᎵᏘᏒ|u¹lị²ti³sv²³|ù:lití:sv̌|Fled.mp3|
 ᎤᎳᏫᏛᎲ|u²hlạ²wi³dṿ²hv²³|u:hlawí:dvhv̌|Flew.mp3|
 ᏓᏫᏍᎦᎳ|dạ²wi²³sgạ³la|dawǐ:sgála|Flint.mp3|
+ᎠᏗᏅᏗ|a¹di²³nv³²dị|à:dǐ:nv̂:di|Pitch.mp3|
 ᎠᏂᏥᎸᏍᎩ|ạ²ni²ji²lv⁴sgi|ani:ji:lv̋:sgi|Roses.mp3|
 ᎠᏥᎸᏍᎩ|ạ²ji²lv⁴sgi|aji:lv̋:sgi|Rose.mp3|
 ᎤᎬᎭᏛ|u¹kṿ²hạ²dv²³|ù:kvhadv̌|Fog.mp3|
@@ -315,6 +334,7 @@
 ᎢᏳᏓᎵ|ị²yu³da⁴li|iyú:da̋:li|Frequent.mp3|
 ᎢᏤᎢ|ị²je⁴ɂi|ije̋:ɂi|Fresh.mp3|
 ᏩᎶᏏ|wạ²lo³si|waló:si|Toad.mp3|
+ᎤᏓᏁᎪᏳ|u¹dạ²ne³go²yu³|ù:dané:go:yú|Frown.mp3|
 ᎤᏁᏍᏓᎳ|u²ne²³sdạ³la|u:ně:sdála|Ice.mp3|
 ᎠᏟᎶᏍᏗ|ạ²hli²lo⁴sdi|ahli:lő:sdi|Measure.mp3|
 ᎤᏁᏉᎢᏍᏗ|u²hneh²gwọ²ɂị³sdi|u:hnehgwoɂísdi|Gain.mp3|
@@ -333,7 +353,6 @@
 ᎤᏁᎳᏅᎯ|ụ²ne²hlạ²nv²hi|une:hlanv:hi|Lord.mp3|
 ᎡᎪᎢ|e³go³ɂi|é:gó:ɂi|Goes.mp3|
 ᎤᏂᎩᏒ|u¹hnị²gi³²sv²³|ù:hnigî:sv̌|Sailed.mp3|
-ᎣᏍᏛ|o⁴sdv|ő:sdv|Nice.mp3|
 ᏌᏌ|sa²sa|sa:sa|Swan.mp3|
 ᎤᏚᏚ|u²du¹du|u:dù:du|Grandfather.mp3|
 ᎤᎵᏏ|u²li³si|u:lí:si|Grandmother.mp3|
@@ -360,6 +379,7 @@
 ᎤᎲᎢ|u¹hv²³ɂi|ù:hv̌:ɂi|Having.mp3|
 ᏔᏬᏗ|tạ²wo²³di|tawǒ:di|Hawk.mp3|
 ᎠᏍᎪᎵ|ạ²sko⁴li|askő:li|Head.mp3|
+ᎠᏛᎩ|a¹tv²gi³|à:tv:gí|Hear.mp3|
 ᎠᏓᏅᏙ|ạ²danh²do|adanhdo|Spirit.mp3|
 ᎠᏁᏯᏔᎯ|ạ²ne³hyah²tạ²hi|ané:hyahtahi|Heathen.mp3|
 ᎦᎨᏛ|ga²ge⁴dv|ga:ge̋:dv|Heavy.mp3|
@@ -387,6 +407,7 @@
 ᎫᏩᏯ|kụ²wa²ya|kuwa:ya|Huckleberry.mp3|
 ᏴᏫ|yv²wi|yv:wi|People.mp3|
 ᎤᏬᏘᏒ|u¹wo²tị²sv²³|ù:wo:tisv̌|Hunch.mp3|
+ᎤᏲᏏ|u¹yo³sị|ù:yó:si|Hungry.mp3|
 ᎦᏃᎭᎵᏙᎯ|gạ²no²hạ²li²do⁴hi|gano:hali:dő:hi|Hunter.mp3|
 ᎤᏠᎾᏍᏗ|u²dlo²³na¹sdi|u:dlǒ:nà:sdi|Rascal.mp3|
 ᎠᏴ|ạ²yv|ayv|Me.mp3|
@@ -401,7 +422,7 @@
 ᏧᎸᏫᏍᏓᏁᏗ|ju²lv²³hwị³sda¹neh²di|ju:lv̌:hwísdà:nehdi|Job.mp3|
 ᏗᎫᎪᏗᏍᎩ|dị²gu²kdi⁴sgi|digu:kdi̋:sgi|Judge.mp3|
 ᏗᏄᎪᏗᏍᎩ|di²nu²kdi⁴sgi|di:nu:kdi̋:sgi|Judges.mp3|
-ᎦᏁᎲ|gạ²nẹ²hv²|ganehv̄|Pool.mp3|
+ᎦᏁᎲ|gạ²nẹ²hv|ganehv|Pool.mp3|
 ᎫᏰᏉᏂ|gụ²yẹ²gwo²ni|guyegwo:ni|July.mp3|
 ᏚᎵᏔᏗᏅᏒ|duhl¹tạ²di²³nv³²sv²³|dùhltadǐ:nv̂:sv̌|Jumped.mp3|
 ᏗᎵᏔᏕᎩ|dihl²tạ²de⁴gi|dihltade̋:gi|Jumper.mp3|
@@ -431,6 +452,7 @@
 ᎤᎸᏉᏗ|u¹lv²³kwdi|ù:lv̌:kwdi|Likes.mp3|
 ᏢᏓᏥ|hlv²dạ²ji|hlv:daji|Tiger.mp3|
 ᎤᏪᎳ|ụ²we²la|uwe:la|Liver.mp3|
+ᎠᎧᎵᎢ|ạ²kạ²li²ɂị|akali:ɂi|Load.mp3|
 ᏓᎦᏏ|da²gsi|da:gsi|Terrapin.mp3|
 ᎥᎴ|v²le|v:le|Locust.mp3|
 ᎦᏅᎯᏓ|gạ²nv²hi⁴da|ganv:hi̋:da|Long.mp3|
@@ -452,6 +474,7 @@
 ᎦᎸᎳᏗᎨ|gạ²lv²³lạ³dị²ge⁴|galv̌:ládige̋|Maximum.mp3|
 ᎤᏪᏴᎢ|u¹we³yv⁴ɂi|ù:wé:yv̋:ɂi|Stream.mp3|
 ᎭᏫᏯ|hạ²wi²ya|hawi:ya|Meat.mp3|
+ᎠᏕᏯᏙᏗ|a²de²hyto²hdị|a:de:hyto:hdi|Meddle.mp3|
 ᏅᏬᏘ|nv²wo³²ti|nv:wô:ti|Medicine.mp3|
 ᏓᎾᏠᏍᎦ|da¹nạ²dlo²sga|dà:nadlo:sga|Meetings.mp3|
 ᎦᏩᏒᎩ|gaw²sv¹gi|gawsv̀:gi|Odor.mp3|
@@ -477,6 +500,7 @@
 ᎣᏓᎸ|o¹dạ²lv⁴|ò:dalv̋|Mountain.mp3|
 ᏙᏓᎸ|do¹dạ²lv⁴|dò:dalv̋|Mountains.mp3|
 ᎠᎰᎵ|ạ²ho⁴li|ahő:li|Mouth.mp3|
+ᎠᏓᏅ|a¹dạɂ³nv|à:dáɂnv|Moving.mp3|
 ᎤᏣᏘ|u²³jạ²ti|ǔ:jati|Much.mp3|
 ᎫᏩ|kụ²wa|kuwa|Mulberry.mp3|
 ᏓᏬᎵ|dạ²wo³li|dawó:li|Mushroom.mp3|
@@ -492,6 +516,7 @@
 ᎤᏕᎶᎰᏒ|u¹de²lọ²ho²sv²³|ù:de:loho:sv̌|Noticed.mp3|
 ᏚᏙᎥᎢ|du¹do³ɂv²³ɂi|dù:dó:ɂv̌:ɂi|Noun.mp3|
 ᏅᏓᏕᏆ|Nv²dạ²de²³gwa|Nv:dadě:gwa|November.mp3|
+ᏎᏍᏗ|di²di²sẹ³sdi|di:di:sésdi|Number.mp3|
 ᏐᎯ|sọ²hi|sohi|Nut.mp3|
 ᏧᏍᎦ|tsu²sgạ|tsu:sga|Oak.mp3|
 ᏓᎦᏘᎴᎦ|da¹kti²³le³²ga|dà:ktǐ:lê:ga|Objects.mp3|
@@ -499,6 +524,7 @@
 ᎪᎢᎭ|gọ²ɂi²ha⁴|goɂi:ha̋|Oily.mp3|
 ᎠᎦᏴᎵ|ạ²gạ²yv⁴li|agayv̋:li|Thousand.mp3|
 ᏌᏊ|sa¹gwu⁴|sà:gwű|One.mp3|
+ᎠᏂᏏᏴᏫ|ạ²ni²sị²yv²wi|ani:siyv:wi|One's.mp3|
 ᏚᎦᏘᎸᏒ|du¹kti²³lv³²sv²³|dù:ktǐ:lv̂:sv̌|Opposed.mp3|
 ᎠᏂᏆᏌᏏ|ạ²ni²kwa²sa²si|ani:kwa:sa:si|Osage.mp3|
 ᏥᏯ|tsị²yɂa|tsiyɂa|Otter.mp3|
@@ -523,7 +549,7 @@
 ᏃᏥ|noh²ji|nohji|Pine.mp3|
 ᎠᏖᎵᏙ|ạte²li²³do|ate:lǐ:do|Plate.mp3|
 ᎦᏓᎷᎪᏗ|ga²dạ²lu³go¹di|ga:dalú:gò:di|Plow.mp3|
-ᏆᏄᎾᏍᏗ|kwạ²nun³sdị²|kwanúnsdī|Plum.mp3|
+ᏆᏄᎾᏍᏗ|kwạ²nun³sdị|kwanúnsdi|Plum.mp3|
 ᎠᏜᏩᏛ|a²dlạwạɂ³dv⁴|a:dlawáɂdv̋|Pocket.mp3|
 ᏓᏜᏩᏛ|da¹dla²³wạɂ³dv⁴|dà:dlǎ:wáɂdv̋|Pockets.mp3|
 ᎪᏍᏓᏱ|go²³sda¹yi|gǒ:sdà:yi|Point.mp3|
@@ -531,9 +557,11 @@
 ᎠᎾᏔᏍᎩᏍᎩ|anh²tạ²sgi¹sgi|anhtasgì:sgi|Popcorn.mp3|
 ᏗᎾᏓᏂᏱᏍᎩ|di²nạ²da²ni²³yi⁴sgi|di:nada:nǐ:yi̋:sgi|Posse.mp3|
 ᎪᏪᎵᏗᎦᏂᏙᎯ|go²hwe²lị²di²ga²hnị²do²hi|go:hwe:lidi:ga:hnido:hi|Postman.mp3|
+ᏓᏪᎳᎩᏍᎩ|di²di²dạ²we²³lạ²gi¹sgi|di:di:dawě:lagì:sgi|Powder.mp3|
 ᎠᏓᏁᎭ|a²da²hne²ha|a:da:hne:ha|Presents.mp3|
 ᎤᏂᎬᏫᏳᎯ|u²ni²gv²wị²yu²hi|u:ni:gv:wiyu:hi|Presidents.mp3|
 ᎠᎯᎸᏍᏗ|ạ²hịɂ²lv¹sdi⁴|ahiɂlv̀:sdi̋|Procession.mp3|
+ᎠᏛᎯᏍᏗ|a¹tṿ²hị²sdị³|à:tvhisdí|Produces.mp3|
 ᎤᎾᏌᏁᏒ|un¹sạ²ne³sv²³|ùnsané:sv̌|Pulled.mp3|
 ᏗᏕᎶᏆᏍᎩ|di²dẹ²lo²gwa²sgi|di:delo:gwa:sgi|Scholar.mp3|
 ᎫᏇ|gu²hgwe|gu:hgwe|Quail.mp3|
@@ -547,15 +575,19 @@
 ᎠᎦᏍᎩ|a²gạ²sgi|a:gasgi|Shower.mp3|
 ᎤᏦᎾᏗ|u²tso²nạ²di|u:tso:nadi|Rattlesnake.mp3|
 ᎠᎵᏍᏙᏯᏙᏗ|a²lsdo²hydo²hdi|a:lsdo:hydo:hdi|Razor.mp3|
+ᎪᏪᎵᏍᎩ|di²dị²go²hwe²li²sgi|di:digo:hwe:li:sgi|Writer.mp3|
 ᎩᎦᎨ|gi²³gạ³ge|gǐ:gáge|Red.mp3|
 ᎤᏓᏱᎸ|u¹dạ²hyị²lv²³|ù:dahyilv̌|Refused.mp3|
 ᎤᏂᏴᏜ|U²ni²hyv⁴dla|U:ni:hyv̋:dla|Republicans.mp3|
 ᎦᏁᎳ|gạ²ne²³la|ganě:la|Resident.mp3|
 ᏧᎾᎵᏍᏓᏴᏗ|ju¹nal¹sdayh¹di⁴|jù:nàlsdàyhdi̋|Restaurant.mp3|
+ᎠᏏᏅᏍᏗ|a²sị³nhṿ²sdị|a:sínhvsdi|Retreat.mp3|
 ᎢᎦᎷᎦ|i²³gạɂ³luh²ga|ǐ:gáɂluhga|Returns.mp3|
 ᎠᏞᎢᏍᏗ|ạ²dle¹ɂị³sdi|adlè:ɂísdi|Revenge.mp3|
 ᎠᏕᏲᎲ|a¹de³yọ²hv⁴|à:dé:yohv̋|Revolution.mp3|
+ᎦᏄᎳᏥ|di²dị²gạ²nu²lạ²ji|di:diganu:laji|Rib.mp3|
 ᎠᏇᎷᏍᏗ|ạ²gwe²hlu²sdi|agwe:hlu:sdi|Ribbon.mp3|
+ᎠᎩᎸᏗ|a¹kị²lv³²dị|à:kilv̂:di|Ride.mp3|
 ᎠᎩᎸᎥᏍᎦ|ạ²kị²ɂlṿ²ɂv²sga|akiɂlvɂv:sga|Rides.mp3|
 ᎤᎵᏌᎳᏙᏗ|ul²sạ²lạ²do¹di|ulsaladò:di|Rise.mp3|
 ᎤᏪᏴ|u¹we³yv⁴|ù:wé:yv̋|River.mp3|
@@ -582,9 +614,11 @@
 ᎠᏗᎭ|a¹dị²ha|à:diha|Says.mp3|
 ᎤᏁᎸᏒ|ụ²ne²lv²sv|une:lv:sv|Scar.mp3|
 ᎤᏍᏆᏗᏍᏗ|u²sgwạ²di¹sdi|u:sgwadì:sdi|Score.mp3|
+ᎦᏗ|gạ²di³|gadí|Stool.mp3|
 ᏔᎵᏁ|Tạɂ²li²ne⁴|Taɂli:ne̋|Second.mp3|
 ᏗᎪᏪᎵᏍᎩ|dị²go²hwe²li²sgi|digo:hwe:li:sgi|Secretary.mp3|
 ᎤᎪᎲᎢ|u¹go²hv²³ɂi|ù:go:hv̌:ɂi|Seeking.mp3|
+ᎠᎪᏩᏘ|a¹gowh²tị³|à:gowhtí|Sees.mp3|
 ᎠᎦᏯᎷᏗ|ạ²ga²yạ²lu³di|aga:yalú:di|Seine.mp3|
 ᎤᏓᏅᏖᏗ|u²danh²teh²di|u:danhtehdi|Worries.mp3|
 ᏚᎵᏍᏗ|Du²li¹sdi|Du:lì:sdi|September.mp3|
@@ -600,6 +634,7 @@
 ᎠᎳᏑᎶ|ạ²la¹su²³lo|alà:sǔ:lo|Shoe.mp3|
 ᏗᎳᏑᎶ|di²la¹su²³lo|di:là:sǔ:lo|Shoes.mp3|
 ᎦᏅᏬᎢ|gạ²nv²wo⁴ɂi|ganv:wő:ɂi|Shoulder.mp3|
+ᎪᏕᏍᏗ|di²di²ko²³de⁴sdi|di:di:kǒ:de̋:sdi|Spade.mp3|
 ᏗᏍᏆᎨᏂ|di²sgwạ²ge⁴ni|di:sgwage̋:ni|Sides.mp3|
 ᎠᏍᎦᏂ|ạ²sgạ²hni|asgahni|Sin.mp3|
 ᎧᏃᎩᏍᏗ|kạ²no²gi²sdi|kano:gi:sdi|Song.mp3|
@@ -611,7 +646,7 @@
 ᏂᎬᎢ|nị²kv⁴ɂi|nikv̋:ɂi|Size.mp3|
 ᏩᎾ|wa²na|wa:na|Slack.mp3|
 ᏗᏓᎾᏏᏁᎩ|dị²da²nsị²ne²gi|dida:nsine:gi|Sled.mp3|
-ᎪᏯᏛ|go²hyạ²dṿ²|go:hyadv̄|Wing.mp3|
+ᎪᏯᏛ|go²hyạ²dṿ|go:hyadv|Wing.mp3|
 ᎦᎸᏙᎵ|gạ²lv²do²hli|galv:do:hli|Slim.mp3|
 ᎤᏢᏓᎸᏓ|u²dlv²dạ²lv⁴da|u:dlv:dalv̋:da|Snag.mp3|
 ᏚᏴᏍᏙᏴ|du¹hyv²³sdo³²hyv²³|dù:hyv̌:sdô:hyv̌|Sneeze.mp3|
@@ -631,8 +666,10 @@
 ᎤᏁᏨ|u¹hne³jv²³|ù:hné:jv̌|Spoke.mp3|
 ᎠᏗᏙᏗ|ạ²di²toh³di|adi:tóhdi|Spoon.mp3|
 ᏌᎶᎵ|sạ²lo²³li|salǒ:li|Squirrel.mp3|
+ᎦᏘᏍᏗ|di²dị²ga²tị³sdi|di:diga:tísdi|Stab.mp3|
 ᎠᏂᏙᎾᎥ|a¹ni²do³²nạ²ɂv²³|à:ni:dô:naɂv̌|Standing.mp3|
 ᏃᏈᏏ|nọ²kwsi|nokwsi|Star.mp3|
+ᎠᏂᎩᏍᏗ|a¹hnị²gi³²sdị|à:hnigî:sdi|Starts.mp3|
 ᎤᏂᎩᏍᏔᏅ|u¹hnị²gi³²stạ²nv²³|ù:hnigî:stanv̌|Started.mp3|
 ᎧᏃᎮᎭ|kạ²no²hẹ³ha|kano:héha|States.mp3|
 ᎠᏓᏨᏯᏍᎩ|ạ²da²jvy⁴sgi|ada:jv̋ysgi|Sting.mp3|
@@ -663,6 +700,7 @@
 ᏍᎪᎯᏁ|sgo²hi²ne⁴|sgo:hi:ne̋|Tenth.mp3|
 ᎤᎭᎨᏛ|ụ²hạ²ge²dv|uhage:dv|Thick.mp3|
 ᏌᎷᏱ|sạ²lu²yi|salu:yi|Thicket.mp3|
+ᏌᎨᎢ|di²di²sạ³ge⁴ɂi|di:di:ságe̋:ɂi|Thin.mp3|
 ᎢᏳᏍᏗ|ị²yu⁴sdi|iyű:sdi|Thing.mp3|
 ᏦᎢᏁ|Jọ²ɂi²nẹ⁴|Joɂi:ne̋|Third.mp3|
 ᏦᎦᏚ|tsọ²gạ²dụ|tsogadu|Thirteen.mp3|
@@ -673,6 +711,7 @@
 ᎠᎵᎮᎵᎪᎢ|a¹li²he²³li³²go³ɂi|à:li:hě:lî:gó:ɂi|Thrilling.mp3|
 ᎠᏴᏤᏂ|ạ²hyvh²je⁴ni|ahyvhje̋:ni|Throat.mp3|
 ᏗᏓᎯᎯ|di²da³hị²hi|di:dá:hihi|Thug.mp3|
+ᎠᏙᎯ|ạ²to²hị³|ato:hí|Woods.mp3|
 ᎧᎾᏌᏛ|kạ²na³²sạɂ²dv⁴|kanâ:saɂdv̋|Toe.mp3|
 ᎢᏧᎳ|i²³ju³la|ǐ:jú:la|We.mp3|
 ᎦᏅᏙᎬ|ganh²doh³gv⁴|ganhdóhgv̋|Tooth.mp3|
@@ -710,6 +749,7 @@
 ᎤᏪᏅᏒ|u¹we²nv³sv²³|ù:we:nv́:sv̌|Went.mp3|
 ᎤᏠᏱᎸ|u¹dlo²hyị³lv²³|ù:dlo:hyílv̌|Wept.mp3|
 ᎤᏣᎴᏍᏗ|u²jạ²le⁴sdi|u:jale̋:sdi|Wheat.mp3|
+ᎬᏢᏗ|di²dị²kdlvh³di|di:dikdlv́hdi|Whet.mp3|
 ᏫᏍᎩ|hwi²sgi|hwi:sgi|Whiskey.mp3|
 ᎦᎪ|ga³go²|gá:gō|Who.mp3|
 ᎤᏍᏓᏴᎲᏍᎩ|u²sda¹yṿ²³hv²sgi|u:sdà:yv̌hv:sgi|Wife.mp3|
@@ -718,6 +758,7 @@
 ᏩᏯ|wạ²hya|wahya|Wolf.mp3|
 ᎠᏂᏩᏯ|ạ²ni²hwạ²ya|ani:hwaya|Wolves.mp3|
 ᎠᏂᎨᏯ|ạ²ni²ge²³hya|ani:gě:hya|Women.mp3|
+ᎠᏁᏍᏗ|a²hne²sdị|a:hne:sdi|Wrestle.mp3|
 ᎤᏬᏪᎳᏅ|u¹wo²hwe²³la³²nv²³|ù:wo:hwě:lâ:nv̌|Wrote.mp3|
 ᏑᏕᏘᏴᏓ|su²de²tị²yv⁴da|su:de:tiyv̋:da|Year.mp3|
 ᏓᎶᏂᎨ|dạ²lo²nị²ge|dalo:nige|Yellow.mp3|

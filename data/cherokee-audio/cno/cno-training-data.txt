@@ -2,6 +2,7 @@ cno-spk_0|cno_cwl/About.mp3|gv:wa:tú:hwidv
 cno-spk_0|cno_cwl/Acorn.mp3|gu:le
 cno-spk_1|cno_cwl/Performed.mp3|nu:dvnelv̌
 cno-spk_0|cno_cwl/Wizard.mp3|adv̀:ně:li̋:sgi
+cno-spk_0|cno_cwl/Commence.mp3|a:lenhdi
 cno-spk_0|cno_cwl/Adam.mp3|Ǎ:dáwi
 cno-spk_0|cno_cwl/Snake.mp3|ǐ:nádv
 cno-spk_0|cno_cwl/Adjourned.mp3|dù:ni:ye:li:sv̌
@@ -65,7 +66,9 @@ cno-spk_0|cno_cwl/Bowl.mp3|ádlì:sdohdi
 cno-spk_0|cno_cwl/Basket.mp3|talǔ:ja
 cno-spk_2|cno_cwl/Pond.mp3|v:dali
 cno-spk_1|cno_cwl/Pretty.mp3|uwo:dű:hi
+cno-spk_0|cno_cwl/Beauty.mp3|u:wo:du
 cno-spk_0|cno_cwl/Beaver.mp3|do:ya
+cno-spk_0|cno_cwl/Became.mp3|à:daně:dlí:yv̀:sdi
 cno-spk_0|cno_cwl/Bed.mp3|gani:hli
 cno-spk_0|cno_cwl/Bedrock.mp3|nv̀:yő:hi
 cno-spk_3|cno_cwl/Syrup.mp3|wá:du:lí:si
@@ -83,12 +86,12 @@ cno-spk_0|cno_cwl/Bile.mp3|dalo:ni
 cno-spk_1|cno_cwl/Billiard.mp3|digada:yosdi
 cno-spk_1|cno_cwl/Bird.mp3|jí:sgwa
 cno-spk_0|cno_cwl/Born.mp3|ude:nv
-cno-spk_3|cno_cwl/Mark.mp3|udo:we:lv̄
+cno-spk_3|cno_cwl/Mark.mp3|udo:we:lv
 cno-spk_1|cno_cwl/Black.mp3|gv̌:hnáge̋
 cno-spk_3|cno_cwl/Typewriter.mp3|digo:hwě:lò:di
 cno-spk_1|cno_cwl/Blacksnake.mp3|gaɂlè:gi
 cno-spk_1|cno_cwl/Blanket.mp3|u:ne:gv:ha̋
-cno-spk_3|cno_cwl/Sap.mp3|atasgi:sgv̄
+cno-spk_3|cno_cwl/Sap.mp3|atasgi:sgv
 cno-spk_3|cno_cwl/Sympathize.mp3|ada:dǒ:lî:sdi
 cno-spk_1|cno_cwl/Blew.mp3|ù:jó:tahv̌
 cno-spk_0|cno_cwl/Blind.mp3|di:ke̋:wi
@@ -96,6 +99,7 @@ cno-spk_1|cno_cwl/Bloat.mp3|uwǒ:tidv
 cno-spk_1|cno_cwl/Blue.mp3|sako:nige
 cno-spk_1|cno_cwl/Bluebird.mp3|tsa:gwo:lde
 cno-spk_0|cno_cwl/Dull.mp3|go:sdì:yű:hli
+cno-spk_0|cno_cwl/Shame.mp3|à:de:hǒ:hísdi
 cno-spk_3|cno_cwl/Yacht.mp3|jǐ:yu
 cno-spk_1|cno_cwl/Body.mp3|aye:lv̋
 cno-spk_0|cno_cwl/Crown.mp3|alsdu:lo
@@ -119,12 +123,14 @@ cno-spk_3|cno_cwl/Trousers.mp3|dì:su:lo
 cno-spk_0|cno_cwl/Briar.mp3|kanu:ga:li
 cno-spk_0|cno_cwl/Bridge.mp3|à:svhdlv̋:ɂi
 cno-spk_0|cno_cwl/Bridle.mp3|tsu:tana:lo
+cno-spk_0|cno_cwl/Short.mp3|di:disgwala̋:ɂi
+cno-spk_0|cno_cwl/Fetch.mp3|à:yóhisdí
 cno-spk_0|cno_cwl/English.mp3|Gili:si
 cno-spk_0|cno_cwl/Wide.mp3|ayaté:na
 cno-spk_1|cno_cwl/Broke.mp3|júlsgwalidv
 cno-spk_3|cno_cwl/Sweep.mp3|gv:no:sásdi
 cno-spk_3|cno_cwl/Stepbrother.mp3|di:nada:hnv̋:hli
-cno-spk_1|cno_cwl/Brown.mp3|wo:digē
+cno-spk_1|cno_cwl/Brown.mp3|wo:dige
 cno-spk_0|cno_cwl/Given.mp3|à:da:ně:lv̋
 cno-spk_1|cno_cwl/Built.mp3|ù:hné:sge:hv̌
 cno-spk_2|cno_cwl/Lead.mp3|gáɂni
@@ -133,7 +139,7 @@ cno-spk_0|cno_cwl/House.mp3|gahljǒ:de
 cno-spk_0|cno_cwl/Dresser.mp3|dì:sě:hísdi̋
 cno-spk_1|cno_cwl/Burglar.mp3|gano:sgi̋:sgi
 cno-spk_1|cno_cwl/Burial.mp3|di:da:nǐ:sóhdi̋
-cno-spk_0|cno_cwl/Tomb.mp3|gani:sahv̄
+cno-spk_0|cno_cwl/Tomb.mp3|gani:sahv
 cno-spk_3|cno_cwl/Yard.mp3|su:hli:lő:dv
 cno-spk_0|cno_cwl/Work.mp3|digalv:hwisdandi
 cno-spk_0|cno_cwl/Established.mp3|go:hlv:hnv̋
@@ -143,18 +149,20 @@ cno-spk_1|cno_cwl/Buttons.mp3|digatdi
 cno-spk_1|cno_cwl/Buzzard.mp3|su:li
 cno-spk_1|cno_cwl/Called.mp3|ù:hyanv:hv̌
 cno-spk_1|cno_cwl/Camel.mp3|kě:míli
+cno-spk_3|cno_cwl/Stop.mp3|à:le:hwisdóhdí
 cno-spk_0|cno_cwl/Drawn.mp3|à:sě:sv̋:da
 cno-spk_2|cno_cwl/Leprosy.mp3|ada:hye̋:sgi
 cno-spk_1|cno_cwl/Carcass.mp3|uliwo:tsvhi
 cno-spk_0|cno_cwl/Wild.mp3|gé:hyahtahi
 cno-spk_1|cno_cwl/Carpenter.mp3|di:hnè:sge̋:sgi
+cno-spk_1|cno_cwl/Carries.mp3|à:hwi:dí
 cno-spk_1|cno_cwl/Cash.mp3|áde:lv̋
 cno-spk_0|cno_cwl/Cat.mp3|wě:sa
 cno-spk_0|cno_cwl/Catfish.mp3|ju:lì:sdana:li
 cno-spk_0|cno_cwl/Cow.mp3|wahga
 cno-spk_0|cno_cwl/Cavern.mp3|ù:sdâ:galv̋
 cno-spk_0|cno_cwl/Cedar.mp3|ajina
-cno-spk_0|cno_cwl/Holiday.mp3|unade:tiyisgv̄
+cno-spk_0|cno_cwl/Holiday.mp3|unade:tiyisgv
 cno-spk_0|cno_cwl/Cent.mp3|iyádánhtéhdi
 cno-spk_3|cno_cwl/Very.mp3|u:do:hiyű
 cno-spk_0|cno_cwl/Chain.mp3|u:nada:dè:sv̋:da
@@ -163,6 +171,8 @@ cno-spk_0|cno_cwl/Chairman.mp3|ju:dǎ:tihnaɂi
 cno-spk_3|cno_cwl/Tables.mp3|diga:sgilo
 cno-spk_0|cno_cwl/Chamber.mp3|u:níhyvsdi
 cno-spk_0|cno_cwl/Change.mp3|junsdi
+cno-spk_0|cno_cwl/Charge.mp3|dà:gv:wahldí
+cno-spk_0|cno_cwl/Confer.mp3|a:hlinohéhdi
 cno-spk_0|cno_cwl/Chicken.mp3|jitǎ:ga
 cno-spk_1|cno_cwl/President.mp3|u:gv:wiyu:hi
 cno-spk_3|cno_cwl/Young.mp3|ayo:hli
@@ -185,7 +195,10 @@ cno-spk_1|cno_cwl/Row.mp3|ù:danv:hnv̋
 cno-spk_1|cno_cwl/Columns.mp3|dù:danv:hnv̋
 cno-spk_1|cno_cwl/Comb.mp3|ahltawó:sdi
 cno-spk_0|cno_cwl/Comments.mp3|kané:ɂisdíha
+cno-spk_3|cno_cwl/Write.mp3|di:digo:hwě:lò:di
+cno-spk_2|cno_cwl/Faithful.mp3|ù:wo:hiyú
 cno-spk_1|cno_cwl/Permanent.mp3|nigǒ:hí:lv̋
+cno-spk_1|cno_cwl/Contemplate.mp3|à:danhté
 cno-spk_1|cno_cwl/Contest.mp3|adago:nado:di
 cno-spk_0|cno_cwl/Proves.mp3|go:hiyhdi
 cno-spk_3|cno_cwl/Maize.mp3|sě:lu
@@ -204,6 +217,8 @@ cno-spk_0|cno_cwl/Deaf.mp3|ju:liɂe̋:na
 cno-spk_0|cno_cwl/Die.mp3|ayo:hu:hisdi
 cno-spk_0|cno_cwl/December.mp3|V̌:sgíhyi
 cno-spk_0|cno_cwl/Decided.mp3|dù:wu:ktánv́
+cno-spk_3|cno_cwl/Utter.mp3|kané:ɂisdí
+cno-spk_2|cno_cwl/Refuse.mp3|à:da:hyâ:sdi
 cno-spk_0|cno_cwl/Defense.mp3|ulsdehldi
 cno-spk_0|cno_cwl/Mush.mp3|waníge̋
 cno-spk_3|cno_cwl/Sweet.mp3|u:gana̋:sdv
@@ -221,6 +236,7 @@ cno-spk_0|cno_cwl/Disease.mp3|v:hyǔ:gi
 cno-spk_0|cno_cwl/Plates.mp3|di:te:lǐ:do
 cno-spk_3|cno_cwl/Surgeon.mp3|gaɂnakdi
 cno-spk_0|cno_cwl/Doctors.mp3|ani:gáɂnakti
+cno-spk_0|cno_cwl/Does.mp3|na:dvne
 cno-spk_0|cno_cwl/Dog.mp3|gi:hli
 cno-spk_0|cno_cwl/Dollar.mp3|u:hnő:sda
 cno-spk_0|cno_cwl/Doors.mp3|di:sdù:di
@@ -239,7 +255,7 @@ cno-spk_0|cno_cwl/Ear.mp3|gaɂle̋:ni
 cno-spk_0|cno_cwl/First.mp3|igv̌:yi
 cno-spk_0|cno_cwl/Ears.mp3|digaɂle̋:ni
 cno-spk_0|cno_cwl/World.mp3|e:lohi
-cno-spk_3|cno_cwl/Sunrise.mp3|ka:lvgv̄
+cno-spk_3|cno_cwl/Sunrise.mp3|ka:lvgv
 cno-spk_0|cno_cwl/Watermelon.mp3|gv:gì:sdi
 cno-spk_0|cno_cwl/Eats.mp3|ǔ:hnígì:sdi
 cno-spk_0|cno_cwl/Edge.mp3|asdv:ɂi
@@ -258,6 +274,7 @@ cno-spk_3|cno_cwl/Vacant.mp3|ǔ:sihwa
 cno-spk_0|cno_cwl/Enclosure.mp3|à:sǒ:hyv̋:ɂi
 cno-spk_3|cno_cwl/Meet.mp3|di:dlo:hisdi̋
 cno-spk_0|cno_cwl/End.mp3|u:hlisdv
+cno-spk_0|cno_cwl/Entry.mp3|ayv:sdi
 cno-spk_0|cno_cwl/Ticket.mp3|àyv:sdóhdi̋
 cno-spk_0|cno_cwl/Important.mp3|ulsge̋:dv
 cno-spk_3|cno_cwl/Sacred.mp3|galvkwdi
@@ -266,6 +283,7 @@ cno-spk_0|cno_cwl/Everlasting.mp3|ǐ:gó:hi̋:da
 cno-spk_0|cno_cwl/Evening.mp3|sv:hiye̋:yi
 cno-spk_0|cno_cwl/Exciting.mp3|usgase:d
 cno-spk_0|cno_cwl/Expired.mp3|ùlsgwádv̌
+cno-spk_0|cno_cwl/Explains.mp3|de:gô:si:sí
 cno-spk_0|cno_cwl/Extended.mp3|kane:gwo:dv
 cno-spk_3|cno_cwl/Teachers.mp3|di:nade:hyǒ:hvsgi
 cno-spk_2|cno_cwl/Fail.mp3|u:nú:lvɂhnv̌
@@ -294,6 +312,7 @@ cno-spk_3|cno_cwl/Seed.mp3|u:kta
 cno-spk_2|cno_cwl/Fled.mp3|ù:lití:sv̌
 cno-spk_2|cno_cwl/Flew.mp3|u:hlawí:dvhv̌
 cno-spk_2|cno_cwl/Flint.mp3|dawǐ:sgála
+cno-spk_0|cno_cwl/Pitch.mp3|à:dǐ:nv̂:di
 cno-spk_1|cno_cwl/Roses.mp3|ani:ji:lv̋:sgi
 cno-spk_1|cno_cwl/Rose.mp3|aji:lv̋:sgi
 cno-spk_2|cno_cwl/Fog.mp3|ù:kvhadv̌
@@ -315,6 +334,7 @@ cno-spk_2|cno_cwl/Frames.mp3|digalv́:dohdi
 cno-spk_2|cno_cwl/Frequent.mp3|iyú:da̋:li
 cno-spk_2|cno_cwl/Fresh.mp3|ije̋:ɂi
 cno-spk_0|cno_cwl/Toad.mp3|waló:si
+cno-spk_2|cno_cwl/Frown.mp3|ù:dané:go:yú
 cno-spk_0|cno_cwl/Ice.mp3|u:ně:sdála
 cno-spk_3|cno_cwl/Measure.mp3|ahli:lő:sdi
 cno-spk_2|cno_cwl/Gain.mp3|u:hnehgwoɂísdi
@@ -333,7 +353,6 @@ cno-spk_0|cno_cwl/Goat.mp3|u:ksò:ja:ne̋:dv
 cno-spk_3|cno_cwl/Lord.mp3|une:hlanv:hi
 cno-spk_0|cno_cwl/Goes.mp3|é:gó:ɂi
 cno-spk_3|cno_cwl/Sailed.mp3|ù:hnigî:sv̌
-cno-spk_0|cno_cwl/Nice.mp3|ő:sdv
 cno-spk_3|cno_cwl/Swan.mp3|sa:sa
 cno-spk_1|cno_cwl/Grandfather.mp3|u:dù:du
 cno-spk_1|cno_cwl/Grandmother.mp3|u:lí:si
@@ -360,6 +379,7 @@ cno-spk_0|cno_cwl/Quick.mp3|u:hlisda
 cno-spk_0|cno_cwl/Having.mp3|ù:hv̌:ɂi
 cno-spk_0|cno_cwl/Hawk.mp3|tawǒ:di
 cno-spk_0|cno_cwl/Head.mp3|askő:li
+cno-spk_0|cno_cwl/Hear.mp3|à:tv:gí
 cno-spk_3|cno_cwl/Spirit.mp3|adanhdo
 cno-spk_2|cno_cwl/Heathen.mp3|ané:hyahtahi
 cno-spk_2|cno_cwl/Heavy.mp3|ga:ge̋:dv
@@ -387,6 +407,7 @@ cno-spk_0|cno_cwl/Hotel.mp3|ju:ni:sv:sdi̋
 cno-spk_0|cno_cwl/Huckleberry.mp3|kuwa:ya
 cno-spk_1|cno_cwl/People.mp3|yv:wi
 cno-spk_0|cno_cwl/Hunch.mp3|ù:wo:tisv̌
+cno-spk_0|cno_cwl/Hungry.mp3|ù:yó:si
 cno-spk_0|cno_cwl/Hunter.mp3|gano:hali:dő:hi
 cno-spk_0|cno_cwl/Rascal.mp3|u:dlǒ:nà:sdi
 cno-spk_3|cno_cwl/Me.mp3|ayv
@@ -401,7 +422,7 @@ cno-spk_2|cno_cwl/Jesus.mp3|Jǐ:sa
 cno-spk_2|cno_cwl/Job.mp3|ju:lv̌:hwísdà:nehdi
 cno-spk_2|cno_cwl/Judge.mp3|digu:kdi̋:sgi
 cno-spk_2|cno_cwl/Judges.mp3|di:nu:kdi̋:sgi
-cno-spk_2|cno_cwl/Pool.mp3|ganehv̄
+cno-spk_2|cno_cwl/Pool.mp3|ganehv
 cno-spk_2|cno_cwl/July.mp3|guyegwo:ni
 cno-spk_2|cno_cwl/Jumped.mp3|dùhltadǐ:nv̂:sv̌
 cno-spk_2|cno_cwl/Jumper.mp3|dihltade̋:gi
@@ -431,6 +452,7 @@ cno-spk_2|cno_cwl/Leg.mp3|ganv̀:sge̋:ni
 cno-spk_0|cno_cwl/Likes.mp3|ù:lv̌:kwdi
 cno-spk_0|cno_cwl/Tiger.mp3|hlv:daji
 cno-spk_3|cno_cwl/Liver.mp3|uwe:la
+cno-spk_3|cno_cwl/Load.mp3|akali:ɂi
 cno-spk_0|cno_cwl/Terrapin.mp3|da:gsi
 cno-spk_3|cno_cwl/Locust.mp3|v:le
 cno-spk_3|cno_cwl/Long.mp3|ganv:hi̋:da
@@ -452,6 +474,7 @@ cno-spk_3|cno_cwl/Martin.mp3|dlù:dlu
 cno-spk_3|cno_cwl/Maximum.mp3|galv̌:ládige̋
 cno-spk_3|cno_cwl/Stream.mp3|ù:wé:yv̋:ɂi
 cno-spk_3|cno_cwl/Meat.mp3|hawi:ya
+cno-spk_3|cno_cwl/Meddle.mp3|a:de:hyto:hdi
 cno-spk_3|cno_cwl/Medicine.mp3|nv:wô:ti
 cno-spk_3|cno_cwl/Meetings.mp3|dà:nadlo:sga
 cno-spk_3|cno_cwl/Odor.mp3|gawsv̀:gi
@@ -477,6 +500,7 @@ cno-spk_0|cno_cwl/Mother.mp3|uni:tsi
 cno-spk_0|cno_cwl/Mountain.mp3|ò:dalv̋
 cno-spk_0|cno_cwl/Mountains.mp3|dò:dalv̋
 cno-spk_0|cno_cwl/Mouth.mp3|ahő:li
+cno-spk_0|cno_cwl/Moving.mp3|à:dáɂnv
 cno-spk_0|cno_cwl/Much.mp3|ǔ:jati
 cno-spk_0|cno_cwl/Mulberry.mp3|kuwa
 cno-spk_0|cno_cwl/Mushroom.mp3|dawó:li
@@ -492,6 +516,7 @@ cno-spk_1|cno_cwl/Noodle.mp3|digalv̀:nv:hi
 cno-spk_1|cno_cwl/Noticed.mp3|ù:de:loho:sv̌
 cno-spk_1|cno_cwl/Noun.mp3|dù:dó:ɂv̌:ɂi
 cno-spk_1|cno_cwl/November.mp3|Nv:dadě:gwa
+cno-spk_1|cno_cwl/Number.mp3|di:di:sésdi
 cno-spk_1|cno_cwl/Nut.mp3|sohi
 cno-spk_1|cno_cwl/Oak.mp3|tsu:sga
 cno-spk_1|cno_cwl/Objects.mp3|dà:ktǐ:lê:ga
@@ -499,6 +524,7 @@ cno-spk_3|cno_cwl/Seldom.mp3|iyú:da:li:ha̋
 cno-spk_3|cno_cwl/Oily.mp3|goɂi:ha̋
 cno-spk_0|cno_cwl/Thousand.mp3|agayv̋:li
 cno-spk_3|cno_cwl/One.mp3|sà:gwű
+cno-spk_3|cno_cwl/One's.mp3|ani:siyv:wi
 cno-spk_3|cno_cwl/Opposed.mp3|dù:ktǐ:lv̂:sv̌
 cno-spk_3|cno_cwl/Osage.mp3|ani:kwa:sa:si
 cno-spk_3|cno_cwl/Otter.mp3|tsiyɂa
@@ -523,7 +549,7 @@ cno-spk_0|cno_cwl/Pill.mp3|dǐ:kisdi
 cno-spk_0|cno_cwl/Pine.mp3|nohji
 cno-spk_0|cno_cwl/Plate.mp3|ate:lǐ:do
 cno-spk_2|cno_cwl/Plow.mp3|ga:dalú:gò:di
-cno-spk_2|cno_cwl/Plum.mp3|kwanúnsdī
+cno-spk_2|cno_cwl/Plum.mp3|kwanúnsdi
 cno-spk_2|cno_cwl/Pocket.mp3|a:dlawáɂdv̋
 cno-spk_2|cno_cwl/Pockets.mp3|dà:dlǎ:wáɂdv̋
 cno-spk_2|cno_cwl/Point.mp3|gǒ:sdà:yi
@@ -531,9 +557,11 @@ cno-spk_2|cno_cwl/Poison.mp3|adǎ:hihi
 cno-spk_2|cno_cwl/Popcorn.mp3|anhtasgì:sgi
 cno-spk_2|cno_cwl/Posse.mp3|di:nada:nǐ:yi̋:sgi
 cno-spk_2|cno_cwl/Postman.mp3|go:hwe:lidi:ga:hnido:hi
+cno-spk_2|cno_cwl/Powder.mp3|di:di:dawě:lagì:sgi
 cno-spk_1|cno_cwl/Presents.mp3|a:da:hne:ha
 cno-spk_1|cno_cwl/Presidents.mp3|u:ni:gv:wiyu:hi
 cno-spk_1|cno_cwl/Procession.mp3|ahiɂlv̀:sdi̋
+cno-spk_1|cno_cwl/Produces.mp3|à:tvhisdí
 cno-spk_0|cno_cwl/Pulled.mp3|ùnsané:sv̌
 cno-spk_3|cno_cwl/Scholar.mp3|di:delo:gwa:sgi
 cno-spk_0|cno_cwl/Quail.mp3|gu:hgwe
@@ -547,15 +575,19 @@ cno-spk_0|cno_cwl/Raining.mp3|à:ga:sga
 cno-spk_0|cno_cwl/Shower.mp3|a:gasgi
 cno-spk_0|cno_cwl/Rattlesnake.mp3|u:tso:nadi
 cno-spk_0|cno_cwl/Razor.mp3|a:lsdo:hydo:hdi
+cno-spk_3|cno_cwl/Writer.mp3|di:digo:hwe:li:sgi
 cno-spk_2|cno_cwl/Red.mp3|gǐ:gáge
 cno-spk_2|cno_cwl/Refused.mp3|ù:dahyilv̌
 cno-spk_0|cno_cwl/Republicans.mp3|U:ni:hyv̋:dla
 cno-spk_0|cno_cwl/Resident.mp3|ganě:la
 cno-spk_0|cno_cwl/Restaurant.mp3|jù:nàlsdàyhdi̋
+cno-spk_0|cno_cwl/Retreat.mp3|a:sínhvsdi
 cno-spk_0|cno_cwl/Returns.mp3|ǐ:gáɂluhga
 cno-spk_0|cno_cwl/Revenge.mp3|adlè:ɂísdi
 cno-spk_0|cno_cwl/Revolution.mp3|à:dé:yohv̋
+cno-spk_0|cno_cwl/Rib.mp3|di:diganu:laji
 cno-spk_0|cno_cwl/Ribbon.mp3|agwe:hlu:sdi
+cno-spk_0|cno_cwl/Ride.mp3|à:kilv̂:di
 cno-spk_0|cno_cwl/Rides.mp3|akiɂlvɂv:sga
 cno-spk_0|cno_cwl/Rise.mp3|ulsaladò:di
 cno-spk_0|cno_cwl/River.mp3|ù:wé:yv̋
@@ -582,9 +614,11 @@ cno-spk_3|cno_cwl/Sawdust.mp3|ù:sgó:gv̌
 cno-spk_3|cno_cwl/Says.mp3|à:diha
 cno-spk_3|cno_cwl/Scar.mp3|une:lv:sv
 cno-spk_3|cno_cwl/Score.mp3|u:sgwadì:sdi
+cno-spk_3|cno_cwl/Stool.mp3|gadí
 cno-spk_3|cno_cwl/Second.mp3|Taɂli:ne̋
 cno-spk_3|cno_cwl/Secretary.mp3|digo:hwe:li:sgi
 cno-spk_3|cno_cwl/Seeking.mp3|ù:go:hv̌:ɂi
+cno-spk_3|cno_cwl/Sees.mp3|à:gowhtí
 cno-spk_3|cno_cwl/Seine.mp3|aga:yalú:di
 cno-spk_0|cno_cwl/Worries.mp3|u:danhtehdi
 cno-spk_0|cno_cwl/September.mp3|Du:lì:sdi
@@ -600,6 +634,7 @@ cno-spk_0|cno_cwl/Shingle.mp3|svdalu:gi
 cno-spk_0|cno_cwl/Shoe.mp3|alà:sǔ:lo
 cno-spk_0|cno_cwl/Shoes.mp3|di:là:sǔ:lo
 cno-spk_0|cno_cwl/Shoulder.mp3|ganv:wő:ɂi
+cno-spk_3|cno_cwl/Spade.mp3|di:di:kǒ:de̋:sdi
 cno-spk_0|cno_cwl/Sides.mp3|di:sgwage̋:ni
 cno-spk_0|cno_cwl/Sin.mp3|asgahni
 cno-spk_3|cno_cwl/Song.mp3|kano:gi:sdi
@@ -611,7 +646,7 @@ cno-spk_0|cno_cwl/Sixty.mp3|su:da:hlsgo:hi
 cno-spk_0|cno_cwl/Size.mp3|nikv̋:ɂi
 cno-spk_0|cno_cwl/Slack.mp3|wa:na
 cno-spk_0|cno_cwl/Sled.mp3|dida:nsine:gi
-cno-spk_0|cno_cwl/Wing.mp3|go:hyadv̄
+cno-spk_0|cno_cwl/Wing.mp3|go:hyadv
 cno-spk_0|cno_cwl/Slim.mp3|galv:do:hli
 cno-spk_0|cno_cwl/Snag.mp3|u:dlv:dalv̋:da
 cno-spk_0|cno_cwl/Sneeze.mp3|dù:hyv̌:sdô:hyv̌
@@ -631,8 +666,10 @@ cno-spk_3|cno_cwl/Spirits.mp3|di:danhdo
 cno-spk_3|cno_cwl/Spoke.mp3|ù:hné:jv̌
 cno-spk_3|cno_cwl/Spoon.mp3|adi:tóhdi
 cno-spk_3|cno_cwl/Squirrel.mp3|salǒ:li
+cno-spk_3|cno_cwl/Stab.mp3|di:diga:tísdi
 cno-spk_3|cno_cwl/Standing.mp3|à:ni:dô:naɂv̌
 cno-spk_3|cno_cwl/Star.mp3|nokwsi
+cno-spk_3|cno_cwl/Starts.mp3|à:hnigî:sdi
 cno-spk_3|cno_cwl/Started.mp3|ù:hnigî:stanv̌
 cno-spk_3|cno_cwl/States.mp3|kano:héha
 cno-spk_3|cno_cwl/Sting.mp3|ada:jv̋ysgi
@@ -663,6 +700,7 @@ cno-spk_3|cno_cwl/Ten.mp3|sgǒ:hi
 cno-spk_0|cno_cwl/Tenth.mp3|sgo:hi:ne̋
 cno-spk_0|cno_cwl/Thick.mp3|uhage:dv
 cno-spk_0|cno_cwl/Thicket.mp3|salu:yi
+cno-spk_0|cno_cwl/Thin.mp3|di:di:ságe̋:ɂi
 cno-spk_0|cno_cwl/Thing.mp3|iyű:sdi
 cno-spk_0|cno_cwl/Third.mp3|Joɂi:ne̋
 cno-spk_0|cno_cwl/Thirteen.mp3|tsogadu
@@ -673,6 +711,7 @@ cno-spk_0|cno_cwl/Thrill.mp3|ù:li:hě:lî:jv̌
 cno-spk_0|cno_cwl/Thrilling.mp3|à:li:hě:lî:gó:ɂi
 cno-spk_0|cno_cwl/Throat.mp3|ahyvhje̋:ni
 cno-spk_0|cno_cwl/Thug.mp3|di:dá:hihi
+cno-spk_0|cno_cwl/Woods.mp3|ato:hí
 cno-spk_0|cno_cwl/Toe.mp3|kanâ:saɂdv̋
 cno-spk_0|cno_cwl/We.mp3|ǐ:jú:la
 cno-spk_0|cno_cwl/Tooth.mp3|ganhdóhgv̋
@@ -710,6 +749,7 @@ cno-spk_0|cno_cwl/Week.mp3|su:ndo:dagwasdi
 cno-spk_0|cno_cwl/Went.mp3|ù:we:nv́:sv̌
 cno-spk_0|cno_cwl/Wept.mp3|ù:dlo:hyílv̌
 cno-spk_0|cno_cwl/Wheat.mp3|u:jale̋:sdi
+cno-spk_0|cno_cwl/Whet.mp3|di:dikdlv́hdi
 cno-spk_0|cno_cwl/Whiskey.mp3|hwi:sgi
 cno-spk_0|cno_cwl/Who.mp3|gá:gō
 cno-spk_0|cno_cwl/Wife.mp3|u:sdà:yv̌hv:sgi
@@ -718,6 +758,7 @@ cno-spk_0|cno_cwl/Witness.mp3|áktahi
 cno-spk_0|cno_cwl/Wolf.mp3|wahya
 cno-spk_0|cno_cwl/Wolves.mp3|ani:hwaya
 cno-spk_0|cno_cwl/Women.mp3|ani:gě:hya
+cno-spk_3|cno_cwl/Wrestle.mp3|a:hne:sdi
 cno-spk_3|cno_cwl/Wrote.mp3|ù:wo:hwě:lâ:nv̌
 cno-spk_3|cno_cwl/Year.mp3|su:de:tiyv̋:da
 cno-spk_3|cno_cwl/Yellow.mp3|dalo:nige

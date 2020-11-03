@@ -145,45 +145,98 @@ if __name__ == "__main__":
                     cno_lookup[value]=rrd_lookup[value]
                     mp3_lookup[value]=record["notes"]
                     continue
-                if value+"Ꭲ" in ambig.keys():
-                    continue
-                if value+"Ꭲ" in ced_lookup.keys():
-                    pronounce=ced_lookup[value+"Ꭲ"]
-                    if pronounce[-1] == "i":
-                        pronounce=pronounce[:-1]
-                    if pronounce[-1] == "?":
-                        pronounce=pronounce[:-1]
-                    if pronounce[-1] == "ɂ":
-                        pronounce=pronounce[:-1]
-                        
-                    cno_lookup[value]=pronounce
-                    mp3_lookup[value]=record["notes"]
-                    continue
-                if value+"Ꭲ" in rrd_lookup.keys():
-                    pronounce=rrd_lookup[value+"Ꭲ"]
-                    if pronounce[-1] == "i":
-                        pronounce=pronounce[:-1]
-                    if pronounce[-1] == "?":
-                        pronounce=pronounce[:-1]
-                    if pronounce[-1] == "ɂ":
-                        pronounce=pronounce[:-1]
-                    cno_lookup[value]=pronounce
-                    mp3_lookup[value]=record["notes"]
-                    continue
+                if value+"Ꭲ" not in ambig.keys():
+                    if value+"Ꭲ" in ced_lookup.keys():
+                        pronounce=ced_lookup[value+"Ꭲ"][:-1]
+                        while pronounce[-1] in "?ɂ2":
+                            pronounce=pronounce[:-1]
+                        cno_lookup[value]=pronounce
+                        mp3_lookup[value]=record["notes"]
+                        continue
+                    if value+"Ꭲ" in rrd_lookup.keys():
+                        pronounce=rrd_lookup[value+"Ꭲ"][:-1]
+                        while pronounce[-1] in "?ɂ2":
+                            pronounce=pronounce[:-1]
+                        cno_lookup[value]=pronounce
+                        mp3_lookup[value]=record["notes"]
+                        continue
+                if value+"Ꭽ" not in ambig.keys():
+                    if value+"Ꭽ" in ced_lookup.keys():
+                        pronounce=ced_lookup[value+"Ꭽ"][:-2]
+                        while pronounce[-1] in "?ɂ2":
+                            pronounce=pronounce[:-1]
+                        cno_lookup[value]=pronounce
+                        mp3_lookup[value]=record["notes"]
+                        print(f"{value}[Ꭽ] = {pronounce}")
+                        continue
+                    if value+"Ꭽ" in rrd_lookup.keys():
+                        pronounce=rrd_lookup[value+"Ꭽ"][:-2]
+                        while pronounce[-1] in "?ɂ2":
+                            pronounce=pronounce[:-1]
+                        cno_lookup[value]=pronounce
+                        mp3_lookup[value]=record["notes"]
+                        print(f"{value}[Ꭽ] = {pronounce}")
+                        continue
+                if value+"Ꮬ" not in ambig.keys():
+                    if value+"Ꮬ" in ced_lookup.keys():
+                        pronounce=ced_lookup[value+"Ꮬ"][:-3]
+                        print(f"{value}[Ꮬ] = {pronounce}")
+                        while pronounce[-1] in "?ɂ2":
+                            pronounce=pronounce[:-1]
+                        cno_lookup[value]=pronounce
+                        mp3_lookup[value]=record["notes"]
+                        continue
+                    if value+"Ꮬ" in rrd_lookup.keys():
+                        pronounce=rrd_lookup[value+"Ꮬ"][:-3]
+                        print(f"{value}[Ꮬ] = {pronounce}")
+                        while pronounce[-1] in "?ɂ2":
+                            pronounce=pronounce[:-1]
+                        cno_lookup[value]=pronounce
+                        mp3_lookup[value]=record["notes"]
+                        continue
+                if value+"Ꭰ" not in ambig.keys():
+                    if value+"Ꭰ" in ced_lookup.keys():
+                        pronounce=ced_lookup[value+"Ꭰ"][:-1]
+                        while pronounce[-1] in "?ɂ2":
+                            pronounce=pronounce[:-1]
+                        cno_lookup[value]=pronounce
+                        mp3_lookup[value]=record["notes"]
+                        continue
+                    if value+"Ꭰ" in rrd_lookup.keys():
+                        pronounce=rrd_lookup[value+"Ꭰ"][:-1]
+                        print(f"{value}[Ꭽ] = {pronounce}")
+                        while pronounce[-1] in "?ɂ2":
+                            pronounce=pronounce[:-1]
+                        cno_lookup[value]=pronounce
+                        mp3_lookup[value]=record["notes"]
+                        continue
+                if "Ꮧ"+value not in ambig.keys():
+                    if "Ꮧ"+value in ced_lookup.keys():
+                        pronounce="di2"+ced_lookup["Ꮧ"+value]
+                        cno_lookup[value]=pronounce
+                        mp3_lookup[value]=record["notes"]
+                        continue
+                    if "Ꮧ"+value in rrd_lookup.keys():
+                        pronounce="di2"+rrd_lookup["Ꮧ"+value]
+                        print(f"{value}[Ꭽ] = {pronounce}")
+                        cno_lookup[value]=pronounce
+                        mp3_lookup[value]=record["notes"]
+                        continue
                 if value[-1] == "Ꮫ":
                     xvalue = value[:-1] + "Ꮣ"
-                    if xvalue in ced_lookup.keys():
-                        pronounce=ced_lookup[xvalue]
-                        pronounce=pronounce[:-1]+"v"
-                        cno_lookup[value]=pronounce
-                        mp3_lookup[value]=record["notes"]
-                        continue
-                    if xvalue in rrd_lookup.keys():
-                        pronounce=rrd_lookup[xvalue]
-                        pronounce=pronounce[:-1]+"v"
-                        cno_lookup[value]=pronounce
-                        mp3_lookup[value]=record["notes"]
-                        continue
+                    if xvalue not in ambig.keys():
+                        if xvalue in ced_lookup.keys():
+                            pronounce=ced_lookup[xvalue]
+                            pronounce=pronounce[:-1]+"v"
+                            cno_lookup[value]=pronounce
+                            mp3_lookup[value]=record["notes"]
+                            continue
+                        if xvalue in rrd_lookup.keys():
+                            pronounce=rrd_lookup[xvalue]
+                            pronounce=pronounce[:-1]+"v"
+                            cno_lookup[value]=pronounce
+                            mp3_lookup[value]=record["notes"]
+                            continue
         print(f"Found {len(cno_lookup)} matches.")
         
     with open("matches.txt", "w") as file:
