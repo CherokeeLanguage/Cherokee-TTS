@@ -32,7 +32,7 @@ cp /dev/null "$tmp"
 
 cp /dev/null "$z"/voices.txt
 
-for x in "$z"/animals-[0-9][0-9]-*; do
+for x in "$z"/animals-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
