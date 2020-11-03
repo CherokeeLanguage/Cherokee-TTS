@@ -9,7 +9,7 @@ z="$(pwd)"
 rm *.npy 2> /dev/null || true
 rm *.wav 2> /dev/null || true
 
-for x in "$z"/*-[0-9][0-9]-*; do
+for x in "$z"/bragging-hunter-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
