@@ -23,6 +23,8 @@ if __name__ == "__main__":
 	for _ in ["lin_spectrograms", "mel_spectrograms"]:
 		rmtree(os.path.join(workdir, _), ignore_errors=True)
 		
+	speaker_counts:dict=dict()
+		
 	for parent in [ "../cherokee-audio/beginning-cherokee",
 					"../cherokee-audio/cherokee-language-coach-1",
 					"../cherokee-audio/cherokee-language-coach-2",
@@ -44,11 +46,24 @@ if __name__ == "__main__":
 					line=ud.normalize("NFC",line.strip())
 					line=line.replace("|wav/", "|"+parent+"/wav/")
 					lines.append(line)
+					speaker:str=fields[1].strip()
+					if speaker not in speaker_counts:
+						speaker_counts[speaker]=0
+					speaker_counts[speaker]=speaker_counts[speaker]+1
+					
 				random.Random(len(lines)).shuffle(lines)
 				with open(txt, "a") as t:
 					for line in lines:
 						t.write(line)
 						t.write("\n")
+				
+	print(f"Speakers {len(speaker_counts):,}")
+	speakers = [*speaker_counts]
+	speakers.sort()
+	for speaker in speakers:
+		if "cno" not in speaker and "chr" not in speaker:
+			continue
+		print(f"   CHR Speaker {speaker}: {speaker_counts[speaker]:,}")
 	
 	#get char listing needed for params file
 	letters=""
