@@ -1,7 +1,11 @@
-#!/bin/bash
+#!/bin/bash -i
 
 set -e
 set -o pipefail
+
+trap "echo ERROR" ERR
+
+conda activate Cherokee-TTS
 
 cd "$(dirname "$0")"
 z="$(pwd)"
@@ -37,7 +41,7 @@ for x in "$z"/animals-*; do
 	rm -r "$x"
 done
 
-v=("cno-spk_3" "cno-spk_2" "cno-spk_1" "cno-spk_0" "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
+v=("cno-spk_3" "cno-spk_2" "cno-spk_1" "cno-spk_0") # "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -70,13 +74,21 @@ for voice in "${v[@]}"; do
 	python wavernnx.py || python wavernnx-cpu.py
 	
 	ix=0
-	mp3s=($(cut -f 3 "$selected" | sed 's/ /_/g'))
-	for mp3 in "${mp3s[@]}"; do
+	cat "$selected" | while read line; do
+		mp3name="$(echo "$line" | cut -f 3 | sed 's/ /_/g')"
+		text="$(echo "$line" | cut -f 2)"
+		textname="$(echo "$mp3name" | sed 's/.mp3$/.txt/')"
 		ix="$(($ix+1))"
 		wav="wg-$ix.wav"
-		mp3="$wg"-"$voice/$voice-$wg-$mp3"
-		ffmpeg -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
+		mp3="$wg"-"$voice/$voice-$wg-$mp3name"
+		textFile="$wg"-"$voice/$voice-$wg-$textname"
+		ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
+		echo "$text" > "$textFile"
 		rm "$wav"
+		#wav="$ix.wav"
+		#mp3="$wg"-"$voice/griffin-lim-$voice-$wg-$mp3name"
+		#ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
+		#rm "$wav"
 	done
 	
 	xdg-open "$wg"-"$voice"
