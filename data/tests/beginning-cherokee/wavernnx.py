@@ -5,8 +5,6 @@ import soundfile as sf
 import torch
 import librosa
 
-work = "beginning-cherokee"
-
 HOME = os.path.expanduser("~")
 GIT_FOLDER = HOME + "/git"
 CHECKPOINTS_FOLDER = GIT_FOLDER + "/_checkpoints"
@@ -14,14 +12,16 @@ CHECKPOINTS_FOLDER = GIT_FOLDER + "/_checkpoints"
 if not os.path.isdir(CHECKPOINTS_FOLDER):
     os.mkdir(CHECKPOINTS_FOLDER)
 
-TACOTRON_FOLDER = GIT_FOLDER + "/Multilingual_Text_to_Speech"
-CHR_FOLDER = TACOTRON_FOLDER+"/data/tests/"+work
+TACOTRON_FOLDER = GIT_FOLDER + "/Cherokee-TTS"
+CHR_FOLDER = TACOTRON_FOLDER+"/data/tests/beginning-cherokee"
 
 wavernn_chpt = "wavernn_weight.pyt"
 WAVERNN_FOLDER = GIT_FOLDER + "/WaveRNN"
 WAVERNN_WEIGHTS = CHECKPOINTS_FOLDER + "/" + wavernn_chpt
 
 if not os.path.exists(CHECKPOINTS_FOLDER + "/" + wavernn_chpt):
+    print("Checkpoint file now found.")
+    sys.exit(-1)
     os.chdir(CHECKPOINTS_FOLDER)
     os.system("curl -O -L 'https://github.com/Tomiinek/Multilingual_Text_to_Speech/releases/download/v1.0/" +wavernn_chpt+"'")
 
@@ -52,7 +52,7 @@ while os.path.exists(CHR_FOLDER+"/"+str(ix)+".npy"):
 
 idx=1
 for s in y:
-    waveform = generate(model, s, hp.voc_gen_batched,
+    waveform = generate(model, s, True, #hp.voc_gen_batched,
                       hp.voc_target, hp.voc_overlap)
     sf.write("wg-"+str(idx)+".wav", waveform, hp.sample_rate)
     idx+=1
