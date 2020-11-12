@@ -33,7 +33,7 @@ vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
-text="$z/bragging-hunter-mco.txt"
+text="$z/bragging-hunter-mco-alt.txt"
 
 wg="bragging-hunter"
 
@@ -71,7 +71,7 @@ for voice in "${v[@]}"; do
 		mp3="$wg"-"$voice/$wg-$voice-$iy".mp3
 		txt="$wg"-"$voice/$wg-$voice-$iy".txt
 		echo "$phrase" > "$txt"
-		normalize-audio -q "$wav"
+		normalize-audio "$wav"
 		ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
 		rm "$wav"
 	done

@@ -38,7 +38,7 @@ for x in "$z"/"$wg"-*; do
 	rm -r "$x"
 done
 
-v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3")
+v=("cno-spk_0" "cno-spk_3")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -78,7 +78,7 @@ for voice in "${v[@]}"; do
 		mp3="$wg"-"$voice/$wg-$voice-$iy".mp3
 		txt="$wg"-"$voice/$wg-$voice-$iy".txt
 		echo "$phrase" > "$txt"
-		normalize-audio "$wav"
+		normalize-audio -q "$wav"
 		ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
 		rm "$wav"
 	done

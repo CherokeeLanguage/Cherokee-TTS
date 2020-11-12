@@ -33,14 +33,14 @@ for x in "$z"/"$wg"-*; do
 	rm -r "$x"
 done
 
-v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3") # "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
+v=("cno-spk_0" "cno-spk_3")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
-text="$z/../../cherokee-audio/beginning-cherokee/all.txt"
+text="$z/for-audio-quality-vote.txt"
 
-cut -d '|' -f 7 "$text" > "$selected"
+cp "$text" "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
@@ -73,7 +73,7 @@ for voice in "${v[@]}"; do
 		mp3="$wg"-"$voice/$wg-$voice-$iy".mp3
 		txt="$wg"-"$voice/$wg-$voice-$iy".txt
 		echo "$phrase" > "$txt"
-		normalize-audio "$wav"
+		normalize-audio -q "$wav"
 		ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
 		rm "$wav"
 	done
