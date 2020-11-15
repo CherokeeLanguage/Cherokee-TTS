@@ -699,9 +699,9 @@ bs|mp3/Lesson-11-197.mp3|Gǎ:da.
 bs|mp3/Lesson-11-201.mp3|Ga:da:ha̋.
 bs|mp3/Lesson-12-002.mp3|Táɂlduɂi Jalagi go:hwe:lv̀:ɂi.
 bs|mp3/Lesson-12-004.mp3|Na achű:ja jù:lúhjv̌ kò:hi̋.
-bs|mp3/Lesson-12-005.mp3|Tlaidv́galúhji.
+bs|mp3/Lesson-12-005.mp3|Tla idv́galúhji.
 bs|mp3/Lesson-12-006.mp3|Na achű:ja.
-bs|mp3/Lesson-12-007.mp3|Jù:lúhjv̌ kò:hi̋, tlaidv́galúhji.
+bs|mp3/Lesson-12-007.mp3|Jù:lúhjv̌ kò:hi̋, tla idv́galúhji.
 bs|mp3/Lesson-12-009.mp3|Ká:gā na achű:ja?
 bs|mp3/Lesson-12-015.mp3|Ha:dlv?
 bs|mp3/Lesson-12-016.mp3|Ha:dlvɂi?
