@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -i
 
 set -e
 set -o pipefail
@@ -13,8 +13,6 @@ rm *.wav 2> /dev/null || true
 
 cd ../../..
 y="$(pwd)"
-
-source ~/miniconda3/etc/profile.d/conda.sh
 
 conda activate ./env
 
@@ -39,8 +37,8 @@ vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
-wg="flat"
-text="$z/../../cherokee-flat/scripts/script-bare-1.txt"
+wg="ced-limited-multi-word"
+text="$z/../../cherokee-ced-limited-multi-word/scripts/script-bare-1.txt"
 
 cat "$text" > "$selected"
 
