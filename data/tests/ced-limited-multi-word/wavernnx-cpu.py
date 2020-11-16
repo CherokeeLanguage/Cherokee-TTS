@@ -5,7 +5,7 @@ import soundfile as sf
 import torch
 import librosa
 
-work="flat"
+work="ced-limited-multi-word"
 
 HOME = os.path.expanduser("~")
 GIT_FOLDER = HOME + "/git"
@@ -40,7 +40,7 @@ from models.fatchord_version import WaveRNN
 hp.configure(WAVERNN_FOLDER+'/hparams.py')
 model = WaveRNN(rnn_dims=hp.voc_rnn_dims, fc_dims=hp.voc_fc_dims, bits=hp.bits, pad=hp.voc_pad, upsample_factors=hp.voc_upsample_factors,
                 feat_dims=hp.num_mels, compute_dims=hp.voc_compute_dims, res_out_dims=hp.voc_res_out_dims, res_blocks=hp.voc_res_blocks,
-                hop_length=hp.hop_length, sample_rate=hp.sample_rate, mode=hp.voc_mode).to('cuda')
+                hop_length=hp.hop_length, sample_rate=hp.sample_rate, mode=hp.voc_mode).to('cpu')
 model.load(CHECKPOINTS_FOLDER + "/" + wavernn_chpt)
 
 y = []
