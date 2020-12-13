@@ -9,7 +9,7 @@ import pathlib
 
 if __name__ == "__main__":
 	
-	langSkip:list=["fr", "nl", "ru", "zh"]
+	langSkip:list=["de", "nl", "ru", "zh"]
 	
 	workdir:str = os.path.dirname(sys.argv[0])
 	if workdir.strip() != "":
@@ -43,7 +43,7 @@ if __name__ == "__main__":
 					fields=line.split("|")
 					if fields[2] in langSkip:
 						continue
-					line=ud.normalize("NFC",line.strip())
+					line=ud.normalize("NFD",line.strip())
 					line=line.replace("|wav/", "|"+parent+"/wav/")
 					lines.append(line)
 					speaker:str=fields[1].strip()
@@ -72,7 +72,7 @@ if __name__ == "__main__":
 		for line in f:
 			fields=line.split("|")
 			text:str=fields[6].lower()
-			text=ud.normalize("NFC", text)+ud.normalize("NFD", text)
+			text=ud.normalize("NFD", text)
 			for c in text:
 				if c in "!\"',.?@&-()*^%$#;":
 					continue
