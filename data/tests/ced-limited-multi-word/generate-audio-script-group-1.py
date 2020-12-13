@@ -121,7 +121,7 @@ for text in entries:
 
 scripta += scriptb
 
-for x in [1, 2, 3, 4]:
+for x in [1]:
     
     random.Random(x).shuffle(scripta) #fixed shuffle based on script no, for reproducibility
     randx = random.Random(x) #fixed random number set based on script no, for reproducibility
@@ -165,11 +165,11 @@ for x in [1, 2, 3, 4]:
     wordCommand:int=0
     for text in scripta:
         if wordCntr==0:
-            #basic bell curve, range: 1 to 11, for word count per "sentence".
+            #basic bell curve, range: 1 to 4, for word count per "sentence".
             lineLength:int=0
-            for _ in range(10):
+            for _ in range(1):
                 lineLength += randx.randint(0, 1) + 1
-            lineLength -= 9
+            lineLength -= 0
             wordComma=randx.randint(2,10) #random clause marks
         if wordCntr >= lineLength:
             script += str(cntr)+". "+line.strip()+".\n"

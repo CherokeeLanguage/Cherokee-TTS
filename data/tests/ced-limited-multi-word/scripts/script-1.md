@@ -29,68 +29,186 @@ pronounced as the start of the next syllable.
 
 ## Script 1
 
-1. U:hisdi uwa:nawo:hisdi nijiweɂa higaɂla hadag di:hu:l.
-2. Hadajagala, ani:sgaya uwa:gwayo:sd u:kt di:je:sd ama.
-3. U:yeɂisd ju:do ju:hnawo u:ni:gv:wiyu:hi, ju:dlo:hisd hisgi.
-4. Hig diga:hatdi hisduɂi u:tale:sd hilad jade:tiya kanalu:sga.
-5. Hid di:kta u:lo:hisdi. Go:g ago:na di:ligv:du:l halit du:ktinv:t.
-6. U:halv:n. Jigiɂlili hila di:kiyu:sge u:hwi:tdi u:du:ji u:su:ligosd.
-7. U:yv:sd aligv:du:lo i:sa kawo:hni gaɂdvsg.
-8. Uwa:tisd jiɂgisga dala:la hituɂisda ju:nadlo:hisdi hini:lad.
-9. U:kta jo:gi gu:l, gaɂlo:hni a:l go:tisga uwa:no:sasd goɂi.
-10. U:dayv:latdi kama:m advji u:ni:kta.
-11. Ju:du:ji hinu:go uwv:tdi diganu:laji jalag.
-12. A:l u:go:hisd u:yo:sdi hitalag. Jiɂlv:sga u:di:tasd goɂosg tusdi u:je:l.
-13. Gata hiɂvs diga:sgilo. Hinu:go:ɂi.
-14. Aligv:du:l al haso:lv:dagi, u:hnalu:hisd u:no:l hawi:ya u:yo:hu:hisd.
-15. Skoni, u:go:hisdi ni ju:hv:tdi uwe:la joɂi.
-16. Dala:l u:hyv:dla skon chino:sga. Hi:sgwada.
-17. Galo:sg haliti kano:g jiyoɂu:sga. U:daliɂi u:su:ligosdi ga:hatdi.
-18. Higv:hala u:ji, haj u:ne:hwi:tdi go:tisg di:dliɂad anv:hyi.
-19. Had dikano:g go:gi haso:lv:dag ka:gaɂli go:hwe:li.
-20. U:di:tdi i:g jayo:dag ju:sdayo:sd hilo:hisd.
-21. Adliɂad ga:sgilo kil u:ga:nawo:hisdi yv:g.
-22. Si hisgwal, u:hne:jo:di kila jusk.
-23. O:gan tin ani:siyv:wi:ha.
-24. Gv:he. Di:jalag u:ni:ji:ya jiɂgisg u:no:le asti da:hnawa.
-25. Hilada akta ju:du:j gili:s tina, geɂi tusd higa.
-26. Hv:sgalad u:yv:hwi:tdi hil hi:loɂis go:hosg, hig.
-27. U:hwisd go:hwe:l do:s hv:hnisd ast, ajin hi:sgwad.
-28. Di:kt digatdi ju:sdayo:sdi ajaɂdi.
-29. Hiko:dag hitalaga u:dlv:tasdi hidla hitalada.
-30. Ani:kti:si v:l hisu:ligoɂi, u:hnesdi ju:nadlo:hisd.
-31. Nv:d howa u:tayo:sdi o:hni.
-32. I:ya u:ji:ya u:d hiɂa hi:neɂvsi. U:jo:natdi ju:dlo:hisdi galo:sga.
-33. O:gana uwa:no:sasdi u:dlv:tasd i:s hi:yadeɂo:hisd.
-34. Jalagi hilo:hisda hisu:lig do:sa. Hajaɂi.
-35. Hida u:hdi daksi, sal hale:hwisda hi:yadeɂo:hisda sigigi.
-36. Gv:nawo:sg akti:si jo:g. Hale:hwisd u:sv:sd ha:ne:lada ago:la.
-37. Wakt nv:da u:li:ks usk lo:lo, gv:nawo:sga.
-38. A:li u:ksatdi v:dali ha:dlv u:hnawo go:hosga.
-39. Sigig hi:yo:lig hatasgi gaɂdvsga. Ha:hnigi u:hnesd uwa:nawo:hisd.
-40. Ale u:so:nv:sd hilagi, gatdi.
-41. Ju:halv:ni ha:de:yaga aje:sdo di:hu:li adliɂado v:dal ago:n, akiyu:sge.
-42. Ani:go:l ayo:hu:hisdi ju:nadal ju:liks chayvsdaga.
-43. Hatelad ani:dvj achv:ya ji:sdu hilag jv:sgi:no uska su:li, hine:sdalad.
-44. Kanalu:sg yans u:hnalu:hisdi ju:liksi ani:go:la ju:nadaliɂi ju:ni:ye:li:hisdi.
-45. Gade:loɂo:sg hisde:yaga hadajagal kwana ada, u:jo:nat u:tayo:sd.
-46. Ju:halv:n jo:la akiyu:sg jv:sgi:n hadawe:lag sa:sa jo:l.
-47. Hadv:nv:ɂisd ju:ktinv:tdi gade:loɂo:sga du:ktinv:ta wado u:yeɂisdi hi:yeɂisda.
-48. Jiɂlv:sg di:kiyu:sg ani:kti:s hisd gv:hna.
-49. U:jo:nati sv:do:n u:sv:sdi. Kano:ge hi:neɂvs.
-50. Hatelada hakwiya yv:gi chino:sg u:hnawosd, ajina kanu:na diganu:laj.
-51. U:hnawosdi hiya daks. Sv:do:ni sali uwa:jayo:sdi.
-52. Di:dliɂado hakt nigaweɂa wakti. V:le hikte:nag.
-53. Gu:le, ani:yv:wi ju:ni:ye:li:hisd yansa.
-54. Hwida u:lo:hisd ju:d i:nv:hi. A:liɂi goɂosga.
-55. Hitalad u:yv:sdi hikte:naga hituɂisd u:hisd. Sv:hi su:l.
-56. U:je:li uwe:l dlv digo:hwe:l hadagi.
-57. Uwa:gwayo:sdi higv:hal juwe:l u:do:da.
-58. Do:hiyu hadlag. U:najo:nat gat.
-59. Di:jalagi e:lad kuwa:ya hadawe:laga u:ga:nawo:hisd. U:yo:sd.
-60. Hada hadlagi hv:sgalada hakta akti:s.
-61. Wad ga:sgil hine:sdalada u:gv:wiyu:hi.
-62. Ani:chv:ya ji:sd jigiɂlil am.
-63. Naɂv. Chayvsdag a:dla juska hiko:dagi juwe:tdi kanu:n.
-64. Ayo:hu:hisd u:najo:nati u:halv:ni ani:jalag, jayo:daga di:ligv:du:lo hi:loɂisi.
-65. Ji:lal sa:s u:ni:kt aje:sd. Asgaya.
+1. U:hisdi.
+2. Nijiweɂa higaɂla.
+3. Di:hu:l u:hne:jo:d.
+4. Ani:sgaya uwa:gwayo:sd.
+5. Di:je:sd.
+6. Hisgwala. U:yeɂisd.
+7. Ju:hnawo. U:ni:gv:wiyu:hi.
+8. Hisgi hisde:yag.
+9. Diga:hatdi.
+10. U:tale:sd.
+11. Jade:tiya.
+12. U:j.
+13. Di:kta.
+14. Go:g.
+15. Di:ligv:du:l.
+16. Du:ktinv:t u:hwisdi.
+17. Jigiɂlili.
+18. Di:kiyu:sge.
+19. U:du:ji u:su:ligosd.
+20. U:yv:sd.
+21. I:sa.
+22. Gaɂdvsg akt.
+23. Jiɂgisga dala:la.
+24. Ju:nadlo:hisdi hini:lad.
+25. U:kta.
+26. Gu:l gaɂlo:hni.
+27. Go:tisga. Uwa:no:sasd.
+28. Advj.
+29. Kama:m advji.
+30. Hi:jagala ju:du:ji.
+31. Uwv:tdi diganu:laji.
+32. U:tale:sdi a:l.
+33. U:yo:sdi.
+34. Jiɂlv:sga u:di:tasd.
+35. Tusdi. U:je:l.
+36. Gata.
+37. Diga:sgilo hinu:go:ɂi.
+38. Aligv:du:l.
+39. Haso:lv:dagi.
+40. U:no:l.
+41. U:yo:hu:hisd.
+42. Skoni u:go:hisdi.
+43. Ju:hv:tdi uwe:la.
+44. Ani:jalagi.
+45. U:hyv:dla.
+46. Chino:sga.
+47. U:so:nv:sdi.
+48. Haliti kano:g.
+49. U:daliɂi.
+50. Ga:hatdi dla:me:ha.
+51. U:ji haj.
+52. Go:tisg. Di:dliɂad.
+53. Ad, had.
+54. Go:gi.
+55. Ka:gaɂli.
+56. Ani:dvji, u:di:tdi.
+57. Jayo:dag.
+58. Hilo:hisd. U:do:d.
+59. Ga:sgilo.
+60. U:ga:nawo:hisdi.
+61. Juwe:la si.
+62. U:hne:jo:di.
+63. Jusk.
+64. O:gan.
+65. Ani:siyv:wi:ha u:dal.
+66. Di:jalag u:ni:ji:ya.
+67. U:no:le asti.
+68. Higi.
+69. Akta ju:du:j.
+70. Tina geɂi.
+71. Higa ga:kwe:nv:sg.
+72. U:yv:hwi:tdi hil.
+73. Go:hosg.
+74. Di:je:sdo.
+75. Go:hwe:l.
+76. Hv:hnisd.
+77. Ajin.
+78. Hiɂvsi di:kt.
+79. Ju:sdayo:sdi.
+80. Dikano:ge hiko:dag.
+81. U:dlv:tasdi.
+82. Hitalada jiyoɂu:sg.
+83. V:l.
+84. U:hnesdi.
+85. U:du:j.
+86. Howa.
+87. O:hni uwe:tdi.
+88. U:ji:ya.
+89. Hiɂa hi:neɂvsi.
+90. Ju:dlo:hisdi.
+91. Hiyoɂi:sd.
+92. Uwa:no:sasdi u:dlv:tasd.
+93. Hi:yadeɂo:hisd.
+94. Jalagi.
+95. Hisu:lig.
+96. Hajaɂi kama:ma.
+97. U:hdi daksi.
+98. Hale:hwisda hi:yadeɂo:hisda.
+99. Lo:l. Gv:nawo:sg.
+100. Jo:g hale:hwisd.
+101. Ha:ne:lada.
+102. Ha:ne:lad.
+103. Nv:da.
+104. Usk lo:lo.
+105. U:tdi a:li.
+106. V:dali ha:dlv.
+107. Go:hosga ganv:no:wa.
+108. Hi:yo:lig hatasgi.
+109. Ha:hnigi.
+110. Uwa:nawo:hisd.
+111. Ale.
+112. Hilagi.
+113. U:de:tdi.
+114. Ha:de:yaga aje:sdo.
+115. Adliɂado v:dal.
+116. Akiyu:sge u:yo:hu:hisdi.
+117. Ayo:hu:hisdi.
+118. Ju:liks.
+119. I:ga.
+120. Ani:dvj.
+121. Ji:sdu.
+122. Jv:sgi:no.
+123. Su:li.
+124. Hisg kanalu:sg.
+125. U:hnalu:hisdi ju:liksi.
+126. Ju:nadaliɂi.
+127. Ha:hnig gade:loɂo:sg.
+128. Hadajagal kwana.
+129. U:jo:nat.
+130. Hini:lada ju:halv:n.
+131. Akiyu:sg.
+132. Hadawe:lag.
+133. Jo:l.
+134. Hadv:nv:ɂisd.
+135. Gade:loɂo:sga.
+136. Wado u:yeɂisdi.
+137. Hi:yeɂisd.
+138. Di:kiyu:sg.
+139. Hisd.
+140. Hadv:nv:ɂisda u:jo:nati.
+141. U:sv:sdi kano:ge.
+142. Ha:de:yag hatelada.
+143. Yv:gi chino:sg.
+144. Ajina.
+145. Diganu:laj.
+146. U:hnawosdi.
+147. Daks sv:do:ni.
+148. Uwa:jayo:sdi u:li:ksi.
+149. Hakt nigaweɂa.
+150. V:le.
+151. Uwa:tisdi gu:le.
+152. Ju:ni:ye:li:hisd yansa.
+153. Hwida u:lo:hisd.
+154. I:nv:hi a:liɂi.
+155. Diga:sgil.
+156. U:yv:sdi.
+157. Hituɂisd u:hisd.
+158. Su:l gili:si.
+159. Uwe:l dlv.
+160. Hadagi ji:lali.
+161. Higv:hal juwe:l.
+162. Hwid.
+163. Hadlag.
+164. Gat u:daleɂhi.
+165. E:lad kuwa:ya.
+166. U:ga:nawo:hisd.
+167. U:di:tasdi.
+168. Hadlagi.
+169. Hakta.
+170. E:ladi.
+171. Ga:sgil.
+172. U:gv:wiyu:hi uwa:jayo:sd.
+173. Ji:sd jigiɂlil.
+174. Udli.
+175. Chayvsdag a:dla.
+176. Hiko:dagi.
+177. Kanu:n.
+178. Ayo:hu:hisd u:najo:nati.
+179. Ani:jalag.
+180. Di:ligv:du:lo hi:loɂisi.
+181. Ji:lal.
+182. U:ni:kt.
+183. Asgaya.
