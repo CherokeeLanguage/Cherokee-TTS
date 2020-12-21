@@ -42,7 +42,7 @@ for voice in "${v[@]}"; do
 	syn=""
 	cp /dev/null "$tmp"
 	ix=0
-	cat "$text" | while read sentence; do
+	cat "$text" | uconv -x any-nfd | while read sentence; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${sentence}" "$voice" >> "$tmp"
 	done
