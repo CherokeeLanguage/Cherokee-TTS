@@ -1,6 +1,7 @@
 import sys
 import os
 import numpy as np
+import unicodedata as ud
 
 sys.path.insert(0, "../")
 
@@ -66,7 +67,7 @@ if __name__ == '__main__':
                 if not os.path.exists(lin_path):
                     np.save(lin_path, audio.spectrogram(audio_data, False))
 
-                print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}|{lin_path_partial}|{raw_text}|{phonemes}', file=f)
+                print(ud.normalize("NFD", f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}|{lin_path_partial}|{raw_text}|{phonemes}'), file=f)
                 
                 if specId%100==0:
                     print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}|{lin_path_partial}|{raw_text}|{phonemes}')
