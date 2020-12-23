@@ -66,8 +66,8 @@
 72246|À:de:hǒ:sga.||Gadeɂǒ:sga.|Hade:hǒ:hi.|U:de:hǒ:hísdi.|Ù:de:hǒ:sv́:ɂi.|À:de:hǒ:sgóɂi.|he's embarrassed
 72247|À:de:hv́sga.||Gadeɂv́sga.|Ha:de:hv̀:ga.|U:dehdi.|Ù:de:hnv̌:ɂi.|À:de:hvsgó:ɂi.|he's being born
 72248|Adě:la.|||||||money
-72249|Aděldiyhdi̋:ɂi, adělju:niyhdi̋:i.|||||||bank
-72250|Aděljǔ:hlv̋:ɂi.|||||||California
+72249|Adě:ldiyhdi̋:ɂi, adě:lju:niyhdi̋:i.|||||||bank
+72250|Adě:ljǔ:hlv̋:ɂi.|||||||California
 72251|À:de:loho:sga.||Gade:loɂo:sga.|Hade:lohǒ:hi.|U:de:loho:hísdi.|Ù:de:loho:sv̌:ɂi.|À:dè:loho:sgó:ɂi.|he's finding it out
 72252|Áde:lv̋:ɂi.|||||||dollars
 72253|À:de:tv́sga.||Ga:dé:dvsga.|Hade:tv̀:ga.|U:de:tdi.|Ù:dě:tínv́:ɂi.|À:de:tv́sgóɂi.|he's diving
@@ -109,12 +109,12 @@
 72290|Advji.|Ani:dvji.||||||1. Dutch, 2. German
 72291|À:dv́:neha.||Gadv:neha.|Hadv̀:ga.|U:dv̀nhdi.|Ù:dv́:ne:lv̌:ɂi.|À:dv́:ne:hó:ɂi.|he's doing it
 72292|À:dv́:ne:líha.||Gadv́:ne:líha.|Hadv̀:ně:la.|U:dv̀:něhldi.|Ù:dv́:ne:lv:hnv̌:ɂi.|À:dv́:ne:lǐ:sgóɂi.|he's acting silly
-72293|Adv̀:ně:li̋:sgi.|Anadv̀:né̋:li̋:sgi.||||||actor
+72293|Adv̀:ně:li̋:sgi.|Anadv̀:ne̋́:li̋:sgi.||||||actor
 72294|À:dv:nv́:ɂisdíha.||Gadv:nv́:ɂisdíha.|Hadv:nv:ɂisda.|U:dv:nvɂisdóhdi.|Ù:dv:nv́:ɂistánv́:ɂi.|À:dv:nv́:ɂisdǐ:sgoɂi.|1. he's preparing it.  2. he's getting ready
 72295|Aga:da:ha̋:ɂi.|Ani:ga:da:ha̋:ɂi.||||||dirty (animate)
 72296|Agahli̋:yi.|Ani:gahli̋:yi.||||||eager
 72297|À:gá:liha.||-----.|-----.|U:ga:lǐ:hísdi.|Ù:gá:li:sv̌:ɂi.|À:gá:li:sgó:ɂi.|it's (sun or moon) shining
-72298|À:gâlsga.||Jigâlsga.|Higaɂla.|U:gàlsdi.|Ù:gâlsv̌:ɂi.|À:gâlsgó:ɂi.|1.  he's breaking a flexible object, 2. He's cutting a flexible object
+72298|À:gâ:lsga.||Jigâ:lsga.|Higaɂla.|U:gà:lsdi.|Ù:gâ:lsv̌:ɂi.|À:gâ:lsgó:ɂi.|1.  he's breaking a flexible object, 2. He's cutting a flexible object
 72299|A:galǔ:ga.|||||||twister (tornado)
 72300|À:ganǎ:díɂa.||Jiganǎ:díɂa.|Higanǎ:da.|U:ganǎ:dî:sdi.|Ù:ganǎ:dv̌:ɂi.|À:ganǎ:dî:sgó:ɂi.|he's licking it
 72301|Agáɂnakti.|Ani:gáɂnakti.||||||doctor
@@ -168,7 +168,7 @@
 72349|À:híɂle:ha.||Jiɂíle:ha.|-----.|U:hiɂlv̀:sdi.|-----.|À:híɂlè:hó:ɂi.|he has possession of a vehicle
 72350|À:híɂli.||Jiɂíli.|-----.|U:hiɂlv̀:sdi.|Ù:híɂlv́:sv̌:ɂi.|À:híɂlí:só:ɂi.|he's driving it (vehicle in motion or animal)
 72351|Ahiɂlv̀:sdi̋:ɂi.|Di:hiɂlv̀:sdi̋:ɂi.||||||steering wheel
-72353|À:hi:yáɂa.||Jiɂi:yáɂa.|Hihǐ:ya.|U:hí̋:yâ:sdi.|Ù:hí:yv̌:ɂi.|À:hi:yâ:sgó:ɂi.|he's leaving it behind
+72353|À:hi:yáɂa.||Jiɂi:yáɂa.|Hihǐ:ya.|U:hi̋́:yâ:sdi.|Ù:hí:yv̌:ɂi.|À:hi:yâ:sgó:ɂi.|he's leaving it behind
 72354|À:hlahv́sga.||Jì:hlahv́sga.|Hihlahv̀:ga.|U:hlohdi.|Ù:hlahv̌:ɂsga.|À:hlahv́sgóɂi.|he's placing it on something
 72355|À:hlawi:díha.||Gadlawi:díha.|Hahlawǐ:da.|U:hlawi:tdi.|U:hlawi:dv:hv̌:ɂi.|À:hla:wi:dǐ:sgóɂi.|he's taking off flying, its flying away
 72356|Ahlawi:di̋:sgi.|Di:hlawi:di̋:sgi.||||||something that flies away
@@ -227,7 +227,7 @@
 72409|Ahyelsdi, hayelsdi.|||||||knife
 72410|À:hyóha.||Ji:yóha.|Hìyhga.|Uysdi.|Ù:hyalv̌:ɂi.|À:hyohó:ɂi.|he's looking for him
 72411|À:hyúɂi:né:ga.||Gà:yúɂi:né:ga.|Ha:hyuɂi:nù:ga.|U:hyuɂǐ:nv̂:sdi.|Ù:hyúɂi:nv́:sv̌:ɂi.|À:hyúɂi:né:gó:ɂi.|he's swimming (propelling himself through water)
-72412|À:hyv:dagwalóɂa.||||U:hyv:dagwalòsdi.|Ù:hyv:dagwalóɂvi.|À:hyv:dagwálô:sgó:ɂi.|it's thundering
+72412|À:hyv:dagwalóɂa.||||U:hyv:dagwalò:sdi.|Ù:hyv:dagwalóɂvi.|À:hyv:dagwálô:sgó:ɂi.|it's thundering
 72413|Ahyv:dagwalò:sgi.|||||||thunder
 72414|Ahyv:dladì:sdi̋:sgi.|Di:hyv:dladì:sdi̋:sgi.||||||1. refrigerator 2. air conditioner
 72415|Ahyvhdlo.|Di:hyvhdlo.||||||ladder
@@ -328,28 +328,28 @@
 72511|Aliyè:sǔ:sto.|Di:liyè:sǔ:sto.||||||ring
 72512|À:liyê:su:stv́sga.||Galiyê:su:stv́sga.|Haliyè:su:stv̀:ga.|U:liyè:sǔ:stv́sdi.|Ù:liyê:su:stánv́:ɂi.|À:liyê:su:stv́sgóɂi.|he's putting a ring on his finger
 72513|A:lǐ:yo.|Di:lǐ:yo.||||||sock
-72514|À:ljí:kwsga.||Galjí:kwsga.|Haljì:kwa.|Uljì:kwsdi.|Ùljí:gwv̌:ɂi.|Àljí:kwsgó:ɂi.|he's spitting
-72516|Àlsaladíɂa.||Galì:saladíɂa.|Halsaladv̀:ga.|Ulsaladò:di.|Ùlsaladâ:nv̌:ɂi.|Àlsaladî:sgó:ɂi.|he, it's ascending, raising
+72514|À:ljí:kwsga.||Galjí:kwsga.|Haljì:kwa.|Uljì:kwsdi.|Ù:ljí:gwv̌:ɂi.|À:ljí:kwsgó:ɂi.|he's spitting
+72516|À:lsaladíɂa.||Galì:saladíɂa.|Halsaladv̀:ga.|Ulsaladò:di.|Ù:lsaladâ:nv̌:ɂi.|À:lsaladî:sgó:ɂi.|he, it's ascending, raising
 72517|Álsdàyhdi.|||||||1. food  2. groceries
-72518|Àlsdâ:yv:hv́sga.||Galì:sdâ:yv:hv́sga.|Halsdà:yv:hv̀:ga.|Ulsdàyhdi.|Ùlsdâ:yv:hnv̌:ɂi.|Àlsdâ:yv:hvsgó:ɂi.|he's eating a meal
+72518|À:lsdâ:yv:hv́sga.||Galì:sdâ:yv:hv́sga.|Halsdà:yv:hv̀:ga.|Ulsdàyhdi.|Ù:lsdâ:yv:hnv̌:ɂi.|À:lsdâ:yv:hvsgó:ɂi.|he's eating a meal
 72519|Alsděhldohdi.|||||||aid, assistance (financial)
-72520|Àlsde:líha.||Galì:sde:líha.|Halsdě:la.|Ulsdehldi.|Ùlsde:lv:hv̌:ɂi.|Àlsde:lǐ:sgóɂi.|he's helping
-72521|Àlsdǔ:léɂa.||Galì:sdǔ:léɂa.|Halsdu:lagi.|Ulsdǔ:lê:sdi.|Ùlsdǔ:lê:sv̌:ɂi.|Àlsdǔ:lê:sgó:ɂi.|he's taking off his cap
-72522|Àlsdǔ:lé:ha.||Galì:sdǔ:lé:ha.|Halsdǔ:la.|Ulsdǔhldi.|Ùlsdǔ:lé:hv̌:ɂi.|Àlsdǔ:lé:sgó:ɂi.|he's washing his hair
-72523|Àlsdǔ:líɂa.||Galì:sdǔ:líɂa.|Halsdu:lv̀:ga.|Ulsdǔ:lô:di.|Ùlsdǔ:lâ:nv̌:ɂi.|Àlsdǔ:lî:sgó:ɂi.|he's putting on a cap
+72520|À:lsde:líha.||Galì:sde:líha.|Halsdě:la.|Ulsdehldi.|Ù:lsde:lv:hv̌:ɂi.|À:lsde:lǐ:sgóɂi.|he's helping
+72521|À:lsdǔ:léɂa.||Galì:sdǔ:léɂa.|Halsdu:lagi.|Ulsdǔ:lê:sdi.|Ù:lsdǔ:lê:sv̌:ɂi.|À:lsdǔ:lê:sgó:ɂi.|he's taking off his cap
+72522|À:lsdǔ:lé:ha.||Galì:sdǔ:lé:ha.|Halsdǔ:la.|Ulsdǔhldi.|Ù:lsdǔ:lé:hv̌:ɂi.|À:lsdǔ:lé:sgó:ɂi.|he's washing his hair
+72523|À:lsdǔ:líɂa.||Galì:sdǔ:líɂa.|Halsdu:lv̀:ga.|Ulsdǔ:lô:di.|Ù:lsdǔ:lâ:nv̌:ɂi.|À:lsdǔ:lî:sgó:ɂi.|he's putting on a cap
 72524|Alsdu:lo.|Dilsdu:lo.||||||cap
-72525|Àlsdv:hlúsga.||Galì:sdv:hlúsga.|Halsdv:hlù:ga.|Ulsdv:hlúsdi.|Ùlsdv:hlúnv́:ɂi.|Àlsdv:hlúsgóɂi.|he's taking a seat
-72526|Àlsdv:hníha.||Galì:sdv:hníha.|Halsdvnhga.|Ulsdvnhdi.|Ùlsdv:hnilv̌:ɂi.|Àlsdv:hníhóɂi.|he's shaking his head
-72527|Àlsgí:ɂa.||Galì:sgí:ɂa.|Halsgi.|Ulsgì:sdi.|Ùlsgí:sv̌:ɂi.|Àlsgí:sgó:ɂi.|he's dancing
-72528|Àlsgohldâ:neha.||Ji:yalì:sgohldâ:neha.|Hi:yalì:sgohldà:si.|Ulsgohldà:néhdi.|Ùlsgohldâ:ne:lv̌:ɂi.|Àlsgohldâ:ne:hó:ɂi.|he's permitting him
-72529|Àlsgû:sga.||Galì:sgû:sga.|Halsgù:hya.|Ulsgù:sdi.|Ùlsgû:hyv̌:ɂi.|Àlsgû:sgó:ɂi.|he's nodding his head
-72530|Àlsgwadíɂa.||-----.|-----.|Ulsgwadì:sdi.|Ùlsgwádv̌:ɂi.|Àlsgwadî:sgó:ɂi.|it's ending
-72531|Àlsgwalǔ:díɂa.||Galì:sgwalǔ:díɂa.|Halsgwalu:dv̀:ga.|Ulsgwalǔ:dô:di.|Ùlsgwalǔ:dâ:nv̌:ɂi.|Àlsgwalǔ:dî:sgó:ɂi.|he's sticking his head out
-72532|Àlsgwé:tuhgí:ɂa.||Galì:sgwé:tuhgí:ɂa.|Halsgwè:tuhgi.|Ulsgwè:tuhgì:sdi.|Ùlsgwé:tuhgí:sv̌:ɂi.|Àlsgwé:tuhgí:sgó:ɂi.|he's taking his hat off
-72533|Àlsgwé:tuhv́ga.||Galì:sgwé:túhv́sga.|Halsgwè:tuhv̀:ga.|Ulsgwè:túsdi.|Ùlsgwé:tuhnv̌:ɂi.|Àlsgwé:tuhv́sgóɂi.|he's putting his hat on
+72525|À:lsdv:hlúsga.||Galì:sdv:hlúsga.|Halsdv:hlù:ga.|Ulsdv:hlúsdi.|Ù:lsdv:hlúnv́:ɂi.|À:lsdv:hlúsgóɂi.|he's taking a seat
+72526|À:lsdv:hníha.||Galì:sdv:hníha.|Halsdvnhga.|Ulsdvnhdi.|Ù:lsdv:hnilv̌:ɂi.|À:lsdv:hníhóɂi.|he's shaking his head
+72527|À:lsgí:ɂa.||Galì:sgí:ɂa.|Halsgi.|Ulsgì:sdi.|Ù:lsgí:sv̌:ɂi.|À:lsgí:sgó:ɂi.|he's dancing
+72528|À:lsgohldâ:neha.||Ji:yalì:sgohldâ:neha.|Hi:yalì:sgohldà:si.|Ulsgohldà:néhdi.|Ù:lsgohldâ:ne:lv̌:ɂi.|À:lsgohldâ:ne:hó:ɂi.|he's permitting him
+72529|À:lsgû:sga.||Galì:sgû:sga.|Halsgù:hya.|Ulsgù:sdi.|Ù:lsgû:hyv̌:ɂi.|À:lsgû:sgó:ɂi.|he's nodding his head
+72530|À:lsgwadíɂa.||-----.|-----.|Ulsgwadì:sdi.|Ù:lsgwádv̌:ɂi.|À:lsgwadî:sgó:ɂi.|it's ending
+72531|À:lsgwalǔ:díɂa.||Galì:sgwalǔ:díɂa.|Halsgwalu:dv̀:ga.|Ulsgwalǔ:dô:di.|Ù:lsgwalǔ:dâ:nv̌:ɂi.|À:lsgwalǔ:dî:sgó:ɂi.|he's sticking his head out
+72532|À:lsgwé:tuhgí:ɂa.||Galì:sgwé:tuhgí:ɂa.|Halsgwè:tuhgi.|Ulsgwè:tuhgì:sdi.|Ù:lsgwé:tuhgí:sv̌:ɂi.|À:lsgwé:tuhgí:sgó:ɂi.|he's taking his hat off
+72533|À:lsgwé:tuhv́ga.||Galì:sgwé:túhv́sga.|Halsgwè:tuhv̀:ga.|Ulsgwè:túsdi.|Ù:lsgwé:tuhnv̌:ɂi.|À:lsgwé:tuhv́sgóɂi.|he's putting his hat on
 72534|Alsgwè:tuwo.|Dilsgwè:tuwo.||||||hat
-72535|Àlsǒ:sdíha.||Galì:sǒ:sdíha.|Halsǒ:sda.|Ulsǒ:sdóhdi.|Ùlsǒ:stánv̌:ɂi.|Àlsǒ:sdí:sgó:ɂi.|1. he's setting a goal 2.  he's aiming
-72536|Àlsv̂:sdíha.||Galì:sv̂:sdíha.|Halsv̀:sda.|Ulsv̀:sdóhdi.|Ùlsv̂:stanv̌:ɂi.|Àlsv̂:sdi:sgó:ɂi.|he's smelling it  (sniff)
+72535|À:lsǒ:sdíha.||Galì:sǒ:sdíha.|Halsǒ:sda.|Ulsǒ:sdóhdi.|Ù:lsǒ:stánv̌:ɂi.|À:lsǒ:sdí:sgó:ɂi.|1. he's setting a goal 2.  he's aiming
+72536|À:lsv̂:sdíha.||Galì:sv̂:sdíha.|Halsv̀:sda.|Ulsv̀:sdóhdi.|Ù:lsv̂:stanv̌:ɂi.|À:lsv̂:sdi:sgó:ɂi.|he's smelling it  (sniff)
 72537|Ama.|||||||water
 72538|Á:ma.|||||||salt
 72539|Amáhldi̋:ɂi.|||||||water well
@@ -375,7 +375,7 @@
 72559|Ani:ne̋:li.|||||||her husband
 72560|Ani:sgwa:ni̋:ɂi.|||||||Mexico
 72561|Ani:yósgi̋:ɂi.|||||||military service
-72562|Ànsgv:ti.|||||||May
+72562|À:nsgv:ti.|||||||May
 72563|Anv:hyi.|||||||March
 72564|À:sadv̂:sga.||Jì:sadv̂:sga.|Hisadvɂv̀:ga.|U:sadv̀:di.|Ù:sadv̂:nv̌:ɂi.|À:sadv̂:sgó:ɂi.|he's setting a trap
 72565|À:saladíɂa.||Jì:saladíɂa.|Hì:saladv̀:ga, hisaladv̀:ga.|U:saladò:di.|Ù:saladâ:nv̌:ɂi.|À:saladî:sgó:ɂi.|he's lifting him, raising him, it
@@ -416,7 +416,7 @@
 72600|Asgǐ:na.|Ani:sgǐ:na.||||||demon, devil
 72601|À:sgi:tsga.||Ji:yà:sgi:tsga, gà:sgi:tsga.|Hi:yà:sgǐ:tsa, hasgǐ:tsa.|U:sgi:tsdi.|Ù:sgi:tsv̌:ɂi.|À:sgi:tsgó:ɂi.|he's dreaming about him, it
 72603|À:sgo:gíɂa.||Jì:sgo:gíɂa.|Hisgǒ:ga.|U:sgǒ:gî:sdi.|Ù:sgó:gv̌:ɂi.|À:sgo:gî:sgó:ɂi.|he's gnawing it
-72604|À:sgǒ:hníha.||Jì:sgǒ:hníha.|Hì:sgǒnhga, hi:sgǒnhga.|U:sgǒnsdi.|Ù:sgǒ:hnílv̌:ɂi.|À:sgǒ:hníhó:ɂi.|he's mourning for him, it
+72604|À:sgǒ:hníha.||Jì:sgǒ:hníha.|Hì:sgǒnhga, hi:sgǒnhga.|U:sgǒ:nsdi.|Ù:sgǒ:hnílv̌:ɂi.|À:sgǒ:hníhó:ɂi.|he's mourning for him, it
 72605|À:sgo:lǐ:yéɂa.||Ji:yà:sgo:lǐ:yéɂa, gà:sgo:lǐ:yéɂa.|Hi:yà:sgo:lǐ:ya, ha:sgo:lǐ:ya.|U:sgo:lǐ:yê:di.|Ù:sgo:lǐ:yéɂv̌:ɂi.|À:sgo:lǐ:yê:sgó:ɂi.|he's rubbing him, it
 72606|À:sgǒ:lv́:di:ɂa.||Jì:sgǒ:lv́:diɂa.|Hisgo:lv̌:da.|U:sgǒ:lv́:dì:sdi.|Ù:sgǒ:lv́:dv̌:ɂi.|À:sgǒ:lv́:dì:sgó:ɂi.|he's erasing it
 72607|À:sgǒ:lv̋:dì:sdi.|Di:sgǒ:lv̋:dì:sdi.||||||eraser
@@ -428,7 +428,7 @@
 72613|À:sgwâ:hleɂa.||Jì:sgwâ:hleɂa.|Hì:sgwà:hlagi.|U:sgwà:hlè:sdi.|Ù:sgwâ:hlè:sv̌:ɂi.|À:sgwâ:hlè:sgó:ɂi.|he's catching a falling person, object
 72614|Asgwala̋:ɂi.|Disgwala̋:ɂi.||||||short
 72615|À:sgwalô:ga.||Jì:sgwalô:ga.|Hisgwalò:gi.|U:sgwalòysdi.|Ù:sgwalô:jv̌:ɂi.|À:sgwalô:gó:ɂi.|1. it's getting shorter 2. he's getting short on
-72616|À:sgwâlsga.||Jì:sgwâlsga.|Hisgwala.|U:sgwàlsdi.|Ù:sgwâlsv̌:ɂi.|À:sgwâlsgó:ɂi.|he's breaking a long object
+72616|À:sgwâ:lsga.||Jì:sgwâ:lsga.|Hisgwala.|U:sgwà:lsdi.|Ù:sgwâ:lsv̌:ɂi.|À:sgwâ:lsgó:ɂi.|he's breaking a long object
 72617|À:sgwalv́:niha.||Jì:sgwalv́:niha.|Hì:sgwalv:nì:ga.|U:sgwalv:nî:sdi.|Ù:sgwalv̌:nî:lv̌:ɂi.|À:sgwalv́:nihó:ɂi.|he's hitting him on the head with a long object
 72618|Asgwa̋:ni.|Ani:sgwa̋:ni.||||||Mexican
 72619|À:sgwanigǒ:sga.||Jì:sgwanigǒ:sga.|Hisgwanigǒ:hi.|U:sgwanigǒ:hísdi.|Ù:sgwanigǒ:sv̂:ɂi.|À:sgwanigǒ:sgóɂi.|he's amazed
@@ -444,7 +444,7 @@
 72629|À:sǒ:hyóha.||Gà:sǒ:hyóha.|Hasǒyhga.|U:sǒysdi.|Ù:sǒ:hya̋lv̌:ɂi.|À:sǒ:hyóhó:ɂi.|he's building a fence
 72630|À:sǒ:hyv̋:ɂi.|Dà:sǒ:hyv̋:ɂi.||||||fence
 72631|À:so:lv:dagí:ɂa.||Gà:so:lv:dagí:ɂa.|Haso:lv:dagi.|U:so:lv:dagì:sdi.|Ù:so:lv:dagí:sv̌:ɂi.|À:so:lv:dagí:sgó:ɂi.|he's waving his hand
-72632|À:sônsdíha.||Ji:yà:sônsdíha, gà:sônsdíha.|Hi:yà:sònsda, ha:sònsda.|U:sònsdohdi.|Ù:sônstanv̌:ɂi.|À:sônsdǐ:sgóɂi.|he's pressing down on him, it
+72632|À:sô:nsdíha.||Ji:yà:sô:nsdíha, gà:sô:nsdíha.|Hi:yà:sò:nsda, ha:sò:nsda.|U:sò:nsdohdi.|Ù:sô:nstanv̌:ɂi.|À:sô:nsdǐ:sgóɂi.|he's pressing down on him, it
 72633|À:so:nv:sga.||Jì:so:nv:sga.|Hì:so:nv̌:na.|U:so:nv:sdi.|Ù:so:nv:hnv̌:ɂi.|À:so:nv:sgó:ɂi.|he's wounding him, it
 72634|Asti.|||||||1. string 2. thread
 72635|À:sú:ɂa.||Gà:sú:ɂa.|Hasǔ:ja.|U:sù:sdi.|Ù:sú:sv̌:ɂi.|À:sú:sgó:ɂi.|he's sopping it
@@ -549,7 +549,7 @@
 72737|Dà:da:hnâwsdíha.||De:gádà:nâwsdíha.|Tadá:hnàwsda.|Ju:da:hnàwsdóhdi.|Dù:da:hnâwstanv̌:ɂi.|Dà:da:hnâwsdi:sgó:ɂi.|He's making an X
 72738|Dà:da:hnâwsdv̋:ɂi nv:nǒ:hi.|||||||crossroads
 72739|Dà:da:hne:sé:ɂa.||De:gádà:ne:sé:ɂa.|Tadá:hne:saga.|Ju:da:hne:sè:sdi.|Dù:da:hne:sá:ɂv̌:ɂi.|Dà:da:hne:sé:sgó:ɂi.|he's conjuring
-72740|Dà:dani:lv́:ga.||De:jí:yadani:lv́:ga, de:gádani:lv́:ga.|Ti:yádani:lv̀:gi, tadáni:lv̀:gi.|Ju:dani:lv̀sdi.|Dù:dani:lv́:jv̌:ɂi.|Dà:dani:lv́:gó:ɂi.|he's accepting him, it
+72740|Dà:dani:lv́:ga.||De:jí:yadani:lv́:ga, de:gádani:lv́:ga.|Ti:yádani:lv̀:gi, tadáni:lv̀:gi.|Ju:dani:lv̀:sdi.|Dù:dani:lv́:jv̌:ɂi.|Dà:dani:lv́:gó:ɂi.|he's accepting him, it
 72741|Dà:danv̌:dî:sdiha.||De:gádanv̌:dî:sdiha.|Tadánv:dì:sda.|Ju:danv̌:dî:sdohdi.|Dù:danv̌:dî:stanv̌:ɂi.|Dà:danv̌:dî:di:sgó:ɂi.|he's dodging
 72742|Dà:da:wó:ɂa.||De:gáda:wó:ɂa.|Tadá:wo:ja.|Ju:da:wò:sdi.|Dù:da:wó:ɂv̌:ɂi.|Dà:da:wó:sgó:ɂi.|he's performing a baptism
 72743|Dà:da:yósga.||De:gáda:yósga.|Tadá:yohi.|Ju:da:yóhísdi.|Dù:da:yósv̌:ɂi.|Dà:da:yosgó:ɂi.|he's giving up
@@ -601,7 +601,7 @@
 72790|Dà:lǐ:yó:giɂa.||De:gá:lǐ:yó:giɂa.|Ta:lí:yo:gi.|Ju:lǐ:yó:gì:sdi.|Dù:lǐ:yó:gì:sv̌:ɂi.|Dà:lǐ:yó:gì:sgó:ɂi.|he's taking off his socks
 72791|Dà:lǐ:yó:hia.||De:gá:lǐ:yóɂiha.|Ta:lí:yo:ga.|Ju:lǐ:yó:sdi.|Dù:lǐ:yó:hlv̌:ɂi.|Dà:lǐ:yó:hihó:ɂi.|he's putting on his socks
 72792|Dà:lǐ:yó:siha.||De:gá:lǐ:yô:siha.|Ta:lí:yo:sa.|Ju:lǐ:yó:svhdi.|Dù:lǐ:yó:sv:hv̌:ɂi.|Dà:lǐ:yó:si:hó:ɂi.|he's changing his socks
-72793|Dàlso:sdíha.||De:jí:yalì:sǒ:sdíha, de:gálì:sǒ:sdíha.|Ti:yálì:sǒ:sda, tá:lso:sda.|Julsǒ:sdóhdi.|Dùlsǒ:stánv̌:ɂi.|Dàlsǒ:sdí:sgó:ɂi.|1. he's aiming at him, it  2 . he's aiming it
+72793|Dà:lso:sdíha.||De:jí:yalì:sǒ:sdíha, de:gálì:sǒ:sdíha.|Ti:yálì:sǒ:sda, tá:lso:sda.|Julsǒ:sdóhdi.|Dù:lsǒ:stánv̌:ɂi.|Dà:lsǒ:sdí:sgó:ɂi.|1. he's aiming at him, it  2 . he's aiming it
 72794|Da:mága.|||||||horsefly
 72795|Dà:nada:híɂlǐ:dô:ha.||Dò:jada:híɂlǐ:dô:ha.|Dì:jadá:hiɂli:da.|Ju:nada:hiɂlǐ:dâ:sdi.|Dù:nada:híɂlǐ:dô:lv̌:ɂi.|Dà:nada:híɂlǐ:dô:hó:ɂi.|they are having a trial
 72796|Dà:nadlo:sga.||Dò:jadlo:sga.|Dì:jadló:hi.|Ju:nadlo:hisdi.|Dù:nadlo:sv̌:ɂi.|Dà:nadlo:sgó:ɂi.|1. they are meeting 2. they are meeting someone
@@ -642,7 +642,7 @@
 72831|De:káno:gí:ɂa.||De:jî:no:gí:ɂa.|Tihnó:gi.|Ju:hno:gì:sdi.|Dù:hno:gí:sv̌:ɂi.|De:káno:gí:sgó:ɂi.|he's singing
 72832|De:kánugosga.||De:jî:nu:gǒ:sga.|Tî:nu:gǒ:la.|Ju:hnu:gǒ:sdi.|Dù:hnu:gǒ:sv́:ɂi.|De:kánu:gǒ:sgó:ɂi.|he's clawing him
 72833|De:káyv̌:sgwóɂiha.|||||||(see giga dekayvsgwoiha)
-72834|Dé:kgi:ló:ɂa.||De:gv̂:gi:ló:ɂa.|Tvhgí:lo:ja.|Juhgi:lò:sdi.|Dùhgi:ló:ɂv̌:ɂi.|Dé:kgi:ló:sgó:ɂi.|he's washing flexible objects (including clothes)
+72834|Dé:kgi:ló:ɂa.||De:gv̂:gi:ló:ɂa.|Tvhgí:lo:ja.|Juhgi:lò:sdi.|Dù:hgi:ló:ɂv̌:ɂi.|Dé:kgi:ló:sgó:ɂi.|he's washing flexible objects (including clothes)
 72835|Di-.|||||||noun prefix plural (see Gram. II, A)
 72836|Di-.|||||||(see de-)
 72837|Di-.|||||||verbal prefix - distant position (see Gram. I, A)
@@ -805,7 +805,7 @@
 72996|Ga:dǒ:lî:ga.||Ji:ya:dǒ:lî:ga.|Hi:ya:do:lì:gi.|Uwa:do:lísdi.|Ù:wa:dǒ:lî:jv̌:ɂi.|Ga:dǒ:lî:gó:ɂi.|he's pitying him
 72997|Gadóhndíha.||Ji:yadónhdíha, gadónhdíha.|Hi:yadònhda, hadònhda.|U:dònhdóhdi.|Ù:dónhtánv́:ɂi.|Gadónhdǐ:sgóɂi.|he is dropping him, it (flexible)
 72998|Gadósga.||Gadósga.|Hadò:hi.|U:dò:hísdi.|Ù:dósv̌:ɂi.|Gadósgó:ɂi.|it (a flexible object) is falling from a hanging position
-72999|Gadō ű:sdi.|Gadō jű:sdi, gadō űnsdi.||||||which
+72999|Gadō ű:sdi.|Gadō jű:sdi, gadō ű:nsdi.||||||which
 73000|Gadō u:sdi.|||||||what (a noun or infinitive reply expected)
 73001|Ga̋:du.|||||||bread
 73002|Gadú.|||||||on top
@@ -891,7 +891,7 @@
 73083|Galùysdi.|Ani:galùysdi.||||||bed bug
 73084|Galûysga.||Jilûysga.|Hilù:hya.|U:lùysdi.|Ù:lû:hyv̌:ɂi.|Galûysgó:ɂi.|he's chopping it
 73085|Galv́:dohdi.|Digalv́:dohdi.||||||container for something flexible
-73086|Galv́:hniha.||Ji:lv́:hniha.|Hi:lv̀nhga.|U:lv̀nsdi.|Ù:lv́:hnilv̌:ɂi.|Galv́:hnihó:ɂi.|he's beating him up
+73086|Galv́:hniha.||Ji:lv́:hniha.|Hi:lv̀nhga.|U:lv̀:nsdi.|Ù:lv́:hnilv̌:ɂi.|Galv́:hnihó:ɂi.|he's beating him up
 73087|Galv̌:ládi.|||||||heaven
 73088|Galv́:ladi.|||||||high
 73089|Galv̌:ládi:dla.|||||||above
@@ -956,14 +956,14 @@
 73149|Gano:sgi̋:da.|Digano:sgi̋:da.||||||stolen
 73150|Gano:sgi̋:sgi.|Ani:no:sgi̋:sgi.||||||thief
 73151|Ganǒ:yv̂:ga.||Jinǒ:yv̂:ga.|Hino:yv̀:gi.|U:nǒ:yv́ɂisdi.|Ù:nǒ:yv̂:jv̌:ɂi.|Ganǒ:yv̂:gó:ɂi.|1. he, it's sinking  2. he, it is being buried
-73152|Gansané:ɂa.||Ji:nà:sané:ɂa, jinà:sa:né:ɂa.|Hi:nà:sanagi, hi:nsanagi.|Unsanè:sdi.|Ùnsané:sv̌:ɂi.|Gansané:sgó:ɂi.|he's pulling him, it
+73152|Gansané:ɂa.||Ji:nà:sané:ɂa, jinà:sa:né:ɂa.|Hi:nà:sanagi, hi:nsanagi.|Unsanè:sdi.|Ù:nsané:sv̌:ɂi.|Gansané:sgó:ɂi.|he's pulling him, it
 73153|Gansda.|||||||stick
-73154|Gansǐ:nê:ga.||Ji:nà:sǐ:nê:ga, ji:nà:sǐ:nê:ga.|Hi:nà:si:nù:ga, hi:nsi:nù:ga.|Unsǐ:nv̂:sdi.|Ùnsǐ:nv̂:sv̌:ɂi.|Gansǐ:nê:gó:ɂi.|1. he's dragging him, it 2. he's towing it
+73154|Gansǐ:nê:ga.||Ji:nà:sǐ:nê:ga, ji:nà:sǐ:nê:ga.|Hi:nà:si:nù:ga, hi:nsi:nù:ga.|Unsǐ:nv̂:sdi.|Ù:nsǐ:nv̂:sv̌:ɂi.|Gansǐ:nê:gó:ɂi.|1. he's dragging him, it 2. he's towing it
 73155|Ganu:gó:ga.||Jinu:gó:ga.|Hinu:go:ɂi.|U:nu:gò:sdi.|Ù:nu:gó:jv̌:ɂi.|Ganu:gó:gó:ɂi.|he's exiting
 73156|Ganu:gó:gv̋:ɂi.|De:gánu:gó:gv̋:ɂi.||||||spring
 73157|Ganu:goɂisdóhdi̋:ɂ.|||||||exit
 73158|Ganǔ:lv.|||||||grass, weed
-73159|Ganǔ:lv á:gàlsdi.|||||||lawn mower
+73159|Ganǔ:lv á:gà:lsdi.|||||||lawn mower
 73160|Ganú:te:yóha.||Ji:nú:te:yóha, jinú:te:yóha.|Hi:nù:te:yága, hinù:te:yaga.|U:nù:tě:yâ:sdi.|Ù:né:te:yô:lv̌:ɂi.|Ganú:te:yóhó:i.|he's twisting him, it
 73161|Ganv̌:díɂa.||Ji:nv̌:díɂa, jinv̌:díɂa.|Hi:nv̌:da, hinv̌:da.|U:nv̌:dî:sdi.|Ù:nv́:dv̌:ɂi.|Ganv̌:dî:sgó:ɂi.|he's missing him, it
 73162|Ganv:di̋:ɂi.|Diganv:di̋:ɂi.||||||his breast
@@ -1093,7 +1093,7 @@
 73287|Gv:gì:sdi.|||||||watermelon
 73288|Gv:gǔ:sdíha.||Gv:gù:sdíha.|Hv:gǔ:sda.|Uwa:gǔ:sdóhdi.|Ù:wa:gǔ:stánv̌:ɂi.|Gv:gǔ:sdí:sgó:ɂi.|he's sifting it
 73289|Gv:gǔ:sga.||-----.|-----.|Uwa:gǔ:sdi.|Ù:wa:gǔ:sv́:ɂi.|Gv:gǔ:sgóɂi.|it's leaking
-73290|Gv̋hdi.|||||||with, by means of
+73290|Gv̋:hdi.|||||||with, by means of
 73291|Gv:he.|||||||bobcat
 73292|Gv:hna.||Gv̀:na.|Hv:hné:sdi.|-----.|-----.|Gv:hnó:ɂi.|he is alive
 73293|Gv́hnagalsdi.|||||||active
@@ -1250,7 +1250,7 @@
 73445|Ju:lv̌:hwísdà:ne̋:hi.|Ju:ni:lv̌:hwísdà:ne̋:hi.||||||worker
 73446|Ju:nada:sdù:di̋:ɂi, di:da:sdù:di̋:ɂi.|||||||jail
 73447|Ju:nade:hlohgwà:sdi̋:ɂi.|||||||school
-73448|Jù:nàlsdàyhdi̋:ɂi.|||||||restaurant, cafe
+73448|Jù:nà:lsdàyhdi̋:ɂi.|||||||restaurant, cafe
 73449|Junhgi:lő:sdi.|||||||Friday
 73450|Ju:ni:dlv̀:gi̋:ɂi.|||||||hospital
 73451|Ju:ni:sv:sdi̋:ɂi.|||||||hotel, motel
@@ -1679,15 +1679,15 @@
 73878|Ù:li:yê:su:stga.||À:gwaliyê:su:stga.|Jaliyê:su:stgé:sdi.|----.|Ù:liyê:su:stgv̌:ɂi.|Ù:liyê:su:stgó:ɂi.|he's wearing a ring
 73879|Ù:lô:gi:la.||----.|----.|----.|Ù:lô:gilv̌:ɂi.|Ù:lô:giló:ɂi.|it's cloudy
 73880|U:lò:gí:li.|||||||cloud
-73881|Ùlsdâ:hneha.||À:gwalsdâ:hneha.|Jalsdà:si.|Ulsdà:hnéhdi.|Ùlsdâ:hne:lv̌:ɂi.|Ùlsdâ:hne:hó:ɂi.|it's happening to him
+73881|Ù:lsdâ:hneha.||À:gwalsdâ:hneha.|Jalsdà:si.|Ulsdà:hnéhdi.|Ù:lsdâ:hne:lv̌:ɂi.|Ù:lsdâ:hne:hó:ɂi.|it's happening to him
 73882|Ulsdu:ɂi̋:da.|Julsduɂi̋:da.||||||open
-73883|Ùlsdú:la.||À:gwalsdú:la.|Jalsdú:lé:sdi.|----.|Ùlsdú:lv̌:ɂi.|Ùlsdú:ló:ɂi.|he's wearing a cap
+73883|Ù:lsdú:la.||À:gwalsdú:la.|Jalsdú:lé:sdi.|----.|Ù:lsdú:lv̌:ɂi.|Ù:lsdú:ló:ɂi.|he's wearing a cap
 73884|Ulsge̋:da.|U:nalsge̋:da, ju:lsge̋:da.||||||important
 73885|Úlsgwa:li:da.|Júlsgwalida.||||||1. broken (long object), 2. he's broke (when used in the plural form)
-73886|Ùlsgwa:lú:da.||À:gwalsgwalú:da.|Jalsgwalú:dé:sdi.|----.|Ùlsgwalú:dv̌:ɂi.|Ùlsgwalú:dó:ɂi.|he's sticking his head out
-73887|Ùlsgwé:tuhga.||À:gwalsgwé:tuhga.|Jalsgwé:tuhgé:sdi.|----.|Ùlsgwé:tuhgv̌:ɂi.|Ùlsgwé:tuhgó:ɂi.|he's wearing a hat
-73888|Ùlsíhga.||----.|Jalsíhgê:sdi.|----.|Ùlsíhgv́:ɂi.|Ùlsíhgóɂi.|it's dark
-73889|Ǔlsihgi.|Ǔ:nalsihgi, jǔ:lsihgi.||||||dark
+73886|Ù:lsgwa:lú:da.||À:gwalsgwalú:da.|Jalsgwalú:dé:sdi.|----.|Ù:lsgwalú:dv̌:ɂi.|Ù:lsgwalú:dó:ɂi.|he's sticking his head out
+73887|Ù:lsgwé:tuhga.||À:gwalsgwé:tuhga.|Jalsgwé:tuhgé:sdi.|----.|Ù:lsgwé:tuhgv̌:ɂi.|Ù:lsgwé:tuhgó:ɂi.|he's wearing a hat
+73888|Ù:lsíhga.||----.|Jalsíhgê:sdi.|----.|Ù:lsíhgv́:ɂi.|Ù:lsíhgóɂi.|it's dark
+73889|Ǔ:lsihgi.|Ǔ:nalsihgi, jǔ:lsihgi.||||||dark
 73890|Ulsǔ:hwi:da.|U:nalsu:hwida, ju:lsǔ:hwida.||||||colored
 73891|U:lv̌:da.|||||||poinson ivy
 73892|Ù:lv̌:kwdi.||Ji:lv̌:gwô:di, à:gilv̌:kwdi.|Hi:lv:gwò:da, hilvkwda.|U:lv̌:kwdohdi.|Ù:lv̌:kwdv́:ɂi.|Ù:lv̌:kwdó:ɂi.|he likes it, him
@@ -1727,14 +1727,14 @@
 73927|Usdi̋.|Junsdi, jusdi.||||||little
 73928|Usdi̋ ganv:hnv̋:ɂi.|Jusdi̋ dě:gánv:hnv̋:ɂi.||||||trail
 73929|Ù:sdiné:gaɂlv̋:ɂi.|||||||his scalp
-73930|Ù:sdv:díɂa.||Àksdv:díɂa.|Tsdv̌:da.|U:sdv̌:dî:sdi.|Ù:sdv́:dv̌:ɂi.|Ù:sdv:dî:sgó:ɂi.|he's receiving punishment
+73930|Ù:sdv:díɂa.||À:ksdv:díɂa.|Tsdv̌:da.|U:sdv̌:dî:sdi.|Ù:sdv́:dv̌:ɂi.|Ù:sdv:dî:sgó:ɂi.|he's receiving punishment
 73931|U:se:gà:jv̋:ɂi, se:gà:jv̋:ɂi.|||||||barely
 73932|U:sganő:li.|U:ni:sganő:li, ju:sganő:li.||||||slow
 73933|U:sgő:sdi.|Ju:sgő:sdi.||||||bright
 73934|Ǔ:sgwanikdi.|U:nǐ:sgwanikdi, jǔ:sgwanikdi.||||||interesting
 73935|U:sgwo:hli̋:ɂi.|||||||his abdomen, stomach
 73936|Ǔ:sihwa.|Jǔ:sihwa.||||||empty
-73937|Ù:sihwásga.||Àksihwásga.|Tsihwahi.|U:sihwahisdi.|Ù:sihwahv̌:ɂi.|Ù:sihwasgó:ɂi.|he's coughing
+73937|Ù:sihwásga.||À:ksihwásga.|Tsihwahi.|U:sihwahisdi.|Ù:sihwahv̌:ɂi.|Ù:sihwasgó:ɂi.|he's coughing
 73938|Uska.|Juska.||||||head, skull
 73939|U:skő:li.|Ju:skő:li.||||||peak, (of object)
 73940|Ù:so:tv̋:ɂi.|Ju:nà:so:tv̋:ɂi.||||||behind a person
@@ -1744,10 +1744,10 @@
 73944|Ù:su:lo.|Jù:su:lo.||||||his pants
 73945|U:sv:de̋:na.|Ju:sv:de̋:na.||||||shotgun
 73946|U:sv:dő:ni.|Ju:sv:dő:ni.||||||conduit, pipe
-73947|Ù:sv:híha.||Àksv:híha.|Tsv̌:ha.|U:sv:sdi.|Ù:sv:hlv̌:ɂi.|Ù:sv:hihó:ɂi.|he's going to bed
+73947|Ù:sv:híha.||À:ksv:híha.|Tsv̌:ha.|U:sv:sdi.|Ù:sv:hlv̌:ɂi.|Ù:sv:hihó:ɂi.|he's going to bed
 73948|Usv̋:ɂi.|||||||night
-73949|Ù:tade:gí:ɂa.||Àktade:gí:ɂa.|Tstade:gv̀:ga.|U:tadě:gô:di.|Ù:tade:gâ:nv̌:ɂi.|Ù:tade:gí:sgó:ɂi.|he's thirsty
-73950|Ù:tahlawo:sga.||Àktahlawo:sga.|Tstahlawǒ:hi.|U:tahlawo:hisdi.|Ù:tahlawo:sv̌:ɂi.|Ù:tahlawo:sgó:ɂi.|he's becoming enraged
+73949|Ù:tade:gí:ɂa.||À:ktade:gí:ɂa.|Tstade:gv̀:ga.|U:tadě:gô:di.|Ù:tade:gâ:nv̌:ɂi.|Ù:tade:gí:sgó:ɂi.|he's thirsty
+73950|Ù:tahlawo:sga.||À:ktahlawo:sga.|Tstahlawǒ:hi.|U:tahlawo:hisdi.|Ù:tahlawo:sv̌:ɂi.|Ù:tahlawo:sgó:ɂi.|he's becoming enraged
 73951|Ǔ:tana.|Jǔ:natana, jǔ:tana.||||||big, large
 73952|U:tani̋.|Ju:natani, ju:tani.||||||too big, large
 73954|U:tanǒ:lv̋:da.|||||||steam
@@ -1827,7 +1827,7 @@
 74028|Wahga.|||||||cow
 74029|Wahga hawi:ya.|||||||beef, steak
 74030|Wǎ:húhi.|||||||owl
-74031|Wahv́sga.||Wijíɂv́sga.|Hwihv̂:ga.|Wùhdi.|Wù:hnv̌:ɂi.|Wahv́sgó:ɂi.|he's sending it
+74031|Wahv́sga.||Wijíɂv́sga.|Hwihv̂:ga.|Wù:hdi.|Wù:hnv̌:ɂi.|Wahv́sgó:ɂi.|he's sending it
 74032|Wahya, wahaya.|||||||wolf
 74033|Wǎ:ji.|||||||clock, watch
 74034|Wajì:la.|||||||saliva
