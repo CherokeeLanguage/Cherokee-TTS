@@ -44,10 +44,10 @@ def ced2mco(text:str):
     text = ud.normalize('NFD', text)
     
     #hack fix for incorrect entries like l1 to ensure correct long vowels
-    text = re.sub("(?i)([^aeiouv])(¹)", "\\2\\1", text)
-    text = re.sub("(?i)([^aeiouv])(²³)", "\\2\\1", text)
-    text = re.sub("(?i)([^aeiouv])(³²)", "\\2\\1", text)
-    text = re.sub("(?i)([^aeiouv])(⁴)", "\\2\\1", text)
+    text = re.sub("(?i)([^aeiouvwy])(¹)", "\\2\\1", text)
+    text = re.sub("(?i)([^aeiouvwy])(²³)", "\\2\\1", text)
+    text = re.sub("(?i)([^aeiouvwy])(³²)", "\\2\\1", text)
+    text = re.sub("(?i)([^aeiouvwy])(⁴)", "\\2\\1", text)
     
     #finish transforming into MCO
     text = re.sub("(?i)([aeiouv])([^¹²³⁴\u0323]+)", "\\1\u0323\\2", text)
