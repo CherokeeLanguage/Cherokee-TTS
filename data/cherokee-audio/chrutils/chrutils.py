@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
+import string
+from bleach._vendor.html5lib._ihatexml import letter
+from string import ascii_letters
+from bleach._vendor.html5lib.constants import asciiLetters
+from sre_parse import ASCIILETTERS
 
 def test():
-    cedTest = [ "U²sgal²sdi ạ²dv¹ne²³li⁴sgi.", 
+    cedTest = [ "Al¹sda³²yv²hṿ³sga.",
+                "U²sgal²sdi ạ²dv¹ne²³li⁴sgi.", 
                 "Ụ²wo²³dị³ge⁴ɂi gi²hli a¹ke²³he³²ga na ạ²chu⁴ja.",
                 "Ạ²ni²³tạɂ³li ạ²ni²sgạ²ya a¹ni²no²hạ²li²³do³²he, ạ²hwi du¹ni²hyọ²he.", 
                 "Sa¹gwu⁴hno ạ²sgạ²ya gạ²lo¹gwe³ ga²ne²he sọ³ɂị³hnv³ hla².",
@@ -36,6 +42,14 @@ def ced2mco(text:str):
     tones2mco = [("²³", "\u030C"), ("³²", "\u0302"), ("¹", "\u0300"), ("²", ""), ("³", "\u0301"), ("⁴", "\u030b")]
     
     text = ud.normalize('NFD', text)
+    
+    #hack fix for incorrect entries like l1 to ensure correct long vowels
+    text = re.sub("(?i)([^aeiouv])(¹)", "\\2\\1", text)
+    text = re.sub("(?i)([^aeiouv])(²³)", "\\2\\1", text)
+    text = re.sub("(?i)([^aeiouv])(³²)", "\\2\\1", text)
+    text = re.sub("(?i)([^aeiouv])(⁴)", "\\2\\1", text)
+    
+    #finish transforming into MCO
     text = re.sub("(?i)([aeiouv])([^¹²³⁴\u0323]+)", "\\1\u0323\\2", text)
     text = re.sub("(?i)([aeiouv])([¹²³⁴]+)$", "\\1\u0323\\2", text)
     text = re.sub("(?i)([aeiouv])([¹²³⁴]+)([^¹²³⁴a-zɂ])", "\\1\u0323\\2\\3", text)
@@ -44,6 +58,7 @@ def ced2mco(text:str):
     text = text.replace("\u0323", "")
     text = re.sub("(?i)([aeiouv])²$", "\\1\u0304", text)
     text = re.sub("(?i)([aeiouv])²([^a-zɂ¹²³⁴:])", "\\1\u0304\\2", text)
+    #
     for ced2mcotone in tones2mco:
         text = text.replace(ced2mcotone[0], ced2mcotone[1])
     #
