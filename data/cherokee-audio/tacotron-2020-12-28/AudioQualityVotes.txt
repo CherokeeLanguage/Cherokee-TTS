@@ -207,23 +207,23 @@ cno-spk_3|selected/000408-osiyo-then-cno-spk_3-14.mp3|Jalagi de:sdawó:niha?
 cno-spk_3|selected/000410-osiyo-then-cno-spk_3-20.mp3|Gadò de:sdadv:neha?
 cno-spk_3|selected/000412-osiyo-then-cno-spk_3-13.mp3|Jalagi hiwó:niha?
 cno-spk_3|selected/000413-bragging-hunter-cno-spk_3-18.mp3|à:dlv̌:kwsgv́.
-cno-spk_3|selected/000415-bragging-hunter-cno-spk_3-11.mp3|U:do:hiyű:hnv́ wǔ:yó:hlé.
-cno-spk_3|selected/000416-bragging-hunter-cno-spk_3-01.mp3|Anǐ:táɂli ani:sgaya à:ni:no:halǐ:dô:he,.
-cno-spk_3|selected/000418-bragging-hunter-cno-spk_3-08.mp3|ná:hnv́ galò:gwé ga:ne̋:hi kilagwu.
-cno-spk_3|selected/000419-bragging-hunter-cno-spk_3-17.mp3|ù:dv:hne ná galò:gwé ga:ne̋:hi,.
-cno-spk_3|selected/000422-bragging-hunter-cno-spk_3-19.mp3|Ù:ná:ne:lǔ:gî:se do:juwáɂihlv́ dí:dla,.
-cno-spk_3|selected/000425-bragging-hunter-cno-spk_3-13.mp3|Ná:hnv́ galò:gwé nigǎ:né:hv̋:na.
-cno-spk_3|selected/000426-bragging-hunter-cno-spk_3-21.mp3|"Sǒ:gwílílê ì:nada:hísi",.
+cno-spk_3|selected/000415-bragging-hunter-cno-spk_3-11.mp3|U:do:hiyű:hnv́ wǔ:yó:hlé
+cno-spk_3|selected/000416-bragging-hunter-cno-spk_3-01.mp3|Anǐ:táɂli ani:sgaya à:ni:no:halǐ:dô:he,
+cno-spk_3|selected/000418-bragging-hunter-cno-spk_3-08.mp3|ná:hnv́ galò:gwé ga:ne̋:hi kilagwu
+cno-spk_3|selected/000419-bragging-hunter-cno-spk_3-17.mp3|ù:dv:hne ná galò:gwé ga:ne̋:hi,
+cno-spk_3|selected/000422-bragging-hunter-cno-spk_3-19.mp3|Ù:ná:ne:lǔ:gî:se do:juwáɂihlv́ dí:dla,
+cno-spk_3|selected/000425-bragging-hunter-cno-spk_3-13.mp3|Ná:hnv́ galò:gwé nigǎ:né:hv̋:na
+cno-spk_3|selected/000426-bragging-hunter-cno-spk_3-21.mp3|"Sǒ:gwílílê ì:nada:hísi",
 cno-spk_3|selected/000427-bragging-hunter-cno-spk_3-10.mp3|nǔ:ksestanv̋:na iyú:sdi dà:sdayo:hihv̋.
-cno-spk_3|selected/000435-bragging-hunter-cno-spk_3-09.mp3|iyv̋:da widǔ:sdáyo:hlé ǒ:sdagwu.
+cno-spk_3|selected/000435-bragging-hunter-cno-spk_3-09.mp3|iyv̋:da widǔ:sdáyo:hlé ǒ:sdagwu
 cno-spk_0|selected/000436-bragging-hunter-cno-spk_0-22.mp3|ù:dv:hné ná u:yo:hlv̋.
-cno-spk_0|selected/000438-bragging-hunter-cno-spk_0-11.mp3|U:do:hiyű:hnv́ wǔ:yó:hlé.
-cno-spk_0|selected/000440-bragging-hunter-cno-spk_0-08.mp3|ná:hnv́ galò:gwé ga:ne̋:hi kilagwu.
-cno-spk_0|selected/000446-bragging-hunter-cno-spk_0-14.mp3|"Ahwi è:ni:yó:ɂa!",.
+cno-spk_0|selected/000438-bragging-hunter-cno-spk_0-11.mp3|U:do:hiyű:hnv́ wǔ:yó:hlé
+cno-spk_0|selected/000440-bragging-hunter-cno-spk_0-08.mp3|ná:hnv́ galò:gwé ga:ne̋:hi kilagwu
+cno-spk_0|selected/000446-bragging-hunter-cno-spk_0-14.mp3|"Ahwi è:ni:yó:ɂa!",
 cno-spk_0|selected/000450-bragging-hunter-cno-spk_0-12.mp3|ale ù:ni:go:hé ganv́:gv̋.
 cno-spk_0|selected/000455-bragging-hunter-cno-spk_0-15.mp3|ù:dv:hne.
-cno-spk_0|selected/000457-bragging-hunter-cno-spk_0-03.mp3|Sà:gwű:hno asgaya galò:gwé.
-cno-spk_0|selected/000458-bragging-hunter-cno-spk_0-01.mp3|Anǐ:táɂli ani:sgaya à:ni:no:halǐ:dô:he,.
+cno-spk_0|selected/000457-bragging-hunter-cno-spk_0-03.mp3|Sà:gwű:hno asgaya galò:gwé
+cno-spk_0|selected/000458-bragging-hunter-cno-spk_0-01.mp3|Anǐ:táɂli ani:sgaya à:ni:no:halǐ:dô:he,
 cno-spk_1|selected/000467-osiyo-then-cno-spk_1-18.mp3|Dè:johlga̋:s Jalagi?
 cno-spk_3|selected/000468-osiyo-then-cno-spk_3-18.mp3|Dè:johlga̋:s Jalagi?
 cno-spk_3|selected/000469-osiyo-then-cno-spk_3-17.mp3|De:sdohlga̋:s Jalagi?
@@ -430,12 +430,12 @@ cno-spk_0|selected/000899-bc-cno-spk_0-105.mp3|Sóhně:li:ne̋.
 cno-spk_0|selected/000900-bc-cno-spk_0-280.mp3|Dō adv:ne?
 cno-spk_0|selected/000901-bc-cno-spk_0-428.mp3|Awi̋:na.
 cno-spk_0|selected/000905-bc-cno-spk_0-137.mp3|Ju:ni:là:wisdi.
-cno-spk_0|selected/000913-bc-cno-spk_0-156.mp3|Unali:he:lísdi.
+cno-spk_0|selected/000913-bc-cno-spk_0-156.mp3|Unali:he:lísdi
 cno-spk_0|selected/000914-bc-cno-spk_0-257.mp3|Kilő:i.
 cno-spk_0|selected/000915-bc-cno-spk_0-295.mp3|U:hyv:dlv e̋:hi.
 cno-spk_0|selected/000916-bc-cno-spk_0-576.mp3|Dv.
 cno-spk_0|selected/000917-bc-cno-spk_0-152.mp3|Juwé:nv̀:sv̋:ɂi é:ga.
-cno-spk_0|selected/000919-bc-cno-spk_0-724.mp3|Jǐ:sa.
+cno-spk_0|selected/000919-bc-cno-spk_0-724.mp3|Jǐ:sa
 cno-spk_0|selected/000920-bc-cno-spk_0-275.mp3|U:ga̋:nawa.
 cno-spk_0|selected/000921-bc-cno-spk_0-706.mp3|Ani:dalǒ:nígé digadv́:di danì:gíɂa.
 cno-spk_0|selected/000923-bc-cno-spk_0-664.mp3|Hlá kiloyigi.
@@ -472,7 +472,7 @@ cno-spk_0|selected/000987-bc-cno-spk_0-527.mp3|Goɂike jadu:lí?
 cno-spk_0|selected/000988-bc-cno-spk_0-389.mp3|Anv:yi.
 cno-spk_0|selected/000990-bc-cno-spk_0-304.mp3|E:lohi.
 cno-spk_0|selected/000994-bc-cno-spk_0-533.mp3|À:ga:sga u:hyv:dlahno dǒ:yi.
-cno-spk_0|selected/000998-bc-cno-spk_0-569.mp3|Suná:le̋:ɂi.
+cno-spk_0|selected/000998-bc-cno-spk_0-569.mp3|Suná:le̋:ɂi
 cno-spk_0|selected/001000-bc-cno-spk_0-76.mp3|Nvhgi:né.
 cno-spk_0|selected/001002-bc-cno-spk_0-216.mp3|Idalě:na.
 cno-spk_0|selected/001003-bc-cno-spk_0-159.mp3|Sě:lu.
@@ -513,7 +513,7 @@ cno-spk_3|selected/001054-see-say-write-cno-spk_3-26.mp3|Gà:du:li̋:da á:su:
 cno-spk_3|selected/001057-see-say-write-cno-spk_3-162.mp3|Hiɂa e:ji.
 cno-spk_3|selected/001058-see-say-write-cno-spk_3-120.mp3|Jǒ:lani.
 cno-spk_3|selected/001059-see-say-write-cno-spk_3-24.mp3|Gǎ:da.
-cno-spk_3|selected/001060-see-say-write-cno-spk_3-149.mp3|A:dlawáɂdv̋.
+cno-spk_3|selected/001060-see-say-write-cno-spk_3-149.mp3|A:dlawáɂdv̋
 cno-spk_3|selected/001062-see-say-write-cno-spk_3-108.mp3|Ama.
 cno-spk_3|selected/001063-see-say-write-cno-spk_3-138.mp3|Di:sésdi dù:wo:hwě:lâ.
 cno-spk_3|selected/001067-see-say-write-cno-spk_3-31.mp3|Di:da:sdù:di̋.
@@ -522,7 +522,7 @@ cno-spk_3|selected/001069-see-say-write-cno-spk_3-86.mp3|Ji:sgwada.
 cno-spk_3|selected/001070-see-say-write-cno-spk_3-30.mp3|Sdù:di.
 cno-spk_3|selected/001071-see-say-write-cno-spk_3-143.mp3|Sě:lu dodajì:hwisi à:diha na asgaya.
 cno-spk_3|selected/001072-see-say-write-cno-spk_3-74.mp3|Nv̀:ya.
-cno-spk_3|selected/001073-see-say-write-cno-spk_3-152.mp3|Hisgi.
+cno-spk_3|selected/001073-see-say-write-cno-spk_3-152.mp3|Hisgi
 cno-spk_3|selected/001074-see-say-write-cno-spk_3-184.mp3|Hè:sdi!
 cno-spk_3|selected/001075-see-say-write-cno-spk_3-123.mp3|Da:hnawa.
 cno-spk_3|selected/001077-see-say-write-cno-spk_3-81.mp3|Ahwi dunihyo na aniwǐ:na.
@@ -562,7 +562,7 @@ cno-spk_3|selected/001124-see-say-write-cno-spk_3-53.mp3|À:giyó:si.
 cno-spk_3|selected/001125-see-say-write-cno-spk_3-144.mp3|Digadv́:di.
 cno-spk_3|selected/001129-see-say-write-cno-spk_3-57.mp3|O:síyo hada.
 cno-spk_3|selected/001131-see-say-write-cno-spk_3-16.mp3|Agi̋:na.
-cno-spk_3|selected/001132-see-say-write-cno-spk_3-17.mp3|I:sa à:gíɂa sa:sa.
+cno-spk_3|selected/001132-see-say-write-cno-spk_3-17.mp3|I:sa à:gíɂa sa:sa
 cno-spk_3|selected/001133-see-say-write-cno-spk_3-153.mp3|Hila̋ à:hlíɂili?
 cno-spk_3|selected/001134-see-say-write-cno-spk_3-12.mp3|Ǐ:náda.
 cno-spk_3|selected/001135-see-say-write-cno-spk_3-142.mp3|Sě:lu ga̋:du dagá:du:hni.
@@ -677,7 +677,7 @@ cno-spk_0|selected/001294-see-say-write-cno-spk_0-112.mp3|Do:ya.
 cno-spk_0|selected/001295-see-say-write-cno-spk_0-25.mp3|Gǐ:ga.
 cno-spk_0|selected/001296-see-say-write-cno-spk_0-21.mp3|Salǒ:li dù:du:lí na gi:hli.
 cno-spk_0|selected/001297-see-say-write-cno-spk_0-32.mp3|Sǔ:dáli diga:sgilo dù:nadu:lí.
-cno-spk_0|selected/001300-see-say-write-cno-spk_0-17.mp3|I:sa à:gíɂa sa:sa.
+cno-spk_0|selected/001300-see-say-write-cno-spk_0-17.mp3|I:sa à:gíɂa sa:sa
 cno-spk_0|selected/001302-see-say-write-cno-spk_0-116.mp3|Jalagi.
 cno-spk_0|selected/001304-see-say-write-cno-spk_0-19.mp3|À:hli:ló:ɂa.
 cno-spk_0|selected/001306-see-say-write-cno-spk_0-56.mp3|Hadǐ:da!
@@ -715,7 +715,7 @@ cno-spk_0|selected/001354-see-say-write-cno-spk_0-43.mp3|Sigigi.
 cno-spk_0|selected/001359-see-say-write-cno-spk_0-05.mp3|À:su:lo.
 cno-spk_0|selected/001361-see-say-write-cno-spk_0-77.mp3|Wǎ:ji.
 cno-spk_0|selected/001364-see-say-write-cno-spk_0-85.mp3|Sihgwa ha:wiya à:gwadu:lí.
-cno-spk_0|selected/001365-see-say-write-cno-spk_0-152.mp3|Hisgi.
+cno-spk_0|selected/001365-see-say-write-cno-spk_0-152.mp3|Hisgi
 cno-spk_0|selected/001366-see-say-write-cno-spk_0-154.mp3|Hi:yo:lì:gis na asgaya?
 cno-spk_0|selected/001368-see-say-write-cno-spk_0-164.mp3|Áhani jǒ:hlê:sdi.
 cno-spk_0|selected/001369-see-say-write-cno-spk_0-94.mp3|Agayv̌:líge̋.
@@ -730,7 +730,7 @@ cno-spk_0|selected/001381-see-say-write-cno-spk_0-104.mp3|Adà:dlǒ:sdi.
 cno-spk_0|selected/001382-see-say-write-cno-spk_0-175.mp3|Te:lǐ:do.
 cno-spk_0|selected/001383-see-say-write-cno-spk_0-103.mp3|Ő:sda a:gì:sdi uyu:ti.
 cno-spk_0|selected/001384-see-say-write-cno-spk_0-12.mp3|Ǐ:náda.
-cno-spk_2|selected/001385-see-say-write-cno-spk_2-152.mp3|Hisgi.
+cno-spk_2|selected/001385-see-say-write-cno-spk_2-152.mp3|Hisgi
 cno-spk_2|selected/001386-see-say-write-cno-spk_2-68.mp3|Ga̋:du u:nigana̋:sda duwá:duha.
 cno-spk_2|selected/001387-see-say-write-cno-spk_2-111.mp3|Á:ma à:ganǎ:díɂa na wahga.
 cno-spk_2|selected/001391-see-say-write-cno-spk_2-173.mp3|Hila̋ ǐ:gó:hi̋:da a:tliɂilida?
@@ -873,7 +873,7 @@ cno-spk_1|selected/001623-see-say-write-cno-spk_1-24.mp3|Gǎ:da.
 cno-spk_1|selected/001624-see-say-write-cno-spk_1-53.mp3|À:giyó:si.
 cno-spk_1|selected/001625-see-say-write-cno-spk_1-84.mp3|Sihgwa.
 cno-spk_1|selected/001626-see-say-write-cno-spk_1-117.mp3|Na à:lâ:sgalǐ:sgi.
-cno-spk_1|selected/001627-see-say-write-cno-spk_1-149.mp3|A:dlawáɂdv̋.
+cno-spk_1|selected/001627-see-say-write-cno-spk_1-149.mp3|A:dlawáɂdv̋
 cno-spk_1|selected/001628-see-say-write-cno-spk_1-25.mp3|Gǐ:ga.
 cno-spk_1|selected/001629-see-say-write-cno-spk_1-40.mp3|U:nv̌:di ù:du:lí na u:sdi̋.
 cno-spk_1|selected/001630-see-say-write-cno-spk_1-03.mp3|Ada.
@@ -943,7 +943,7 @@ cno-spk_1|selected/001733-see-say-write-cno-spk_1-122.mp3|Jǒ:lani tisduɂi.
 cno-spk_1|selected/001734-see-say-write-cno-spk_1-178.mp3|Talǔ:ja.
 cno-spk_1|selected/001735-see-say-write-cno-spk_1-119.mp3|Sáɂdu iyáni ani:jalagi analâ:sgalí.
 cno-spk_1|selected/001736-see-say-write-cno-spk_1-104.mp3|Adà:dlǒ:sdi.
-cno-spk_1|selected/001740-see-say-write-cno-spk_1-152.mp3|Hisgi.
+cno-spk_1|selected/001740-see-say-write-cno-spk_1-152.mp3|Hisgi
 cno-spk_1|selected/001741-see-say-write-cno-spk_1-74.mp3|Nv̀:ya.
 cno-spk_1|selected/001743-see-say-write-cno-spk_1-13.mp3|Sa:sa aná:ɂi.
 cno-spk_1|selected/001744-see-say-write-cno-spk_1-62.mp3|Ganè:ga.
@@ -991,7 +991,7 @@ cno-spk_3|selected/001796-bc-cno-spk_3-199.mp3|Aksdà:yv̌hv:sgi.
 cno-spk_3|selected/001798-bc-cno-spk_3-577.mp3|Jiwó:ni.
 cno-spk_3|selected/001799-bc-cno-spk_3-542.mp3|Ő:sdadv Jalagi gawó:niɂa.
 cno-spk_3|selected/001800-bc-cno-spk_3-597.mp3|Ga:da:ha̋.
-cno-spk_3|selected/001802-bc-cno-spk_3-499.mp3|Dikané:jv.
+cno-spk_3|selected/001802-bc-cno-spk_3-499.mp3|Dikané:jv
 cno-spk_3|selected/001804-bc-cno-spk_3-565.mp3|Yó:ne:ga.
 cno-spk_3|selected/001805-bc-cno-spk_3-180.mp3|Digahi:nv̀:si.
 cno-spk_3|selected/001806-bc-cno-spk_3-81.mp3|Jo.
@@ -1075,7 +1075,7 @@ cno-spk_3|selected/001921-bc-cno-spk_3-139.mp3|Gé:ga.
 cno-spk_3|selected/001922-bc-cno-spk_3-338.mp3|Ù:hwasga.
 cno-spk_3|selected/001924-bc-cno-spk_3-283.mp3|Gadō anadv:neɂa?
 cno-spk_3|selected/001925-bc-cno-spk_3-394.mp3|De:halǔ.
-cno-spk_3|selected/001926-bc-cno-spk_3-156.mp3|Unali:he:lísdi.
+cno-spk_3|selected/001926-bc-cno-spk_3-156.mp3|Unali:he:lísdi
 cno-spk_3|selected/001927-bc-cno-spk_3-634.mp3|À:sdû:di.
 cno-spk_3|selected/001930-bc-cno-spk_3-439.mp3|Ani:sgayv.
 cno-spk_3|selected/001931-bc-cno-spk_3-176.mp3|Go:hwe:la desgi:nv̀.
@@ -1114,7 +1114,7 @@ cno-spk_3|selected/001982-bc-cno-spk_3-119.mp3|A:sésdi.
 cno-spk_3|selected/001985-bc-cno-spk_3-687.mp3|Sakǒ:nígé u:gì:dáhli.
 cno-spk_3|selected/001986-bc-cno-spk_3-113.mp3|Sóhně:li:ne̋:ɂi.
 cno-spk_3|selected/001990-bc-cno-spk_3-652.mp3|Hadáɂnv.
-cno-spk_3|selected/001995-bc-cno-spk_3-474.mp3|Ani:gayv̌:líge̋:.
+cno-spk_3|selected/001995-bc-cno-spk_3-474.mp3|Ani:gayv̌:líge̋:
 cno-spk_3|selected/001996-bc-cno-spk_3-534.mp3|À:ga:sgas?
 cno-spk_3|selected/001997-bc-cno-spk_3-109.mp3|Hisgi:ne̋:ɂi.
 cno-spk_3|selected/001998-bc-cno-spk_3-310.mp3|Ma:ga.
@@ -1345,9 +1345,9 @@ cno-spk_3|selected/002334-bc-cno-spk_3-418.mp3|Achű:ji.
 cno-spk_3|selected/002336-bc-cno-spk_3-375.mp3|Na.
 cno-spk_3|selected/002340-bc-cno-spk_3-296.mp3|U:gǎ:nawa e̋:hi.
 cno-spk_3|selected/002342-bc-cno-spk_3-437.mp3|Ani:sgay.
-cno-spk_3|selected/002343-bc-cno-spk_3-724.mp3|Jǐ:sa.
+cno-spk_3|selected/002343-bc-cno-spk_3-724.mp3|Jǐ:sa
 cno-spk_3|selected/002344-bc-cno-spk_3-466.mp3|Uniha.
-cno-spk_3|selected/002345-bc-cno-spk_3-569.mp3|Suná:le̋:ɂi.
+cno-spk_3|selected/002345-bc-cno-spk_3-569.mp3|Suná:le̋:ɂi
 cno-spk_3|selected/002346-bc-cno-spk_3-452.mp3|À:dia.
 cno-spk_3|selected/002348-bc-cno-spk_3-506.mp3|Anadi:tásga.
 cno-spk_3|selected/002352-bc-cno-spk_3-307.mp3|Ǔ:gáma.
@@ -1361,7 +1361,7 @@ cno-spk_3|selected/002360-bc-cno-spk_3-491.mp3|Kalsě:jis hà:su:yv́:sgó?
 cno-spk_3|selected/002361-bc-cno-spk_3-436.mp3|Asgayv.
 cno-spk_3|selected/002362-bc-cno-spk_3-311.mp3|Me:li.
 cno-spk_3|selected/002363-bc-cno-spk_3-344.mp3|À:hneha.
-cno-spk_3|selected/002365-bc-cno-spk_3-673.mp3|Děhlgv́.
+cno-spk_3|selected/002365-bc-cno-spk_3-673.mp3|Děhlgv́
 cno-spk_3|selected/002366-bc-cno-spk_3-479.mp3|Anigv̌:níge̋ kama:ma a:nalsdâ:yv:hv́sga.
 cno-spk_3|selected/002367-bc-cno-spk_3-79.mp3|Sà:gwű.
 cno-spk_3|selected/002368-bc-cno-spk_3-143.mp3|É:ga.
@@ -1375,7 +1375,7 @@ cno-spk_3|selected/002377-bc-cno-spk_3-631.mp3|Hatv:gī.
 cno-spk_3|selected/002378-bc-cno-spk_3-36.mp3|Kó:gi.
 cno-spk_3|selected/002379-bc-cno-spk_3-39.mp3|Agě:hya.
 cno-spk_3|selected/002380-bc-cno-spk_3-462.mp3|Anadv́:ne.
-cno-spk_3|selected/002381-bc-cno-spk_3-206.mp3|Agǐ:gáge.
+cno-spk_3|selected/002381-bc-cno-spk_3-206.mp3|Agǐ:gáge
 cno-spk_3|selected/002382-bc-cno-spk_3-395.mp3|De:halǔ:yi.
 cno-spk_3|selected/002383-bc-cno-spk_3-376.mp3|Naɂv.
 cno-spk_3|selected/002384-bc-cno-spk_3-138.mp3|Gé.
@@ -1450,7 +1450,7 @@ cno-spk_0|selected/002490-bc-cno-spk_0-507.mp3|Alà:sǔ:lo.
 cno-spk_0|selected/002492-bc-cno-spk_0-68.mp3|Taɂli:né.
 cno-spk_0|selected/002493-bc-cno-spk_0-140.mp3|Hé.
 cno-spk_0|selected/002494-bc-cno-spk_0-182.mp3|Desgi:dì.
-cno-spk_0|selected/002497-bc-cno-spk_0-499.mp3|Dikané:jv.
+cno-spk_0|selected/002497-bc-cno-spk_0-499.mp3|Dikané:jv
 cno-spk_0|selected/002498-bc-cno-spk_0-36.mp3|Kó:gi.
 cno-spk_0|selected/002499-bc-cno-spk_0-388.mp3|Ka:gaɂli.
 cno-spk_0|selected/002500-bc-cno-spk_0-81.mp3|Jo.
@@ -1520,7 +1520,7 @@ cno-spk_0|selected/002605-bc-cno-spk_0-341.mp3|Hì:ne.
 cno-spk_0|selected/002607-bc-cno-spk_0-35.mp3|Kó:ga.
 cno-spk_0|selected/002608-bc-cno-spk_0-202.mp3|U:du:lí.
 cno-spk_0|selected/002610-bc-cno-spk_0-654.mp3|À:dáɂnv.
-cno-spk_0|selected/002611-bc-cno-spk_0-474.mp3|Ani:gayv̌:líge̋:.
+cno-spk_0|selected/002611-bc-cno-spk_0-474.mp3|Ani:gayv̌:líge̋:
 cno-spk_0|selected/002612-bc-cno-spk_0-612.mp3|Hila̋ nà:ní?
 cno-spk_0|selected/002613-bc-cno-spk_0-675.mp3|Ani:ji:lv̋:sgi.
 cno-spk_0|selected/002614-bc-cno-spk_0-179.mp3|Digahi:nv̀.

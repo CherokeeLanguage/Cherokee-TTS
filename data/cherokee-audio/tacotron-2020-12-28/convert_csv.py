@@ -43,9 +43,6 @@ if __name__ == "__main__":
             
             copy(file, dest_file)
             
-            if txt[-1] not in ".?!":
-                txt += "."
-            
             if "cno-spk_0" in file:
                 voice="cno-spk_0"
             elif "cno-spk_1" in file:
