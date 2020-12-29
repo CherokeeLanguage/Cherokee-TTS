@@ -38,7 +38,7 @@ if __name__ == "__main__":
             
             if ranking<0.5:
                 continue
-            if votes<2:
+            if votes<1:
                 continue
             
             copy(file, dest_file)
@@ -57,7 +57,7 @@ if __name__ == "__main__":
             else:
                 voice="?"
             
-            line=str(id)+"|"+voice+"|"+txt+"|"+dest_file
+            line=voice+"|"+dest_file+"|"+txt
             dest_data.append(line)
     
             
