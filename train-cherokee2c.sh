@@ -5,7 +5,7 @@ clear
 
 conda activate Cherokee-TTS
 
-params="cherokee2b"
+params="cherokee2c"
 cp="cherokee6i-192-0.216"
 
 cd "$(dirname "$0")"
