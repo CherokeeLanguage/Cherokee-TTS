@@ -23,6 +23,7 @@ if __name__ == "__main__":
     source_data:dict=dict()
     dest_data:list=list()
     
+    count:int=0
     with open(source_csv, newline='') as csvfile:
         rows = csv.DictReader(csvfile)
         for row in rows:
@@ -36,11 +37,12 @@ if __name__ == "__main__":
             
             voice:str=""
             
-            if ranking<0.5:
+            if ranking<1:
                 continue
-            if votes<1:
+            if votes<2:
                 continue
             
+            count+=1
             copy(file, dest_file)
             
             if "cno-spk_0" in file:
@@ -57,6 +59,7 @@ if __name__ == "__main__":
             line=voice+"|"+dest_file+"|"+txt
             dest_data.append(line)
     
+    print(f"Total entries {count:,}.")
             
     with open(dest_txt, "w") as file:
         for line in dest_data:

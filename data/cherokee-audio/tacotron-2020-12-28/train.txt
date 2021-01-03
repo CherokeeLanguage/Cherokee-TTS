@@ -1,1446 +1,505 @@
-000087|cno-spk_3|chr|wav/000160-cno-spk_3-animals-u-ga-te-na.wav|||ukte:na.|
-001359|cno-spk_3|chr|wav/002412-bc-cno-spk_3-68.wav|||Taɂli:né.|
-000799|cno-spk_2|chr|wav/001549-see-say-write-cno-spk_2-74.wav|||Nv̀:ya.|
-000517|cno-spk_3|chr|wav/001067-see-say-write-cno-spk_3-31.wav|||Di:da:sdù:di̋.|
-001093|cno-spk_3|chr|wav/001997-bc-cno-spk_3-109.wav|||Hisgi:ne̋:ɂi.|
-000379|cno-spk_0|chr|wav/001218-see-say-write-cno-spk_0-27.wav|||À:ga:sga.|
-000762|cno-spk_2|chr|wav/001476-see-say-write-cno-spk_2-46.wav|||Ó:si.|
-000426|cno-spk_0|chr|wav/000896-bc-cno-spk_0-303.wav|||E:lo.|
-001142|cno-spk_3|chr|wav/002073-bc-cno-spk_3-480.wav|||E̋:gwa.|
-000800|cno-spk_2|chr|wav/001550-see-say-write-cno-spk_2-41.wav|||Dina:da:hli:lò:sdi̋:sgi ù:nv:nv́:ga.|
-000763|cno-spk_2|chr|wav/001477-see-say-write-cno-spk_2-181.wav|||U:do:hiyű uwo:dű:hi hiɂa talǔ:ja.|
-000406|cno-spk_0|chr|wav/000854-bc-cno-spk_0-498.wav|||Kané:jv.|
-000895|cno-spk_1|chr|wav/001693-see-say-write-cno-spk_1-131.wav|||A:yanű:li ha:hnigi.|
-001032|cno-spk_3|chr|wav/001893-bc-cno-spk_3-40.wav|||Ő:sda.|
-001300|cno-spk_3|chr|wav/002327-bc-cno-spk_3-322.wav|||Adǎ:wé:hi.|
-000535|cno-spk_3|chr|wav/001086-see-say-write-cno-spk_3-33.wav|||Gi:hli agiganǎ:díɂa..|
-000942|cno-spk_3|chr|wav/001764-bc-cno-spk_3-84.wav|||Gahlgwǒ.|
-001425|cno-spk_0|chr|wav/002513-bc-cno-spk_0-301.wav|||Agihyv̋:dla.|
-000032|cno-spk_1|chr|wav/000065-cno-spk_1-animals-ki-yu-ga.wav|||kiyû:ga.|
-000037|cno-spk_1|chr|wav/000075-cno-spk_1-animals-tsu-we-tsi.wav|||juwě:ji.|
-000773|cno-spk_2|chr|wav/001497-see-say-write-cno-spk_2-184.wav|||Hè:sdi!|
-001499|cno-spk_0|chr|wav/002641-bc-cno-spk_0-38.wav|||Agě:hyv.|
-000643|cno-spk_0|chr|wav/001260-see-say-write-cno-spk_0-01.wav|||Su:li.|
-000502|cno-spk_3|chr|wav/001045-see-say-write-cno-spk_3-97.wav|||Ada:kéhdi ù:du:lí na agě:hya.|
-001506|cno-spk_0|chr|wav/002656-bc-cno-spk_0-692.wav|||U:ne̋:ga u:lò:gí:li.|
-000188|cno-spk_1|chr|wav/000381-osiyo-then-cno-spk_1-14.wav|||Jalagi de:sdawó:niha?|
-000461|cno-spk_0|chr|wav/000965-bc-cno-spk_0-561.wav|||U:lò:gí:li.|
-000657|cno-spk_0|chr|wav/001285-see-say-write-cno-spk_0-49.wav|||Ga̋:du u:gana̋:sda à:gíɂa.|
-001186|cno-spk_3|chr|wav/002153-bc-cno-spk_3-264.wav|||À:li:hě:lí.|
-001498|cno-spk_0|chr|wav/002640-bc-cno-spk_0-690.wav|||U:ne̋:g u:lò:gí:l.|
-001107|cno-spk_3|chr|wav/002023-bc-cno-spk_3-490.wav|||Kǎ:hwi inadǐ:ta.|
-001356|cno-spk_3|chr|wav/002408-bc-cno-spk_3-681.wav|||Gadò ű:sdi a:sésdi kò:hí?|
-000095|cno-spk_3|chr|wav/000177-cno-spk_3-animals-tsu-la.wav|||chu:la.|
-000506|cno-spk_3|chr|wav/001804-bc-cno-spk_3-565.wav|||Yó:ne:ga.|
-001482|cno-spk_0|chr|wav/002611-bc-cno-spk_0-474.wav|||Ani:gayv̌:líge̋:.|
-001431|cno-spk_0|chr|wav/002523-bc-cno-spk_0-466.wav|||Uniha.|
-001011|cno-spk_3|chr|wav/001862-bc-cno-spk_3-284.wav|||U:gǎ:no.|
-000290|cno-spk_0|chr|wav/000631-bc-cno-spk_0-661.wav|||Nà:hní.|
-000749|cno-spk_2|chr|wav/001454-see-say-write-cno-spk_2-75.wav|||I:ya.|
-000994|cno-spk_3|chr|wav/001838-bc-cno-spk_3-280.wav|||Dō adv:ne?|
-000323|cno-spk_0|chr|wav/000689-bc-cno-spk_0-309.wav|||Kama:ma.|
-001012|cno-spk_3|chr|wav/001863-bc-cno-spk_3-517.wav|||Ha:dlv hé:ga?|
-001290|cno-spk_3|chr|wav/002310-bc-cno-spk_3-107.wav|||Taɂli:ne̋:ɂi.|
-000241|cno-spk_0|chr|wav/000515-bc-cno-spk_0-451.wav|||À:di.|
-000589|cno-spk_3|chr|wav/001170-see-say-write-cno-spk_3-92.wav|||Ayv.|
-000460|cno-spk_0|chr|wav/000964-bc-cno-spk_0-528.wav|||Hé:gaju?|
-000565|cno-spk_3|chr|wav/001135-see-say-write-cno-spk_3-142.wav|||Sě:lu ga̋:du dagá:du:hni.|
-001175|cno-spk_3|chr|wav/002127-bc-cno-spk_3-583.wav|||Aniwó:ni.|
-001003|cno-spk_3|chr|wav/001850-bc-cno-spk_3-136.wav|||Dà:ni:lâ:wì:ga.|
-000714|cno-spk_0|chr|wav/001384-see-say-write-cno-spk_0-12.wav|||Ǐ:náda.|
-000971|cno-spk_3|chr|wav/001799-bc-cno-spk_3-542.wav|||Ő:sdadv Jalagi gawó:niɂa.|
-000912|cno-spk_1|chr|wav/001719-see-say-write-cno-spk_1-177.wav|||Dihnawo dà:tě:sga.|
-001413|cno-spk_0|chr|wav/002497-bc-cno-spk_0-499.wav|||Dikané:jv.|
-000143|cno-spk_2|chr|wav/000295-cno-spk_2-animals-u-we-tsi.wav|||uwě:ji.|
-000961|cno-spk_3|chr|wav/001787-bc-cno-spk_3-249.wav|||Ùnhta.|
-001116|cno-spk_3|chr|wav/002034-bc-cno-spk_3-167.wav|||Nǔ:ni.|
-000727|cno-spk_2|chr|wav/001408-see-say-write-cno-spk_2-82.wav|||Gi:hli dà:suhwísga.|
-000479|cno-spk_0|chr|wav/001009-bc-cno-spk_0-72.wav|||Joɂi:né.|
-001293|cno-spk_3|chr|wav/002314-bc-cno-spk_3-150.wav|||Dijé:nv̀:sv̋:ɂi hé:ga.|
-001268|cno-spk_3|chr|wav/002279-bc-cno-spk_3-591.wav|||Anè:lí.|
-000551|cno-spk_3|chr|wav/001114-see-say-write-cno-spk_3-82.wav|||Gi:hli dà:suhwísga.|
-000584|cno-spk_3|chr|wav/001164-see-say-write-cno-spk_3-140.wav|||Sě:di dà:gíɂa na salǒ:li.|
-000175|cno-spk_1|chr|wav/000362-osiyo-then-cno-spk_1-05.wav|||Gadò de:jadó:ɂa?|
-001325|cno-spk_3|chr|wav/002365-bc-cno-spk_3-673.wav|||Děhlgv́.|
-000166|cno-spk_2|chr|wav/000345-osiyo-then-cno-spk_2-24.wav|||Ha:dlv wì:je:nv́:sv̌:ɂi?|
-001476|cno-spk_0|chr|wav/002597-bc-cno-spk_0-662.wav|||Sgina.|
-000731|cno-spk_2|chr|wav/001414-see-say-write-cno-spk_2-12.wav|||Ǐ:náda.|
-000207|cno-spk_3|chr|wav/000410-osiyo-then-cno-spk_3-20.wav|||Gadò de:sdadv:neha?|
-000068|cno-spk_0|chr|wav/000125-cno-spk_0-animals-u-na-ga-so-ja-ne-da.wav|||u:naksò:jane̋:da.|
-000103|cno-spk_3|chr|wav/000188-cno-spk_3-animals-ta-wo-di.wav|||tawǒ:di.|
-000393|cno-spk_0|chr|wav/000822-bc-cno-spk_0-296.wav|||U:gǎ:nawa e̋:hi.|
-001272|cno-spk_3|chr|wav/002283-bc-cno-spk_3-77.wav|||Digo:hwe:la.|
-001332|cno-spk_3|chr|wav/002375-bc-cno-spk_3-122.wav|||À:diɂa.|
-001266|cno-spk_3|chr|wav/002277-bc-cno-spk_3-578.wav|||Jiwó:niɂa.|
-000180|cno-spk_1|chr|wav/000373-osiyo-then-cno-spk_1-09.wav|||Me:li dà:gwadó:ɂa.|
-000530|cno-spk_3|chr|wav/001081-see-say-write-cno-spk_3-73.wav|||Jayó:li.|
-001457|cno-spk_0|chr|wav/002562-bc-cno-spk_0-519.wav|||U:hyv:dla dǒ:yi.|
-000914|cno-spk_1|chr|wav/001721-see-say-write-cno-spk_1-01.wav|||Su:li.|
-001039|cno-spk_3|chr|wav/001904-bc-cno-spk_3-553.wav|||Yú:ne:gake hiwó:niɂa?|
-000309|cno-spk_0|chr|wav/000666-bc-cno-spk_0-604.wav|||Ha:dlvɂi?|
-000496|cno-spk_3|chr|wav/001036-see-say-write-cno-spk_3-35.wav|||U:gì:sdi ù:du:lí u:sdi̋.|
-000830|cno-spk_1|chr|wav/001594-see-say-write-cno-spk_1-185.wav|||Ni!|
-000588|cno-spk_3|chr|wav/001169-see-say-write-cno-spk_3-64.wav|||U:ne̋:ga gi:hli.|
-000654|cno-spk_0|chr|wav/001279-see-say-write-cno-spk_0-157.wav|||Uwò:ye̋:ni ù:we:hisdâ:ne.|
-001441|cno-spk_0|chr|wav/002540-bc-cno-spk_0-381.wav|||Ali:he:lísdi.|
-000022|cno-spk_1|chr|wav/000044-cno-spk_1-animals-a-ni-ji-lv-s-gi.wav|||ani:ji:lv̋:sgi.|
-001185|cno-spk_3|chr|wav/002152-bc-cno-spk_3-366.wav|||Agv̌:níge̋.|
-000623|cno-spk_0|chr|wav/001231-see-say-write-cno-spk_0-93.wav|||Ahyv:dagwalò:sgi.|
-000438|cno-spk_0|chr|wav/000921-bc-cno-spk_0-706.wav|||Ani:dalǒ:nígé digadv́:di danì:gíɂa.|
-000933|cno-spk_1|chr|wav/001752-see-say-write-cno-spk_1-56.wav|||Hadǐ:da!|
-000718|cno-spk_2|chr|wav/001391-see-say-write-cno-spk_2-173.wav|||Hila̋ ǐ:gó:hi̋:da a:tliɂilida?|
-001223|cno-spk_3|chr|wav/002210-bc-cno-spk_3-689.wav|||Anisakǒ:nígé ju:gì:dáhli.|
-001196|cno-spk_3|chr|wav/002167-bc-cno-spk_3-03.wav|||Go:hwe:li.|
-000552|cno-spk_3|chr|wav/001115-see-say-write-cno-spk_3-90.wav|||Ayv:wi:ya̋.|
-000967|cno-spk_3|chr|wav/001794-bc-cno-spk_3-430.wav|||A̋:t.|
-000239|cno-spk_0|chr|wav/000505-bc-cno-spk_0-90.wav|||Joɂi.|
-001219|cno-spk_3|chr|wav/002203-bc-cno-spk_3-387.wav|||Ka:ga.|
-000298|cno-spk_0|chr|wav/000646-bc-cno-spk_0-276.wav|||Dō gadv:ne?|
-000201|cno-spk_3|chr|wav/000401-osiyo-then-cno-spk_3-09.wav|||Me:li dà:gwadó:ɂa.|
-000137|cno-spk_2|chr|wav/000278-cno-spk_2-animals-tsu-la.wav|||chu:la.|
-001262|cno-spk_3|chr|wav/002272-bc-cno-spk_3-83.wav|||Sǔ:dál.|
-000278|cno-spk_0|chr|wav/000610-bc-cno-spk_0-248.wav|||Janhta.|
-000621|cno-spk_0|chr|wav/001229-see-say-write-cno-spk_0-58.wav|||Gáɂni.|
-000371|cno-spk_0|chr|wav/000785-bc-cno-spk_0-663.wav|||Hlá kiloyi.|
-001037|cno-spk_3|chr|wav/001902-bc-cno-spk_3-202.wav|||U:du:lí.|
-000437|cno-spk_0|chr|wav/000920-bc-cno-spk_0-275.wav|||U:ga̋:nawa.|
-000011|cno-spk_1|chr|wav/000024-cno-spk_1-animals-di-li.wav|||di:li.|
-001169|cno-spk_3|chr|wav/002119-bc-cno-spk_3-642.wav|||Ayv gé:ga.|
-000042|cno-spk_0|chr|wav/000086-cno-spk_0-animals-o-ga-na.wav|||o:gana.|
-001100|cno-spk_3|chr|wav/002009-bc-cno-spk_3-585.wav|||Ge:lí.|
-000703|cno-spk_0|chr|wav/001366-see-say-write-cno-spk_0-154.wav|||Hi:yo:lì:gis na asgaya?|
-001294|cno-spk_3|chr|wav/002315-bc-cno-spk_3-73.wav|||Di:dihnó:gi.|
-000401|cno-spk_0|chr|wav/000838-bc-cno-spk_0-214.wav|||Di:de:hyǒ:hvsgi.|
-001067|cno-spk_3|chr|wav/001949-bc-cno-spk_3-272.wav|||Á:ma.|
-000834|cno-spk_1|chr|wav/001600-see-say-write-cno-spk_1-114.wav|||Ǐ:náda gahnǐ:dô na asgaya.|
-000917|cno-spk_1|chr|wav/001726-see-say-write-cno-spk_1-105.wav|||Dlo:ge̋:si winè:da.|
-000405|cno-spk_0|chr|wav/000850-bc-cno-spk_0-711.wav|||Agv̌:nígé gi:hli uwǒ:dígé alà:sǔ:lo à:gowhtíɂa.|
-000250|cno-spk_0|chr|wav/000533-bc-cno-spk_0-188.wav|||Gv́:na desgvsi.|
-000020|cno-spk_1|chr|wav/000042-cno-spk_1-animals-wa-lo-si.wav|||waló:si.|
-000110|cno-spk_3|chr|wav/000201-cno-spk_3-animals-a-wi.wav|||ahwi.|
-001303|cno-spk_3|chr|wav/002331-bc-cno-spk_3-646.wav|||A̋ɂda.|
-001125|cno-spk_3|chr|wav/002049-bc-cno-spk_3-273.wav|||U:hyv̋:dla.|
-000114|cno-spk_3|chr|wav/000206-cno-spk_3-animals-yo-na.wav|||yǒ:na.|
-001514|cno-spk_0|chr|wav/002673-bc-cno-spk_0-67.wav|||Hlahv.|
-000195|cno-spk_3|chr|wav/000392-osiyo-then-cno-spk_3-15.wav|||Jalagi dè:jiwó:niha?|
-000340|cno-spk_0|chr|wav/000728-bc-cno-spk_0-262.wav|||Halihě:lí.|
-000562|cno-spk_3|chr|wav/001132-see-say-write-cno-spk_3-17.wav|||I:sa à:gíɂa sa:sa.|
-000669|cno-spk_0|chr|wav/001308-see-say-write-cno-spk_0-83.wav|||Jí:sgwa.|
-000586|cno-spk_3|chr|wav/001167-see-say-write-cno-spk_3-104.wav|||Adà:dlǒ:sdi.|
-000979|cno-spk_3|chr|wav/001810-bc-cno-spk_3-495.wav|||Adǐ:tasdi jadu:líɂa?|
-000896|cno-spk_1|chr|wav/001694-see-say-write-cno-spk_1-139.wav|||Kalsě:ji ù:du:lí na ayő:hli.|
-000775|cno-spk_2|chr|wav/001500-see-say-write-cno-spk_2-125.wav|||Awǒ:háɂli.|
-000255|cno-spk_0|chr|wav/000557-bc-cno-spk_0-701.wav|||Anigǐ:gáge gitǎ:ya.|
-000372|cno-spk_0|chr|wav/000788-bc-cno-spk_0-320.wav|||U:halv:ni.|
-000478|cno-spk_0|chr|wav/001006-bc-cno-spk_0-361.wav|||À:giné.|
-001412|cno-spk_0|chr|wav/002494-bc-cno-spk_0-182.wav|||Desgi:dì.|
-000431|cno-spk_0|chr|wav/000913-bc-cno-spk_0-156.wav|||Unali:he:lísdi.|
-000600|cno-spk_3|chr|wav/001189-see-say-write-cno-spk_3-133.wav|||Kanu:na.|
-001480|cno-spk_0|chr|wav/002608-bc-cno-spk_0-202.wav|||U:du:lí.|
-001440|cno-spk_0|chr|wav/002537-bc-cno-spk_0-619.wav|||Halâ:yv̋ wù:sda é:gwő:ni?|
-000853|cno-spk_1|chr|wav/001624-see-say-write-cno-spk_1-53.wav|||À:giyó:si.|
-001406|cno-spk_0|chr|wav/002486-bc-cno-spk_0-108.wav|||Nvhgi:ne̋:ɂi.|
-001191|cno-spk_3|chr|wav/002159-bc-cno-spk_3-410.wav|||Idihno.|
-001403|cno-spk_0|chr|wav/002481-bc-cno-spk_0-395.wav|||De:halǔ:yi.|
-000516|cno-spk_3|chr|wav/001063-see-say-write-cno-spk_3-138.wav|||Di:sésdi dù:wo:hwě:lâ.|
-000953|cno-spk_3|chr|wav/001778-bc-cno-spk_3-691.wav|||U:ne̋:ga u:lò:gí:la.|
-001500|cno-spk_0|chr|wav/002644-bc-cno-spk_0-345.wav|||Anihne.|
-000603|cno-spk_3|chr|wav/001197-see-say-write-cno-spk_3-56.wav|||Hadǐ:da!|
-000395|cno-spk_0|chr|wav/000825-bc-cno-spk_0-278.wav|||Dō hadv:ne?|
-001200|cno-spk_3|chr|wav/002173-bc-cno-spk_3-493.wav|||U:nv̌:dis hà:su:yv́:sgó?|
-000142|cno-spk_2|chr|wav/000293-cno-spk_2-animals-do-sa.wav|||do:sa.|
-001013|cno-spk_3|chr|wav/001864-bc-cno-spk_3-71.wav|||U:hyv:dlv.|
-000927|cno-spk_1|chr|wav/001743-see-say-write-cno-spk_1-13.wav|||Sa:sa aná:ɂi.|
-000897|cno-spk_1|chr|wav/001695-see-say-write-cno-spk_1-86.wav|||Ji:sgwada.|
-001381|cno-spk_3|chr|wav/002441-bc-cno-spk_3-650.wav|||Gadáɂnv.|
-001475|cno-spk_0|chr|wav/002595-bc-cno-spk_0-269.wav|||Iga.|
-000694|cno-spk_0|chr|wav/001349-see-say-write-cno-spk_0-03.wav|||Ada.|
-000702|cno-spk_0|chr|wav/001365-see-say-write-cno-spk_0-152.wav|||Hisgi.|
-000091|cno-spk_3|chr|wav/000165-cno-spk_3-animals-ti-yo-ha-li.wav|||tiyǒ:háɂli.|
-001048|cno-spk_3|chr|wav/001920-bc-cno-spk_3-440.wav|||Ani:gě.|
-000105|cno-spk_3|chr|wav/000191-cno-spk_3-animals-wa-da-du-ga.wav|||wǎ:dádǔ:ga.|
-000361|cno-spk_0|chr|wav/000766-bc-cno-spk_0-471.wav|||U:ni:hyv̋:dla.|
-000524|cno-spk_3|chr|wav/001074-see-say-write-cno-spk_3-184.wav|||Hè:sdi!|
-000209|cno-spk_3|chr|wav/000413-bragging-hunter-cno-spk_3-18.wav|||à:dlv̌:kwsgv́.|
-001124|cno-spk_3|chr|wav/002047-bc-cno-spk_3-593.wav|||Dù:danv:hnv̋.|
-000316|cno-spk_0|chr|wav/000677-bc-cno-spk_0-375.wav|||Na.|
-000666|cno-spk_0|chr|wav/001304-see-say-write-cno-spk_0-19.wav|||À:hli:ló:ɂa.|
-000512|cno-spk_3|chr|wav/001058-see-say-write-cno-spk_3-120.wav|||Jǒ:lani.|
-000611|cno-spk_0|chr|wav/001210-see-say-write-cno-spk_0-52.wav|||Yǒ:na á:ɂi.|
-001364|cno-spk_3|chr|wav/002418-bc-cno-spk_3-380.wav|||Sóhne:li:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi.|
-000504|cno-spk_3|chr|wav/001047-see-say-write-cno-spk_3-04.wav|||A:li.|
-001192|cno-spk_3|chr|wav/002161-bc-cno-spk_3-91.wav|||Nvhgi.|
-001442|cno-spk_0|chr|wav/002541-bc-cno-spk_0-104.wav|||Chuně:li:ne̋.|
-000920|cno-spk_1|chr|wav/001731-see-say-write-cno-spk_1-54.wav|||À:giyó:siha.|
-000509|cno-spk_3|chr|wav/001053-see-say-write-cno-spk_3-79.wav|||U:ni:ji:ya dù:hyoha na asgaya.|
-001242|cno-spk_3|chr|wav/002235-bc-cno-spk_3-605.wav|||À:tv:gâ:nv nù:wè:sv.|
-000541|cno-spk_3|chr|wav/001094-see-say-write-cno-spk_3-167.wav|||Gv̌:hnáge̋.|
-001201|cno-spk_3|chr|wav/002174-bc-cno-spk_3-72.wav|||Joɂi:né.|
-000820|cno-spk_1|chr|wav/001578-see-say-write-cno-spk_1-69.wav|||U:nv̌:di ù:hwasga.|
-000695|cno-spk_0|chr|wav/001350-see-say-write-cno-spk_0-07.wav|||Salǒ:li.|
-000113|cno-spk_3|chr|wav/000205-cno-spk_3-animals-gv-na.wav|||gv́:na.|
-001522|cno-spk_1|chr|wav/000053-cno-spk_1-animals-ti-na.wav|||tina.|
-000795|cno-spk_2|chr|wav/001544-see-say-write-cno-spk_2-113.wav|||Kilő anisgaya danidô:ga.|
-001171|cno-spk_3|chr|wav/002122-bc-cno-spk_3-158.wav|||Go:hlv:hnv́.|
-001271|cno-spk_3|chr|wav/002282-bc-cno-spk_3-403.wav|||Dù:ninvhdi.|
-000835|cno-spk_1|chr|wav/001601-see-say-write-cno-spk_1-145.wav|||Gadò hà:dv́:ne?|
-000274|cno-spk_0|chr|wav/000604-bc-cno-spk_0-355.wav|||À:gi.|
-000206|cno-spk_3|chr|wav/000408-osiyo-then-cno-spk_3-14.wav|||Jalagi de:sdawó:niha?|
-001166|cno-spk_3|chr|wav/002116-bc-cno-spk_3-365.wav|||Uninéha.|
-000629|cno-spk_0|chr|wav/001239-see-say-write-cno-spk_0-99.wav|||Tiyǒ:háɂli gaɂnǐ:ya na ǐ:náda.|
-000385|cno-spk_0|chr|wav/000807-bc-cno-spk_0-198.wav|||Aksdà:yv̌hv̄.|
-000306|cno-spk_0|chr|wav/000662-bc-cno-spk_0-550.wav|||Gadō ű:sd ayv:wi:yá?|
-001058|cno-spk_3|chr|wav/001934-bc-cno-spk_3-220.wav|||Gadò dě:jádo:ɂa?|
-001143|cno-spk_3|chr|wav/002074-bc-cno-spk_3-141.wav|||Hé:ga.|
-001028|cno-spk_3|chr|wav/001887-bc-cno-spk_3-614.wav|||Hila̋ go:hwe:li jadu:lí?|
-000245|cno-spk_0|chr|wav/000521-bc-cno-spk_0-530.wav|||Hé:gake?|
-001160|cno-spk_3|chr|wav/002105-bc-cno-spk_3-295.wav|||U:hyv:dlv e̋:hi.|
-000104|cno-spk_3|chr|wav/000189-cno-spk_3-animals-u-ji-ya.wav|||u:ji:ya.|
-000780|cno-spk_2|chr|wav/001518-see-say-write-cno-spk_2-03.wav|||Ada.|
-000723|cno-spk_2|chr|wav/001401-see-say-write-cno-spk_2-80.wav|||Ha:wiya.|
-000949|cno-spk_3|chr|wav/001772-bc-cno-spk_3-301.wav|||Agihyv̋:dla.|
-000774|cno-spk_2|chr|wav/001498-see-say-write-cno-spk_2-163.wav|||Sgwà:hle̋:sdi.|
-000337|cno-spk_0|chr|wav/000720-bc-cno-spk_0-407.wav|||V̌:sgíyi.|
-000526|cno-spk_3|chr|wav/001077-see-say-write-cno-spk_3-81.wav|||Ahwi dunihyo na aniwǐ:na.|
-000974|cno-spk_3|chr|wav/001805-bc-cno-spk_3-180.wav|||Digahi:nv̀:si.|
-000661|cno-spk_0|chr|wav/001293-see-say-write-cno-spk_0-39.wav|||Na gi:hli ganv́:gi.|
-000907|cno-spk_1|chr|wav/001709-see-say-write-cno-spk_1-171.wav|||Goɂi.|
-001033|cno-spk_3|chr|wav/001895-bc-cno-spk_3-608.wav|||Gadò adā?|
-000238|cno-spk_0|chr|wav/000504-bc-cno-spk_0-601.wav|||Na achű:ja.|
-000299|cno-spk_0|chr|wav/000647-bc-cno-spk_0-642.wav|||Ayv gé:ga.|
-000868|cno-spk_1|chr|wav/001646-see-say-write-cno-spk_1-94.wav|||Agayv̌:líge̋.|
-000851|cno-spk_1|chr|wav/001622-see-say-write-cno-spk_1-170.wav|||Wě:sa nigawè:sgv́ gà:tv:gí:ɂa.|
-001252|cno-spk_3|chr|wav/002253-bc-cno-spk_3-303.wav|||E:lo.|
-001422|cno-spk_0|chr|wav/002508-bc-cno-spk_0-707.wav|||Uwǒ:dígé u:sdi̋.|
-000721|cno-spk_2|chr|wav/001398-see-say-write-cno-spk_2-73.wav|||Jayó:li.|
-000387|cno-spk_0|chr|wav/000811-bc-cno-spk_0-87.wav|||Sgǒ.|
-001419|cno-spk_0|chr|wav/002503-bc-cno-spk_0-220.wav|||Gadò dě:jádo:ɂa?|
-001487|cno-spk_0|chr|wav/002619-bc-cno-spk_0-284.wav|||U:gǎ:no.|
-000639|cno-spk_0|chr|wav/001256-see-say-write-cno-spk_0-179.wav|||Ǔ:tana yǒ:na ji:gò:wahtā.|
-000052|cno-spk_0|chr|wav/000103-cno-spk_0-animals-wa-lo-si.wav|||waló:si.|
-000284|cno-spk_0|chr|wav/000617-bc-cno-spk_0-457.wav|||Ù:nadu:lí.|
-000222|cno-spk_0|chr|wav/000446-bragging-hunter-cno-spk_0-14.wav|||"Ahwi è:ni:yó:ɂa!",.|
-001236|cno-spk_3|chr|wav/002228-bc-cno-spk_3-43.wav|||Gohlsga.|
-000060|cno-spk_0|chr|wav/000114-cno-spk_0-animals-we-sa.wav|||wě:sa.|
-000831|cno-spk_1|chr|wav/001595-see-say-write-cno-spk_1-87.wav|||Wě:sa.|
-000858|cno-spk_1|chr|wav/001629-see-say-write-cno-spk_1-40.wav|||U:nv̌:di ù:du:lí na u:sdi̋.|
-000474|cno-spk_0|chr|wav/001000-bc-cno-spk_0-76.wav|||Nvhgi:né.|
-000999|cno-spk_3|chr|wav/001846-bc-cno-spk_3-659.wav|||Nà:sgi.|
-000031|cno-spk_1|chr|wav/000062-cno-spk_1-animals-sa-sa.wav|||sa:sa.|
-000968|cno-spk_3|chr|wav/001795-bc-cno-spk_3-483.wav|||Sgo:hi:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi.|
-000151|cno-spk_0|chr|wav/000310-osiyo-then-cno-spk_0-14.wav|||Jalagi de:sdawó:niha?|
-001070|cno-spk_3|chr|wav/001953-bc-cno-spk_3-655.wav|||À:dáɂnv:ɂa.|
-000345|cno-spk_0|chr|wav/000735-bc-cno-spk_0-148.wav|||Digwé:nv̀:sv̋:ɂi gé:ga.|
-000728|cno-spk_2|chr|wav/001411-see-say-write-cno-spk_2-33.wav|||Gi:hli agiganǎ:díɂa..|
-000058|cno-spk_0|chr|wav/000112-cno-spk_0-animals-do-sv-da-li.wav|||do:sv̌:dáɂli.|
-000846|cno-spk_1|chr|wav/001616-see-say-write-cno-spk_1-02.wav|||Sǔ:dáli.|
-000314|cno-spk_0|chr|wav/000674-bc-cno-spk_0-426.wav|||Ani:ge:hyű:ja.|
-000760|cno-spk_2|chr|wav/001472-see-say-write-cno-spk_2-76.wav|||Tǔ:ya dù:du:lí.|
-001408|cno-spk_0|chr|wav/002489-bc-cno-spk_0-117.wav|||Taɂli:ne̋:ɂi go:hwe:lvɂi.|
-000855|cno-spk_1|chr|wav/001626-see-say-write-cno-spk_1-117.wav|||Na à:lâ:sgalǐ:sgi.|
-000862|cno-spk_1|chr|wav/001633-see-say-write-cno-spk_1-90.wav|||Ayv:wi:ya̋.|
-001021|cno-spk_3|chr|wav/001873-bc-cno-spk_3-548.wav|||Ayv:wi:yá.|
-000712|cno-spk_0|chr|wav/001382-see-say-write-cno-spk_0-175.wav|||Te:lǐ:do.|
-001472|cno-spk_0|chr|wav/002589-bc-cno-spk_0-225.wav|||Tla yigo:lì:ga.|
-001106|cno-spk_3|chr|wav/002020-bc-cno-spk_3-86.wav|||Sóhně:l.|
-000736|cno-spk_2|chr|wav/001425-see-say-write-cno-spk_2-42.wav|||Si:nv̋:da.|
-000415|cno-spk_0|chr|wav/000874-bc-cno-spk_0-631.wav|||Hatv:gī.|
-000119|cno-spk_3|chr|wav/000214-cno-spk_3-animals-tlv-da-tsi.wav|||hlv:daji.|
-000494|cno-spk_3|chr|wav/001033-see-say-write-cno-spk_3-91.wav|||Yv:gi.|
-000335|cno-spk_0|chr|wav/000713-bc-cno-spk_0-326.wav|||Do:yű.|
-001396|cno-spk_3|chr|wav/002469-bc-cno-spk_3-118.wav|||Dego:hwe:la.|
-001202|cno-spk_3|chr|wav/002176-bc-cno-spk_3-121.wav|||Hadí:ɂa.|
-001486|cno-spk_0|chr|wav/002618-bc-cno-spk_0-63.wav|||Donada:go:hv:ɂi.|
-001446|cno-spk_0|chr|wav/002546-bc-cno-spk_0-69.wav|||Áhni.|
-000667|cno-spk_0|chr|wav/001306-see-say-write-cno-spk_0-56.wav|||Hadǐ:da!|
-000977|cno-spk_3|chr|wav/001808-bc-cno-spk_3-300.wav|||U:gǎ:nawa gě:dô:a.|
-000681|cno-spk_0|chr|wav/001329-see-say-write-cno-spk_0-109.wav|||Ama sgidlì:sdasi.|
-001275|cno-spk_3|chr|wav/002286-bc-cno-spk_3-90.wav|||Joɂi.|
-000325|cno-spk_0|chr|wav/000695-bc-cno-spk_0-363.wav|||Ù:né.|
-000026|cno-spk_1|chr|wav/000051-cno-spk_1-animals-wa-ya.wav|||wahya.|
-000342|cno-spk_0|chr|wav/000732-bc-cno-spk_0-523.wav|||Ő:sdaju?|
-000627|cno-spk_0|chr|wav/001235-see-say-write-cno-spk_0-129.wav|||Nǔ:na.|
-000982|cno-spk_3|chr|wav/001816-bc-cno-spk_3-182.wav|||Desgi:dì.|
-000645|cno-spk_0|chr|wav/001263-see-say-write-cno-spk_0-53.wav|||À:giyó:si.|
-000106|cno-spk_3|chr|wav/000192-cno-spk_3-animals-wa-ga.wav|||wahga.|
-001158|cno-spk_3|chr|wav/002103-bc-cno-spk_3-186.wav|||Gv:no:sásdi ti:dì:si.|
-000272|cno-spk_0|chr|wav/000602-bc-cno-spk_0-429.wav|||Ani:wi̋:n.|
-001259|cno-spk_3|chr|wav/002267-bc-cno-spk_3-615.wav|||Hila̋ go:hwe:li jadu:líɂa?|
-000270|cno-spk_0|chr|wav/000597-bc-cno-spk_0-431.wav|||A̋:ta.|
-000384|cno-spk_0|chr|wav/000805-bc-cno-spk_0-634.wav|||À:sdû:di.|
-001361|cno-spk_3|chr|wav/002414-bc-cno-spk_3-299.wav|||U:gǎ:nawa gě:dô.|
-001066|cno-spk_3|chr|wav/001948-bc-cno-spk_3-580.wav|||Hiwó:niɂa.|
-000458|cno-spk_0|chr|wav/000959-bc-cno-spk_0-57.wav|||Gadò?|
-001360|cno-spk_3|chr|wav/002413-bc-cno-spk_3-520.wav|||U:hyv:dlake dǒ:y?|
-000677|cno-spk_0|chr|wav/001320-see-say-write-cno-spk_0-92.wav|||Ayv.|
-001357|cno-spk_3|chr|wav/002410-bc-cno-spk_3-232.wav|||Nihinahv?|
-000626|cno-spk_0|chr|wav/001234-see-say-write-cno-spk_0-62.wav|||Ganè:ga.|
-000040|cno-spk_0|chr|wav/000078-cno-spk_0-animals-i-na-da.wav|||ǐ:náda.|
-000950|cno-spk_3|chr|wav/001774-bc-cno-spk_3-35.wav|||Kó:ga.|
-000817|cno-spk_1|chr|wav/001575-see-say-write-cno-spk_1-66.wav|||Waló:si.|
-000815|cno-spk_1|chr|wav/001573-see-say-write-cno-spk_1-72.wav|||Jalí:si.|
-000602|cno-spk_3|chr|wav/001195-see-say-write-cno-spk_3-150.wav|||U:hyv:dla ama à:gwadu:lí.|
-001283|cno-spk_3|chr|wav/002303-bc-cno-spk_3-225.wav|||Tla yigo:lì:ga.|
-001061|cno-spk_3|chr|wav/001942-bc-cno-spk_3-96.wav|||Sgǒ:hi.|
-000735|cno-spk_2|chr|wav/001424-see-say-write-cno-spk_2-177.wav|||Dihnawo dà:tě:sga.|
-001371|cno-spk_3|chr|wav/002428-bc-cno-spk_3-501.wav|||Gadì:tásga.|
-000027|cno-spk_1|chr|wav/000057-cno-spk_1-animals-sa-lo-li.wav|||salǒ:li.|
-000390|cno-spk_0|chr|wav/000815-bc-cno-spk_0-128.wav|||Gō.|
-001355|cno-spk_3|chr|wav/002406-bc-cno-spk_3-110.wav|||Su:dali:ne̋:ɂi.|
-000690|cno-spk_0|chr|wav/002664-bc-cno-spk_0-510.wav|||Sa:sa.|
-000074|cno-spk_0|chr|wav/000137-cno-spk_0-animals-tsi-ta-ga.wav|||jitǎ:ga.|
-000167|cno-spk_2|chr|wav/001427-see-say-write-cno-spk_2-51.wav|||O:síyo.|
-000951|cno-spk_3|chr|wav/001775-bc-cno-spk_3-69.wav|||Áhni.|
-000682|cno-spk_0|chr|wav/001330-see-say-write-cno-spk_0-123.wav|||Da:hnawa.|
-000662|cno-spk_0|chr|wav/001294-see-say-write-cno-spk_0-112.wav|||Do:ya.|
-000047|cno-spk_0|chr|wav/000094-cno-spk_0-animals-go-ga.wav|||kó:ga.|
-000035|cno-spk_1|chr|wav/000072-cno-spk_1-animals-su-li.wav|||su:li.|
-000094|cno-spk_3|chr|wav/000176-cno-spk_3-animals-da-gi-si.wav|||daksi.|
-001269|cno-spk_3|chr|wav/002280-bc-cno-spk_3-639.wav|||Dlù:dlu.|
-000796|cno-spk_2|chr|wav/001545-see-say-write-cno-spk_2-88.wav|||Wě:sa nigawe.|
-000117|cno-spk_3|chr|wav/000209-cno-spk_3-animals-ka-nu-na.wav|||kanu:na.|
-000030|cno-spk_1|chr|wav/000061-cno-spk_1-animals-kv-hli.wav|||kv̌:hli.|
-000194|cno-spk_3|chr|wav/000391-osiyo-then-cno-spk_3-21.wav|||Gadò dè:jadv:neha?|
-001389|cno-spk_3|chr|wav/002457-bc-cno-spk_3-647.wav|||A̋ɂdage.|
-001449|cno-spk_0|chr|wav/002551-bc-cno-spk_0-139.wav|||Gé:ga.|
-001296|cno-spk_3|chr|wav/002322-bc-cno-spk_3-356.wav|||À:giha.|
-000084|cno-spk_3|chr|wav/000154-cno-spk_3-animals-ki-yu-ga.wav|||kiyû:ga.|
-001141|cno-spk_3|chr|wav/002072-bc-cno-spk_3-595.wav|||Ǔ:tana.|
-000186|cno-spk_1|chr|wav/000379-osiyo-then-cno-spk_1-21.wav|||Gadò dè:jadv:neha?|
-000240|cno-spk_0|chr|wav/000507-bc-cno-spk_0-669.wav|||Asgaya gawó:niɂa.|
-000380|cno-spk_0|chr|wav/000801-bc-cno-spk_0-438.wav|||Ani:sgaya.|
-000182|cno-spk_1|chr|wav/000375-osiyo-then-cno-spk_1-03.wav|||Tò:hi̋:ju?|
-001176|cno-spk_3|chr|wav/002128-bc-cno-spk_3-128.wav|||Gō.|
-000069|cno-spk_0|chr|wav/000126-cno-spk_0-animals-te-wa.wav|||de:wa.|
-000646|cno-spk_0|chr|wav/001264-see-say-write-cno-spk_0-09.wav|||I:sa.|
-000062|cno-spk_0|chr|wav/000116-cno-spk_0-animals-wa-ga.wav|||wahga.|
-001339|cno-spk_3|chr|wav/002382-bc-cno-spk_3-395.wav|||De:halǔ:yi.|
-001265|cno-spk_3|chr|wav/002276-bc-cno-spk_3-464.wav|||Unikáha.|
-000754|cno-spk_2|chr|wav/001463-see-say-write-cno-spk_2-122.wav|||Jǒ:lani tisduɂi.|
-000420|cno-spk_0|chr|wav/000885-bc-cno-spk_0-536.wav|||Ù:lô:gi:li kò:hi̋ svná:le̋ɂi.|
-001443|cno-spk_0|chr|wav/002543-bc-cno-spk_0-112.wav|||Chuně:li:ne̋:ɂi.|
-000086|cno-spk_3|chr|wav/000158-cno-spk_3-animals-u-na-je-tsi-s-di.wav|||u:naje̋:tsdi.|
-001133|cno-spk_3|chr|wav/002063-bc-cno-spk_3-661.wav|||Nà:hní.|
-000859|cno-spk_1|chr|wav/001630-see-say-write-cno-spk_1-03.wav|||Ada.|
-000615|cno-spk_0|chr|wav/001222-see-say-write-cno-spk_0-117.wav|||Na à:lâ:sgalǐ:sgi.|
-001137|cno-spk_3|chr|wav/002068-bc-cno-spk_3-261.wav|||Galiɂě:lî:ga.|
-000998|cno-spk_3|chr|wav/001845-bc-cno-spk_3-321.wav|||Ajina.|
-001453|cno-spk_0|chr|wav/002555-bc-cno-spk_0-567.wav|||Gà:yő:hli.|
-001416|cno-spk_0|chr|wav/002500-bc-cno-spk_0-81.wav|||Jo.|
-001346|cno-spk_3|chr|wav/002392-bc-cno-spk_3-555.wav|||Agǔ:sa jiyv:wi.|
-000843|cno-spk_1|chr|wav/001613-see-say-write-cno-spk_1-31.wav|||Di:da:sdù:di̋.|
-000326|cno-spk_0|chr|wav/000696-bc-cno-spk_0-79.wav|||Sà:gwű.|
-000715|cno-spk_2|chr|wav/001385-see-say-write-cno-spk_2-152.wav|||Hisgi.|
-000391|cno-spk_0|chr|wav/000818-bc-cno-spk_0-21.wav|||Dē. Tē. Dī.|
-000553|cno-spk_3|chr|wav/001116-see-say-write-cno-spk_3-98.wav|||Gi:hli ù:lití:si.|
-000225|cno-spk_0|chr|wav/000457-bragging-hunter-cno-spk_0-03.wav|||Sà:gwű:hno asgaya galò:gwé.|
-000931|cno-spk_1|chr|wav/001750-see-say-write-cno-spk_1-35.wav|||U:gì:sdi ù:du:lí u:sdi̋.|
-001353|cno-spk_3|chr|wav/002402-bc-cno-spk_3-545.wav|||Hiyv:wi:yádv.|
-000200|cno-spk_3|chr|wav/000400-osiyo-then-cno-spk_3-25.wav|||Ha:dlv hwé:ga?|
-001248|cno-spk_3|chr|wav/002245-bc-cno-spk_3-610.wav|||Hila̋ ǐ:ga̋ɂi?|
-000822|cno-spk_1|chr|wav/001581-see-say-write-cno-spk_1-137.wav|||Di:sésdi.|
-001335|cno-spk_3|chr|wav/002378-bc-cno-spk_3-36.wav|||Kó:gi.|
-001224|cno-spk_3|chr|wav/002211-bc-cno-spk_3-340.wav|||Gv̀:ne.|
-000147|cno-spk_0|chr|wav/000306-osiyo-then-cno-spk_0-26.wav|||Ha:dlv wisdé:ga?|
-000377|cno-spk_0|chr|wav/000796-bc-cno-spk_0-48.wav|||V̀:hla.|
-000962|cno-spk_3|chr|wav/001788-bc-cno-spk_3-175.wav|||Asú:sdi desgi:nehvsi.|
-001001|cno-spk_3|chr|wav/001848-bc-cno-spk_3-112.wav|||Chuně:li:ne̋:ɂi.|
-001329|cno-spk_3|chr|wav/002370-bc-cno-spk_3-197.wav|||Analsdâ:yv:hv́sga.|
-000043|cno-spk_0|chr|wav/000087-cno-spk_0-animals-sa-sa.wav|||sa:sa.|
-000499|cno-spk_3|chr|wav/001039-see-say-write-cno-spk_3-05.wav|||À:su:lo.|
-000066|cno-spk_0|chr|wav/000123-cno-spk_0-animals-a-wo-ha-li.wav|||awǒ:háɂli.|
-001173|cno-spk_3|chr|wav/002125-bc-cno-spk_3-641.wav|||Ayv gé.|
-000173|cno-spk_1|chr|wav/000360-osiyo-then-cno-spk_1-04.wav|||Tò:hi̋:gwu.|
-001215|cno-spk_3|chr|wav/002198-bc-cno-spk_3-207.wav|||U:gù:ku.|
-000051|cno-spk_0|chr|wav/000101-cno-spk_0-animals-e-la-qua.wav|||e:logwa.|
-000410|cno-spk_0|chr|wav/000864-bc-cno-spk_0-628.wav|||Aniɂluh.|
-001427|cno-spk_0|chr|wav/002517-bc-cno-spk_0-656.wav|||À:nadáɂnv.|
-000364|cno-spk_0|chr|wav/000777-bc-cno-spk_0-205.wav|||Unadu:líɂa.|
-001091|cno-spk_3|chr|wav/001995-bc-cno-spk_3-474.wav|||Ani:gayv̌:líge̋:.|
-001297|cno-spk_3|chr|wav/002323-bc-cno-spk_3-349.wav|||Ù:we:ká.|
-000674|cno-spk_0|chr|wav/001316-see-say-write-cno-spk_0-110.wav|||Ǔ:gáma à:gwadu:lí.|
-001264|cno-spk_3|chr|wav/002275-bc-cno-spk_3-426.wav|||Ani:ge:hyű:ja.|
-001315|cno-spk_3|chr|wav/002353-bc-cno-spk_3-547.wav|||Hiyv:wi:yásgohv?|
-000965|cno-spk_3|chr|wav/001791-bc-cno-spk_3-539.wav|||Gà:yő:hli jiwó:niɂa Jalagi.|
-000610|cno-spk_0|chr|wav/001209-see-say-write-cno-spk_0-87.wav|||Wě:sa.|
-001127|cno-spk_3|chr|wav/002052-bc-cno-spk_3-162.wav|||Hawi:ya.|
-000145|cno-spk_2|chr|wav/000301-cno-spk_2-animals-ka-na-ji-s-de-ji.wav|||kanajì:sdě:ji.|
-001207|cno-spk_3|chr|wav/002182-bc-cno-spk_3-450.wav|||Di:ni:yő:hli.|
-000543|cno-spk_3|chr|wav/001097-see-say-write-cno-spk_3-34.wav|||U:sdi̋.|
-000991|cno-spk_3|chr|wav/001832-bc-cno-spk_3-618.wav|||Halâ:yv̋ é:gwő:ni?|
-001180|cno-spk_3|chr|wav/002140-bc-cno-spk_3-702.wav|||Anigǐ:gáge gitǎ:yaɂi.|
-000821|cno-spk_1|chr|wav/001579-see-say-write-cno-spk_1-36.wav|||Salǒ:li ù:du:lí na gi:hli.|
-001523|cno-spk_1|chr|wav/000054-cno-spk_1-animals-u-ni-no-de-na.wav|||u:ni:nò:de̋:na.|
-001150|cno-spk_3|chr|wav/002092-bc-cno-spk_3-46.wav|||Wado.|
-001144|cno-spk_3|chr|wav/002075-bc-cno-spk_3-238.wav|||Didǐ:yé:li:hi.|
-001017|cno-spk_3|chr|wav/001868-bc-cno-spk_3-253.wav|||Ahu:li.|
-000307|cno-spk_0|chr|wav/000664-bc-cno-spk_0-286.wav|||Am.|
-000246|cno-spk_0|chr|wav/001288-see-say-write-cno-spk_0-02.wav|||Sǔ:dáli.|
-001347|cno-spk_3|chr|wav/002395-bc-cno-spk_3-210.wav|||Go:hi̋.|
-001322|cno-spk_3|chr|wav/002361-bc-cno-spk_3-436.wav|||Asgayv.|
-001452|cno-spk_0|chr|wav/002554-bc-cno-spk_0-315.wav|||Adǎ:hnehdi.|
-001479|cno-spk_0|chr|wav/002607-bc-cno-spk_0-35.wav|||Kó:ga.|
-000217|cno-spk_3|chr|wav/000427-bragging-hunter-cno-spk_3-10.wav|||nǔ:ksestanv̋:na iyú:sdi dà:sdayo:hihv̋.|
-001379|cno-spk_3|chr|wav/002439-bc-cno-spk_3-124.wav|||Dù:danv:hnv̋:ɂi.|
-001343|cno-spk_3|chr|wav/002387-bc-cno-spk_3-229.wav|||Gadō u:sdi?|
-001344|cno-spk_3|chr|wav/002389-bc-cno-spk_3-216.wav|||Idalě:na.|
-000770|cno-spk_2|chr|wav/001490-see-say-write-cno-spk_2-185.wav|||Ni!|
-000153|cno-spk_0|chr|wav/000315-osiyo-then-cno-spk_0-15.wav|||Jalagi dè:jiwó:niha?|
-000221|cno-spk_0|chr|wav/000440-bragging-hunter-cno-spk_0-08.wav|||ná:hnv́ galò:gwé ga:ne̋:hi kilagwu.|
-000865|cno-spk_1|chr|wav/001639-see-say-write-cno-spk_1-18.wav|||Gi:hli à:hligí:ɂa.|
-000018|cno-spk_1|chr|wav/000038-cno-spk_1-animals-we-sa.wav|||wě:sa.|
-000111|cno-spk_3|chr|wav/000202-cno-spk_3-animals-a-ni-ji-lv-s-gi.wav|||ani:ji:lv̋:sgi.|
-000525|cno-spk_3|chr|wav/001075-see-say-write-cno-spk_3-123.wav|||Da:hnawa.|
-000276|cno-spk_0|chr|wav/000606-bc-cno-spk_0-200.wav|||Jadu:lí.|
-001212|cno-spk_3|chr|wav/002195-bc-cno-spk_3-95.wav|||Sóhně:la.|
-001400|cno-spk_3|chr|wav/002476-bc-cno-spk_3-145.wav|||Ju:ni:là:wisdi gé.|
-000228|cno-spk_3|chr|wav/000468-osiyo-then-cno-spk_3-18.wav|||Dè:johlga̋:s Jalagi?|
-001148|cno-spk_3|chr|wav/002088-bc-cno-spk_3-34.wav|||Kó.|
-000455|cno-spk_0|chr|wav/000952-bc-cno-spk_0-424.wav|||Age:hyű:ja.|
-000788|cno-spk_2|chr|wav/001532-see-say-write-cno-spk_2-18.wav|||Gi:hli à:hligí:ɂa.|
-000457|cno-spk_0|chr|wav/000955-bc-cno-spk_0-626.wav|||Gaɂluh.|
-000642|cno-spk_0|chr|wav/001259-see-say-write-cno-spk_0-61.wav|||Sasa uniga:sga.|
-000484|cno-spk_3|chr|wav/002014-bc-cno-spk_3-92.wav|||Sǔ:dáli.|
-000126|cno-spk_2|chr|wav/000236-cno-spk_2-animals-u-gu-gu.wav|||u:gù:ku.|
-000480|cno-spk_0|chr|wav/001010-bc-cno-spk_0-109.wav|||Hisgi:ne̋:ɂi.|
-000890|cno-spk_1|chr|wav/001687-see-say-write-cno-spk_1-85.wav|||Sihgwa ha:wiya à:gwadu:lí.|
-000375|cno-spk_0|chr|wav/000791-bc-cno-spk_0-40.wav|||Ő:sda.|
-000612|cno-spk_0|chr|wav/001211-see-say-write-cno-spk_0-80.wav|||Ha:wiya.|
-000465|cno-spk_0|chr|wav/000977-bc-cno-spk_0-356.wav|||À:giha.|
-000429|cno-spk_0|chr|wav/000901-bc-cno-spk_0-428.wav|||Awi̋:na.|
-001263|cno-spk_3|chr|wav/002274-bc-cno-spk_3-527.wav|||Goɂike jadu:lí?|
-000416|cno-spk_0|chr|wav/000878-bc-cno-spk_0-316.wav|||Di:dǎ:hnehdi.|
-000776|cno-spk_2|chr|wav/001501-see-say-write-cno-spk_2-19.wav|||À:hli:ló:ɂa.|
-001227|cno-spk_3|chr|wav/002217-bc-cno-spk_3-405.wav|||Nv:dadě:wa.|
-001000|cno-spk_3|chr|wav/001847-bc-cno-spk_3-348.wav|||À:gi:káha.|
-000002|cno-spk_1|chr|wav/000003-cno-spk_1-animals-do-ya.wav|||do:ya.|
-001134|cno-spk_3|chr|wav/002064-bc-cno-spk_3-88.wav|||Sà:wűɂi.|
-001376|cno-spk_3|chr|wav/002435-bc-cno-spk_3-573.wav|||Yv:wi.|
-000336|cno-spk_0|chr|wav/000718-bc-cno-spk_0-558.wav|||hnv.|
-001111|cno-spk_3|chr|wav/002028-bc-cno-spk_3-385.wav|||U:no:lv̀:tana.|
-001174|cno-spk_3|chr|wav/002126-bc-cno-spk_3-587.wav|||He:lí.|
-001469|cno-spk_0|chr|wav/002584-bc-cno-spk_0-560.wav|||U:lò:gí:la.|
-001036|cno-spk_3|chr|wav/001899-bc-cno-spk_3-174.wav|||Asú:sdi desgi:nehv.|
-001287|cno-spk_3|chr|wav/002307-bc-cno-spk_3-235.wav|||Dinǐ:yé:li.|
-000532|cno-spk_3|chr|wav/002301-bc-cno-spk_3-166.wav|||Nǔ:na.|
-000338|cno-spk_0|chr|wav/000723-bc-cno-spk_0-62.wav|||Donada:go:hv̄.|
-000351|cno-spk_0|chr|wav/000749-bc-cno-spk_0-186.wav|||Gv:no:sásdi ti:dì:si.|
-000886|cno-spk_1|chr|wav/001680-see-say-write-cno-spk_1-163.wav|||Sgwà:hle̋:sdi.|
-001326|cno-spk_3|chr|wav/002366-bc-cno-spk_3-479.wav|||Anigv̌:níge̋ kama:ma a:nalsdâ:yv:hv́sga.|
-001239|cno-spk_3|chr|wav/002231-bc-cno-spk_3-76.wav|||Nvhgi:né.|
-000878|cno-spk_1|chr|wav/001665-see-say-write-cno-spk_1-142.wav|||Sě:lu ga̋:du dagá:du:hni.|
-000264|cno-spk_0|chr|wav/000577-bc-cno-spk_0-391.wav|||Kawo:ni.|
-000790|cno-spk_2|chr|wav/001537-see-say-write-cno-spk_2-30.wav|||Sdù:di.|
-001388|cno-spk_3|chr|wav/002455-bc-cno-spk_3-224.wav|||U:sganő:li hiwò:nǐ:hi.|
-000753|cno-spk_2|chr|wav/001460-see-say-write-cno-spk_2-34.wav|||U:sdi̋.|
-000208|cno-spk_3|chr|wav/000412-osiyo-then-cno-spk_3-13.wav|||Jalagi hiwó:niha?|
-000262|cno-spk_0|chr|wav/000571-bc-cno-spk_0-321.wav|||Ajina.|
-001521|cno-spk_1|chr|wav/000039-cno-spk_1-animals-ti-yo-ha-li.wav|||tiyǒ:háɂli.|
-000550|cno-spk_3|chr|wav/001113-see-say-write-cno-spk_3-59.wav|||Áɂni.|
-001417|cno-spk_0|chr|wav/002501-bc-cno-spk_0-245.wav|||Go:hwe:la.|
-000650|cno-spk_0|chr|wav/001271-see-say-write-cno-spk_0-14.wav|||Iná:ɂi.|
-001115|cno-spk_3|chr|wav/002032-bc-cno-spk_3-312.wav|||Chuně:li:ne̋ Jalagi go:hwe:lv̀:ɂi.|
-000850|cno-spk_1|chr|wav/001621-see-say-write-cno-spk_1-28.wav|||Ga:sgilo.|
-001383|cno-spk_3|chr|wav/002444-bc-cno-spk_3-263.wav|||Halihě:lî:ga.|
-001245|cno-spk_3|chr|wav/002240-bc-cno-spk_3-537.wav|||Ù:lô:gi:lv.|
-000041|cno-spk_0|chr|wav/000079-cno-spk_0-animals-wa-ya.wav|||wahya.|
-001284|cno-spk_3|chr|wav/002304-bc-cno-spk_3-676.wav|||Aji:lv́:sga.|
-000841|cno-spk_1|chr|wav/001611-see-say-write-cno-spk_1-52.wav|||Yǒ:na á:ɂi.|
-000997|cno-spk_3|chr|wav/001844-bc-cno-spk_3-164.wav|||Asú:sdi.|
-000587|cno-spk_3|chr|wav/001168-see-say-write-cno-spk_3-60.wav|||Gi:hli dù:niyó:siha.|
-000258|cno-spk_0|chr|wav/000563-bc-cno-spk_0-504.wav|||À:di:tásga.|
-000497|cno-spk_3|chr|wav/001037-see-say-write-cno-spk_3-173.wav|||Hila̋ ǐ:gó:hi̋:da a:tliɂilida?|
-000783|cno-spk_2|chr|wav/001522-see-say-write-cno-spk_2-108.wav|||Ama.|
-000556|cno-spk_3|chr|wav/001122-see-say-write-cno-spk_3-168.wav|||Gv̌:hnáge̋ gi:hli à:gi:káha.|
-000454|cno-spk_0|chr|wav/000950-bc-cno-spk_0-480.wav|||E̋:gwa.|
-000934|cno-spk_1|chr|wav/001753-see-say-write-cno-spk_1-32.wav|||Sǔ:dáli diga:sgilo dù:nadu:lí.|
-000305|cno-spk_0|chr|wav/000659-bc-cno-spk_0-555.wav|||Agǔ:sa jiyv:wi.|
-000665|cno-spk_0|chr|wav/001300-see-say-write-cno-spk_0-17.wav|||I:sa à:gíɂa sa:sa.|
-000604|cno-spk_3|chr|wav/001199-see-say-write-cno-spk_3-89.wav|||Sa:sa na:niwe.|
-001404|cno-spk_0|chr|wav/002482-bc-cno-spk_0-581.wav|||Gawó:ni.|
-000330|cno-spk_0|chr|wav/000705-bc-cno-spk_0-337.wav|||À:kiwásga.|
-000159|cno-spk_0|chr|wav/001221-see-say-write-cno-spk_0-51.wav|||O:síyo.|
-000374|cno-spk_0|chr|wav/000790-bc-cno-spk_0-219.wav|||Dò dě:jádo?|
-000691|cno-spk_0|chr|wav/001344-see-say-write-cno-spk_0-135.wav|||U:sdi̋ kanawô:ga.|
-000876|cno-spk_1|chr|wav/001662-see-say-write-cno-spk_1-120.wav|||Jǒ:lani.|
-000160|cno-spk_0|chr|wav/000331-osiyo-then-cno-spk_0-09.wav|||Me:li dà:gwadó:ɂa.|
-001505|cno-spk_0|chr|wav/002655-bc-cno-spk_0-624.wav|||Hiɂluh.|
-001328|cno-spk_3|chr|wav/002368-bc-cno-spk_3-143.wav|||É:ga.|
-000563|cno-spk_3|chr|wav/001133-see-say-write-cno-spk_3-153.wav|||Hila̋ à:hlíɂili?|
-001087|cno-spk_3|chr|wav/001982-bc-cno-spk_3-119.wav|||A:sésdi.|
-000096|cno-spk_3|chr|wav/000178-cno-spk_3-animals-te-wa.wav|||de:wa.|
-001147|cno-spk_3|chr|wav/002085-bc-cno-spk_3-648.wav|||Ani̋:da.|
-000315|cno-spk_0|chr|wav/000675-bc-cno-spk_0-364.wav|||Ù:néha.|
-000988|cno-spk_3|chr|wav/001826-bc-cno-spk_3-424.wav|||Age:hyű:ja.|
-000268|cno-spk_0|chr|wav/000583-bc-cno-spk_0-305.wav|||U:galǒ.|
-001031|cno-spk_3|chr|wav/001892-bc-cno-spk_3-219.wav|||Dò dě:jádo?|
-001162|cno-spk_3|chr|wav/002109-bc-cno-spk_3-64.wav|||Dodada:go:hv̄.|
-001206|cno-spk_3|chr|wav/002180-bc-cno-spk_3-148.wav|||Digwé:nv̀:sv̋:ɂi gé:ga.|
-000935|cno-spk_1|chr|wav/001754-see-say-write-cno-spk_1-97.wav|||Ada:kéhdi ù:du:lí na agě:hya.|
-000168|cno-spk_2|chr|wav/000347-osiyo-then-cno-spk_2-21.wav|||Gadò dè:jadv:neha?|
-001016|cno-spk_3|chr|wav/001867-bc-cno-spk_3-629.wav|||Aniɂluhgī.|
-000827|cno-spk_1|chr|wav/001590-see-say-write-cno-spk_1-154.wav|||Hi:yo:lì:gis na asgaya?|
-000918|cno-spk_1|chr|wav/001727-see-say-write-cno-spk_1-68.wav|||Ga̋:du u:nigana̋:sda duwá:duha.|
-000446|cno-spk_0|chr|wav/000935-bc-cno-spk_0-37.wav|||Agě.|
-000097|cno-spk_3|chr|wav/000180-cno-spk_3-animals-u-ni-no-de-na.wav|||u:ni:nò:de̋:na.|
-001168|cno-spk_3|chr|wav/002118-bc-cno-spk_3-513.wav|||Sǐ:gwu.|
-001458|cno-spk_0|chr|wav/002565-bc-cno-spk_0-456.wav|||Ù:du:lí.|
-000848|cno-spk_1|chr|wav/001618-see-say-write-cno-spk_1-161.wav|||Hiɂa e:do:da.|
-001455|cno-spk_0|chr|wav/002560-bc-cno-spk_0-61.wav|||Ő:sdadv̀.|
-001026|cno-spk_3|chr|wav/001885-bc-cno-spk_3-664.wav|||Hlá kiloyigi.|
-001203|cno-spk_3|chr|wav/002177-bc-cno-spk_3-33.wav|||Síyo.|
-001519|cno-spk_1|chr|wav/000004-cno-spk_1-animals-ka-wo-nu.wav|||kawǒ:nu.|
-000212|cno-spk_3|chr|wav/000418-bragging-hunter-cno-spk_3-08.wav|||ná:hnv́ galò:gwé ga:ne̋:hi kilagwu.|
-001307|cno-spk_3|chr|wav/002340-bc-cno-spk_3-296.wav|||U:gǎ:nawa e̋:hi.|
-001055|cno-spk_3|chr|wav/001930-bc-cno-spk_3-439.wav|||Ani:sgayv.|
-001330|cno-spk_3|chr|wav/002371-bc-cno-spk_3-486.wav|||Ha:dlv go:hwe:lv̀:ɂi.|
-001241|cno-spk_3|chr|wav/002234-bc-cno-spk_3-538.wav|||Gà:yő:hl jiwó:ni Jalagi.|
-001301|cno-spk_3|chr|wav/002329-bc-cno-spk_3-231.wav|||Nihina?|
-000765|cno-spk_2|chr|wav/001481-see-say-write-cno-spk_2-104.wav|||Adà:dlǒ:sdi.|
-000732|cno-spk_2|chr|wav/001415-see-say-write-cno-spk_2-116.wav|||Jalagi.|
-000359|cno-spk_0|chr|wav/000763-bc-cno-spk_0-55.wav|||Gv́:na à:wadu:lí.|
-000794|cno-spk_2|chr|wav/001543-see-say-write-cno-spk_2-35.wav|||U:gì:sdi ù:du:lí u:sdi̋.|
-000199|cno-spk_3|chr|wav/000399-osiyo-then-cno-spk_3-10.wav|||Gadò de:sdadó:ɂa?|
-001494|cno-spk_0|chr|wav/002631-bc-cno-spk_0-158.wav|||Go:hlv:hnv́.|
-000508|cno-spk_3|chr|wav/001052-see-say-write-cno-spk_3-112.wav|||Do:ya.|
-000976|cno-spk_3|chr|wav/001807-bc-cno-spk_3-468.wav|||Ù:ninéha.|
-000954|cno-spk_3|chr|wav/001779-bc-cno-spk_3-135.wav|||Dà:ni:lâ:wì.|
-000421|cno-spk_0|chr|wav/000888-bc-cno-spk_0-99.wav|||Joɂi:ne̋:ɂi.|
-000452|cno-spk_0|chr|wav/000947-bc-cno-spk_0-571.wav|||Dǒ:yi.|
-000514|cno-spk_3|chr|wav/001060-see-say-write-cno-spk_3-149.wav|||A:dlawáɂdv̋.|
-001123|cno-spk_3|chr|wav/002046-bc-cno-spk_3-576.wav|||Dv.|
-001450|cno-spk_0|chr|wav/002552-bc-cno-spk_0-458.wav|||À:lsdâ:yv:hv́sga.|
-000614|cno-spk_0|chr|wav/001219-see-say-write-cno-spk_0-11.wav|||Sali.|
-001122|cno-spk_3|chr|wav/002043-bc-cno-spk_3-399.wav|||Gaɂlo:hni.|
-001463|cno-spk_0|chr|wav/002575-bc-cno-spk_0-648.wav|||Ani̋:da.|
-001069|cno-spk_3|chr|wav/001952-bc-cno-spk_3-422.wav|||Ani:chű:ji.|
-000922|cno-spk_1|chr|wav/001734-see-say-write-cno-spk_1-178.wav|||Talǔ:ja.|
-001421|cno-spk_0|chr|wav/002506-bc-cno-spk_0-123.wav|||A:nadiɂa.|
-000617|cno-spk_0|chr|wav/001224-see-say-write-cno-spk_0-180.wav|||Tawǒ:di nigaweɂa.|
-000354|cno-spk_0|chr|wav/000754-bc-cno-spk_0-332.wav|||Ajv̋sdi.|
-000477|cno-spk_0|chr|wav/001004-bc-cno-spk_0-96.wav|||Sgǒ:hi.|
-000150|cno-spk_0|chr|wav/000309-osiyo-then-cno-spk_0-02.wav|||Tò:hi̋.|
-001062|cno-spk_3|chr|wav/001943-bc-cno-spk_3-265.wav|||À:li:hě:lî:ga.|
-001250|cno-spk_3|chr|wav/002249-bc-cno-spk_3-496.wav|||U:gana̋:sdake jadu:lí?|
-000231|cno-spk_0|chr|wav/000490-bc-cno-spk_0-258.wav|||Hv?|
-000213|cno-spk_3|chr|wav/000419-bragging-hunter-cno-spk_3-17.wav|||ù:dv:hne ná galò:gwé ga:ne̋:hi,.|
-001459|cno-spk_0|chr|wav/002567-bc-cno-spk_0-633.wav|||À:sdû.|
-000680|cno-spk_0|chr|wav/001328-see-say-write-cno-spk_0-28.wav|||Ga:sgilo.|
-000653|cno-spk_0|chr|wav/001277-see-say-write-cno-spk_0-37.wav|||U:sdi̋ á:ɂi.|
-001385|cno-spk_3|chr|wav/002446-bc-cno-spk_3-529.wav|||Hé:gasgohv?|
-001520|cno-spk_1|chr|wav/000037-cno-spk_1-animals-da-gi-si.wav|||daksi.|
-000070|cno-spk_0|chr|wav/000128-cno-spk_0-animals-tsi-s-du.wav|||ji:sdu.|
-000559|cno-spk_3|chr|wav/001125-see-say-write-cno-spk_3-144.wav|||Digadv́:di.|
-000436|cno-spk_0|chr|wav/000919-bc-cno-spk_0-724.wav|||Jǐ:sa.|
-000882|cno-spk_1|chr|wav/001671-see-say-write-cno-spk_1-07.wav|||Salǒ:li.|
-001120|cno-spk_3|chr|wav/002041-bc-cno-spk_3-363.wav|||Ù:né.|
-001233|cno-spk_3|chr|wav/002224-bc-cno-spk_3-519.wav|||U:hyv:dla dǒ:yi.|
-000884|cno-spk_1|chr|wav/001675-see-say-write-cno-spk_1-130.wav|||Nǔ:na do:gihwisa dlo:ge̋:si.|
-000257|cno-spk_0|chr|wav/000561-bc-cno-spk_0-436.wav|||Asgayv.|
-000433|cno-spk_0|chr|wav/000915-bc-cno-spk_0-295.wav|||U:hyv:dlv e̋:hi.|
-000061|cno-spk_0|chr|wav/000115-cno-spk_0-animals-ka-ma-ma.wav|||kama:ma.|
-000192|cno-spk_3|chr|wav/002142-bc-cno-spk_3-32.wav|||O:síyo.|
-000368|cno-spk_0|chr|wav/000782-bc-cno-spk_0-164.wav|||Asú:sdi.|
-000624|cno-spk_0|chr|wav/001232-see-say-write-cno-spk_0-71.wav|||Jayó:sihas?|
-001214|cno-spk_3|chr|wav/002197-bc-cno-spk_3-243.wav|||Ha:dlv?|
-001435|cno-spk_0|chr|wav/002530-bc-cno-spk_0-47.wav|||Hla.|
-000507|cno-spk_3|chr|wav/001051-see-say-write-cno-spk_3-39.wav|||Na gi:hli ganv́:gi.|
-000697|cno-spk_0|chr|wav/001352-see-say-write-cno-spk_0-139.wav|||Kalsě:ji ù:du:lí na ayő:hli.|
-000733|cno-spk_2|chr|wav/001417-see-say-write-cno-spk_2-84.wav|||Sihgwa.|
-001436|cno-spk_0|chr|wav/002531-bc-cno-spk_0-448.wav|||Ani:gayv̌:líge̋.|
-000392|cno-spk_0|chr|wav/000820-bc-cno-spk_0-676.wav|||Aji:lv́:sga.|
-000453|cno-spk_0|chr|wav/000948-bc-cno-spk_0-718.wav|||Uniwǒ:dígé junsdi ǔ:tana wǒ:háɂli anì:gowhtíɂa.|
-000515|cno-spk_3|chr|wav/002319-bc-cno-spk_3-287.wav|||Ama.|
-000719|cno-spk_2|chr|wav/001394-see-say-write-cno-spk_2-62.wav|||Ganè:ga.|
-001483|cno-spk_0|chr|wav/002612-bc-cno-spk_0-612.wav|||Hila̋ nà:ní?|
-001149|cno-spk_3|chr|wav/002091-bc-cno-spk_3-719.wav|||Digǐ:gágé ale dijé:ɂiyű:sd dà:gi di:jv̋sd.|
-001375|cno-spk_3|chr|wav/002434-bc-cno-spk_3-414.wav|||Junsdi.|
-000877|cno-spk_1|chr|wav/001664-see-say-write-cno-spk_1-110.wav|||Ǔ:gáma à:gwadu:lí.|
-000786|cno-spk_2|chr|wav/001526-see-say-write-cno-spk_2-77.wav|||Wǎ:ji.|
-000362|cno-spk_0|chr|wav/000771-bc-cno-spk_0-643.wav|||Nihi gadíɂa hiɂa.|
-000008|cno-spk_1|chr|wav/000014-cno-spk_1-animals-tsi-s-du.wav|||ji:sdu.|
-001053|cno-spk_3|chr|wav/001926-bc-cno-spk_3-156.wav|||Unali:he:lísdi.|
-001258|cno-spk_3|chr|wav/002265-bc-cno-spk_3-266.wav|||Anali:hě:lí.|
-001497|cno-spk_0|chr|wav/002638-bc-cno-spk_0-531.wav|||Do:yu uwo:du sv:hiye.|
-000352|cno-spk_0|chr|wav/000752-bc-cno-spk_0-211.wav|||Go:hi̋:gi.|
-000124|cno-spk_3|chr|wav/000225-cno-spk_3-animals-we-sa.wav|||wě:sa.|
-001105|cno-spk_3|chr|wav/002017-bc-cno-spk_3-203.wav|||U:du:líɂa.|
-000840|cno-spk_1|chr|wav/001607-see-say-write-cno-spk_1-175.wav|||Te:lǐ:do.|
-001232|cno-spk_3|chr|wav/002222-bc-cno-spk_3-604.wav|||Ha:dlvɂi?|
-001341|cno-spk_3|chr|wav/002384-bc-cno-spk_3-138.wav|||Gé.|
-000226|cno-spk_0|chr|wav/000458-bragging-hunter-cno-spk_0-01.wav|||Anǐ:táɂli ani:sgaya à:ni:no:halǐ:dô:he,.|
-000038|cno-spk_1|chr|wav/000076-cno-spk_1-animals-ka-na-ne-s-gi.wav|||kanaɂně:sgi.|
-001277|cno-spk_3|chr|wav/002290-bc-cno-spk_3-245.wav|||Go:hwe:la.|
-000045|cno-spk_0|chr|wav/000090-cno-spk_0-animals-a-ni.wav|||áɂni.|
-000363|cno-spk_0|chr|wav/000775-bc-cno-spk_0-34.wav|||Kó.|
-001243|cno-spk_3|chr|wav/002238-bc-cno-spk_3-364.wav|||Ù:néha.|
-001485|cno-spk_0|chr|wav/002614-bc-cno-spk_0-179.wav|||Digahi:nv̀.|
-000867|cno-spk_1|chr|wav/001645-see-say-write-cno-spk_1-133.wav|||Kanu:na.|
-000520|cno-spk_3|chr|wav/001070-see-say-write-cno-spk_3-30.wav|||Sdù:di.|
-001221|cno-spk_3|chr|wav/002206-bc-cno-spk_3-560.wav|||U:lò:gí:la.|
-000369|cno-spk_0|chr|wav/001216-see-say-write-cno-spk_0-66.wav|||Waló:si.|
-001029|cno-spk_3|chr|wav/001889-bc-cno-spk_3-415.wav|||Junsdiɂi.|
-001504|cno-spk_0|chr|wav/002651-bc-cno-spk_0-649.wav|||Ani̋:dage.|
-000389|cno-spk_0|chr|wav/000814-bc-cno-spk_0-272.wav|||Á:ma.|
-001474|cno-spk_0|chr|wav/002592-bc-cno-spk_0-193.wav|||Halsdâ:yv:hv́sga.|
-000656|cno-spk_0|chr|wav/001283-see-say-write-cno-spk_0-10.wav|||Sa:sa á:ɂi.|
-000693|cno-spk_0|chr|wav/001347-see-say-write-cno-spk_0-178.wav|||Talǔ:ja.|
-000940|cno-spk_3|chr|wav/001762-bc-cno-spk_3-561.wav|||U:lò:gí:li.|
-000388|cno-spk_0|chr|wav/000813-bc-cno-spk_0-264.wav|||À:li:hě:lí.|
-000078|cno-spk_0|chr|wav/000145-cno-spk_0-animals-u-ji-ya.wav|||u:ji:ya.|
-000079|cno-spk_0|chr|wav/000146-cno-spk_0-animals-tlv-de-gwa.wav|||tlv̌:dé:gwa.|
-000039|cno-spk_0|chr|wav/000077-cno-spk_0-animals-tv-ga.wav|||tvhga.|
-000984|cno-spk_3|chr|wav/001818-bc-cno-spk_3-401.wav|||Du:lì:sdi.|
-000536|cno-spk_3|chr|wav/001087-see-say-write-cno-spk_3-172.wav|||Gadō u:sdi à:gowhtí na gi:tli.|
-000641|cno-spk_0|chr|wav/001258-see-say-write-cno-spk_0-89.wav|||Sa:sa na:niwe.|
-001110|cno-spk_3|chr|wav/002026-bc-cno-spk_3-123.wav|||A:nadiɂa.|
-000554|cno-spk_3|chr|wav/001117-see-say-write-cno-spk_3-11.wav|||Sali.|
-000472|cno-spk_0|chr|wav/000994-bc-cno-spk_0-533.wav|||À:ga:sga u:hyv:dlahno dǒ:yi.|
-000444|cno-spk_0|chr|wav/001371-see-say-write-cno-spk_0-171.wav|||Goɂi.|
-000468|cno-spk_0|chr|wav/000983-bc-cno-spk_0-260.wav|||Galiɂě:lí.|
-000725|cno-spk_2|chr|wav/001403-see-say-write-cno-spk_2-16.wav|||Agi̋:na.|
-000287|cno-spk_0|chr|wav/000626-bc-cno-spk_0-322.wav|||Adǎ:wé:hi.|
-000924|cno-spk_1|chr|wav/001736-see-say-write-cno-spk_1-104.wav|||Adà:dlǒ:sdi.|
-001257|cno-spk_3|chr|wav/002263-bc-cno-spk_3-381.wav|||Ali:he:lísdi.|
-000779|cno-spk_2|chr|wav/001510-see-say-write-cno-spk_2-25.wav|||Gǐ:ga.|
-001104|cno-spk_3|chr|wav/002016-bc-cno-spk_3-52.wav|||À:lsdàyhdi.|
-000888|cno-spk_1|chr|wav/001682-see-say-write-cno-spk_1-71.wav|||Jayó:sihas?|
-000412|cno-spk_0|chr|wav/000870-bc-cno-spk_0-237.wav|||Didǐ:yé:li.|
-000021|cno-spk_1|chr|wav/000043-cno-spk_1-animals-u-gu-gu.wav|||u:gù:ku.|
-000812|cno-spk_2|chr|wav/001569-see-say-write-cno-spk_2-11.wav|||Sali.|
-000880|cno-spk_1|chr|wav/001668-see-say-write-cno-spk_1-29.wav|||Anà:ga:lǐ:sgi.|
-000129|cno-spk_2|chr|wav/000256-cno-spk_2-animals-ta-wo-di.wav|||tawǒ:di.|
-001394|cno-spk_3|chr|wav/002465-bc-cno-spk_3-317.wav|||Nokwsi.|
-001007|cno-spk_3|chr|wav/001857-bc-cno-spk_3-170.wav|||Ge:li̋:stgi.|
-000913|cno-spk_1|chr|wav/001720-see-say-write-cno-spk_1-34.wav|||U:sdi̋.|
-001179|cno-spk_3|chr|wav/002138-bc-cno-spk_3-522.wav|||Ő:sdadv.|
-000081|cno-spk_0|chr|wav/000150-cno-spk_0-animals-ka-nu-na.wav|||kanu:na.|
-000537|cno-spk_3|chr|wav/001088-see-say-write-cno-spk_3-70.wav|||Ajaɂdi.|
-001456|cno-spk_0|chr|wav/002561-bc-cno-spk_0-497.wav|||U:gana̋:sdake jadu:líɂa?|
-000741|cno-spk_2|chr|wav/001438-see-say-write-cno-spk_2-112.wav|||Do:ya.|
-000402|cno-spk_0|chr|wav/000839-bc-cno-spk_0-346.wav|||Anihneha.|
-000545|cno-spk_3|chr|wav/001106-see-say-write-cno-spk_3-118.wav|||Idalà:sgala.|
-001317|cno-spk_3|chr|wav/002356-bc-cno-spk_3-379.wav|||Nanaɂi.|
-000120|cno-spk_3|chr|wav/000215-cno-spk_3-animals-tsi-ta-ga.wav|||jitǎ:ga.|
-001378|cno-spk_3|chr|wav/002438-bc-cno-spk_3-131.wav|||Ayo.|
-001491|cno-spk_0|chr|wav/002627-bc-cno-spk_0-705.wav|||Ani:dalǒ:nígé digadv́:d danì:gí.|
-001398|cno-spk_3|chr|wav/002472-bc-cno-spk_3-341.wav|||Hì:ne.|
-001038|cno-spk_3|chr|wav/001903-bc-cno-spk_3-53.wav|||Gv́:na.|
-000990|cno-spk_3|chr|wav/001830-bc-cno-spk_3-59.wav|||Tò:hi̋:ju.|
-000190|cno-spk_1|chr|wav/000385-osiyo-then-cno-spk_1-13.wav|||Jalagi hiwó:niha?|
-000411|cno-spk_0|chr|wav/000869-bc-cno-spk_0-421.wav|||Ani:chű:ja.|
-000243|cno-spk_0|chr|wav/000518-bc-cno-spk_0-386.wav|||U:no:lv̀:tani.|
-000909|cno-spk_1|chr|wav/001716-see-say-write-cno-spk_1-125.wav|||Awǒ:háɂli.|
-001333|cno-spk_3|chr|wav/002376-bc-cno-spk_3-556.wav|||Jiyú:ne:ga jiyv:wi.|
-001373|cno-spk_3|chr|wav/002431-bc-cno-spk_3-389.wav|||Anv:yi.|
-000138|cno-spk_2|chr|wav/000282-cno-spk_2-animals-ta-la-du.wav|||tala:du.|
-000798|cno-spk_2|chr|wav/001548-see-say-write-cno-spk_2-115.wav|||Gadogi u:sdi?|
-000302|cno-spk_0|chr|wav/000652-bc-cno-spk_0-365.wav|||Uninéha.|
-001109|cno-spk_3|chr|wav/002025-bc-cno-spk_3-683.wav|||Di:te:lǐ:do didihlahv̀.|
-000963|cno-spk_3|chr|wav/001789-bc-cno-spk_3-255.wav|||V:le.|
-000969|cno-spk_3|chr|wav/001796-bc-cno-spk_3-199.wav|||Aksdà:yv̌hv:sgi.|
-001154|cno-spk_3|chr|wav/002098-bc-cno-spk_3-242.wav|||Gadō ű:sdi?|
-000633|cno-spk_0|chr|wav/001246-see-say-write-cno-spk_0-46.wav|||Ó:si.|
-000023|cno-spk_1|chr|wav/000045-cno-spk_1-animals-u-ga-te-na.wav|||ukte:na.|
-000839|cno-spk_1|chr|wav/001606-see-say-write-cno-spk_1-23.wav|||Ga̋:du.|
-001059|cno-spk_3|chr|wav/001935-bc-cno-spk_3-256.wav|||Kila.|
-000632|cno-spk_0|chr|wav/001245-see-say-write-cno-spk_0-183.wav|||Gv:he anahliha gi:hli.|
-000344|cno-spk_0|chr|wav/000734-bc-cno-spk_0-360.wav|||Jv̌:ya.|
-001484|cno-spk_0|chr|wav/002613-bc-cno-spk_0-675.wav|||Ani:ji:lv̋:sgi.|
-000751|cno-spk_2|chr|wav/001457-see-say-write-cno-spk_2-86.wav|||Ji:sgwada.|
-000722|cno-spk_2|chr|wav/001400-see-say-write-cno-spk_2-96.wav|||Dalǒ:níge̋ jí:sgwa gáɂnǐ:ya na wě:sa.|
-001392|cno-spk_3|chr|wav/002462-bc-cno-spk_3-127.wav|||Go:gi.|
-000941|cno-spk_3|chr|wav/001763-bc-cno-spk_3-451.wav|||À:di.|
-001366|cno-spk_3|chr|wav/002421-bc-cno-spk_3-305.wav|||U:galǒ.|
-001095|cno-spk_3|chr|wav/002000-bc-cno-spk_3-276.wav|||Dō gadv:ne?|
-001298|cno-spk_3|chr|wav/002324-bc-cno-spk_3-55.wav|||Gv́:na à:wadu:lí.|
-001234|cno-spk_3|chr|wav/002225-bc-cno-spk_3-315.wav|||Adǎ:hnehdi.|
-001235|cno-spk_3|chr|wav/002227-bc-cno-spk_3-343.wav|||À:hne.|
-000417|cno-spk_0|chr|wav/000880-bc-cno-spk_0-412.wav|||Howa.|
-000939|cno-spk_3|chr|wav/001761-bc-cno-spk_3-544.wav|||Hiyv:wi:yá.|
-001188|cno-spk_3|chr|wav/002156-bc-cno-spk_3-667.wav|||Ani:sgaya aniwó:niɂa.|
-000028|cno-spk_1|chr|wav/000059-cno-spk_1-animals-wo-yi.wav|||wo:yi.|
-001040|cno-spk_3|chr|wav/001905-bc-cno-spk_3-214.wav|||Di:de:hyǒ:hvsgi.|
-000594|cno-spk_3|chr|wav/001182-see-say-write-cno-spk_3-09.wav|||I:sa.|
-000689|cno-spk_0|chr|wav/001340-see-say-write-cno-spk_0-34.wav|||U:sdi̋.|
-000564|cno-spk_3|chr|wav/001134-see-say-write-cno-spk_3-12.wav|||Ǐ:náda.|
-000439|cno-spk_0|chr|wav/000923-bc-cno-spk_0-664.wav|||Hlá kiloyigi.|
-000296|cno-spk_0|chr|wav/000644-bc-cno-spk_0-227.wav|||Gadògi hadí:ɂa.|
-001274|cno-spk_3|chr|wav/002285-bc-cno-spk_3-142.wav|||É.|
-000892|cno-spk_1|chr|wav/001689-see-say-write-cno-spk_1-77.wav|||Wǎ:ji.|
-000557|cno-spk_3|chr|wav/001123-see-say-write-cno-spk_3-03.wav|||Ada.|
-001195|cno-spk_3|chr|wav/002166-bc-cno-spk_3-01.wav|||Igv:yi̋:ɂi.|
-000928|cno-spk_1|chr|wav/001744-see-say-write-cno-spk_1-62.wav|||Ganè:ga.|
-000758|cno-spk_2|chr|wav/001470-see-say-write-cno-spk_2-130.wav|||Nǔ:na do:gihwisa dlo:ge̋:si.|
-000261|cno-spk_0|chr|wav/000570-bc-cno-spk_0-141.wav|||Hé:ga.|
-001187|cno-spk_3|chr|wav/002155-bc-cno-spk_3-624.wav|||Hiɂluh.|
-000319|cno-spk_0|chr|wav/000684-bc-cno-spk_0-683.wav|||Di:te:lǐ:do didihlahv̀.|
-000538|cno-spk_3|chr|wav/001089-see-say-write-cno-spk_3-178.wav|||Talǔ:ja.|
-000098|cno-spk_3|chr|wav/000182-cno-spk_3-animals-do-ya.wav|||do:ya.|
-000644|cno-spk_0|chr|wav/001261-see-say-write-cno-spk_0-30.wav|||Sdù:di.|
-000595|cno-spk_3|chr|wav/001183-see-say-write-cno-spk_3-77.wav|||Wǎ:ji.|
-000203|cno-spk_3|chr|wav/002244-bc-cno-spk_3-02.wav|||Jalagi.|
-000970|cno-spk_3|chr|wav/001798-bc-cno-spk_3-577.wav|||Jiwó:ni.|
-000787|cno-spk_2|chr|wav/001529-see-say-write-cno-spk_2-123.wav|||Da:hnawa.|
-000686|cno-spk_0|chr|wav/001337-see-say-write-cno-spk_0-79.wav|||U:ni:ji:ya dù:hyoha na asgaya.|
-000599|cno-spk_3|chr|wav/002233-bc-cno-spk_3-78.wav|||Di:sésdi.|
-001386|cno-spk_3|chr|wav/002450-bc-cno-spk_3-371.wav|||Gő:li.|
-000995|cno-spk_3|chr|wav/001841-bc-cno-spk_3-535.wav|||Ù:lô:gi:li kò:hi̋ svná:le.|
-000301|cno-spk_0|chr|wav/000649-bc-cno-spk_0-143.wav|||É:ga.|
-000065|cno-spk_0|chr|wav/000122-cno-spk_0-animals-ka-wo-nu.wav|||kawǒ:nu.|
-001302|cno-spk_3|chr|wav/002330-bc-cno-spk_3-159.wav|||Sě:lu.|
-000503|cno-spk_3|chr|wav/001046-see-say-write-cno-spk_3-78.wav|||Ji:sdu.|
-001246|cno-spk_3|chr|wav/002242-bc-cno-spk_3-568.wav|||Suná:le̋.|
-000757|cno-spk_2|chr|wav/001469-see-say-write-cno-spk_2-176.wav|||Ji:sdu ate:sda na gi:tli.|
-001049|cno-spk_3|chr|wav/001921-bc-cno-spk_3-139.wav|||Gé:ga.|
-000227|cno-spk_1|chr|wav/000467-osiyo-then-cno-spk_1-18.wav|||Dè:johlga̋:s Jalagi?|
-000451|cno-spk_0|chr|wav/000945-bc-cno-spk_0-82.wav|||Nvh.|
-000519|cno-spk_3|chr|wav/001069-see-say-write-cno-spk_3-86.wav|||Ji:sgwada.|
-000937|cno-spk_3|chr|wav/001758-bc-cno-spk_3-523.wav|||Ő:sdaju?|
-000253|cno-spk_0|chr|wav/000540-bc-cno-spk_0-71.wav|||U:hyv:dlv.|
-000386|cno-spk_0|chr|wav/000808-bc-cno-spk_0-370.wav|||Gő:la.|
-000418|cno-spk_0|chr|wav/000881-bc-cno-spk_0-197.wav|||Analsdâ:yv:hv́sga.|
-001509|cno-spk_0|chr|wav/002667-bc-cno-spk_0-77.wav|||Digo:hwe:la.|
-001146|cno-spk_3|chr|wav/002080-bc-cno-spk_3-277.wav|||Gadō gadv:neɂa?|
-000679|cno-spk_0|chr|wav/001324-see-say-write-cno-spk_0-36.wav|||Salǒ:li ù:du:lí na gi:hli.|
-000005|cno-spk_1|chr|wav/000011-cno-spk_1-animals-u-ni-ji-ya.wav|||u:ni:ji:ya.|
-001128|cno-spk_3|chr|wav/002053-bc-cno-spk_3-104.wav|||Chuně:li:ne̋.|
-000304|cno-spk_0|chr|wav/000657-bc-cno-spk_0-266.wav|||Anali:hě:lí.|
-000958|cno-spk_3|chr|wav/001784-bc-cno-spk_3-725.wav|||Taladuɂi Jalagi go:hwe:lv̀:ɂi.|
-001365|cno-spk_3|chr|wav/002419-bc-cno-spk_3-677.wav|||Ani:ji:lv́:sga.|
-001401|cno-spk_3|chr|wav/002477-bc-cno-spk_3-270.wav|||I:ga.|
-000980|cno-spk_3|chr|wav/001811-bc-cno-spk_3-699.wav|||Agǐ:gáge gitǎ:ya.|
-001194|cno-spk_3|chr|wav/002164-bc-cno-spk_3-521.wav|||U:hyv:dlake dǒ:yi?|
-001042|cno-spk_3|chr|wav/001909-bc-cno-spk_3-254.wav|||Ale.|
-000382|cno-spk_0|chr|wav/000803-bc-cno-spk_0-235.wav|||Dinǐ:yé:li.|
-001433|cno-spk_0|chr|wav/002526-bc-cno-spk_0-255.wav|||V:le.|
-000546|cno-spk_3|chr|wav/001107-see-say-write-cno-spk_3-55.wav|||Ogina:li̋ ù:yó:siha.|
-000317|cno-spk_0|chr|wav/000679-bc-cno-spk_0-336.wav|||Uwo:du.|
-001295|cno-spk_3|chr|wav/002317-bc-cno-spk_3-536.wav|||Ù:lô:gi:li kò:hi̋ svná:le̋ɂi.|
-001299|cno-spk_3|chr|wav/002325-bc-cno-spk_3-226.wav|||Dògi hadí.|
-001041|cno-spk_3|chr|wav/001907-bc-cno-spk_3-298.wav|||U:hyv:dlv gě:dô:a.|
-000072|cno-spk_0|chr|wav/000134-cno-spk_0-animals-da-gi-si.wav|||daksi.|
-001387|cno-spk_3|chr|wav/002452-bc-cno-spk_3-44.wav|||Go:lì.|
-000905|cno-spk_1|chr|wav/001705-see-say-write-cno-spk_1-16.wav|||Agi̋:na.|
-000676|cno-spk_0|chr|wav/001319-see-say-write-cno-spk_0-33.wav|||Gi:hli agiganǎ:díɂa..|
-000844|cno-spk_1|chr|wav/001614-see-say-write-cno-spk_1-100.wav|||Jǐ:yu.|
-000163|cno-spk_2|chr|wav/000339-osiyo-then-cno-spk_2-13.wav|||Jalagi hiwó:niha?|
-000849|cno-spk_1|chr|wav/001619-see-say-write-cno-spk_1-58.wav|||Gáɂni.|
-001113|cno-spk_3|chr|wav/002030-bc-cno-spk_3-257.wav|||Kilő:i.|
-001495|cno-spk_0|chr|wav/002632-bc-cno-spk_0-541.wav|||Ő:sdadv Jalagi gawó:ni.|
-000152|cno-spk_0|chr|wav/000313-osiyo-then-cno-spk_0-13.wav|||Jalagi hiwó:niha?|
-001247|cno-spk_3|chr|wav/002243-bc-cno-spk_3-528.wav|||Hé:gaju?|
-000191|cno-spk_3|chr|wav/000386-osiyo-then-cno-spk_3-19.wav|||Gadò hadv:neha?|
-000993|cno-spk_3|chr|wav/001837-bc-cno-spk_3-657.wav|||À:nadáɂnv:ɂa.|
-000131|cno-spk_2|chr|wav/000258-cno-spk_2-animals-tsi-s-du.wav|||ji:sdu.|
-001363|cno-spk_3|chr|wav/002417-bc-cno-spk_3-392.wav|||Ànsgv.|
-000247|cno-spk_0|chr|wav/000529-bc-cno-spk_0-199.wav|||Aksdà:yv̌hv:sgi.|
-001291|cno-spk_3|chr|wav/002311-bc-cno-spk_3-711.wav|||Agv̌:nígé gi:hli uwǒ:dígé alà:sǔ:lo à:gowhtíɂa.|
-000555|cno-spk_3|chr|wav/001119-see-say-write-cno-spk_3-181.wav|||U:do:hiyű uwo:dű:hi hiɂa talǔ:ja.|
-001181|cno-spk_3|chr|wav/002141-bc-cno-spk_3-339.wav|||Ù:nihwasga.|
-001340|cno-spk_3|chr|wav/002383-bc-cno-spk_3-376.wav|||Naɂv.|
-000475|cno-spk_0|chr|wav/001002-bc-cno-spk_0-216.wav|||Idalě:na.|
-000291|cno-spk_0|chr|wav/000632-bc-cno-spk_0-639.wav|||Dlù:dlu.|
-000580|cno-spk_3|chr|wav/001156-see-say-write-cno-spk_3-85.wav|||Sihgwa ha:wiya à:gwadu:lí.|
-000578|cno-spk_3|chr|wav/002190-bc-cno-spk_3-335.wav|||Ni!|
-000891|cno-spk_1|chr|wav/001688-see-say-write-cno-spk_1-141.wav|||Sě:lu.|
-000671|cno-spk_0|chr|wav/001311-see-say-write-cno-spk_0-100.wav|||Jǐ:yu.|
-000847|cno-spk_1|chr|wav/001617-see-say-write-cno-spk_1-88.wav|||Wě:sa nigawe.|
-000649|cno-spk_0|chr|wav/001268-see-say-write-cno-spk_0-163.wav|||Sgwà:hle̋:sdi.|
-000957|cno-spk_3|chr|wav/001783-bc-cno-spk_3-654.wav|||À:dáɂnv.|
-001209|cno-spk_3|chr|wav/002186-bc-cno-spk_3-412.wav|||Howa.|
-000501|cno-spk_3|chr|wav/001915-bc-cno-spk_3-304.wav|||E:lohi.|
-000435|cno-spk_0|chr|wav/000917-bc-cno-spk_0-152.wav|||Juwé:nv̀:sv̋:ɂi é:ga.|
-000308|cno-spk_0|chr|wav/000665-bc-cno-spk_0-693.wav|||U:nine̋:ga ju:lò:gí:la.|
-000826|cno-spk_1|chr|wav/001588-see-say-write-cno-spk_1-38.wav|||U:nv̌:di.|
-000266|cno-spk_0|chr|wav/000579-bc-cno-spk_0-150.wav|||Dijé:nv̀:sv̋:ɂi hé:ga.|
-001204|cno-spk_3|chr|wav/002178-bc-cno-spk_3-663.wav|||Hlá kiloyi.|
-000059|cno-spk_0|chr|wav/000113-cno-spk_0-animals-nv-da.wav|||nv:da.|
-000350|cno-spk_0|chr|wav/000746-bc-cno-spk_0-486.wav|||Ha:dlv go:hwe:lv̀:ɂi.|
-000449|cno-spk_0|chr|wav/000943-bc-cno-spk_0-716.wav|||Anigv̌:nígé gi:hli danì:gowhtíɂa juwǒ:dígé dilà:sǔ:lo.|
-001084|cno-spk_3|chr|wav/001975-bc-cno-spk_3-524.wav|||Goɂi jadu:lí?|
-000171|cno-spk_2|chr|wav/000353-osiyo-then-cno-spk_2-08.wav|||Lini:da dà:gwadó:ɂa.|
-000823|cno-spk_1|chr|wav/001582-see-say-write-cno-spk_1-43.wav|||Sigigi.|
-000295|cno-spk_0|chr|wav/000643-bc-cno-spk_0-496.wav|||U:gana̋:sdake jadu:lí?|
-000510|cno-spk_3|chr|wav/001054-see-say-write-cno-spk_3-26.wav|||Gà:du:li̋:da á:su:líɂa.|
-001348|cno-spk_3|chr|wav/002396-bc-cno-spk_3-633.wav|||À:sdû.|
-000772|cno-spk_2|chr|wav/001496-see-say-write-cno-spk_2-151.wav|||Áhani ù:dlanv:da.|
-000828|cno-spk_1|chr|wav/001591-see-say-write-cno-spk_1-47.wav|||Usdi̋ ó:si.|
-000407|cno-spk_0|chr|wav/000855-bc-cno-spk_0-460.wav|||Anà:lsdâ:yv:hv́sga.|
-000055|cno-spk_0|chr|wav/000107-cno-spk_0-animals-ju-la-s-gi.wav|||ju:là:sgi.|
-000900|cno-spk_1|chr|wav/001698-see-say-write-cno-spk_1-67.wav|||Wahga.|
-000473|cno-spk_0|chr|wav/000998-bc-cno-spk_0-569.wav|||Suná:le̋:ɂi.|
-001251|cno-spk_3|chr|wav/002251-bc-cno-spk_3-695.wav|||Jǔ:tana dehlgv́.|
-000581|cno-spk_3|chr|wav/001160-see-say-write-cno-spk_3-182.wav|||Gv:he.|
-001461|cno-spk_0|chr|wav/002569-bc-cno-spk_0-410.wav|||Idihno.|
-000210|cno-spk_3|chr|wav/000415-bragging-hunter-cno-spk_3-11.wav|||U:do:hiyű:hnv́ wǔ:yó:hlé.|
-001338|cno-spk_3|chr|wav/002381-bc-cno-spk_3-206.wav|||Agǐ:gáge.|
-000493|cno-spk_3|chr|wav/001032-see-say-write-cno-spk_3-87.wav|||Wě:sa.|
-001254|cno-spk_3|chr|wav/002256-bc-cno-spk_3-628.wav|||Aniɂluh.|
-000660|cno-spk_0|chr|wav/001291-see-say-write-cno-spk_0-125.wav|||Awǒ:háɂli.|
-000216|cno-spk_3|chr|wav/000426-bragging-hunter-cno-spk_3-21.wav|||"Sǒ:gwílílê ì:nada:hísi",.|
-000707|cno-spk_0|chr|wav/001373-see-say-write-cno-spk_0-134.wav|||Kanu:na nigaweɂa.|
-000861|cno-spk_1|chr|wav/001632-see-say-write-cno-spk_1-118.wav|||Idalà:sgala.|
-000747|cno-spk_2|chr|wav/001451-see-say-write-cno-spk_2-175.wav|||Te:lǐ:do.|
-000370|cno-spk_0|chr|wav/000784-bc-cno-spk_0-508.wav|||Gǎ:sógwalv́.|
-001473|cno-spk_0|chr|wav/002591-bc-cno-spk_0-347.wav|||À:gi:ká.|
-001285|cno-spk_3|chr|wav/002305-bc-cno-spk_3-693.wav|||U:nine̋:ga ju:lò:gí:la.|
-000036|cno-spk_1|chr|wav/000074-cno-spk_1-animals-o-ga-na.wav|||o:gana.|
-000737|cno-spk_2|chr|wav/001426-see-say-write-cno-spk_2-141.wav|||Sě:lu.|
-000162|cno-spk_2|chr|wav/000336-osiyo-then-cno-spk_2-11.wav|||Gadò dè:jadó:ɂa?|
-001135|cno-spk_3|chr|wav/002065-bc-cno-spk_3-129.wav|||Gù:gu.|
-001414|cno-spk_0|chr|wav/002498-bc-cno-spk_0-36.wav|||Kó:gi.|
-000893|cno-spk_1|chr|wav/001690-see-say-write-cno-spk_1-168.wav|||Gv̌:hnáge̋ gi:hli à:gi:káha.|
-000090|cno-spk_3|chr|wav/000163-cno-spk_3-animals-u-je-tsi-s-di.wav|||u:je̋:tsdi.|
-000495|cno-spk_3|chr|wav/001035-see-say-write-cno-spk_3-130.wav|||Nǔ:na do:gihwisa dlo:ge̋:si.|
-000522|cno-spk_3|chr|wav/001072-see-say-write-cno-spk_3-74.wav|||Nv̀:ya.|
-000945|cno-spk_3|chr|wav/001767-bc-cno-spk_3-87.wav|||Sgǒ.|
-001082|cno-spk_3|chr|wav/001971-bc-cno-spk_3-383.wav|||U:no:lv̀:tana ka:la.|
-001420|cno-spk_0|chr|wav/002504-bc-cno-spk_0-677.wav|||Ani:ji:lv́:sga.|
-001342|cno-spk_3|chr|wav/002385-bc-cno-spk_3-449.wav|||Ayő:hli.|
-001516|cno-spk_0|chr|wav/002675-bc-cno-spk_0-586.wav|||Ge:líɂa.|
-000470|cno-spk_0|chr|wav/000988-bc-cno-spk_0-389.wav|||Anv:yi.|
-001447|cno-spk_0|chr|wav/002547-bc-cno-spk_0-160.wav|||Sě:lu ga̋:du.|
-000593|cno-spk_3|chr|wav/001176-see-say-write-cno-spk_3-128.wav|||Nv:wô:ti ù:du:lí na udanili.|
-001112|cno-spk_3|chr|wav/002029-bc-cno-spk_3-153.wav|||Juné:nv̀:sv́ à:né.|
-000490|cno-spk_3|chr|wav/001029-see-say-write-cno-spk_3-105.wav|||Dlo:ge̋:si winè:da.|
-001073|cno-spk_3|chr|wav/001957-bc-cno-spk_3-357.wav|||Jaha.|
-000220|cno-spk_0|chr|wav/000438-bragging-hunter-cno-spk_0-11.wav|||U:do:hiyű:hnv́ wǔ:yó:hlé.|
-001282|cno-spk_3|chr|wav/002302-bc-cno-spk_3-461.wav|||À:dv́:ne.|
-000605|cno-spk_0|chr|wav/001200-see-say-write-cno-spk_0-151.wav|||Áhani ù:dlanv:da.|
-001002|cno-spk_3|chr|wav/001849-bc-cno-spk_3-625.wav|||Hiɂluhgī.|
-000128|cno-spk_2|chr|wav/000253-cno-spk_2-animals-gi-tli.wav|||gi:hli.|
-000921|cno-spk_1|chr|wav/001733-see-say-write-cno-spk_1-122.wav|||Jǒ:lani tisduɂi.|
-000293|cno-spk_0|chr|wav/000634-bc-cno-spk_0-698.wav|||Anigǐ:gáge ani:ji:lv̋:sgi.|
-001099|cno-spk_3|chr|wav/002008-bc-cno-spk_3-227.wav|||Gadògi hadí:ɂa.|
-001407|cno-spk_0|chr|wav/002487-bc-cno-spk_0-469.wav|||Ù:wâ:ya.|
-001077|cno-spk_3|chr|wav/001961-bc-cno-spk_3-183.wav|||Gv:no:sásdi.|
-000813|cno-spk_1|chr|wav/001571-see-say-write-cno-spk_1-138.wav|||Di:sésdi dù:wo:hwě:lâ.|
-000869|cno-spk_1|chr|wav/001647-see-say-write-cno-spk_1-128.wav|||Nv:wô:ti ù:du:lí na udanili.|
-000383|cno-spk_0|chr|wav/000804-bc-cno-spk_0-145.wav|||Ju:ni:là:wisdi gé.|
-000713|cno-spk_0|chr|wav/001383-see-say-write-cno-spk_0-103.wav|||Ő:sda a:gì:sdi uyu:ti.|
-000902|cno-spk_1|chr|wav/001700-see-say-write-cno-spk_1-96.wav|||Dalǒ:níge̋ jí:sgwa gáɂnǐ:ya na wě:sa.|
-000792|cno-spk_2|chr|wav/001540-see-say-write-cno-spk_2-59.wav|||Áɂni.|
-000808|cno-spk_2|chr|wav/001562-see-say-write-cno-spk_2-166.wav|||U:do:hiyű ù:di:hléhga.|
-001372|cno-spk_3|chr|wav/002430-bc-cno-spk_3-460.wav|||Anà:lsdâ:yv:hv́sga.|
-001145|cno-spk_3|chr|wav/002078-bc-cno-spk_3-497.wav|||U:gana̋:sdake jadu:líɂa?|
-000464|cno-spk_0|chr|wav/000974-bc-cno-spk_0-334.wav|||Dijv̋sdi.|
-000769|cno-spk_2|chr|wav/001489-see-say-write-cno-spk_2-182.wav|||Gv:he.|
-000889|cno-spk_1|chr|wav/001683-see-say-write-cno-spk_1-20.wav|||Gi:hli aná:ɂi.|
-000591|cno-spk_3|chr|wav/001173-see-say-write-cno-spk_3-46.wav|||Ó:si.|
-000597|cno-spk_3|chr|wav/001185-see-say-write-cno-spk_3-125.wav|||Awǒ:háɂli.|
-000936|cno-spk_3|chr|wav/001755-bc-cno-spk_3-406.wav|||V̌:sgí.|
-000184|cno-spk_1|chr|wav/000377-osiyo-then-cno-spk_1-02.wav|||Tò:hi̋.|
-001165|cno-spk_3|chr|wav/002115-bc-cno-spk_3-316.wav|||Di:dǎ:hnehdi.|
-000613|cno-spk_0|chr|wav/001214-see-say-write-cno-spk_0-78.wav|||Ji:sdu.|
-001374|cno-spk_3|chr|wav/002432-bc-cno-spk_3-692.wav|||U:ne̋:ga u:lò:gí:li.|
-000229|cno-spk_3|chr|wav/000469-osiyo-then-cno-spk_3-17.wav|||De:sdohlga̋:s Jalagi?|
-000973|cno-spk_3|chr|wav/001802-bc-cno-spk_3-499.wav|||Dikané:jv.|
-000726|cno-spk_2|chr|wav/001406-see-say-write-cno-spk_2-89.wav|||Sa:sa na:niwe.|
-000440|cno-spk_0|chr|wav/000925-bc-cno-spk_0-435.wav|||Asgaya.|
-000127|cno-spk_2|chr|wav/000243-cno-spk_2-animals-go-ga.wav|||kó:ga.|
-000755|cno-spk_2|chr|wav/001465-see-say-write-cno-spk_2-37.wav|||U:sdi̋ á:ɂi.|
-001304|cno-spk_3|chr|wav/002333-bc-cno-spk_3-557.wav|||hno.|
-001434|cno-spk_0|chr|wav/002527-bc-cno-spk_0-413.wav|||U:sdi̋ɂi.|
-001190|cno-spk_3|chr|wav/002158-bc-cno-spk_3-332.wav|||Ajv̋sdi.|
-000273|cno-spk_0|chr|wav/000603-bc-cno-spk_0-102.wav|||Su:dali:ne̋.|
-000310|cno-spk_0|chr|wav/000667-bc-cno-spk_0-359.wav|||À:gwv̌:ya.|
-001244|cno-spk_3|chr|wav/002239-bc-cno-spk_3-445.wav|||Agayv̌:lí.|
-000906|cno-spk_1|chr|wav/001708-see-say-write-cno-spk_1-184.wav|||Hè:sdi!|
-000232|cno-spk_0|chr|wav/000493-bc-cno-spk_0-73.wav|||Di:dihnó:gi.|
-000748|cno-spk_2|chr|wav/001453-see-say-write-cno-spk_2-180.wav|||Tawǒ:di nigaweɂa.|
-000518|cno-spk_3|chr|wav/001068-see-say-write-cno-spk_3-164.wav|||Áhani jǒ:hlê:sdi.|
-000745|cno-spk_2|chr|wav/001448-see-say-write-cno-spk_2-72.wav|||Jalí:si.|
-000158|cno-spk_0|chr|wav/001302-see-say-write-cno-spk_0-116.wav|||Jalagi.|
-000805|cno-spk_2|chr|wav/001559-see-say-write-cno-spk_2-105.wav|||Dlo:ge̋:si winè:da.|
-000016|cno-spk_1|chr|wav/000034-cno-spk_1-animals-a-ji-lv-s-gi.wav|||aji:lv̋:sgi.|
-000341|cno-spk_0|chr|wav/000731-bc-cno-spk_0-441.wav|||Ani:gě:hya.|
-000542|cno-spk_3|chr|wav/001095-see-say-write-cno-spk_3-107.wav|||Ani:yv:wi:ya̋ dà:nadlo:sga.|
-001034|cno-spk_3|chr|wav/001897-bc-cno-spk_3-297.wav|||U:hyv:dlv gě:dô.|
-000300|cno-spk_0|chr|wav/000648-bc-cno-spk_0-44.wav|||Go:lì.|
-000123|cno-spk_3|chr|wav/000222-cno-spk_3-animals-ju-la-s-gi.wav|||ju:là:sgi.|
-000202|cno-spk_3|chr|wav/000402-osiyo-then-cno-spk_3-22.wav|||Ha:dlv wije:nv́:sv̌:ɂi?|
-000528|cno-spk_3|chr|wav/001079-see-say-write-cno-spk_3-50.wav|||Ogina:li̋:ɂi.|
-000010|cno-spk_1|chr|wav/000023-cno-spk_1-animals-gv-na.wav|||gv́:na.|
-000804|cno-spk_2|chr|wav/001557-see-say-write-cno-spk_2-56.wav|||Hadǐ:da!|
-001337|cno-spk_3|chr|wav/002380-bc-cno-spk_3-462.wav|||Anadv́:ne.|
-000899|cno-spk_1|chr|wav/001697-see-say-write-cno-spk_1-75.wav|||I:ya.|
-000054|cno-spk_0|chr|wav/000105-cno-spk_0-animals-a-ni-ji-lv-s-gi.wav|||ani:ji:lv̋:sgi.|
-001101|cno-spk_3|chr|wav/002011-bc-cno-spk_3-700.wav|||Agǐ:gáge gitǎ:yaɂi.|
-000675|cno-spk_0|chr|wav/001318-see-say-write-cno-spk_0-182.wav|||Gv:he.|
-000986|cno-spk_3|chr|wav/001821-bc-cno-spk_3-355.wav|||À:gi.|
-001313|cno-spk_3|chr|wav/002348-bc-cno-spk_3-506.wav|||Anadi:tásga.|
-000471|cno-spk_0|chr|wav/001292-see-say-write-cno-spk_0-159.wav|||E:lohi.|
-000080|cno-spk_0|chr|wav/000149-cno-spk_0-animals-ti-yo-ha-li.wav|||tiyǒ:háɂli.|
-001349|cno-spk_3|chr|wav/002398-bc-cno-spk_3-368.wav|||U:ne̋:ga.|
-000824|cno-spk_1|chr|wav/001584-see-say-write-cno-spk_1-08.wav|||Sa:sa.|
-000648|cno-spk_0|chr|wav/001267-see-say-write-cno-spk_0-97.wav|||Ada:kéhdi ù:du:lí na agě:hya.|
-000560|cno-spk_3|chr|wav/001129-see-say-write-cno-spk_3-57.wav|||O:síyo hada.|
-000249|cno-spk_0|chr|wav/000531-bc-cno-spk_0-390.wav|||Kawo:n.|
-000467|cno-spk_0|chr|wav/000982-bc-cno-spk_0-91.wav|||Nvhgi.|
-001384|cno-spk_3|chr|wav/002445-bc-cno-spk_3-543.wav|||Jiyv:wi:yádv.|
-001418|cno-spk_0|chr|wav/002502-bc-cno-spk_0-259.wav|||Lu:ga.|
-000447|cno-spk_0|chr|wav/000936-bc-cno-spk_0-636.wav|||Dla:ma:ha.|
-000132|cno-spk_2|chr|wav/000261-cno-spk_2-animals-u-ji-ya.wav|||u:ji:ya.|
-001118|cno-spk_3|chr|wav/002037-bc-cno-spk_3-530.wav|||Hé:gake?|
-000234|cno-spk_0|chr|wav/000496-bc-cno-spk_0-659.wav|||Nà:sgi.|
-001211|cno-spk_3|chr|wav/002189-bc-cno-spk_3-230.wav|||Gadō u:sdi jadu:líɂa.?|
-001410|cno-spk_0|chr|wav/002492-bc-cno-spk_0-68.wav|||Taɂli:né.|
-000534|cno-spk_3|chr|wav/001085-see-say-write-cno-spk_3-45.wav|||Agá:li:siga.|
-000992|cno-spk_3|chr|wav/001836-bc-cno-spk_3-308.wav|||Galv:lő:hi.|
-000172|cno-spk_1|chr|wav/001636-see-say-write-cno-spk_1-51.wav|||O:síyo.|
-000116|cno-spk_3|chr|wav/000208-cno-spk_3-animals-te-ga.wav|||tehga.|
-001466|cno-spk_0|chr|wav/002579-bc-cno-spk_0-131.wav|||Ayo.|
-000085|cno-spk_3|chr|wav/000156-cno-spk_3-animals-o-ga-na.wav|||o:gana.|
-000729|cno-spk_2|chr|wav/001412-see-say-write-cno-spk_2-43.wav|||Sigigi.|
-000885|cno-spk_1|chr|wav/001679-see-say-write-cno-spk_1-159.wav|||E:lohi.|
-001068|cno-spk_3|chr|wav/001950-bc-cno-spk_3-288.wav|||U:hyv:dla dò:dala.|
-000505|cno-spk_3|chr|wav/001048-see-say-write-cno-spk_3-80.wav|||Ha:wiya.|
-000409|cno-spk_0|chr|wav/000861-bc-cno-spk_0-339.wav|||Ù:nihwasga.|
-001184|cno-spk_3|chr|wav/002149-bc-cno-spk_3-488.wav|||Dù:dǎ:sgó chuně:la go:hwe:la.|
-000269|cno-spk_0|chr|wav/000590-bc-cno-spk_0-113.wav|||Sóhně:li:ne̋:ɂi.|
-000442|cno-spk_0|chr|wav/000930-bc-cno-spk_0-232.wav|||Nihinahv?|
-000297|cno-spk_0|chr|wav/000645-bc-cno-spk_0-265.wav|||À:li:hě:lî:ga.|
-000156|cno-spk_0|chr|wav/000322-osiyo-then-cno-spk_0-11.wav|||Gadò dè:jadó:ɂa?|
-001350|cno-spk_3|chr|wav/002399-bc-cno-spk_3-237.wav|||Didǐ:yé:li.|
-000144|cno-spk_2|chr|wav/000296-cno-spk_2-animals-u-no-de-na.wav|||u:nò:de̋:na.|
-001083|cno-spk_3|chr|wav/001972-bc-cno-spk_3-54.wav|||À:wadu:lí.|
-000809|cno-spk_2|chr|wav/001564-see-say-write-cno-spk_2-07.wav|||Salǒ:li.|
-000558|cno-spk_3|chr|wav/001124-see-say-write-cno-spk_3-53.wav|||À:giyó:si.|
-001409|cno-spk_0|chr|wav/002490-bc-cno-spk_0-507.wav|||Alà:sǔ:lo.|
-001005|cno-spk_3|chr|wav/001852-bc-cno-spk_3-184.wav|||Desgi:dì:si.|
-000148|cno-spk_0|chr|wav/000307-osiyo-then-cno-spk_0-19.wav|||Gadò hadv:neha?|
-000810|cno-spk_2|chr|wav/001565-see-say-write-cno-spk_2-09.wav|||I:sa.|
-001471|cno-spk_0|chr|wav/002587-bc-cno-spk_0-129.wav|||Gù:gu.|
-000367|cno-spk_0|chr|wav/000781-bc-cno-spk_0-380.wav|||Sóhne:li:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi.|
-001019|cno-spk_3|chr|wav/001871-bc-cno-spk_3-482.wav|||Kwana.|
-001152|cno-spk_3|chr|wav/002094-bc-cno-spk_3-489.wav|||Inadǐ:ta.|
-000248|cno-spk_0|chr|wav/000530-bc-cno-spk_0-399.wav|||Gaɂlo:hni.|
-000746|cno-spk_2|chr|wav/001450-see-say-write-cno-spk_2-54.wav|||À:giyó:siha.|
-000915|cno-spk_1|chr|wav/001723-see-say-write-cno-spk_1-112.wav|||Do:ya.|
-000218|cno-spk_3|chr|wav/000435-bragging-hunter-cno-spk_3-09.wav|||iyv̋:da widǔ:sdáyo:hlé ǒ:sdagwu.|
-001078|cno-spk_3|chr|wav/001963-bc-cno-spk_3-137.wav|||Ju:ni:là:wisdi.|
-000064|cno-spk_0|chr|wav/000119-cno-spk_0-animals-do-sa.wav|||do:sa.|
-000179|cno-spk_1|chr|wav/000372-osiyo-then-cno-spk_1-25.wav|||Ha:dlv hwé:ga?|
-000430|cno-spk_0|chr|wav/000905-bc-cno-spk_0-137.wav|||Ju:ni:là:wisdi.|
-000636|cno-spk_0|chr|wav/001250-see-say-write-cno-spk_0-161.wav|||Hiɂa e:do:da.|
-001405|cno-spk_0|chr|wav/002483-bc-cno-spk_0-292.wav|||U:hyv:dla u:hyv:dlv.|
-001510|cno-spk_0|chr|wav/002668-bc-cno-spk_0-236.wav|||Dinǐ:yé:li:hi.|
-000791|cno-spk_2|chr|wav/001538-see-say-write-cno-spk_2-78.wav|||Ji:sdu.|
-000730|cno-spk_2|chr|wav/001413-see-say-write-cno-spk_2-171.wav|||Goɂi.|
-000178|cno-spk_1|chr|wav/000371-osiyo-then-cno-spk_1-11.wav|||Gadò dè:jadó:ɂa?|
-001424|cno-spk_0|chr|wav/002512-bc-cno-spk_0-349.wav|||Ù:we:ká.|
-000919|cno-spk_1|chr|wav/001729-see-say-write-cno-spk_1-148.wav|||Digadv́:di à:yo:sda na ù:da:ge̋:da achű:ja.|
-000121|cno-spk_3|chr|wav/000220-cno-spk_3-animals-a-ji-lv-s-gi.wav|||aji:lv̋:sgi.|
-000219|cno-spk_0|chr|wav/000436-bragging-hunter-cno-spk_0-22.wav|||ù:dv:hné ná u:yo:hlv̋.|
-000459|cno-spk_0|chr|wav/000960-bc-cno-spk_0-174.wav|||Asú:sdi desgi:nehv.|
-000012|cno-spk_1|chr|wav/000025-cno-spk_1-animals-te-wa.wav|||de:wa.|
-001369|cno-spk_3|chr|wav/002426-bc-cno-spk_3-116.wav|||Taɂli:ne̋ go:hwe:la.|
-000006|cno-spk_1|chr|wav/000012-cno-spk_1-animals-e-la-qua.wav|||e:logwa.|
-001096|cno-spk_3|chr|wav/002001-bc-cno-spk_3-509.wav|||Sakǒ:níge̋.|
-000582|cno-spk_3|chr|wav/001161-see-say-write-cno-spk_3-179.wav|||Ǔ:tana yǒ:na ji:gò:wahtā.|
-000260|cno-spk_0|chr|wav/000567-bc-cno-spk_0-270.wav|||I:ga.|
-001465|cno-spk_0|chr|wav/002577-bc-cno-spk_0-95.wav|||Sóhně:la.|
-000289|cno-spk_0|chr|wav/000630-bc-cno-spk_0-366.wav|||Agv̌:níge̋.|
-000539|cno-spk_3|chr|wav/001091-see-say-write-cno-spk_3-131.wav|||A:yanű:li ha:hnigi.|
-000356|cno-spk_0|chr|wav/000759-bc-cno-spk_0-50.wav|||Hiɂa.|
-000044|cno-spk_0|chr|wav/000089-cno-spk_0-animals-gv-na.wav|||gv́:na.|
-000964|cno-spk_3|chr|wav/001790-bc-cno-spk_3-318.wav|||Akwe:nhda go:hwe:li.|
-000073|cno-spk_0|chr|wav/000135-cno-spk_0-animals-tsu-we-tsi.wav|||juwě:ji.|
-001138|cno-spk_3|chr|wav/002069-bc-cno-spk_3-193.wav|||Halsdâ:yv:hv́sga.|
-000398|cno-spk_0|chr|wav/000832-bc-cno-spk_0-351.wav|||À:giná.|
-000829|cno-spk_1|chr|wav/001592-see-say-write-cno-spk_1-107.wav|||Ani:yv:wi:ya̋ dà:nadlo:sga.|
-000141|cno-spk_2|chr|wav/000289-cno-spk_2-animals-wo-yi.wav|||wo:yi.|
-000883|cno-spk_1|chr|wav/001674-see-say-write-cno-spk_1-46.wav|||Ó:si.|
-000598|cno-spk_3|chr|wav/001911-bc-cno-spk_3-575.wav|||À:ga:sga.|
-001157|cno-spk_3|chr|wav/002102-bc-cno-spk_3-358.wav|||Ǔ:ha.|
-000620|cno-spk_0|chr|wav/001228-see-say-write-cno-spk_0-69.wav|||U:nv̌:di ù:hwasga.|
-000576|cno-spk_3|chr|wav/001152-see-say-write-cno-spk_3-47.wav|||Usdi̋ ó:si.|
-001478|cno-spk_0|chr|wav/002605-bc-cno-spk_0-341.wav|||Hì:ne.|
-001460|cno-spk_0|chr|wav/002568-bc-cno-spk_0-587.wav|||He:lí.|
-001507|cno-spk_0|chr|wav/002660-bc-cno-spk_0-674.wav|||Aji:lv̋:sgi.|
-000413|cno-spk_0|chr|wav/000871-bc-cno-spk_0-650.wav|||Gadáɂnv.|
-001022|cno-spk_3|chr|wav/001874-bc-cno-spk_3-459.wav|||Anà:lsdâ:yv:hv́.|
-000901|cno-spk_1|chr|wav/001699-see-say-write-cno-spk_1-73.wav|||Jayó:li.|
-000668|cno-spk_0|chr|wav/001307-see-say-write-cno-spk_0-16.wav|||Agi̋:na.|
-001280|cno-spk_3|chr|wav/002295-bc-cno-spk_3-45.wav|||Go:lì:ga.|
-000488|cno-spk_3|chr|wav/001021-see-say-write-cno-spk_3-76.wav|||Tǔ:ya dù:du:lí.|
-000574|cno-spk_3|chr|wav/002372-bc-cno-spk_3-75.wav|||Waló:si.|
-000658|cno-spk_0|chr|wav/001287-see-say-write-cno-spk_0-140.wav|||Sě:di dà:gíɂa na salǒ:li.|
-000724|cno-spk_2|chr|wav/001402-see-say-write-cno-spk_2-28.wav|||Ga:sgilo.|
-000742|cno-spk_2|chr|wav/001444-see-say-write-cno-spk_2-31.wav|||Di:da:sdù:di̋.|
-000687|cno-spk_0|chr|wav/001338-see-say-write-cno-spk_0-144.wav|||Digadv́:di.|
-000874|cno-spk_1|chr|wav/001659-see-say-write-cno-spk_1-45.wav|||Agá:li:siga.|
-001255|cno-spk_3|chr|wav/002257-bc-cno-spk_3-120.wav|||Gadí:ɂa.|
-000966|cno-spk_3|chr|wav/001793-bc-cno-spk_3-498.wav|||Kané:jv.|
-000803|cno-spk_2|chr|wav/001554-see-say-write-cno-spk_2-08.wav|||Sa:sa.|
-000683|cno-spk_0|chr|wav/001331-see-say-write-cno-spk_0-118.wav|||Idalà:sgala.|
-000857|cno-spk_1|chr|wav/001628-see-say-write-cno-spk_1-25.wav|||Gǐ:ga.|
-001097|cno-spk_3|chr|wav/002003-bc-cno-spk_3-447.wav|||Ani:gayv̌:lí.|
-001132|cno-spk_3|chr|wav/002058-bc-cno-spk_3-455.wav|||Ané:ga.|
-000322|cno-spk_0|chr|wav/000687-bc-cno-spk_0-418.wav|||Achű:ji.|
-000378|cno-spk_0|chr|wav/000798-bc-cno-spk_0-521.wav|||U:hyv:dlake dǒ:yi?|
-000498|cno-spk_3|chr|wav/001038-see-say-write-cno-spk_3-08.wav|||Sa:sa.|
-000527|cno-spk_3|chr|wav/001078-see-say-write-cno-spk_3-06.wav|||Lo:lo.|
-001081|cno-spk_3|chr|wav/001969-bc-cno-spk_3-239.wav|||U:sganő.|
-000569|cno-spk_3|chr|wav/001140-see-say-write-cno-spk_3-145.wav|||Gadò hà:dv́:ne?|
-000259|cno-spk_0|chr|wav/000566-bc-cno-spk_0-88.wav|||Sà:wűɂi.|
-000487|cno-spk_3|chr|wav/001020-see-say-write-cno-spk_3-110.wav|||Ǔ:gáma à:gwadu:lí.|
-000112|cno-spk_3|chr|wav/000204-cno-spk_3-animals-ta-la-du.wav|||tala:du.|
-000583|cno-spk_3|chr|wav/001163-see-say-write-cno-spk_3-113.wav|||Kilő anisgaya danidô:ga.|
-000860|cno-spk_1|chr|wav/001631-see-say-write-cno-spk_1-182.wav|||Gv:he.|
-001006|cno-spk_3|chr|wav/001856-bc-cno-spk_3-326.wav|||Do:yű.|
-000811|cno-spk_2|chr|wav/001566-see-say-write-cno-spk_2-107.wav|||Ani:yv:wi:ya̋ dà:nadlo:sga.|
-000331|cno-spk_0|chr|wav/000706-bc-cno-spk_0-653.wav|||Hadáɂnvɂa.|
-000360|cno-spk_0|chr|wav/000764-bc-cno-spk_0-563.wav|||Yú:ne:ga.|
-001428|cno-spk_0|chr|wav/002518-bc-cno-spk_0-172.wav|||Asú:sdi à:wadu:lí.|
-000547|cno-spk_3|chr|wav/001109-see-say-write-cno-spk_3-54.wav|||À:giyó:siha.|
-001108|cno-spk_3|chr|wav/002024-bc-cno-spk_3-707.wav|||Uwǒ:dígé u:sdi̋.|
-000443|cno-spk_0|chr|wav/000931-bc-cno-spk_0-348.wav|||À:gi:káha.|
-001183|cno-spk_3|chr|wav/002145-bc-cno-spk_3-330.wav|||Ajéɂiyű:sdi.|
-001336|cno-spk_3|chr|wav/002379-bc-cno-spk_3-39.wav|||Agě:hya.|
-000100|cno-spk_3|chr|wav/000184-cno-spk_3-animals-u-gu-gu.wav|||u:gù:ku.|
-000596|cno-spk_3|chr|wav/001184-see-say-write-cno-spk_3-15.wav|||Á:su:líɂa.|
-000450|cno-spk_0|chr|wav/000944-bc-cno-spk_0-54.wav|||À:wadu:lí.|
-001018|cno-spk_3|chr|wav/001869-bc-cno-spk_3-680.wav|||Dò ű:sdi a:sésdi kò:hí?|
-000125|cno-spk_2|chr|wav/000230-cno-spk_2-animals-ka-wo-nu.wav|||kawǒ:nu.|
-000242|cno-spk_0|chr|wav/000516-bc-cno-spk_0-433.wav|||Ana̋:ta.|
-001045|cno-spk_3|chr|wav/001914-bc-cno-spk_3-566.wav|||Sv:hiye̋.|
-000930|cno-spk_1|chr|wav/001747-see-say-write-cno-spk_1-37.wav|||U:sdi̋ á:ɂi.|
-000572|cno-spk_3|chr|wav/002059-bc-cno-spk_3-446.wav|||Agayv̌:líge̋.|
-000265|cno-spk_0|chr|wav/000578-bc-cno-spk_0-319.wav|||U:halv:na.|
-000164|cno-spk_2|chr|wav/000340-osiyo-then-cno-spk_2-02.wav|||Tò:hi̋.|
-000313|cno-spk_0|chr|wav/000671-bc-cno-spk_0-83.wav|||Sǔ:dál.|
-000082|cno-spk_0|chr|wav/000152-cno-spk_0-animals-do-ya.wav|||do:ya.|
-000743|cno-spk_2|chr|wav/001445-see-say-write-cno-spk_2-169.wav|||Ganv:gwalő:sdi e:sgv́hsi.|
-000346|cno-spk_0|chr|wav/000738-bc-cno-spk_0-589.wav|||È:lí.|
-001054|cno-spk_3|chr|wav/001927-bc-cno-spk_3-634.wav|||À:sdû:di.|
-000856|cno-spk_1|chr|wav/001627-see-say-write-cno-spk_1-149.wav|||A:dlawáɂdv̋.|
-000887|cno-spk_1|chr|wav/001681-see-say-write-cno-spk_1-76.wav|||Tǔ:ya dù:du:lí.|
-001102|cno-spk_3|chr|wav/002013-bc-cno-spk_3-259.wav|||Lu:ga.|
-001072|cno-spk_3|chr|wav/001955-bc-cno-spk_3-337.wav|||À:kiwásga.|
-000381|cno-spk_0|chr|wav/000802-bc-cno-spk_0-344.wav|||À:hneha.|
-001208|cno-spk_3|chr|wav/002184-bc-cno-spk_3-442.wav|||U:tvhisdv.|
-001323|cno-spk_3|chr|wav/002362-bc-cno-spk_3-311.wav|||Me:li.|
-001023|cno-spk_3|chr|wav/001880-bc-cno-spk_3-89.wav|||Táɂli.|
-000655|cno-spk_0|chr|wav/001282-see-say-write-cno-spk_0-47.wav|||Usdi̋ ó:si.|
-000923|cno-spk_1|chr|wav/001735-see-say-write-cno-spk_1-119.wav|||Sáɂdu iyáni ani:jalagi analâ:sgalí.|
-001008|cno-spk_3|chr|wav/001859-bc-cno-spk_3-267.wav|||Anali:hě:lî:ga.|
-001047|cno-spk_3|chr|wav/001919-bc-cno-spk_3-626.wav|||Gaɂluh.|
-000029|cno-spk_1|chr|wav/000060-cno-spk_1-animals-u-ji-ya.wav|||u:ji:ya.|
-000651|cno-spk_0|chr|wav/001272-see-say-write-cno-spk_0-70.wav|||Ajaɂdi.|
-000267|cno-spk_0|chr|wav/000580-bc-cno-spk_0-340.wav|||Gv̀:ne.|
-000170|cno-spk_2|chr|wav/000352-osiyo-then-cno-spk_2-06.wav|||Ja:n dà:gwadó:ɂa.|
-001438|cno-spk_0|chr|wav/002535-bc-cno-spk_0-311.wav|||Me:li.|
-001488|cno-spk_0|chr|wav/002620-bc-cno-spk_0-130.wav|||Gù.|
-000898|cno-spk_1|chr|wav/001696-see-say-write-cno-spk_1-92.wav|||Ayv.|
-001237|cno-spk_3|chr|wav/002229-bc-cno-spk_3-289.wav|||Dò:dala ju:hyv:dla.|
-001445|cno-spk_0|chr|wav/002545-bc-cno-spk_0-487.wav|||Dù:dǎ:sgó chuně:li go:hwe:li.|
-001311|cno-spk_3|chr|wav/002345-bc-cno-spk_3-569.wav|||Suná:le̋:ɂi.|
-000280|cno-spk_0|chr|wav/000612-bc-cno-spk_0-210.wav|||Go:hi̋.|
-001286|cno-spk_3|chr|wav/002306-bc-cno-spk_3-581.wav|||Gawó:ni.|
-000852|cno-spk_1|chr|wav/001623-see-say-write-cno-spk_1-24.wav|||Gǎ:da.|
-000652|cno-spk_0|chr|wav/001276-see-say-write-cno-spk_0-167.wav|||Gv̌:hnáge̋.|
-000711|cno-spk_0|chr|wav/001381-see-say-write-cno-spk_0-104.wav|||Adà:dlǒ:sdi.|
-000590|cno-spk_3|chr|wav/002110-bc-cno-spk_3-209.wav|||Gǐ:ga.|
-000793|cno-spk_2|chr|wav/001541-see-say-write-cno-spk_2-164.wav|||Áhani jǒ:hlê:sdi.|
-001358|cno-spk_3|chr|wav/002411-bc-cno-spk_3-457.wav|||Ù:nadu:lí.|
-001117|cno-spk_3|chr|wav/002035-bc-cno-spk_3-181.wav|||Gv:no:sásd.|
-000842|cno-spk_1|chr|wav/001612-see-say-write-cno-spk_1-26.wav|||Gà:du:li̋:da á:su:líɂa.|
-000752|cno-spk_2|chr|wav/001459-see-say-write-cno-spk_2-21.wav|||Salǒ:li dù:du:lí na gi:hli.|
-000628|cno-spk_0|chr|wav/001237-see-say-write-cno-spk_0-158.wav|||Hyehgahli aniyewsga.|
-001220|cno-spk_3|chr|wav/002204-bc-cno-spk_3-102.wav|||Su:dali:ne̋.|
-001153|cno-spk_3|chr|wav/002097-bc-cno-spk_3-377.wav|||Naɂvɂi.|
-000033|cno-spk_1|chr|wav/000069-cno-spk_1-animals-tsi-ta-ga.wav|||jitǎ:ga.|
-000989|cno-spk_3|chr|wav/001829-bc-cno-spk_3-279.wav|||Gadō hadv:neɂa?|
-001197|cno-spk_3|chr|wav/002169-bc-cno-spk_3-313.wav|||Dà:ni:sdayo:hihv́.|
-000434|cno-spk_0|chr|wav/000916-bc-cno-spk_0-576.wav|||Dv.|
-000637|cno-spk_0|chr|wav/001252-see-say-write-cno-spk_0-24.wav|||Gǎ:da.|
-000149|cno-spk_0|chr|wav/000308-osiyo-then-cno-spk_0-03.wav|||Tò:hi̋:ju?|
-000456|cno-spk_0|chr|wav/000954-bc-cno-spk_0-585.wav|||Ge:lí.|
-000376|cno-spk_0|chr|wav/000793-bc-cno-spk_0-450.wav|||Di:ni:yő:hli.|
-000394|cno-spk_0|chr|wav/000823-bc-cno-spk_0-680.wav|||Dò ű:sdi a:sésdi kò:hí?|
-001182|cno-spk_3|chr|wav/002143-bc-cno-spk_3-320.wav|||U:halv:ni.|
-000282|cno-spk_0|chr|wav/000615-bc-cno-spk_0-473.wav|||Agayv̋:li.|
-000423|cno-spk_0|chr|wav/000892-bc-cno-spk_0-373.wav|||Kǒ:la.|
-000573|cno-spk_3|chr|wav/001146-see-say-write-cno-spk_3-101.wav|||Jǐ:yu dayù:hwasi ogina:li̋:ɂi.|
-000427|cno-spk_0|chr|wav/000899-bc-cno-spk_0-105.wav|||Sóhně:li:ne̋.|
-000224|cno-spk_0|chr|wav/000455-bragging-hunter-cno-spk_0-15.wav|||ù:dv:hne.|
-000699|cno-spk_0|chr|wav/001359-see-say-write-cno-spk_0-05.wav|||À:su:lo.|
-001249|cno-spk_3|chr|wav/002248-bc-cno-spk_3-571.wav|||Dǒ:yi.|
-001281|cno-spk_3|chr|wav/002297-bc-cno-spk_3-347.wav|||À:gi:ká.|
-001024|cno-spk_3|chr|wav/001881-bc-cno-spk_3-173.wav|||Asú:sdi à:wadu:líɂa.|
-000549|cno-spk_3|chr|wav/002061-bc-cno-spk_3-49.wav|||Goɂi.|
-001289|cno-spk_3|chr|wav/002309-bc-cno-spk_3-413.wav|||U:sdi̋ɂi.|
-000277|cno-spk_0|chr|wav/000609-bc-cno-spk_0-686.wav|||Sakǒ:nígé u:gì:dáhl.|
-000771|cno-spk_2|chr|wav/001491-see-say-write-cno-spk_2-49.wav|||Ga̋:du u:gana̋:sda à:gíɂa.|
-000187|cno-spk_1|chr|wav/000380-osiyo-then-cno-spk_1-20.wav|||Gadò de:sdadv:neha?|
-000211|cno-spk_3|chr|wav/000416-bragging-hunter-cno-spk_3-01.wav|||Anǐ:táɂli ani:sgaya à:ni:no:halǐ:dô:he,.|
-000606|cno-spk_0|chr|wav/001202-see-say-write-cno-spk_0-15.wav|||Á:su:líɂa.|
-001454|cno-spk_0|chr|wav/002557-bc-cno-spk_0-542.wav|||Ő:sdadv Jalagi gawó:niɂa.|
-000777|cno-spk_2|chr|wav/001502-see-say-write-cno-spk_2-100.wav|||Jǐ:yu.|
-001130|cno-spk_3|chr|wav/002056-bc-cno-spk_3-621.wav|||É:gwő:ni.|
-001065|cno-spk_3|chr|wav/001946-bc-cno-spk_3-38.wav|||Agě:hyv.|
-001193|cno-spk_3|chr|wav/002162-bc-cno-spk_3-428.wav|||Awi̋:na.|
-001345|cno-spk_3|chr|wav/002391-bc-cno-spk_3-336.wav|||Uwo:du.|
-001367|cno-spk_3|chr|wav/002422-bc-cno-spk_3-196.wav|||Analsdâ:yv:hv́sg.|
-000334|cno-spk_0|chr|wav/000711-bc-cno-spk_0-45.wav|||Go:lì:ga.|
-000797|cno-spk_2|chr|wav/001547-see-say-write-cno-spk_2-63.wav|||Yó:ne:ga.|
-001321|cno-spk_3|chr|wav/002360-bc-cno-spk_3-491.wav|||Kalsě:jis hà:su:yv́:sgó?|
-000631|cno-spk_0|chr|wav/001242-see-say-write-cno-spk_0-91.wav|||Yv:gi.|
-000688|cno-spk_0|chr|wav/001339-see-say-write-cno-spk_0-60.wav|||Gi:hli dù:niyó:siha.|
-001205|cno-spk_3|chr|wav/002179-bc-cno-spk_3-65.wav|||Dodada:go:hv:ɂi.|
-000177|cno-spk_1|chr|wav/000368-osiyo-then-cno-spk_1-19.wav|||Gadò hadv:neha?|
-000698|cno-spk_0|chr|wav/001354-see-say-write-cno-spk_0-43.wav|||Sigigi.|
-001318|cno-spk_3|chr|wav/002357-bc-cno-spk_3-421.wav|||Ani:chű:ja.|
-000174|cno-spk_1|chr|wav/000361-osiyo-then-cno-spk_1-24.wav|||Ha:dlv wì:je:nv́:sv̌:ɂi?|
-001402|cno-spk_3|chr|wav/002479-bc-cno-spk_3-598.wav|||Táɂlduɂi Jalagi go:hwe:lv̀:ɂi.|
-001426|cno-spk_0|chr|wav/002515-bc-cno-spk_0-53.wav|||Gv́:na.|
-000684|cno-spk_0|chr|wav/001333-see-say-write-cno-spk_0-106.wav|||Tǔ:ya gà:yő:hli widinadági.|
-000863|cno-spk_1|chr|wav/001635-see-say-write-cno-spk_1-14.wav|||Iná:ɂi.|
-000292|cno-spk_0|chr|wav/000633-bc-cno-spk_0-401.wav|||Du:lì:sdi.|
-001306|cno-spk_3|chr|wav/002336-bc-cno-spk_3-375.wav|||Na.|
-001198|cno-spk_3|chr|wav/002170-bc-cno-spk_3-248.wav|||Janhta.|
-000198|cno-spk_3|chr|wav/000397-osiyo-then-cno-spk_3-27.wav|||Ha:dlv wi:jé:ga?|
-000873|cno-spk_1|chr|wav/001657-see-say-write-cno-spk_1-129.wav|||Nǔ:na.|
-000067|cno-spk_0|chr|wav/000124-cno-spk_0-animals-ka-na-ne-s-gi.wav|||kanaɂně:sgi.|
-000701|cno-spk_0|chr|wav/001364-see-say-write-cno-spk_0-85.wav|||Sihgwa ha:wiya à:gwadu:lí.|
-000157|cno-spk_0|chr|wav/000324-osiyo-then-cno-spk_0-05.wav|||Gadò de:jadó:ɂa?|
-000866|cno-spk_1|chr|wav/001640-see-say-write-cno-spk_1-108.wav|||Ama.|
-000485|cno-spk_3|chr|wav/002269-bc-cno-spk_3-157.wav|||Ga̋:du.|
-000717|cno-spk_2|chr|wav/001387-see-say-write-cno-spk_2-111.wav|||Á:ma à:ganǎ:díɂa na wahga.|
-000422|cno-spk_0|chr|wav/000890-bc-cno-spk_0-568.wav|||Suná:le̋.|
-001399|cno-spk_3|chr|wav/002473-bc-cno-spk_3-658.wav|||Nigaduɂi Jalagi go:hwe:lv̀:ɂi.|
-001273|cno-spk_3|chr|wav/002284-bc-cno-spk_3-649.wav|||Ani̋:dage.|
-001508|cno-spk_0|chr|wav/002662-bc-cno-spk_0-318.wav|||Akwe:nhda go:hwe:li.|
-000303|cno-spk_0|chr|wav/000655-bc-cno-spk_0-394.wav|||De:halǔ.|
-000448|cno-spk_0|chr|wav/000937-bc-cno-spk_0-573.wav|||Yv:wi.|
-001292|cno-spk_3|chr|wav/002313-bc-cno-spk_3-473.wav|||Agayv̋:li.|
-000529|cno-spk_3|chr|wav/001080-see-say-write-cno-spk_3-169.wav|||Ganv:gwalő:sdi e:sgv́hsi.|
-000875|cno-spk_1|chr|wav/001661-see-say-write-cno-spk_1-30.wav|||Sdù:di.|
-001230|cno-spk_3|chr|wav/002220-bc-cno-spk_3-441.wav|||Ani:gě:hya.|
-001155|cno-spk_3|chr|wav/002099-bc-cno-spk_3-433.wav|||Ana̋:ta.|
-000872|cno-spk_1|chr|wav/001656-see-say-write-cno-spk_1-144.wav|||Digadv́:di.|
-001256|cno-spk_3|chr|wav/002258-bc-cno-spk_3-99.wav|||Joɂi:ne̋:ɂi.|
-000978|cno-spk_3|chr|wav/001809-bc-cno-spk_3-417.wav|||Achű:ja.|
-000183|cno-spk_1|chr|wav/001570-see-say-write-cno-spk_1-116.wav|||Jalagi.|
-000181|cno-spk_1|chr|wav/000374-osiyo-then-cno-spk_1-10.wav|||Gadò de:sdadó:ɂa?|
-000281|cno-spk_0|chr|wav/000614-bc-cno-spk_0-406.wav|||V̌:sgí.|
-000916|cno-spk_1|chr|wav/001724-see-say-write-cno-spk_1-59.wav|||Áɂni.|
-000781|cno-spk_2|chr|wav/001519-see-say-write-cno-spk_2-135.wav|||U:sdi̋ kanawô:ga.|
-001511|cno-spk_0|chr|wav/002669-bc-cno-spk_0-580.wav|||Hiwó:niɂa.|
-001314|cno-spk_3|chr|wav/002352-bc-cno-spk_3-307.wav|||Ǔ:gáma.|
-001513|cno-spk_0|chr|wav/002672-bc-cno-spk_0-557.wav|||hno.|
-001324|cno-spk_3|chr|wav/002363-bc-cno-spk_3-344.wav|||À:hneha.|
-001439|cno-spk_0|chr|wav/002536-bc-cno-spk_0-208.wav|||Gǐ.|
-000619|cno-spk_0|chr|wav/001226-see-say-write-cno-spk_0-133.wav|||Kanu:na.|
-001309|cno-spk_3|chr|wav/002343-bc-cno-spk_3-724.wav|||Jǐ:sa.|
-000948|cno-spk_3|chr|wav/001771-bc-cno-spk_3-632.wav|||Atv:gī.|
-000048|cno-spk_0|chr|wav/000095-cno-spk_0-animals-gv-he.wav|||gv:he.|
-000399|cno-spk_0|chr|wav/000833-bc-cno-spk_0-591.wav|||Anè:lí.|
-000235|cno-spk_0|chr|wav/001273-see-say-write-cno-spk_0-23.wav|||Ga̋:du.|
-000283|cno-spk_0|chr|wav/000616-bc-cno-spk_0-385.wav|||U:no:lv̀:tana.|
-000678|cno-spk_0|chr|wav/001322-see-say-write-cno-spk_0-105.wav|||Dlo:ge̋:si winè:da.|
-001086|cno-spk_3|chr|wav/001979-bc-cno-spk_3-550.wav|||Gadō ű:sd ayv:wi:yá?|
-001462|cno-spk_0|chr|wav/002571-bc-cno-spk_0-176.wav|||Go:hwe:la desgi:nv̀.|
-001397|cno-spk_3|chr|wav/002470-bc-cno-spk_3-435.wav|||Asgaya.|
-000432|cno-spk_0|chr|wav/000914-bc-cno-spk_0-257.wav|||Kilő:i.|
-000102|cno-spk_3|chr|wav/000187-cno-spk_3-animals-u-ni-ji-ya.wav|||u:ni:ji:ya.|
-000981|cno-spk_3|chr|wav/001815-bc-cno-spk_3-518.wav|||U:hyv:dla dǒ:y.|
-000778|cno-spk_2|chr|wav/001509-see-say-write-cno-spk_2-85.wav|||Sihgwa ha:wiya à:gwadu:lí.|
-000466|cno-spk_0|chr|wav/000979-bc-cno-spk_0-483.wav|||Sgo:hi:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi.|
-001391|cno-spk_3|chr|wav/002461-bc-cno-spk_3-67.wav|||Hlahv.|
-000136|cno-spk_2|chr|wav/000274-cno-spk_2-animals-so-qui-li.wav|||sǒ:gwíli.|
-001354|cno-spk_3|chr|wav/002403-bc-cno-spk_3-367.wav|||U:ne̋.|
-000237|cno-spk_0|chr|wav/000503-bc-cno-spk_0-667.wav|||Ani:sgaya aniwó:niɂa.|
-000692|cno-spk_0|chr|wav/001346-see-say-write-cno-spk_0-131.wav|||A:yanű:li ha:hnigi.|
-000223|cno-spk_0|chr|wav/000450-bragging-hunter-cno-spk_0-12.wav|||ale ù:ni:go:hé ganv́:gv̋.|
-001064|cno-spk_3|chr|wav/001945-bc-cno-spk_3-635.wav|||Dla:me:ha.|
-000663|cno-spk_0|chr|wav/001296-see-say-write-cno-spk_0-21.wav|||Salǒ:li dù:du:lí na gi:hli.|
-000332|cno-spk_0|chr|wav/000709-bc-cno-spk_0-371.wav|||Gő:li.|
-000092|cno-spk_3|chr|wav/000166-cno-spk_3-animals-sa-sa.wav|||sa:sa.|
-001163|cno-spk_3|chr|wav/002112-bc-cno-spk_3-302.wav|||Agigǎ:nawa.|
-000500|cno-spk_3|chr|wav/001041-see-say-write-cno-spk_3-14.wav|||Iná:ɂi.|
-000608|cno-spk_0|chr|wav/001206-see-say-write-cno-spk_0-184.wav|||Hè:sdi!|
-000881|cno-spk_1|chr|wav/001670-see-say-write-cno-spk_1-174.wav|||Digo:hwě:lò:di è:sgidisi.|
-000833|cno-spk_1|chr|wav/001598-see-say-write-cno-spk_1-176.wav|||Ji:sdu ate:sda na gi:tli.|
-001222|cno-spk_3|chr|wav/002207-bc-cno-spk_3-290.wav|||U:gǎ:nawa dò:dala.|
-000024|cno-spk_1|chr|wav/000047-cno-spk_1-animals-u-na-ga-so-ja-ne-da.wav|||u:naksò:jane̋:da.|
-000972|cno-spk_3|chr|wav/001800-bc-cno-spk_3-597.wav|||Ga:da:ha̋.|
-001319|cno-spk_3|chr|wav/002358-bc-cno-spk_3-350.wav|||Ù:we:káha.|
-000983|cno-spk_3|chr|wav/001817-bc-cno-spk_3-234.wav|||Tla yà:gwanhta.|
-000647|cno-spk_0|chr|wav/001265-see-say-write-cno-spk_0-54.wav|||À:giyó:siha.|
-001380|cno-spk_3|chr|wav/002440-bc-cno-spk_3-701.wav|||Anigǐ:gáge gitǎ:ya.|
-001199|cno-spk_3|chr|wav/002171-bc-cno-spk_3-470.wav|||Ù:nâ:ya.|
-000015|cno-spk_1|chr|wav/000031-cno-spk_1-animals-wa-ga.wav|||wahga.|
-001079|cno-spk_3|chr|wav/001966-bc-cno-spk_3-611.wav|||Hila̋dv?|
-001468|cno-spk_0|chr|wav/002582-bc-cno-spk_0-702.wav|||Anigǐ:gáge gitǎ:yaɂi.|
-000570|cno-spk_3|chr|wav/001141-see-say-write-cno-spk_3-88.wav|||Wě:sa nigawe.|
-000816|cno-spk_1|chr|wav/001574-see-say-write-cno-spk_1-04.wav|||A:li.|
-000825|cno-spk_1|chr|wav/001587-see-say-write-cno-spk_1-136.wav|||Kǎ:hwi widayù:hwasi dì:da:náɂnv̋:i.|
-000285|cno-spk_0|chr|wav/000618-bc-cno-spk_0-566.wav|||Sv:hiye̋.|
-001518|cno-spk_1|chr|wav/000016-cno-spk_1-animals-wa-du-li-si.wav|||wá:du:lí:si.|
-001395|cno-spk_3|chr|wav/002466-bc-cno-spk_3-236.wav|||Dinǐ:yé:li:hi.|
-001119|cno-spk_3|chr|wav/002040-bc-cno-spk_3-549.wav|||Ayv:wi:yádv.|
-001057|cno-spk_3|chr|wav/001932-bc-cno-spk_3-472.wav|||U:ni:gǎ:nawa.|
-001430|cno-spk_0|chr|wav/002521-bc-cno-spk_0-378.wav|||Nana.|
-000348|cno-spk_0|chr|wav/000742-bc-cno-spk_0-127.wav|||Go:gi.|
-000076|cno-spk_0|chr|wav/000140-cno-spk_0-animals-si-qua.wav|||sihgwa.|
-000321|cno-spk_0|chr|wav/000686-bc-cno-spk_0-01.wav|||Igv:yi̋:ɂi.|
-001009|cno-spk_3|chr|wav/001860-bc-cno-spk_3-100.wav|||Nvhgi:ne̋.|
-000838|cno-spk_1|chr|wav/001604-see-say-write-cno-spk_1-151.wav|||Áhani ù:dlanv:da.|
-001177|cno-spk_3|chr|wav/002131-bc-cno-spk_3-309.wav|||Kama:ma.|
-000548|cno-spk_3|chr|wav/001110-see-say-write-cno-spk_3-62.wav|||Ganè:ga.|
-001517|cno-spk_0|chr|wav/002676-bc-cno-spk_0-313.wav|||Dà:ni:sdayo:hihv́.|
-001035|cno-spk_3|chr|wav/001898-bc-cno-spk_3-251.wav|||Ùnanhta.|
-001393|cno-spk_3|chr|wav/002463-bc-cno-spk_3-130.wav|||Gù.|
-001512|cno-spk_0|chr|wav/002671-bc-cno-spk_0-302.wav|||Agigǎ:nawa.|
-000807|cno-spk_2|chr|wav/001561-see-say-write-cno-spk_2-24.wav|||Gǎ:da.|
-001218|cno-spk_3|chr|wav/002202-bc-cno-spk_3-212.wav|||Su:dali:né Jalagi go:hwe:lv̀:ɂi.|
-001327|cno-spk_3|chr|wav/002367-bc-cno-spk_3-79.wav|||Sà:gwű.|
-000204|cno-spk_3|chr|wav/000404-osiyo-then-cno-spk_3-11.wav|||Gadò dè:jadó:ɂa?|
-001063|cno-spk_3|chr|wav/001944-bc-cno-spk_3-351.wav|||À:giná.|
-000622|cno-spk_0|chr|wav/001230-see-say-write-cno-spk_0-57.wav|||O:síyo hada.|
-000956|cno-spk_3|chr|wav/001781-bc-cno-spk_3-653.wav|||Hadáɂnvɂa.|
-000845|cno-spk_1|chr|wav/001615-see-say-write-cno-spk_1-83.wav|||Jí:sgwa.|
-000492|cno-spk_3|chr|wav/001031-see-say-write-cno-spk_3-135.wav|||U:sdi̋ kanawô:ga.|
-000955|cno-spk_3|chr|wav/001780-bc-cno-spk_3-484.wav|||Di:je̋ dikané:jv di:do:ja.|
-001493|cno-spk_0|chr|wav/002629-bc-cno-spk_0-162.wav|||Hawi:ya.|
-000349|cno-spk_0|chr|wav/000744-bc-cno-spk_0-328.wav|||Ijéɂiyű:sdi.|
-000396|cno-spk_0|chr|wav/000828-bc-cno-spk_0-671.wav|||Kiloɂi gawó:niɂa.|
-001046|cno-spk_3|chr|wav/001918-bc-cno-spk_3-402.wav|||Dù:ninvhd.|
-001075|cno-spk_3|chr|wav/001959-bc-cno-spk_3-70.wav|||U:hyv:dla.|
-000577|cno-spk_3|chr|wav/001153-see-say-write-cno-spk_3-177.wav|||Dihnawo dà:tě:sga.|
-000744|cno-spk_2|chr|wav/001446-see-say-write-cno-spk_2-02.wav|||Sǔ:dáli.|
-001351|cno-spk_3|chr|wav/002400-bc-cno-spk_3-712.wav|||Uniwǒ:dígé.|
-000738|cno-spk_2|chr|wav/001428-see-say-write-cno-spk_2-102.wav|||O:sǐ:yu iyunalsdà:hnéhdi.|
-000766|cno-spk_2|chr|wav/001482-see-say-write-cno-spk_2-47.wav|||Usdi̋ ó:si.|
-000189|cno-spk_1|chr|wav/000384-osiyo-then-cno-spk_1-26.wav|||Ha:dlv wisdé:ga?|
-001278|cno-spk_3|chr|wav/002292-bc-cno-spk_3-285.wav|||U:gǎ:nowi.|
-000107|cno-spk_3|chr|wav/000194-cno-spk_3-animals-gv-he.wav|||gv:he.|
-001231|cno-spk_3|chr|wav/002221-bc-cno-spk_3-57.wav|||Gadò?|
-001370|cno-spk_3|chr|wav/002427-bc-cno-spk_3-438.wav|||Ani:sgaya.|
-000720|cno-spk_2|chr|wav/001395-see-say-write-cno-spk_2-87.wav|||Wě:sa.|
-000704|cno-spk_0|chr|wav/001368-see-say-write-cno-spk_0-164.wav|||Áhani jǒ:hlê:sdi.|
-000339|cno-spk_0|chr|wav/000727-bc-cno-spk_0-317.wav|||Nokwsi.|
-000063|cno-spk_0|chr|wav/000117-cno-spk_0-animals-wo-yi.wav|||wo:yi.|
-000397|cno-spk_0|chr|wav/000831-bc-cno-spk_0-33.wav|||Síyo.|
-000244|cno-spk_0|chr|wav/001255-see-say-write-cno-spk_0-75.wav|||I:ya.|
-000320|cno-spk_0|chr|wav/000685-bc-cno-spk_0-477.wav|||Ju:no:dű ani:ge:hyű:ja anili:hě:lî.|
-000463|cno-spk_0|chr|wav/000973-bc-cno-spk_0-461.wav|||À:dv́:ne.|
-000328|cno-spk_0|chr|wav/000703-bc-cno-spk_0-522.wav|||Ő:sdadv.|
-000938|cno-spk_3|chr|wav/001759-bc-cno-spk_3-192.wav|||Galì:sdâ:yv:hv́sga.|
-000483|cno-spk_3|chr|wav/001016-see-say-write-cno-spk_3-163.wav|||Sgwà:hle̋:sdi.|
-000579|cno-spk_3|chr|wav/001155-see-say-write-cno-spk_3-49.wav|||Ga̋:du u:gana̋:sda à:gíɂa.|
-000782|cno-spk_2|chr|wav/001520-see-say-write-cno-spk_2-92.wav|||Ayv.|
-000263|cno-spk_0|chr|wav/000574-bc-cno-spk_0-699.wav|||Agǐ:gáge gitǎ:ya.|
-000324|cno-spk_0|chr|wav/000691-bc-cno-spk_0-397.wav|||Kuye:gwǒ:ni.|
-001276|cno-spk_3|chr|wav/002288-bc-cno-spk_3-370.wav|||Gő:la.|
-000271|cno-spk_0|chr|wav/000600-bc-cno-spk_0-192.wav|||Galì:sdâ:yv:hv́sga.|
-000017|cno-spk_1|chr|wav/000036-cno-spk_1-animals-u-we-tsi.wav|||uwě:ji.|
-001210|cno-spk_3|chr|wav/002187-bc-cno-spk_3-274.wav|||U:gǎ:nawa.|
-000428|cno-spk_0|chr|wav/000900-bc-cno-spk_0-280.wav|||Dō adv:ne?|
-000053|cno-spk_0|chr|wav/000104-cno-spk_0-animals-ju-li-s-da-na-li.wav|||ju:lì:sdana:li.|
-000709|cno-spk_0|chr|wav/001376-see-say-write-cno-spk_0-173.wav|||Hila̋ ǐ:gó:hi̋:da a:tliɂilida?|
-000333|cno-spk_0|chr|wav/001295-see-say-write-cno-spk_0-25.wav|||Gǐ:ga.|
-000511|cno-spk_3|chr|wav/001057-see-say-write-cno-spk_3-162.wav|||Hiɂa e:ji.|
-000759|cno-spk_2|chr|wav/001471-see-say-write-cno-spk_2-26.wav|||Gà:du:li̋:da á:su:líɂa.|
-000196|cno-spk_3|chr|wav/000394-osiyo-then-cno-spk_3-05.wav|||Gadò de:jadó:ɂa?|
-000400|cno-spk_0|chr|wav/000837-bc-cno-spk_0-201.wav|||Jadu:líɂa.|
-000476|cno-spk_0|chr|wav/001227-see-say-write-cno-spk_0-141.wav|||Sě:lu.|
-001496|cno-spk_0|chr|wav/002636-bc-cno-spk_0-387.wav|||Ka:ga.|
-000908|cno-spk_1|chr|wav/001711-see-say-write-cno-spk_1-78.wav|||Ji:sdu.|
-000734|cno-spk_2|chr|wav/001420-see-say-write-cno-spk_2-04.wav|||A:li.|
-001050|cno-spk_3|chr|wav/001922-bc-cno-spk_3-338.wav|||Ù:hwasga.|
-000088|cno-spk_3|chr|wav/000161-cno-spk_3-animals-tsu-we-tsi.wav|||juwě:ji.|
-000837|cno-spk_1|chr|wav/001603-see-say-write-cno-spk_1-162.wav|||Hiɂa e:ji.|
-000607|cno-spk_0|chr|wav/001205-see-say-write-cno-spk_0-138.wav|||Di:sésdi dù:wo:hwě:lâ.|
-001126|cno-spk_3|chr|wav/002051-bc-cno-spk_3-622.wav|||Jiɂluh.|
-001362|cno-spk_3|chr|wav/002415-bc-cno-spk_3-592.wav|||Anè:lía.|
-000768|cno-spk_2|chr|wav/001488-see-say-write-cno-spk_2-162.wav|||Hiɂa e:ji.|
-001085|cno-spk_3|chr|wav/001976-bc-cno-spk_3-609.wav|||Hila̋ ǐ:ga̋?|
-000482|cno-spk_0|chr|wav/001014-bc-cno-spk_0-273.wav|||U:hyv̋:dla.|
-000925|cno-spk_1|chr|wav/001740-see-say-write-cno-spk_1-152.wav|||Hisgi.|
-001470|cno-spk_0|chr|wav/002586-bc-cno-spk_0-154.wav|||Juné:nv̀:sv́ à:né:ga.|
-001151|cno-spk_3|chr|wav/002093-bc-cno-spk_3-82.wav|||Nvh.|
-000093|cno-spk_3|chr|wav/000171-cno-spk_3-animals-u-we-tsi.wav|||uwě:ji.|
-000618|cno-spk_0|chr|wav/001225-see-say-write-cno-spk_0-06.wav|||Lo:lo.|
-001464|cno-spk_0|chr|wav/002576-bc-cno-spk_0-357.wav|||Jaha.|
-000165|cno-spk_2|chr|wav/000344-osiyo-then-cno-spk_2-20.wav|||Gadò de:sdadv:neha?|
-001515|cno-spk_0|chr|wav/002674-bc-cno-spk_0-618.wav|||Halâ:yv̋ é:gwő:ni?|
-000489|cno-spk_3|chr|wav/001023-see-say-write-cno-spk_3-155.wav|||Ganv:hi̋:da ù:stihga na age:hyű:ja.|
-001094|cno-spk_3|chr|wav/001998-bc-cno-spk_3-310.wav|||Ma:ga.|
-001010|cno-spk_3|chr|wav/001861-bc-cno-spk_3-668.wav|||Asgaya gawó:ni.|
-000904|cno-spk_1|chr|wav/001704-see-say-write-cno-spk_1-06.wav|||Lo:lo.|
-000806|cno-spk_2|chr|wav/001560-see-say-write-cno-spk_2-144.wav|||Digadv́:di.|
-000288|cno-spk_0|chr|wav/000627-bc-cno-spk_0-506.wav|||Anadi:tásga.|
-000353|cno-spk_0|chr|wav/000753-bc-cno-spk_0-308.wav|||Galv:lő:hi.|
-000750|cno-spk_2|chr|wav/001455-see-say-write-cno-spk_2-53.wav|||À:giyó:si.|
-000630|cno-spk_0|chr|wav/001240-see-say-write-cno-spk_0-72.wav|||Jalí:si.|
-000533|cno-spk_3|chr|wav/001084-see-say-write-cno-spk_3-28.wav|||Ga:sgilo.|
-000764|cno-spk_2|chr|wav/001478-see-say-write-cno-spk_2-103.wav|||Ő:sda a:gì:sdi uyu:ti.|
-000056|cno-spk_0|chr|wav/000108-cno-spk_0-animals-ti-na.wav|||tina.|
-000575|cno-spk_3|chr|wav/001151-see-say-write-cno-spk_3-38.wav|||U:nv̌:di.|
-000531|cno-spk_3|chr|wav/001082-see-say-write-cno-spk_3-72.wav|||Jalí:si.|
-001382|cno-spk_3|chr|wav/002442-bc-cno-spk_3-172.wav|||Asú:sdi à:wadu:lí.|
-000814|cno-spk_1|chr|wav/001572-see-say-write-cno-spk_1-27.wav|||À:ga:sga.|
-001098|cno-spk_3|chr|wav/002005-bc-cno-spk_3-61.wav|||Ő:sdadv̀.|
-000802|cno-spk_2|chr|wav/001553-see-say-write-cno-spk_2-70.wav|||Ajaɂdi.|
-000740|cno-spk_2|chr|wav/001433-see-say-write-cno-spk_2-129.wav|||Nǔ:na.|
-001451|cno-spk_0|chr|wav/002553-bc-cno-spk_0-287.wav|||Ama.|
-001270|cno-spk_3|chr|wav/002281-bc-cno-spk_3-469.wav|||Ù:wâ:ya.|
-001092|cno-spk_3|chr|wav/001996-bc-cno-spk_3-534.wav|||À:ga:sgas?|
-000592|cno-spk_3|chr|wav/001175-see-say-write-cno-spk_3-151.wav|||Áhani ù:dlanv:da.|
-000944|cno-spk_3|chr|wav/001766-bc-cno-spk_3-374.wav|||Kǒ:li.|
-000057|cno-spk_0|chr|wav/000111-cno-spk_0-animals-wa-da-du-ga.wav|||wǎ:dádǔ:ga.|
-000911|cno-spk_1|chr|wav/001718-see-say-write-cno-spk_1-60.wav|||Gi:hli dù:niyó:siha.|
-001226|cno-spk_3|chr|wav/002214-bc-cno-spk_3-246.wav|||À:gwanhta.|
-001432|cno-spk_0|chr|wav/002524-bc-cno-spk_0-136.wav|||Dà:ni:lâ:wì:ga.|
+000491|cno-spk_3|chr|wav/002423-bc-cno-spk_3-552.wav|||Yú:ne:gake hiwó:ni?|
 000003|cno-spk_1|chr|wav/000007-cno-spk_1-animals-gv-he.wav|||gv:he.|
-000403|cno-spk_0|chr|wav/000844-bc-cno-spk_0-116.wav|||Taɂli:ne̋ go:hwe:la.|
-001261|cno-spk_3|chr|wav/002271-bc-cno-spk_3-211.wav|||Go:hi̋:gi.|
-000009|cno-spk_1|chr|wav/000015-cno-spk_1-animals-u-no-de-na.wav|||u:nò:de̋:na.|
-000566|cno-spk_3|chr|wav/001137-see-say-write-cno-spk_3-43.wav|||Sigigi.|
-000049|cno-spk_0|chr|wav/000096-cno-spk_0-animals-da-la-la.wav|||dala:la.|
-000251|cno-spk_0|chr|wav/000535-bc-cno-spk_0-252.wav|||Ahő:li.|
-000357|cno-spk_0|chr|wav/001213-see-say-write-cno-spk_0-84.wav|||Sihgwa.|
-000101|cno-spk_3|chr|wav/000185-cno-spk_3-animals-da-la-la.wav|||dala:la.|
-000318|cno-spk_0|chr|wav/000683-bc-cno-spk_0-694.wav|||Ǔ:tana hlgv́.|
-000568|cno-spk_3|chr|wav/001139-see-say-write-cno-spk_3-83.wav|||Jí:sgwa.|
-000404|cno-spk_0|chr|wav/001284-see-say-write-cno-spk_0-63.wav|||Yó:ne:ga.|
-000134|cno-spk_2|chr|wav/000271-cno-spk_2-animals-wa-ga.wav|||wahga.|
-001316|cno-spk_3|chr|wav/002355-bc-cno-spk_3-636.wav|||Dla:ma:ha.|
-000004|cno-spk_1|chr|wav/000009-cno-spk_1-animals-te-ga.wav|||tehga.|
-001334|cno-spk_3|chr|wav/002377-bc-cno-spk_3-631.wav|||Hatv:gī.|
-000236|cno-spk_0|chr|wav/001372-see-say-write-cno-spk_0-185.wav|||Ni!|
-000161|cno-spk_2|chr|wav/000335-osiyo-then-cno-spk_2-25.wav|||Ha:dlv hwé:ga?|
-000761|cno-spk_2|chr|wav/001475-see-say-write-cno-spk_2-178.wav|||Talǔ:ja.|
-000696|cno-spk_0|chr|wav/001351-see-say-write-cno-spk_0-13.wav|||Sa:sa aná:ɂi.|
-001044|cno-spk_3|chr|wav/001912-bc-cno-spk_3-205.wav|||Unadu:líɂa.|
-000801|cno-spk_2|chr|wav/001552-see-say-write-cno-spk_2-83.wav|||Jí:sgwa.|
-000987|cno-spk_3|chr|wav/001824-bc-cno-spk_3-456.wav|||Ù:du:lí.|
-000140|cno-spk_2|chr|wav/000287-cno-spk_2-animals-wa-lo-si.wav|||waló:si.|
-001074|cno-spk_3|chr|wav/001958-bc-cno-spk_3-643.wav|||Nihi gadíɂa hiɂa.|
-001238|cno-spk_3|chr|wav/002230-bc-cno-spk_3-194.wav|||Alsdâ:yv:hv́.|
-001310|cno-spk_3|chr|wav/002344-bc-cno-spk_3-466.wav|||Uniha.|
-000233|cno-spk_0|chr|wav/000494-bc-cno-spk_0-184.wav|||Desgi:dì:si.|
-000705|cno-spk_0|chr|wav/002564-bc-cno-spk_0-446.wav|||Agayv̌:líge̋.|
-000870|cno-spk_1|chr|wav/001653-see-say-write-cno-spk_1-64.wav|||U:ne̋:ga gi:hli.|
-000616|cno-spk_0|chr|wav/001223-see-say-write-cno-spk_0-64.wav|||U:ne̋:ga gi:hli.|
-000544|cno-spk_3|chr|wav/001099-see-say-write-cno-spk_3-117.wav|||Na à:lâ:sgalǐ:sgi.|
-000122|cno-spk_3|chr|wav/000221-cno-spk_3-animals-wa-du-li-si.wav|||wá:du:lí:si.|
-000169|cno-spk_2|chr|wav/000349-osiyo-then-cno-spk_2-27.wav|||Ha:dlv wi:jé:ga?|
-000089|cno-spk_3|chr|wav/000162-cno-spk_3-animals-wa-ya.wav|||wahya.|
-000075|cno-spk_0|chr|wav/000138-cno-spk_0-animals-tsu-la.wav|||chu:la.|
-001502|cno-spk_0|chr|wav/002646-bc-cno-spk_0-213.wav|||Di:de:hyǒ:hv.|
-000785|cno-spk_2|chr|wav/001524-see-say-write-cno-spk_2-01.wav|||Su:li.|
-000252|cno-spk_0|chr|wav/000537-bc-cno-spk_0-537.wav|||Ù:lô:gi:lv.|
-000609|cno-spk_0|chr|wav/001207-see-say-write-cno-spk_0-73.wav|||Jayó:li.|
-001229|cno-spk_3|chr|wav/002219-bc-cno-spk_3-306.wav|||U:galǒ:ga.|
-001253|cno-spk_3|chr|wav/002255-bc-cno-spk_3-662.wav|||Sgina.|
-001411|cno-spk_0|chr|wav/002493-bc-cno-spk_0-140.wav|||Hé.|
-001020|cno-spk_3|chr|wav/001872-bc-cno-spk_3-48.wav|||V̀:hla.|
-001490|cno-spk_0|chr|wav/002624-bc-cno-spk_0-681.wav|||Gadò ű:sdi a:sésdi kò:hí?|
-001161|cno-spk_3|chr|wav/002107-bc-cno-spk_3-504.wav|||À:di:tásga.|
-000414|cno-spk_0|chr|wav/000872-bc-cno-spk_0-147.wav|||Digwé:nv̀:sv́ gé.|
-000329|cno-spk_0|chr|wav/000704-bc-cno-spk_0-529.wav|||Hé:gasgohv?|
-001492|cno-spk_0|chr|wav/002628-bc-cno-spk_0-396.wav|||Kuye:gwǒ:n.|
-001121|cno-spk_3|chr|wav/002042-bc-cno-spk_3-98.wav|||Taɂli:ne̋.|
-000486|cno-spk_3|chr|wav/002134-bc-cno-spk_3-512.wav|||Sihgwa.|
-000818|cno-spk_1|chr|wav/001576-see-say-write-cno-spk_1-70.wav|||Ajaɂdi.|
-001043|cno-spk_3|chr|wav/001910-bc-cno-spk_3-179.wav|||Digahi:nv̀.|
-001136|cno-spk_3|chr|wav/002067-bc-cno-spk_3-409.wav|||Gadō ű:sdi dadihno:gí:si?|
-000025|cno-spk_1|chr|wav/000050-cno-spk_1-animals-wa-so-hla.wav|||wá:so:hla.|
-000903|cno-spk_1|chr|wav/001702-see-say-write-cno-spk_1-127.wav|||Jalagi gawó:ni na ayó:ne:ga.|
-000871|cno-spk_1|chr|wav/001654-see-say-write-cno-spk_1-140.wav|||Sě:di dà:gíɂa na salǒ:li.|
-000481|cno-spk_0|chr|wav/001013-bc-cno-spk_0-342.wav|||Hì:neha.|
-000670|cno-spk_0|chr|wav/001310-see-say-write-cno-spk_0-136.wav|||Kǎ:hwi widayù:hwasi dì:da:náɂnv̋:i.|
-001156|cno-spk_3|chr|wav/002101-bc-cno-spk_3-106.wav|||Sgo:hi:ne̋.|
-000947|cno-spk_3|chr|wav/001770-bc-cno-spk_3-567.wav|||Gà:yő:hli.|
-001025|cno-spk_3|chr|wav/001882-bc-cno-spk_3-252.wav|||Ahő:li.|
-000706|cno-spk_0|chr|wav/001370-see-say-write-cno-spk_0-74.wav|||Nv̀:ya.|
-001004|cno-spk_3|chr|wav/001851-bc-cno-spk_3-125.wav|||Géɂi.|
-000358|cno-spk_0|chr|wav/000761-bc-cno-spk_0-445.wav|||Agayv̌:lí.|
-000832|cno-spk_1|chr|wav/001597-see-say-write-cno-spk_1-10.wav|||Sa:sa á:ɂi.|
-001377|cno-spk_3|chr|wav/002437-bc-cno-spk_3-531.wav|||Do:yu uwo:du sv:hiye.|
-000739|cno-spk_2|chr|wav/001430-see-say-write-cno-spk_2-58.wav|||Gáɂni.|
-001216|cno-spk_3|chr|wav/002200-bc-cno-spk_3-334.wav|||Dijv̋sdi.|
-000561|cno-spk_3|chr|wav/001131-see-say-write-cno-spk_3-16.wav|||Agi̋:na.|
-000946|cno-spk_3|chr|wav/001768-bc-cno-spk_3-146.wav|||Ju:ni:là:wisdi gé:ga.|
-001279|cno-spk_3|chr|wav/002293-bc-cno-spk_3-201.wav|||Jadu:líɂa.|
-000286|cno-spk_0|chr|wav/000623-bc-cno-spk_0-621.wav|||É:gwő:ni.|
-000960|cno-spk_3|chr|wav/001786-bc-cno-spk_3-223.wav|||U:sganő hiwò:nǐ.|
-000215|cno-spk_3|chr|wav/000425-bragging-hunter-cno-spk_3-13.wav|||Ná:hnv́ galò:gwé nigǎ:né:hv̋:na.|
-000001|cno-spk_1|chr|wav/000002-cno-spk_1-animals-tsu-la.wav|||chu:la.|
-001390|cno-spk_3|chr|wav/002459-bc-cno-spk_3-62.wav|||Donada:go:hv̄.|
-000521|cno-spk_3|chr|wav/001071-see-say-write-cno-spk_3-143.wav|||Sě:lu dodajì:hwisi à:diha na asgaya.|
-001114|cno-spk_3|chr|wav/002031-bc-cno-spk_3-258.wav|||Hv?|
-001415|cno-spk_0|chr|wav/002499-bc-cno-spk_0-388.wav|||Ka:gaɂli.|
-000638|cno-spk_0|chr|wav/001253-see-say-write-cno-spk_0-176.wav|||Ji:sdu ate:sda na gi:tli.|
-000139|cno-spk_2|chr|wav/000286-cno-spk_2-animals-a-ni-ji-lv-s-gi.wav|||ani:ji:lv̋:sgi.|
-001308|cno-spk_3|chr|wav/002342-bc-cno-spk_3-437.wav|||Ani:sgay.|
-001228|cno-spk_3|chr|wav/002218-bc-cno-spk_3-319.wav|||U:halv:na.|
-000700|cno-spk_0|chr|wav/001361-see-say-write-cno-spk_0-77.wav|||Wǎ:ji.|
-000366|cno-spk_0|chr|wav/000780-bc-cno-spk_0-226.wav|||Dògi hadí.|
-000985|cno-spk_3|chr|wav/001820-bc-cno-spk_3-360.wav|||Jv̌:ya.|
-000672|cno-spk_0|chr|wav/001313-see-say-write-cno-spk_0-38.wav|||U:nv̌:di.|
-000975|cno-spk_3|chr|wav/001806-bc-cno-spk_3-81.wav|||Jo.|
-000756|cno-spk_2|chr|wav/001467-see-say-write-cno-spk_2-23.wav|||Ga̋:du.|
-001103|cno-spk_3|chr|wav/002015-bc-cno-spk_3-47.wav|||Hla.|
-000130|cno-spk_2|chr|wav/000257-cno-spk_2-animals-do-ya.wav|||do:ya.|
-001437|cno-spk_0|chr|wav/002533-bc-cno-spk_0-632.wav|||Atv:gī.|
-001331|cno-spk_3|chr|wav/002374-bc-cno-spk_3-213.wav|||Di:de:hyǒ:hv.|
-001481|cno-spk_0|chr|wav/002610-bc-cno-spk_0-654.wav|||À:dáɂnv.|
-000708|cno-spk_0|chr|wav/001374-see-say-write-cno-spk_0-88.wav|||Wě:sa nigawe.|
-000540|cno-spk_3|chr|wav/001093-see-say-write-cno-spk_3-07.wav|||Salǒ:li.|
-000135|cno-spk_2|chr|wav/000272-cno-spk_2-animals-ti-na.wav|||tina.|
-001159|cno-spk_3|chr|wav/002104-bc-cno-spk_3-188.wav|||Gv́:na desgvsi.|
-000146|cno-spk_2|chr|wav/000302-cno-spk_2-animals-ki-yu-ga.wav|||kiyû:ga.|
-000910|cno-spk_1|chr|wav/001717-see-say-write-cno-spk_1-11.wav|||Sali.|
-000275|cno-spk_0|chr|wav/000605-bc-cno-spk_0-472.wav|||U:ni:gǎ:nawa.|
-000155|cno-spk_0|chr|wav/000321-osiyo-then-cno-spk_0-20.wav|||Gadò de:sdadv:neha?|
-000894|cno-spk_1|chr|wav/001691-see-say-write-cno-spk_1-09.wav|||I:sa.|
-000767|cno-spk_2|chr|wav/001483-see-say-write-cno-spk_2-50.wav|||Ogina:li̋:ɂi.|
-001352|cno-spk_3|chr|wav/002401-bc-cno-spk_3-378.wav|||Nana.|
+000394|cno-spk_3|chr|wav/001873-bc-cno-spk_3-548.wav|||Ayv:wi:yá.|
+000446|cno-spk_3|chr|wav/002180-bc-cno-spk_3-148.wav|||Digwé:nv̀:sv̋:ɂi gé:ga.|
+000076|cno-spk_0|chr|wav/000140-cno-spk_0-animals-si-qua.wav|||sihgwa.|
+000427|cno-spk_3|chr|wav/002064-bc-cno-spk_3-88.wav|||Sà:wűɂi.|
+000512|cno-spk_0|chr|wav/002533-bc-cno-spk_0-632.wav|||Atv:gī.|
+000323|cno-spk_2|chr|wav/001460-see-say-write-cno-spk_2-34.wav|||U:sdi̋.|
+000306|cno-spk_0|chr|wav/001351-see-say-write-cno-spk_0-13.wav|||Sa:sa aná:ɂi.|
+000403|cno-spk_3|chr|wav/001935-bc-cno-spk_3-256.wav|||Kila.|
+000033|cno-spk_1|chr|wav/000069-cno-spk_1-animals-tsi-ta-ga.wav|||jitǎ:ga.|
+000440|cno-spk_3|chr|wav/002116-bc-cno-spk_3-365.wav|||Uninéha.|
+000418|cno-spk_3|chr|wav/002015-bc-cno-spk_3-47.wav|||Hla.|
+000412|cno-spk_3|chr|wav/001971-bc-cno-spk_3-383.wav|||U:no:lv̀:tana ka:la.|
+000500|cno-spk_3|chr|wav/002473-bc-cno-spk_3-658.wav|||Nigaduɂi Jalagi go:hwe:lv̀:ɂi.|
+000105|cno-spk_3|chr|wav/000191-cno-spk_3-animals-wa-da-du-ga.wav|||wǎ:dádǔ:ga.|
+000210|cno-spk_0|chr|wav/000832-bc-cno-spk_0-351.wav|||À:giná.|
+000041|cno-spk_0|chr|wav/000079-cno-spk_0-animals-wa-ya.wav|||wahya.|
+000340|cno-spk_2|chr|wav/001562-see-say-write-cno-spk_2-166.wav|||U:do:hiyű ù:di:hléhga.|
+000007|cno-spk_1|chr|wav/000013-cno-spk_1-animals-ka-nu-na.wav|||kanu:na.|
+000096|cno-spk_3|chr|wav/000178-cno-spk_3-animals-te-wa.wav|||de:wa.|
+000166|cno-spk_0|chr|wav/000600-bc-cno-spk_0-192.wav|||Galì:sdâ:yv:hv́sga.|
+000142|cno-spk_3|chr|wav/000404-osiyo-then-cno-spk_3-11.wav|||Gadò dè:jadó:ɂa?|
+000253|cno-spk_3|chr|wav/001117-see-say-write-cno-spk_3-11.wav|||Sali.|
+000153|cno-spk_0|chr|wav/000496-bc-cno-spk_0-659.wav|||Nà:sgi.|
+000161|cno-spk_0|chr|wav/000570-bc-cno-spk_0-141.wav|||Hé:ga.|
+000452|cno-spk_3|chr|wav/002217-bc-cno-spk_3-405.wav|||Nv:dadě:wa.|
+000028|cno-spk_1|chr|wav/000059-cno-spk_1-animals-wo-yi.wav|||wo:yi.|
+000384|cno-spk_3|chr|wav/001841-bc-cno-spk_3-535.wav|||Ù:lô:gi:li kò:hi̋ svná:le.|
+000352|cno-spk_1|chr|wav/001623-see-say-write-cno-spk_1-24.wav|||Gǎ:da.|
+000383|cno-spk_3|chr|wav/001839-bc-cno-spk_3-42.wav|||Hisgi.|
+000230|cno-spk_0|chr|wav/000977-bc-cno-spk_0-356.wav|||À:giha.|
+000514|cno-spk_0|chr|wav/002543-bc-cno-spk_0-112.wav|||Chuně:li:ne̋:ɂi.|
+000522|cno-spk_0|chr|wav/002599-bc-cno-spk_0-484.wav|||Di:je̋ dikané:jv di:do:ja.|
+000251|cno-spk_3|chr|wav/001115-see-say-write-cno-spk_3-90.wav|||Ayv:wi:ya̋.|
+000241|cno-spk_3|chr|wav/001057-see-say-write-cno-spk_3-162.wav|||Hiɂa e:ji.|
+000237|cno-spk_3|chr|wav/001032-see-say-write-cno-spk_3-87.wav|||Wě:sa.|
+000129|cno-spk_2|chr|wav/000336-osiyo-then-cno-spk_2-11.wav|||Gadò dè:jadó:ɂa?|
+000527|cno-spk_1|chr|wav/000016-cno-spk_1-animals-wa-du-li-si.wav|||wá:du:lí:si.|
+000400|cno-spk_3|chr|wav/001915-bc-cno-spk_3-304.wav|||E:lohi.|
+000370|cno-spk_1|chr|wav/001734-see-say-write-cno-spk_1-178.wav|||Talǔ:ja.|
+000006|cno-spk_1|chr|wav/000012-cno-spk_1-animals-e-la-qua.wav|||e:logwa.|
+000270|cno-spk_3|chr|wav/001175-see-say-write-cno-spk_3-151.wav|||Áhani ù:dlanv:da.|
+000421|cno-spk_3|chr|wav/002037-bc-cno-spk_3-530.wav|||Hé:gake?|
+000466|cno-spk_3|chr|wav/002327-bc-cno-spk_3-322.wav|||Adǎ:wé:hi.|
+000274|cno-spk_3|chr|wav/001195-see-say-write-cno-spk_3-150.wav|||U:hyv:dla ama à:gwadu:lí.|
+000018|cno-spk_1|chr|wav/000038-cno-spk_1-animals-we-sa.wav|||wě:sa.|
+000326|cno-spk_2|chr|wav/001483-see-say-write-cno-spk_2-50.wav|||Ogina:li̋:ɂi.|
+000429|cno-spk_3|chr|wav/002073-bc-cno-spk_3-480.wav|||E̋:gwa.|
+000385|cno-spk_3|chr|wav/001844-bc-cno-spk_3-164.wav|||Asú:sdi.|
+000458|cno-spk_3|chr|wav/002267-bc-cno-spk_3-615.wav|||Hila̋ go:hwe:li jadu:líɂa?|
+000411|cno-spk_3|chr|wav/001969-bc-cno-spk_3-239.wav|||U:sganő.|
+000170|cno-spk_0|chr|wav/000627-bc-cno-spk_0-506.wav|||Anadi:tásga.|
+000361|cno-spk_1|chr|wav/001681-see-say-write-cno-spk_1-76.wav|||Tǔ:ya dù:du:lí.|
+000138|cno-spk_3|chr|wav/000386-osiyo-then-cno-spk_3-19.wav|||Gadò hadv:neha?|
+000072|cno-spk_0|chr|wav/000134-cno-spk_0-animals-da-gi-si.wav|||daksi.|
+000117|cno-spk_3|chr|wav/000209-cno-spk_3-animals-ka-nu-na.wav|||kanu:na.|
+000036|cno-spk_1|chr|wav/000074-cno-spk_1-animals-o-ga-na.wav|||o:gana.|
+000472|cno-spk_3|chr|wav/002355-bc-cno-spk_3-636.wav|||Dla:ma:ha.|
+000091|cno-spk_3|chr|wav/000165-cno-spk_3-animals-ti-yo-ha-li.wav|||tiyǒ:háɂli.|
+000318|cno-spk_2|chr|wav/001424-see-say-write-cno-spk_2-177.wav|||Dihnawo dà:tě:sga.|
+000474|cno-spk_3|chr|wav/002360-bc-cno-spk_3-491.wav|||Kalsě:jis hà:su:yv́:sgó?|
+000205|cno-spk_0|chr|wav/000814-bc-cno-spk_0-272.wav|||Á:ma.|
+000449|cno-spk_3|chr|wav/002197-bc-cno-spk_3-243.wav|||Ha:dlv?|
+000086|cno-spk_3|chr|wav/000158-cno-spk_3-animals-u-na-je-tsi-s-di.wav|||u:naje̋:tsdi.|
+000201|cno-spk_0|chr|wav/000803-bc-cno-spk_0-235.wav|||Dinǐ:yé:li.|
 000108|cno-spk_3|chr|wav/000195-cno-spk_3-animals-nv-da.wav|||nv:da.|
-000469|cno-spk_0|chr|wav/000987-bc-cno-spk_0-527.wav|||Goɂike jadu:lí?|
-000854|cno-spk_1|chr|wav/001625-see-say-write-cno-spk_1-84.wav|||Sihgwa.|
-000491|cno-spk_3|chr|wav/001030-see-say-write-cno-spk_3-175.wav|||Te:lǐ:do.|
-000952|cno-spk_3|chr|wav/001777-bc-cno-spk_3-507.wav|||Alà:sǔ:lo.|
-000571|cno-spk_3|chr|wav/001144-see-say-write-cno-spk_3-180.wav|||Tawǒ:di nigaweɂa.|
-000071|cno-spk_0|chr|wav/000130-cno-spk_0-animals-kv-hli.wav|||kv̌:hli.|
-000513|cno-spk_3|chr|wav/001980-bc-cno-spk_3-596.wav|||Gǎ:da.|
-000046|cno-spk_0|chr|wav/000091-cno-spk_0-animals-u-we-tsi.wav|||uwě:ji.|
-001089|cno-spk_3|chr|wav/001986-bc-cno-spk_3-113.wav|||Sóhně:li:ne̋:ɂi.|
-001501|cno-spk_0|chr|wav/002645-bc-cno-spk_0-584.wav|||Aniwó:niɂa.|
-001213|cno-spk_3|chr|wav/002196-bc-cno-spk_3-359.wav|||À:gwv̌:ya.|
-001444|cno-spk_0|chr|wav/002544-bc-cno-spk_0-369.wav|||Gő:l.|
-000343|cno-spk_0|chr|wav/000733-bc-cno-spk_0-368.wav|||U:ne̋:ga.|
-001170|cno-spk_3|chr|wav/002120-bc-cno-spk_3-458.wav|||À:lsdâ:yv:hv́sga.|
-000311|cno-spk_0|chr|wav/000669-bc-cno-spk_0-439.wav|||Ani:sgayv.|
-000347|cno-spk_0|chr|wav/000739-bc-cno-spk_0-442.wav|||U:tvhisdv.|
-001267|cno-spk_3|chr|wav/002278-bc-cno-spk_3-427.wav|||Awi̋:n.|
-001172|cno-spk_3|chr|wav/002123-bc-cno-spk_3-660.wav|||Nà:ní.|
-000789|cno-spk_2|chr|wav/001533-see-say-write-cno-spk_2-39.wav|||Na gi:hli ganv́:gi.|
-000279|cno-spk_0|chr|wav/000611-bc-cno-spk_0-59.wav|||Tò:hi̋:ju.|
-001071|cno-spk_3|chr|wav/001954-bc-cno-spk_3-278.wav|||Dō hadv:ne?|
-000673|cno-spk_0|chr|wav/001314-see-say-write-cno-spk_0-20.wav|||Gi:hli aná:ɂi.|
-001027|cno-spk_3|chr|wav/001886-bc-cno-spk_3-388.wav|||Ka:gaɂli.|
-001051|cno-spk_3|chr|wav/001924-bc-cno-spk_3-283.wav|||Gadō anadv:neɂa?|
-000034|cno-spk_1|chr|wav/000070-cno-spk_1-animals-do-sa.wav|||do:sa.|
+000285|cno-spk_0|chr|wav/001246-see-say-write-cno-spk_0-46.wav|||Ó:si.|
+000283|cno-spk_0|chr|wav/001223-see-say-write-cno-spk_0-64.wav|||U:ne̋:ga gi:hli.|
+000115|cno-spk_3|chr|wav/000207-cno-spk_3-animals-go-ga.wav|||kó:ga.|
+000293|cno-spk_0|chr|wav/001283-see-say-write-cno-spk_0-10.wav|||Sa:sa á:ɂi.|
+000015|cno-spk_1|chr|wav/000031-cno-spk_1-animals-wa-ga.wav|||wahga.|
+000252|cno-spk_3|chr|wav/001116-see-say-write-cno-spk_3-98.wav|||Gi:hli ù:lití:si.|
+000151|cno-spk_0|chr|wav/000490-bc-cno-spk_0-258.wav|||Hv?|
+000477|cno-spk_3|chr|wav/002368-bc-cno-spk_3-143.wav|||É:ga.|
+000515|cno-spk_0|chr|wav/002555-bc-cno-spk_0-567.wav|||Gà:yő:hli.|
+000102|cno-spk_3|chr|wav/000187-cno-spk_3-animals-u-ni-ji-ya.wav|||u:ni:ji:ya.|
+000516|cno-spk_0|chr|wav/002560-bc-cno-spk_0-61.wav|||Ő:sdadv̀.|
+000177|cno-spk_0|chr|wav/000677-bc-cno-spk_0-375.wav|||Na.|
+000231|cno-spk_0|chr|wav/000983-bc-cno-spk_0-260.wav|||Galiɂě:lí.|
+000351|cno-spk_1|chr|wav/001619-see-say-write-cno-spk_1-58.wav|||Gáɂni.|
+000382|cno-spk_3|chr|wav/001830-bc-cno-spk_3-59.wav|||Tò:hi̋:ju.|
+000112|cno-spk_3|chr|wav/000204-cno-spk_3-animals-ta-la-du.wav|||tala:du.|
+000273|cno-spk_3|chr|wav/001189-see-say-write-cno-spk_3-133.wav|||Kanu:na.|
+000158|cno-spk_0|chr|wav/000520-bc-cno-spk_0-169.wav|||I:ya.|
+000188|cno-spk_0|chr|wav/000734-bc-cno-spk_0-360.wav|||Jv̌:ya.|
+000475|cno-spk_3|chr|wav/002362-bc-cno-spk_3-311.wav|||Me:li.|
+000413|cno-spk_3|chr|wav/001982-bc-cno-spk_3-119.wav|||A:sésdi.|
+000160|cno-spk_0|chr|wav/000567-bc-cno-spk_0-270.wav|||I:ga.|
+000478|cno-spk_3|chr|wav/002370-bc-cno-spk_3-197.wav|||Analsdâ:yv:hv́sga.|
+000451|cno-spk_3|chr|wav/002212-bc-cno-spk_3-262.wav|||Halihě:lí.|
+000305|cno-spk_0|chr|wav/001347-see-say-write-cno-spk_0-178.wav|||Talǔ:ja.|
+000024|cno-spk_1|chr|wav/000047-cno-spk_1-animals-u-na-ga-so-ja-ne-da.wav|||u:naksò:jane̋:da.|
+000245|cno-spk_3|chr|wav/001077-see-say-write-cno-spk_3-81.wav|||Ahwi dunihyo na aniwǐ:na.|
+000376|cno-spk_3|chr|wav/001811-bc-cno-spk_3-699.wav|||Agǐ:gáge gitǎ:ya.|
+000095|cno-spk_3|chr|wav/000177-cno-spk_3-animals-tsu-la.wav|||chu:la.|
+000373|cno-spk_3|chr|wav/001774-bc-cno-spk_3-35.wav|||Kó:ga.|
+000183|cno-spk_0|chr|wav/000720-bc-cno-spk_0-407.wav|||V̌:sgíyi.|
+000193|cno-spk_0|chr|wav/000754-bc-cno-spk_0-332.wav|||Ajv̋sdi.|
+000282|cno-spk_0|chr|wav/001222-see-say-write-cno-spk_0-117.wav|||Na à:lâ:sgalǐ:sgi.|
+000529|cno-spk_1|chr|wav/000037-cno-spk_1-animals-da-gi-si.wav|||daksi.|
+000171|cno-spk_0|chr|wav/000631-bc-cno-spk_0-661.wav|||Nà:hní.|
+000060|cno-spk_0|chr|wav/000114-cno-spk_0-animals-we-sa.wav|||wě:sa.|
+000048|cno-spk_0|chr|wav/000095-cno-spk_0-animals-gv-he.wav|||gv:he.|
+000031|cno-spk_1|chr|wav/000062-cno-spk_1-animals-sa-sa.wav|||sa:sa.|
+000511|cno-spk_0|chr|wav/002527-bc-cno-spk_0-413.wav|||U:sdi̋ɂi.|
+000364|cno-spk_1|chr|wav/001700-see-say-write-cno-spk_1-96.wav|||Dalǒ:níge̋ jí:sgwa gáɂnǐ:ya na wě:sa.|
+000487|cno-spk_3|chr|wav/002400-bc-cno-spk_3-712.wav|||Uniwǒ:dígé.|
+000386|cno-spk_3|chr|wav/001847-bc-cno-spk_3-348.wav|||À:gi:káha.|
+000014|cno-spk_1|chr|wav/000028-cno-spk_1-animals-i-na-da.wav|||ǐ:náda.|
+000369|cno-spk_1|chr|wav/001729-see-say-write-cno-spk_1-148.wav|||Digadv́:di à:yo:sda na ù:da:ge̋:da achű:ja.|
+000507|cno-spk_0|chr|wav/002508-bc-cno-spk_0-707.wav|||Uwǒ:dígé u:sdi̋.|
+000232|cno-spk_0|chr|wav/000994-bc-cno-spk_0-533.wav|||À:ga:sga u:hyv:dlahno dǒ:yi.|
+000438|cno-spk_3|chr|wav/002110-bc-cno-spk_3-209.wav|||Gǐ:ga.|
+000016|cno-spk_1|chr|wav/000034-cno-spk_1-animals-a-ji-lv-s-gi.wav|||aji:lv̋:sgi.|
+000288|cno-spk_0|chr|wav/001257-see-say-write-cno-spk_0-174.wav|||Digo:hwě:lò:di è:sgidisi.|
+000485|cno-spk_3|chr|wav/002389-bc-cno-spk_3-216.wav|||Idalě:na.|
+000121|cno-spk_2|chr|wav/000266-cno-spk_2-animals-tv-ga.wav|||tvhga.|
+000147|cno-spk_0|chr|wav/000457-bragging-hunter-cno-spk_0-03.wav|||Sà:gwű:hno asgaya galò:gwé|
+000408|cno-spk_3|chr|wav/001960-bc-cno-spk_3-463.wav|||Unihwasga.|
+000064|cno-spk_0|chr|wav/000119-cno-spk_0-animals-do-sa.wav|||do:sa.|
+000221|cno-spk_0|chr|wav/000920-bc-cno-spk_0-275.wav|||U:ga̋:nawa.|
+000499|cno-spk_3|chr|wav/002466-bc-cno-spk_3-236.wav|||Dinǐ:yé:li:hi.|
+000227|cno-spk_0|chr|wav/000947-bc-cno-spk_0-571.wav|||Dǒ:yi.|
+000453|cno-spk_3|chr|wav/002219-bc-cno-spk_3-306.wav|||U:galǒ:ga.|
+000094|cno-spk_3|chr|wav/000176-cno-spk_3-animals-da-gi-si.wav|||daksi.|
+000162|cno-spk_0|chr|wav/000578-bc-cno-spk_0-319.wav|||U:halv:na.|
+000344|cno-spk_1|chr|wav/001584-see-say-write-cno-spk_1-08.wav|||Sa:sa.|
+000257|cno-spk_3|chr|wav/001129-see-say-write-cno-spk_3-57.wav|||O:síyo hada.|
+000267|cno-spk_3|chr|wav/001169-see-say-write-cno-spk_3-64.wav|||U:ne̋:ga gi:hli.|
+000146|cno-spk_0|chr|wav/000450-bragging-hunter-cno-spk_0-12.wav|||ale ù:ni:go:hé ganv́:gv̋.|
+000038|cno-spk_1|chr|wav/000076-cno-spk_1-animals-ka-na-ne-s-gi.wav|||kanaɂně:sgi.|
+000455|cno-spk_3|chr|wav/002230-bc-cno-spk_3-194.wav|||Alsdâ:yv:hv́.|
+000092|cno-spk_3|chr|wav/000166-cno-spk_3-animals-sa-sa.wav|||sa:sa.|
+000255|cno-spk_3|chr|wav/001122-see-say-write-cno-spk_3-168.wav|||Gv̌:hnáge̋ gi:hli à:gi:káha.|
+000495|cno-spk_3|chr|wav/002442-bc-cno-spk_3-172.wav|||Asú:sdi à:wadu:lí.|
+000280|cno-spk_0|chr|wav/001213-see-say-write-cno-spk_0-84.wav|||Sihgwa.|
+000113|cno-spk_3|chr|wav/000205-cno-spk_3-animals-gv-na.wav|||gv́:na.|
+000336|cno-spk_2|chr|wav/001537-see-say-write-cno-spk_2-30.wav|||Sdù:di.|
+000194|cno-spk_0|chr|wav/000755-bc-cno-spk_0-513.wav|||Sǐ:gwu.|
+000197|cno-spk_0|chr|wav/000788-bc-cno-spk_0-320.wav|||U:halv:ni.|
+000139|cno-spk_3|chr|wav/000387-osiyo-then-cno-spk_3-01.wav|||O:síyo.|
+000132|cno-spk_1|chr|wav/000362-osiyo-then-cno-spk_1-05.wav|||Gadò de:jadó:ɂa?|
+000397|cno-spk_3|chr|wav/001893-bc-cno-spk_3-40.wav|||Ő:sda.|
+000243|cno-spk_3|chr|wav/001070-see-say-write-cno-spk_3-30.wav|||Sdù:di.|
+000463|cno-spk_3|chr|wav/002304-bc-cno-spk_3-676.wav|||Aji:lv́:sga.|
+000226|cno-spk_0|chr|wav/000945-bc-cno-spk_0-82.wav|||Nvh.|
+000181|cno-spk_0|chr|wav/001295-see-say-write-cno-spk_0-25.wav|||Gǐ:ga.|
+000456|cno-spk_3|chr|wav/002233-bc-cno-spk_3-78.wav|||Di:sésdi.|
+000448|cno-spk_3|chr|wav/002189-bc-cno-spk_3-230.wav|||Gadō u:sdi jadu:líɂa.?|
+000261|cno-spk_3|chr|wav/001141-see-say-write-cno-spk_3-88.wav|||Wě:sa nigawe.|
+000332|cno-spk_2|chr|wav/001519-see-say-write-cno-spk_2-135.wav|||U:sdi̋ kanawô:ga.|
+000133|cno-spk_1|chr|wav/000375-osiyo-then-cno-spk_1-03.wav|||Tò:hi̋:ju?|
+000179|cno-spk_0|chr|wav/000696-bc-cno-spk_0-79.wav|||Sà:gwű.|
+000303|cno-spk_0|chr|wav/001324-see-say-write-cno-spk_0-36.wav|||Salǒ:li ù:du:lí na gi:hli.|
+000372|cno-spk_1|chr|wav/001754-see-say-write-cno-spk_1-97.wav|||Ada:kéhdi ù:du:lí na agě:hya.|
+000469|cno-spk_3|chr|wav/002343-bc-cno-spk_3-724.wav|||Jǐ:sa|
+000426|cno-spk_3|chr|wav/002059-bc-cno-spk_3-446.wav|||Agayv̌:líge̋.|
 000083|cno-spk_3|chr|wav/000153-cno-spk_3-animals-si-qua.wav|||sihgwa.|
-000864|cno-spk_1|chr|wav/001638-see-say-write-cno-spk_1-81.wav|||Ahwi dunihyo na aniwǐ:na.|
-000294|cno-spk_0|chr|wav/000639-bc-cno-spk_0-638.wav|||Dla:nú:si.|
+000414|cno-spk_3|chr|wav/001996-bc-cno-spk_3-534.wav|||À:ga:sgas?|
+000399|cno-spk_3|chr|wav/001902-bc-cno-spk_3-202.wav|||U:du:lí.|
+000065|cno-spk_0|chr|wav/000122-cno-spk_0-animals-ka-wo-nu.wav|||kawǒ:nu.|
+000098|cno-spk_3|chr|wav/000182-cno-spk_3-animals-do-ya.wav|||do:ya.|
+000225|cno-spk_0|chr|wav/000943-bc-cno-spk_0-716.wav|||Anigv̌:nígé gi:hli danì:gowhtíɂa juwǒ:dígé dilà:sǔ:lo.|
+000074|cno-spk_0|chr|wav/000137-cno-spk_0-animals-tsi-ta-ga.wav|||jitǎ:ga.|
+000029|cno-spk_1|chr|wav/000060-cno-spk_1-animals-u-ji-ya.wav|||u:ji:ya.|
+000481|cno-spk_3|chr|wav/002380-bc-cno-spk_3-462.wav|||Anadv́:ne.|
+000085|cno-spk_3|chr|wav/000156-cno-spk_3-animals-o-ga-na.wav|||o:gana.|
+000417|cno-spk_3|chr|wav/002003-bc-cno-spk_3-447.wav|||Ani:gayv̌:lí.|
+000145|cno-spk_3|chr|wav/000419-bragging-hunter-cno-spk_3-17.wav|||ù:dv:hne ná galò:gwé ga:ne̋:hi,|
+000156|cno-spk_0|chr|wav/000516-bc-cno-spk_0-433.wav|||Ana̋:ta.|
+000080|cno-spk_0|chr|wav/000149-cno-spk_0-animals-ti-yo-ha-li.wav|||tiyǒ:háɂli.|
+000457|cno-spk_3|chr|wav/002238-bc-cno-spk_3-364.wav|||Ù:néha.|
+000450|cno-spk_3|chr|wav/002210-bc-cno-spk_3-689.wav|||Anisakǒ:nígé ju:gì:dáhli.|
+000008|cno-spk_1|chr|wav/000014-cno-spk_1-animals-tsi-s-du.wav|||ji:sdu.|
+000222|cno-spk_0|chr|wav/000929-bc-cno-spk_0-646.wav|||A̋ɂda.|
+000389|cno-spk_3|chr|wav/001863-bc-cno-spk_3-517.wav|||Ha:dlv hé:ga?|
+000525|cno-spk_0|chr|wav/002668-bc-cno-spk_0-236.wav|||Dinǐ:yé:li:hi.|
+000209|cno-spk_0|chr|wav/000831-bc-cno-spk_0-33.wav|||Síyo.|
+000204|cno-spk_0|chr|wav/000813-bc-cno-spk_0-264.wav|||À:li:hě:lí.|
+000182|cno-spk_0|chr|wav/000713-bc-cno-spk_0-326.wav|||Do:yű.|
+000428|cno-spk_3|chr|wav/002068-bc-cno-spk_3-261.wav|||Galiɂě:lî:ga.|
+000328|cno-spk_2|chr|wav/001490-see-say-write-cno-spk_2-185.wav|||Ni!|
+000310|cno-spk_0|chr|wav/001377-see-say-write-cno-spk_0-102.wav|||O:sǐ:yu iyunalsdà:hnéhdi.|
+000217|cno-spk_0|chr|wav/000882-bc-cno-spk_0-377.wav|||Naɂvɂi.|
+000224|cno-spk_0|chr|wav/000935-bc-cno-spk_0-37.wav|||Agě.|
+000509|cno-spk_0|chr|wav/002513-bc-cno-spk_0-301.wav|||Agihyv̋:dla.|
+000441|cno-spk_3|chr|wav/002145-bc-cno-spk_3-330.wav|||Ajéɂiyű:sdi.|
+000250|cno-spk_3|chr|wav/001114-see-say-write-cno-spk_3-82.wav|||Gi:hli dà:suhwísga.|
+000459|cno-spk_3|chr|wav/002268-bc-cno-spk_3-630.wav|||Gatv:gī.|
+000268|cno-spk_3|chr|wav/001170-see-say-write-cno-spk_3-92.wav|||Ayv.|
+000203|cno-spk_0|chr|wav/000807-bc-cno-spk_0-198.wav|||Aksdà:yv̌hv̄.|
+000235|cno-spk_3|chr|wav/002269-bc-cno-spk_3-157.wav|||Ga̋:du.|
+000342|cno-spk_1|chr|wav/001575-see-say-write-cno-spk_1-66.wav|||Waló:si.|
+000199|cno-spk_0|chr|wav/000796-bc-cno-spk_0-48.wav|||V̀:hla.|
+000276|cno-spk_3|chr|wav/001199-see-say-write-cno-spk_3-89.wav|||Sa:sa na:niwe.|
+000506|cno-spk_0|chr|wav/002506-bc-cno-spk_0-123.wav|||A:nadiɂa.|
+000202|cno-spk_0|chr|wav/000805-bc-cno-spk_0-634.wav|||À:sdû:di.|
+000524|cno-spk_0|chr|wav/002629-bc-cno-spk_0-162.wav|||Hawi:ya.|
+000021|cno-spk_1|chr|wav/000043-cno-spk_1-animals-u-gu-gu.wav|||u:gù:ku.|
+000228|cno-spk_0|chr|wav/000950-bc-cno-spk_0-480.wav|||E̋:gwa.|
+000150|cno-spk_3|chr|wav/000470-osiyo-then-cno-spk_3-16.wav|||Hohlga̋:s Jalagi?|
+000465|cno-spk_3|chr|wav/002323-bc-cno-spk_3-349.wav|||Ù:we:ká.|
+000325|cno-spk_2|chr|wav/001475-see-say-write-cno-spk_2-178.wav|||Talǔ:ja.|
+000443|cno-spk_3|chr|wav/002157-bc-cno-spk_3-373.wav|||Kǒ:la.|
+000464|cno-spk_3|chr|wav/002322-bc-cno-spk_3-356.wav|||À:giha.|
+000043|cno-spk_0|chr|wav/000087-cno-spk_0-animals-sa-sa.wav|||sa:sa.|
+000346|cno-spk_1|chr|wav/001595-see-say-write-cno-spk_1-87.wav|||Wě:sa.|
+000050|cno-spk_0|chr|wav/000099-cno-spk_0-animals-ta-wo-di.wav|||tawǒ:di.|
+000256|cno-spk_3|chr|wav/001125-see-say-write-cno-spk_3-144.wav|||Digadv́:di.|
+000479|cno-spk_3|chr|wav/002371-bc-cno-spk_3-486.wav|||Ha:dlv go:hwe:lv̀:ɂi.|
+000304|cno-spk_0|chr|wav/001337-see-say-write-cno-spk_0-79.wav|||U:ni:ji:ya dù:hyoha na asgaya.|
+000152|cno-spk_0|chr|wav/000493-bc-cno-spk_0-73.wav|||Di:dihnó:gi.|
+000167|cno-spk_0|chr|wav/000602-bc-cno-spk_0-429.wav|||Ani:wi̋:n.|
+000381|cno-spk_3|chr|wav/001826-bc-cno-spk_3-424.wav|||Age:hyű:ja.|
+000520|cno-spk_0|chr|wav/002591-bc-cno-spk_0-347.wav|||À:gi:ká.|
+000155|cno-spk_0|chr|wav/000505-bc-cno-spk_0-90.wav|||Joɂi.|
+000300|cno-spk_0|chr|wav/001311-see-say-write-cno-spk_0-100.wav|||Jǐ:yu.|
+000195|cno-spk_0|chr|wav/000759-bc-cno-spk_0-50.wav|||Hiɂa.|
+000046|cno-spk_0|chr|wav/000091-cno-spk_0-animals-u-we-tsi.wav|||uwě:ji.|
+000242|cno-spk_3|chr|wav/001062-see-say-write-cno-spk_3-108.wav|||Ama.|
+000437|cno-spk_3|chr|wav/002107-bc-cno-spk_3-504.wav|||À:di:tásga.|
+000200|cno-spk_0|chr|wav/000801-bc-cno-spk_0-438.wav|||Ani:sgaya.|
+000393|cno-spk_3|chr|wav/001872-bc-cno-spk_3-48.wav|||V̀:hla.|
+000358|cno-spk_1|chr|wav/001653-see-say-write-cno-spk_1-64.wav|||U:ne̋:ga gi:hli.|
+000286|cno-spk_0|chr|wav/001248-see-say-write-cno-spk_0-177.wav|||Dihnawo dà:tě:sga.|
+000084|cno-spk_3|chr|wav/000154-cno-spk_3-animals-ki-yu-ga.wav|||kiyû:ga.|
+000042|cno-spk_0|chr|wav/000086-cno-spk_0-animals-o-ga-na.wav|||o:gana.|
+000265|cno-spk_3|chr|wav/001154-see-say-write-cno-spk_3-185.wav|||Ni!|
+000338|cno-spk_2|chr|wav/001547-see-say-write-cno-spk_2-63.wav|||Yó:ne:ga.|
+000207|cno-spk_0|chr|wav/000823-bc-cno-spk_0-680.wav|||Dò ű:sdi a:sésdi kò:hí?|
+000298|cno-spk_0|chr|wav/001308-see-say-write-cno-spk_0-83.wav|||Jí:sgwa.|
+000301|cno-spk_0|chr|wav/001313-see-say-write-cno-spk_0-38.wav|||U:nv̌:di.|
+000173|cno-spk_0|chr|wav/000644-bc-cno-spk_0-227.wav|||Gadògi hadí:ɂa.|
+000103|cno-spk_3|chr|wav/000188-cno-spk_3-animals-ta-wo-di.wav|||tawǒ:di.|
+000343|cno-spk_1|chr|wav/001577-see-say-write-cno-spk_1-166.wav|||U:do:hiyű ù:di:hléhga.|
+000388|cno-spk_3|chr|wav/001860-bc-cno-spk_3-100.wav|||Nvhgi:ne̋.|
+000317|cno-spk_2|chr|wav/001413-see-say-write-cno-spk_2-171.wav|||Goɂi.|
+000493|cno-spk_3|chr|wav/002432-bc-cno-spk_3-692.wav|||U:ne̋:ga u:lò:gí:li.|
+000061|cno-spk_0|chr|wav/000115-cno-spk_0-animals-ka-ma-ma.wav|||kama:ma.|
+000131|cno-spk_1|chr|wav/000359-osiyo-then-cno-spk_1-01.wav|||O:síyo.|
+000075|cno-spk_0|chr|wav/000138-cno-spk_0-animals-tsu-la.wav|||chu:la.|
+000172|cno-spk_0|chr|wav/000634-bc-cno-spk_0-698.wav|||Anigǐ:gáge ani:ji:lv̋:sgi.|
+000405|cno-spk_3|chr|wav/001952-bc-cno-spk_3-422.wav|||Ani:chű:ji.|
+000136|cno-spk_1|chr|wav/000384-osiyo-then-cno-spk_1-26.wav|||Ha:dlv wisdé:ga?|
+000337|cno-spk_2|chr|wav/001545-see-say-write-cno-spk_2-88.wav|||Wě:sa nigawe.|
+000341|cno-spk_1|chr|wav/001571-see-say-write-cno-spk_1-138.wav|||Di:sésdi dù:wo:hwě:lâ.|
+000099|cno-spk_3|chr|wav/000183-cno-spk_3-animals-i-na-da.wav|||ǐ:náda.|
+000246|cno-spk_3|chr|wav/001080-see-say-write-cno-spk_3-169.wav|||Ganv:gwalő:sdi e:sgv́hsi.|
+000049|cno-spk_0|chr|wav/000096-cno-spk_0-animals-da-la-la.wav|||dala:la.|
+000034|cno-spk_1|chr|wav/000070-cno-spk_1-animals-do-sa.wav|||do:sa.|
+000333|cno-spk_2|chr|wav/001522-see-say-write-cno-spk_2-108.wav|||Ama.|
+000126|cno-spk_0|chr|wav/000328-osiyo-then-cno-spk_0-12.wav|||Jalagi.|
+000289|cno-spk_0|chr|wav/001258-see-say-write-cno-spk_0-89.wav|||Sa:sa na:niwe.|
+000124|cno-spk_0|chr|wav/000309-osiyo-then-cno-spk_0-02.wav|||Tò:hi̋.|
+000398|cno-spk_3|chr|wav/001899-bc-cno-spk_3-174.wav|||Asú:sdi desgi:nehv.|
+000526|cno-spk_0|chr|wav/002669-bc-cno-spk_0-580.wav|||Hiwó:niɂa.|
+000476|cno-spk_3|chr|wav/002366-bc-cno-spk_3-479.wav|||Anigv̌:níge̋ kama:ma a:nalsdâ:yv:hv́sga.|
+000196|cno-spk_0|chr|wav/000777-bc-cno-spk_0-205.wav|||Unadu:líɂa.|
+000089|cno-spk_3|chr|wav/000162-cno-spk_3-animals-wa-ya.wav|||wahya.|
+000035|cno-spk_1|chr|wav/000072-cno-spk_1-animals-su-li.wav|||su:li.|
+000214|cno-spk_0|chr|wav/000869-bc-cno-spk_0-421.wav|||Ani:chű:ja.|
+000164|cno-spk_0|chr|wav/000590-bc-cno-spk_0-113.wav|||Sóhně:li:ne̋:ɂi.|
+000208|cno-spk_0|chr|wav/000828-bc-cno-spk_0-671.wav|||Kiloɂi gawó:niɂa.|
+000104|cno-spk_3|chr|wav/000189-cno-spk_3-animals-u-ji-ya.wav|||u:ji:ya.|
+000066|cno-spk_0|chr|wav/000123-cno-spk_0-animals-a-wo-ha-li.wav|||awǒ:háɂli.|
+000294|cno-spk_0|chr|wav/001288-see-say-write-cno-spk_0-02.wav|||Sǔ:dáli.|
+000157|cno-spk_0|chr|wav/000518-bc-cno-spk_0-386.wav|||U:no:lv̀:tani.|
+000128|cno-spk_2|chr|wav/000335-osiyo-then-cno-spk_2-25.wav|||Ha:dlv hwé:ga?|
+000315|cno-spk_2|chr|wav/001403-see-say-write-cno-spk_2-16.wav|||Agi̋:na.|
+000371|cno-spk_1|chr|wav/001736-see-say-write-cno-spk_1-104.wav|||Adà:dlǒ:sdi.|
+000077|cno-spk_0|chr|wav/000141-cno-spk_0-animals-i-na-ge-i.wav|||ǐ:náge̋:ɂi.|
+000347|cno-spk_1|chr|wav/001601-see-say-write-cno-spk_1-145.wav|||Gadò hà:dv́:ne?|
+000392|cno-spk_3|chr|wav/001869-bc-cno-spk_3-680.wav|||Dò ű:sdi a:sésdi kò:hí?|
+000137|cno-spk_1|chr|wav/000385-osiyo-then-cno-spk_1-13.wav|||Jalagi hiwó:niha?|
+000324|cno-spk_2|chr|wav/001470-see-say-write-cno-spk_2-130.wav|||Nǔ:na do:gihwisa dlo:ge̋:si.|
+000470|cno-spk_3|chr|wav/002348-bc-cno-spk_3-506.wav|||Anadi:tásga.|
+000425|cno-spk_3|chr|wav/002057-bc-cno-spk_3-154.wav|||Juné:nv̀:sv́ à:né:ga.|
+000316|cno-spk_2|chr|wav/001408-see-say-write-cno-spk_2-82.wav|||Gi:hli dà:suhwísga.|
+000281|cno-spk_0|chr|wav/001218-see-say-write-cno-spk_0-27.wav|||À:ga:sga.|
+000359|cno-spk_1|chr|wav/001656-see-say-write-cno-spk_1-144.wav|||Digadv́:di.|
+000410|cno-spk_3|chr|wav/001963-bc-cno-spk_3-137.wav|||Ju:ni:là:wisdi.|
+000313|cno-spk_2|chr|wav/001394-see-say-write-cno-spk_2-62.wav|||Ganè:ga.|
+000130|cno-spk_2|chr|wav/000352-osiyo-then-cno-spk_2-06.wav|||Ja:n dà:gwadó:ɂa.|
+000110|cno-spk_3|chr|wav/000201-cno-spk_3-animals-a-wi.wav|||ahwi.|
+000022|cno-spk_1|chr|wav/000044-cno-spk_1-animals-a-ni-ji-lv-s-gi.wav|||ani:ji:lv̋:sgi.|
+000460|cno-spk_3|chr|wav/002282-bc-cno-spk_3-403.wav|||Dù:ninvhdi.|
+000367|cno-spk_1|chr|wav/001717-see-say-write-cno-spk_1-11.wav|||Sali.|
+000523|cno-spk_0|chr|wav/002614-bc-cno-spk_0-179.wav|||Digahi:nv̀.|
+000467|cno-spk_3|chr|wav/002333-bc-cno-spk_3-557.wav|||hno.|
+000087|cno-spk_3|chr|wav/000160-cno-spk_3-animals-u-ga-te-na.wav|||ukte:na.|
+000023|cno-spk_1|chr|wav/000045-cno-spk_1-animals-u-ga-te-na.wav|||ukte:na.|
+000081|cno-spk_0|chr|wav/000150-cno-spk_0-animals-ka-nu-na.wav|||kanu:na.|
+000054|cno-spk_0|chr|wav/000105-cno-spk_0-animals-a-ni-ji-lv-s-gi.wav|||ani:ji:lv̋:sgi.|
+000291|cno-spk_0|chr|wav/001265-see-say-write-cno-spk_0-54.wav|||À:giyó:siha.|
+000101|cno-spk_3|chr|wav/000185-cno-spk_3-animals-da-la-la.wav|||dala:la.|
 000118|cno-spk_3|chr|wav/000211-cno-spk_3-animals-tlv-de-gwa.wav|||tlv̌:dé:gwa.|
-000312|cno-spk_0|chr|wav/000670-bc-cno-spk_0-230.wav|||Gadō u:sdi jadu:líɂa.?|
-000445|cno-spk_0|chr|wav/000934-bc-cno-spk_0-256.wav|||Kila.|
-001164|cno-spk_3|chr|wav/002114-bc-cno-spk_3-66.wav|||V:v.|
-000585|cno-spk_3|chr|wav/001166-see-say-write-cno-spk_3-166.wav|||U:do:hiyű ù:di:hléhga.|
-001178|cno-spk_3|chr|wav/002136-bc-cno-spk_3-594.wav|||Ǔ:tan.|
-000784|cno-spk_2|chr|wav/001523-see-say-write-cno-spk_2-27.wav|||À:ga:sga.|
-000635|cno-spk_0|chr|wav/001248-see-say-write-cno-spk_0-177.wav|||Dihnawo dà:tě:sga.|
-000230|cno-spk_3|chr|wav/000470-osiyo-then-cno-spk_3-16.wav|||Hohlga̋:s Jalagi?|
-000355|cno-spk_0|chr|wav/000755-bc-cno-spk_0-513.wav|||Sǐ:gwu.|
-001131|cno-spk_3|chr|wav/002057-bc-cno-spk_3-154.wav|||Juné:nv̀:sv́ à:né:ga.|
-001312|cno-spk_3|chr|wav/002346-bc-cno-spk_3-452.wav|||À:dia.|
-001429|cno-spk_0|chr|wav/002519-bc-cno-spk_0-647.wav|||A̋ɂdage.|
+000420|cno-spk_3|chr|wav/002028-bc-cno-spk_3-385.wav|||U:no:lv̀:tana.|
+000272|cno-spk_3|chr|wav/001187-see-say-write-cno-spk_3-27.wav|||À:ga:sga.|
+000454|cno-spk_3|chr|wav/002229-bc-cno-spk_3-289.wav|||Dò:dala ju:hyv:dla.|
+000127|cno-spk_0|chr|wav/000331-osiyo-then-cno-spk_0-09.wav|||Me:li dà:gwadó:ɂa.|
+000154|cno-spk_0|chr|wav/000503-bc-cno-spk_0-667.wav|||Ani:sgaya aniwó:niɂa.|
+000435|cno-spk_3|chr|wav/002101-bc-cno-spk_3-106.wav|||Sgo:hi:ne̋.|
+000375|cno-spk_3|chr|wav/001807-bc-cno-spk_3-468.wav|||Ù:ninéha.|
+000287|cno-spk_0|chr|wav/001253-see-say-write-cno-spk_0-176.wav|||Ji:sdu ate:sda na gi:tli.|
+000339|cno-spk_2|chr|wav/001559-see-say-write-cno-spk_2-105.wav|||Dlo:ge̋:si winè:da.|
+000447|cno-spk_3|chr|wav/002187-bc-cno-spk_3-274.wav|||U:gǎ:nawa.|
+000532|cno-spk_1|chr|wav/000054-cno-spk_1-animals-u-ni-no-de-na.wav|||u:ni:nò:de̋:na.|
+000239|cno-spk_3|chr|wav/001039-see-say-write-cno-spk_3-05.wav|||À:su:lo.|
+000419|cno-spk_3|chr|wav/002017-bc-cno-spk_3-203.wav|||U:du:líɂa.|
+000461|cno-spk_3|chr|wav/002284-bc-cno-spk_3-649.wav|||Ani̋:dage.|
+000260|cno-spk_3|chr|wav/001140-see-say-write-cno-spk_3-145.wav|||Gadò hà:dv́:ne?|
+000309|cno-spk_0|chr|wav/001370-see-say-write-cno-spk_0-74.wav|||Nv̀:ya.|
+000234|cno-spk_0|chr|wav/001009-bc-cno-spk_0-72.wav|||Joɂi:né.|
+000120|cno-spk_3|chr|wav/000222-cno-spk_3-animals-ju-la-s-gi.wav|||ju:là:sgi.|
+000504|cno-spk_0|chr|wav/002483-bc-cno-spk_0-292.wav|||U:hyv:dla u:hyv:dlv.|
+000067|cno-spk_0|chr|wav/000124-cno-spk_0-animals-ka-na-ne-s-gi.wav|||kanaɂně:sgi.|
+000019|cno-spk_1|chr|wav/000040-cno-spk_1-animals-go-ga.wav|||kó:ga.|
+000141|cno-spk_3|chr|wav/002244-bc-cno-spk_3-02.wav|||Jalagi.|
+000011|cno-spk_1|chr|wav/000024-cno-spk_1-animals-di-li.wav|||di:li.|
+000275|cno-spk_3|chr|wav/001197-see-say-write-cno-spk_3-56.wav|||Hadǐ:da!|
+000483|cno-spk_3|chr|wav/002382-bc-cno-spk_3-395.wav|||De:halǔ:yi.|
+000439|cno-spk_3|chr|wav/002114-bc-cno-spk_3-66.wav|||V:v.|
+000056|cno-spk_0|chr|wav/000108-cno-spk_0-animals-ti-na.wav|||tina.|
+000218|cno-spk_0|chr|wav/000885-bc-cno-spk_0-536.wav|||Ù:lô:gi:li kò:hi̋ svná:le̋ɂi.|
+000488|cno-spk_3|chr|wav/002406-bc-cno-spk_3-110.wav|||Su:dali:ne̋:ɂi.|
+000100|cno-spk_3|chr|wav/000184-cno-spk_3-animals-u-gu-gu.wav|||u:gù:ku.|
+000335|cno-spk_2|chr|wav/001533-see-say-write-cno-spk_2-39.wav|||Na gi:hli ganv́:gi.|
+000360|cno-spk_1|chr|wav/001675-see-say-write-cno-spk_1-130.wav|||Nǔ:na do:gihwisa dlo:ge̋:si.|
+000422|cno-spk_3|chr|wav/002042-bc-cno-spk_3-98.wav|||Taɂli:ne̋.|
+000505|cno-spk_0|chr|wav/002497-bc-cno-spk_0-499.wav|||Dikané:jv|
+000082|cno-spk_0|chr|wav/000152-cno-spk_0-animals-do-ya.wav|||do:ya.|
+000213|cno-spk_0|chr|wav/000864-bc-cno-spk_0-628.wav|||Aniɂluh.|
+000215|cno-spk_0|chr|wav/000871-bc-cno-spk_0-650.wav|||Gadáɂnv.|
+000279|cno-spk_0|chr|wav/001206-see-say-write-cno-spk_0-184.wav|||Hè:sdi!|
+000468|cno-spk_3|chr|wav/002334-bc-cno-spk_3-418.wav|||Achű:ji.|
+000079|cno-spk_0|chr|wav/000146-cno-spk_0-animals-tlv-de-gwa.wav|||tlv̌:dé:gwa.|
+000445|cno-spk_3|chr|wav/002179-bc-cno-spk_3-65.wav|||Dodada:go:hv:ɂi.|
+000296|cno-spk_0|chr|wav/001300-see-say-write-cno-spk_0-17.wav|||I:sa à:gíɂa sa:sa|
+000489|cno-spk_3|chr|wav/002415-bc-cno-spk_3-592.wav|||Anè:lía.|
+000349|cno-spk_1|chr|wav/001607-see-say-write-cno-spk_1-175.wav|||Te:lǐ:do.|
+000482|cno-spk_3|chr|wav/002381-bc-cno-spk_3-206.wav|||Agǐ:gáge|
+000517|cno-spk_0|chr|wav/002562-bc-cno-spk_0-519.wav|||U:hyv:dla dǒ:yi.|
+000406|cno-spk_3|chr|wav/001954-bc-cno-spk_3-278.wav|||Dō hadv:ne?|
+000258|cno-spk_3|chr|wav/001131-see-say-write-cno-spk_3-16.wav|||Agi̋:na.|
+000334|cno-spk_2|chr|wav/001529-see-say-write-cno-spk_2-123.wav|||Da:hnawa.|
+000277|cno-spk_0|chr|wav/001200-see-say-write-cno-spk_0-151.wav|||Áhani ù:dlanv:da.|
+000114|cno-spk_3|chr|wav/000206-cno-spk_3-animals-yo-na.wav|||yǒ:na.|
+000027|cno-spk_1|chr|wav/000057-cno-spk_1-animals-sa-lo-li.wav|||salǒ:li.|
+000431|cno-spk_3|chr|wav/002075-bc-cno-spk_3-238.wav|||Didǐ:yé:li:hi.|
+000220|cno-spk_0|chr|wav/000905-bc-cno-spk_0-137.wav|||Ju:ni:là:wisdi.|
+000073|cno-spk_0|chr|wav/000135-cno-spk_0-animals-tsu-we-tsi.wav|||juwě:ji.|
+000107|cno-spk_3|chr|wav/000194-cno-spk_3-animals-gv-he.wav|||gv:he.|
+000057|cno-spk_0|chr|wav/000111-cno-spk_0-animals-wa-da-du-ga.wav|||wǎ:dádǔ:ga.|
+000299|cno-spk_0|chr|wav/001310-see-say-write-cno-spk_0-136.wav|||Kǎ:hwi widayù:hwasi dì:da:náɂnv̋:i.|
+000175|cno-spk_0|chr|wav/000657-bc-cno-spk_0-266.wav|||Anali:hě:lí.|
+000140|cno-spk_3|chr|wav/000400-osiyo-then-cno-spk_3-25.wav|||Ha:dlv hwé:ga?|
+000355|cno-spk_1|chr|wav/001630-see-say-write-cno-spk_1-03.wav|||Ada.|
+000184|cno-spk_0|chr|wav/000723-bc-cno-spk_0-62.wav|||Donada:go:hv̄.|
+000002|cno-spk_1|chr|wav/000003-cno-spk_1-animals-do-ya.wav|||do:ya.|
+000502|cno-spk_0|chr|wav/002481-bc-cno-spk_0-395.wav|||De:halǔ:yi.|
+000486|cno-spk_3|chr|wav/002391-bc-cno-spk_3-336.wav|||Uwo:du.|
+000528|cno-spk_1|chr|wav/000004-cno-spk_1-animals-ka-wo-nu.wav|||kawǒ:nu.|
+000135|cno-spk_1|chr|wav/000379-osiyo-then-cno-spk_1-21.wav|||Gadò dè:jadv:neha?|
+000032|cno-spk_1|chr|wav/000065-cno-spk_1-animals-ki-yu-ga.wav|||kiyû:ga.|
+000530|cno-spk_1|chr|wav/000039-cno-spk_1-animals-ti-yo-ha-li.wav|||tiyǒ:háɂli.|
+000327|cno-spk_2|chr|wav/001488-see-say-write-cno-spk_2-162.wav|||Hiɂa e:ji.|
+000521|cno-spk_0|chr|wav/002597-bc-cno-spk_0-662.wav|||Sgina.|
+000163|cno-spk_0|chr|wav/000580-bc-cno-spk_0-340.wav|||Gv̀:ne.|
+000497|cno-spk_3|chr|wav/002457-bc-cno-spk_3-647.wav|||A̋ɂdage.|
+000322|cno-spk_2|chr|wav/001444-see-say-write-cno-spk_2-31.wav|||Di:da:sdù:di̋.|
+000191|cno-spk_0|chr|wav/000742-bc-cno-spk_0-127.wav|||Go:gi.|
+000223|cno-spk_0|chr|wav/000931-bc-cno-spk_0-348.wav|||À:gi:káha.|
+000088|cno-spk_3|chr|wav/000161-cno-spk_3-animals-tsu-we-tsi.wav|||juwě:ji.|
+000168|cno-spk_0|chr|wav/000605-bc-cno-spk_0-472.wav|||U:ni:gǎ:nawa.|
+000106|cno-spk_3|chr|wav/000192-cno-spk_3-animals-wa-ga.wav|||wahga.|
+000345|cno-spk_1|chr|wav/001591-see-say-write-cno-spk_1-47.wav|||Usdi̋ ó:si.|
+000480|cno-spk_3|chr|wav/002372-bc-cno-spk_3-75.wav|||Waló:si.|
+000390|cno-spk_3|chr|wav/001864-bc-cno-spk_3-71.wav|||U:hyv:dlv.|
+000187|cno-spk_0|chr|wav/000732-bc-cno-spk_0-523.wav|||Ő:sdaju?|
+000037|cno-spk_1|chr|wav/000075-cno-spk_1-animals-tsu-we-tsi.wav|||juwě:ji.|
+000010|cno-spk_1|chr|wav/000023-cno-spk_1-animals-gv-na.wav|||gv́:na.|
+000321|cno-spk_2|chr|wav/001438-see-say-write-cno-spk_2-112.wav|||Do:ya.|
+000013|cno-spk_1|chr|wav/000026-cno-spk_1-animals-si-qua.wav|||sihgwa.|
+000185|cno-spk_0|chr|wav/000728-bc-cno-spk_0-262.wav|||Halihě:lí.|
+000311|cno-spk_0|chr|wav/001382-see-say-write-cno-spk_0-175.wav|||Te:lǐ:do.|
+000240|cno-spk_3|chr|wav/001047-see-say-write-cno-spk_3-04.wav|||A:li.|
+000436|cno-spk_3|chr|wav/002104-bc-cno-spk_3-188.wav|||Gv́:na desgvsi.|
+000401|cno-spk_3|chr|wav/001918-bc-cno-spk_3-402.wav|||Dù:ninvhd.|
+000292|cno-spk_0|chr|wav/001273-see-say-write-cno-spk_0-23.wav|||Ga̋:du.|
+000269|cno-spk_3|chr|wav/001173-see-say-write-cno-spk_3-46.wav|||Ó:si.|
+000012|cno-spk_1|chr|wav/000025-cno-spk_1-animals-te-wa.wav|||de:wa.|
+000078|cno-spk_0|chr|wav/000145-cno-spk_0-animals-u-ji-ya.wav|||u:ji:ya.|
+000363|cno-spk_1|chr|wav/001694-see-say-write-cno-spk_1-139.wav|||Kalsě:ji ù:du:lí na ayő:hli.|
+000314|cno-spk_2|chr|wav/001401-see-say-write-cno-spk_2-80.wav|||Ha:wiya.|
+000055|cno-spk_0|chr|wav/000107-cno-spk_0-animals-ju-la-s-gi.wav|||ju:là:sgi.|
+000030|cno-spk_1|chr|wav/000061-cno-spk_1-animals-kv-hli.wav|||kv̌:hli.|
+000490|cno-spk_3|chr|wav/002418-bc-cno-spk_3-380.wav|||Sóhne:li:ne̋:ɂi Jalagi go:hwe:lv̀:ɂi.|
+000020|cno-spk_1|chr|wav/000042-cno-spk_1-animals-wa-lo-si.wav|||waló:si.|
+000109|cno-spk_3|chr|wav/000200-cno-spk_3-animals-do-sa.wav|||do:sa.|
+000190|cno-spk_0|chr|wav/000738-bc-cno-spk_0-589.wav|||È:lí.|
+000259|cno-spk_3|chr|wav/001132-see-say-write-cno-spk_3-17.wav|||I:sa à:gíɂa sa:sa|
+000189|cno-spk_0|chr|wav/000735-bc-cno-spk_0-148.wav|||Digwé:nv̀:sv̋:ɂi gé:ga.|
+000484|cno-spk_3|chr|wav/002384-bc-cno-spk_3-138.wav|||Gé.|
+000068|cno-spk_0|chr|wav/000125-cno-spk_0-animals-u-na-ga-so-ja-ne-da.wav|||u:naksò:jane̋:da.|
+000302|cno-spk_0|chr|wav/001320-see-say-write-cno-spk_0-92.wav|||Ayv.|
+000143|cno-spk_3|chr|wav/000412-osiyo-then-cno-spk_3-13.wav|||Jalagi hiwó:niha?|
+000216|cno-spk_0|chr|wav/000878-bc-cno-spk_0-316.wav|||Di:dǎ:hnehdi.|
+000494|cno-spk_3|chr|wav/002441-bc-cno-spk_3-650.wav|||Gadáɂnv.|
+000165|cno-spk_0|chr|wav/000597-bc-cno-spk_0-431.wav|||A̋:ta.|
+000378|cno-spk_3|chr|wav/001820-bc-cno-spk_3-360.wav|||Jv̌:ya.|
+000320|cno-spk_2|chr|wav/001433-see-say-write-cno-spk_2-129.wav|||Nǔ:na.|
+000471|cno-spk_3|chr|wav/002353-bc-cno-spk_3-547.wav|||Hiyv:wi:yásgohv?|
+000025|cno-spk_1|chr|wav/000050-cno-spk_1-animals-wa-so-hla.wav|||wá:so:hla.|
+000249|cno-spk_3|chr|wav/001109-see-say-write-cno-spk_3-54.wav|||À:giyó:siha.|
+000432|cno-spk_3|chr|wav/002080-bc-cno-spk_3-277.wav|||Gadō gadv:neɂa?|
+000402|cno-spk_3|chr|wav/001934-bc-cno-spk_3-220.wav|||Gadò dě:jádo:ɂa?|
+000238|cno-spk_3|chr|wav/001038-see-say-write-cno-spk_3-08.wav|||Sa:sa.|
+000148|cno-spk_0|chr|wav/000458-bragging-hunter-cno-spk_0-01.wav|||Anǐ:táɂli ani:sgaya à:ni:no:halǐ:dô:he,|
+000442|cno-spk_3|chr|wav/002156-bc-cno-spk_3-667.wav|||Ani:sgaya aniwó:niɂa.|
+000248|cno-spk_3|chr|wav/001094-see-say-write-cno-spk_3-167.wav|||Gv̌:hnáge̋.|
+000519|cno-spk_0|chr|wav/002579-bc-cno-spk_0-131.wav|||Ayo.|
+000219|cno-spk_0|chr|wav/000894-bc-cno-spk_0-524.wav|||Goɂi jadu:lí?|
+000169|cno-spk_0|chr|wav/000612-bc-cno-spk_0-210.wav|||Go:hi̋.|
+000518|cno-spk_0|chr|wav/002576-bc-cno-spk_0-357.wav|||Jaha.|
+000404|cno-spk_3|chr|wav/001944-bc-cno-spk_3-351.wav|||À:giná.|
+000462|cno-spk_3|chr|wav/002303-bc-cno-spk_3-225.wav|||Tla yigo:lì:ga.|
+000198|cno-spk_0|chr|wav/000789-bc-cno-spk_0-411.wav|||Idihno:gí.|
+000331|cno-spk_2|chr|wav/001510-see-say-write-cno-spk_2-25.wav|||Gǐ:ga.|
+000379|cno-spk_3|chr|wav/001821-bc-cno-spk_3-355.wav|||À:gi.|
+000062|cno-spk_0|chr|wav/000116-cno-spk_0-animals-wa-ga.wav|||wahga.|
+000374|cno-spk_3|chr|wav/001805-bc-cno-spk_3-180.wav|||Digahi:nv̀:si.|
+000069|cno-spk_0|chr|wav/000126-cno-spk_0-animals-te-wa.wav|||de:wa.|
+000180|cno-spk_0|chr|wav/000705-bc-cno-spk_0-337.wav|||À:kiwásga.|
+000430|cno-spk_3|chr|wav/002074-bc-cno-spk_3-141.wav|||Hé:ga.|
+000396|cno-spk_3|chr|wav/001885-bc-cno-spk_3-664.wav|||Hlá kiloyigi.|
+000264|cno-spk_3|chr|wav/001153-see-say-write-cno-spk_3-177.wav|||Dihnawo dà:tě:sga.|
+000186|cno-spk_0|chr|wav/000731-bc-cno-spk_0-441.wav|||Ani:gě:hya.|
+000122|cno-spk_2|chr|wav/000295-cno-spk_2-animals-u-we-tsi.wav|||uwě:ji.|
+000531|cno-spk_1|chr|wav/000053-cno-spk_1-animals-ti-na.wav|||tina.|
+000444|cno-spk_3|chr|wav/002178-bc-cno-spk_3-663.wav|||Hlá kiloyi.|
+000295|cno-spk_0|chr|wav/001296-see-say-write-cno-spk_0-21.wav|||Salǒ:li dù:du:lí na gi:hli.|
+000045|cno-spk_0|chr|wav/000090-cno-spk_0-animals-a-ni.wav|||áɂni.|
+000262|cno-spk_3|chr|wav/001144-see-say-write-cno-spk_3-180.wav|||Tawǒ:di nigaweɂa.|
+000039|cno-spk_0|chr|wav/000077-cno-spk_0-animals-tv-ga.wav|||tvhga.|
+000212|cno-spk_0|chr|wav/000861-bc-cno-spk_0-339.wav|||Ù:nihwasga.|
+000058|cno-spk_0|chr|wav/000112-cno-spk_0-animals-do-sv-da-li.wav|||do:sv̌:dáɂli.|
+000492|cno-spk_3|chr|wav/002431-bc-cno-spk_3-389.wav|||Anv:yi.|
+000090|cno-spk_3|chr|wav/000163-cno-spk_3-animals-u-je-tsi-s-di.wav|||u:je̋:tsdi.|
+000236|cno-spk_3|chr|wav/002134-bc-cno-spk_3-512.wav|||Sihgwa.|
+000356|cno-spk_1|chr|wav/001639-see-say-write-cno-spk_1-18.wav|||Gi:hli à:hligí:ɂa.|
+000395|cno-spk_3|chr|wav/001882-bc-cno-spk_3-252.wav|||Ahő:li.|
+000498|cno-spk_3|chr|wav/002462-bc-cno-spk_3-127.wav|||Go:gi.|
+000053|cno-spk_0|chr|wav/000104-cno-spk_0-animals-ju-li-s-da-na-li.wav|||ju:lì:sdana:li.|
+000229|cno-spk_0|chr|wav/000966-bc-cno-spk_0-222.wav|||Gweti dà:wadó:ɂa.|
+000040|cno-spk_0|chr|wav/000078-cno-spk_0-animals-i-na-da.wav|||ǐ:náda.|
+000044|cno-spk_0|chr|wav/000089-cno-spk_0-animals-gv-na.wav|||gv́:na.|
+000368|cno-spk_1|chr|wav/001723-see-say-write-cno-spk_1-112.wav|||Do:ya.|
+000247|cno-spk_3|chr|wav/001085-see-say-write-cno-spk_3-45.wav|||Agá:li:siga.|
+000093|cno-spk_3|chr|wav/000171-cno-spk_3-animals-u-we-tsi.wav|||uwě:ji.|
+000307|cno-spk_0|chr|wav/001364-see-say-write-cno-spk_0-85.wav|||Sihgwa ha:wiya à:gwadu:lí.|
+000178|cno-spk_0|chr|wav/000687-bc-cno-spk_0-418.wav|||Achű:ji.|
+000071|cno-spk_0|chr|wav/000130-cno-spk_0-animals-kv-hli.wav|||kv̌:hli.|
+000377|cno-spk_3|chr|wav/001817-bc-cno-spk_3-234.wav|||Tla yà:gwanhta.|
+000233|cno-spk_0|chr|wav/001227-see-say-write-cno-spk_0-141.wav|||Sě:lu.|
+000047|cno-spk_0|chr|wav/000094-cno-spk_0-animals-go-ga.wav|||kó:ga.|
+000206|cno-spk_0|chr|wav/000815-bc-cno-spk_0-128.wav|||Gō.|
+000357|cno-spk_1|chr|wav/001645-see-say-write-cno-spk_1-133.wav|||Kanu:na.|
+000353|cno-spk_1|chr|wav/001624-see-say-write-cno-spk_1-53.wav|||À:giyó:si.|
+000354|cno-spk_1|chr|wav/001626-see-say-write-cno-spk_1-117.wav|||Na à:lâ:sgalǐ:sgi.|
+000263|cno-spk_3|chr|wav/001151-see-say-write-cno-spk_3-38.wav|||U:nv̌:di.|
+000119|cno-spk_3|chr|wav/000221-cno-spk_3-animals-wa-du-li-si.wav|||wá:du:lí:si.|
+000297|cno-spk_0|chr|wav/001307-see-say-write-cno-spk_0-16.wav|||Agi̋:na.|
+000434|cno-spk_3|chr|wav/002088-bc-cno-spk_3-34.wav|||Kó.|
+000134|cno-spk_1|chr|wav/000377-osiyo-then-cno-spk_1-02.wav|||Tò:hi̋.|
+000159|cno-spk_0|chr|wav/000531-bc-cno-spk_0-390.wav|||Kawo:n.|
+000111|cno-spk_3|chr|wav/000202-cno-spk_3-animals-a-ni-ji-lv-s-gi.wav|||ani:ji:lv̋:sgi.|
+000017|cno-spk_1|chr|wav/000036-cno-spk_1-animals-u-we-tsi.wav|||uwě:ji.|
+000366|cno-spk_1|chr|wav/001711-see-say-write-cno-spk_1-78.wav|||Ji:sdu.|
+000284|cno-spk_0|chr|wav/001230-see-say-write-cno-spk_0-57.wav|||O:síyo hada.|
+000424|cno-spk_3|chr|wav/002052-bc-cno-spk_3-162.wav|||Hawi:ya.|
+000278|cno-spk_0|chr|wav/001202-see-say-write-cno-spk_0-15.wav|||Á:su:líɂa.|
+000174|cno-spk_0|chr|wav/000645-bc-cno-spk_0-265.wav|||À:li:hě:lî:ga.|
+000097|cno-spk_3|chr|wav/000180-cno-spk_3-animals-u-ni-no-de-na.wav|||u:ni:nò:de̋:na.|
+000059|cno-spk_0|chr|wav/000113-cno-spk_0-animals-nv-da.wav|||nv:da.|
+000004|cno-spk_1|chr|wav/000009-cno-spk_1-animals-te-ga.wav|||tehga.|
+000415|cno-spk_3|chr|wav/001997-bc-cno-spk_3-109.wav|||Hisgi:ne̋:ɂi.|
+000319|cno-spk_2|chr|wav/001426-see-say-write-cno-spk_2-141.wav|||Sě:lu.|
+000244|cno-spk_3|chr|wav/001072-see-say-write-cno-spk_3-74.wav|||Nv̀:ya.|
+000409|cno-spk_3|chr|wav/001961-bc-cno-spk_3-183.wav|||Gv:no:sásdi.|
+000348|cno-spk_1|chr|wav/001602-see-say-write-cno-spk_1-22.wav|||Sali dù:nadu:lí na sa:sa.|
+000473|cno-spk_3|chr|wav/002358-bc-cno-spk_3-350.wav|||Ù:we:káha.|
+000009|cno-spk_1|chr|wav/000015-cno-spk_1-animals-u-no-de-na.wav|||u:nò:de̋:na.|
+000416|cno-spk_3|chr|wav/002000-bc-cno-spk_3-276.wav|||Dō gadv:ne?|
+000407|cno-spk_3|chr|wav/001958-bc-cno-spk_3-643.wav|||Nihi gadíɂa hiɂa.|
+000330|cno-spk_2|chr|wav/001502-see-say-write-cno-spk_2-100.wav|||Jǐ:yu.|
+000005|cno-spk_1|chr|wav/000011-cno-spk_1-animals-u-ni-ji-ya.wav|||u:ni:ji:ya.|
+000063|cno-spk_0|chr|wav/000117-cno-spk_0-animals-wo-yi.wav|||wo:yi.|
+000503|cno-spk_0|chr|wav/002482-bc-cno-spk_0-581.wav|||Gawó:ni.|
+000312|cno-spk_0|chr|wav/001383-see-say-write-cno-spk_0-103.wav|||Ő:sda a:gì:sdi uyu:ti.|
+000433|cno-spk_3|chr|wav/002085-bc-cno-spk_3-648.wav|||Ani̋:da.|
+000254|cno-spk_3|chr|wav/001119-see-say-write-cno-spk_3-181.wav|||U:do:hiyű uwo:dű:hi hiɂa talǔ:ja.|
+000329|cno-spk_2|chr|wav/001500-see-say-write-cno-spk_2-125.wav|||Awǒ:háɂli.|
+000123|cno-spk_2|chr|wav/000301-cno-spk_2-animals-ka-na-ji-s-de-ji.wav|||kanajì:sdě:ji.|
+000350|cno-spk_1|chr|wav/001613-see-say-write-cno-spk_1-31.wav|||Di:da:sdù:di̋.|
