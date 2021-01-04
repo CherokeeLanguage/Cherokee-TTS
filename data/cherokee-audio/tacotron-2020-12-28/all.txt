@@ -524,9 +524,3 @@
 000524|cno-spk_0|chr|wav/002629-bc-cno-spk_0-162.wav|||Hawi:ya.|
 000525|cno-spk_0|chr|wav/002668-bc-cno-spk_0-236.wav|||Dinǐ:yé:li:hi.|
 000526|cno-spk_0|chr|wav/002669-bc-cno-spk_0-580.wav|||Hiwó:niɂa.|
-000527|cno-spk_1|chr|wav/000016-cno-spk_1-animals-wa-du-li-si.wav|||wá:du:lí:si.|
-000528|cno-spk_1|chr|wav/000004-cno-spk_1-animals-ka-wo-nu.wav|||kawǒ:nu.|
-000529|cno-spk_1|chr|wav/000037-cno-spk_1-animals-da-gi-si.wav|||daksi.|
-000530|cno-spk_1|chr|wav/000039-cno-spk_1-animals-ti-yo-ha-li.wav|||tiyǒ:háɂli.|
-000531|cno-spk_1|chr|wav/000053-cno-spk_1-animals-ti-na.wav|||tina.|
-000532|cno-spk_1|chr|wav/000054-cno-spk_1-animals-u-ni-no-de-na.wav|||u:ni:nò:de̋:na.|

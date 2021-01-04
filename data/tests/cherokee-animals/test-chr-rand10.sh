@@ -45,7 +45,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-shuf "$text" | shuf | shuf | shuf | tail -n 10 | sort > "$selected"
+shuf "$text" | uconv -x any-nfd | shuf | shuf | shuf | tail -n 10 | sort > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"

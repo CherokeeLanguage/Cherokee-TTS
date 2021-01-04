@@ -10,7 +10,6 @@ import csv
 from chrutils.chrutils import ced2mco
 from chrutils.chrutils import ascii_ced2mco
 from cairosvg.shapes import line
-from tabulate import Line
 
 os.chdir(os.path.dirname(sys.argv[0]))
 

@@ -28,7 +28,7 @@ tmp="$z/tmp.txt"
 cp /dev/null "$tmp"
 
 #v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
-v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3")
+v=("04-chr" "cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -39,7 +39,7 @@ wg="bound-pronouns-app"
 
 cp "$source_text" "$text"
 
-head -n 3 "$source_text" > "$text"
+head -n 5 "$source_text" > "$text"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
@@ -53,7 +53,7 @@ for voice in "${v[@]}"; do
 
 	cd "$y"
 	
-	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" #--cpu
 
 	cd "$z"
 	
