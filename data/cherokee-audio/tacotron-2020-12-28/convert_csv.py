@@ -11,6 +11,9 @@ from shutil import copy
 
 if __name__ == "__main__":
     
+    minVotes:int=1
+    minQuality:float=1
+    
     if (sys.argv[0].strip()!=""):
             os.chdir(os.path.dirname(sys.argv[0]))
             
@@ -37,9 +40,9 @@ if __name__ == "__main__":
             
             voice:str=""
             
-            if ranking<1:
+            if ranking<minQuality:
                 continue
-            if votes<2:
+            if votes<minVotes:
                 continue
             
             count+=1
