@@ -69,8 +69,10 @@ if __name__ == "__main__":
     rows:list=[]
     for speaker, mp3, text in entries.values():
         wav:str="wav/"+os.path.splitext(os.path.basename(mp3))[0]+".wav"
-        text:str=ud.normalize('NFC', text)
-        audio=AudioSegment.from_file(mp3)
+        text:str=ud.normalize('NFD', text)
+        audio:AudioSegment = AudioSegment.silent(125, 22050)
+        audio = audio.append(AudioSegment.from_file(mp3), crossfade=0)
+        audio = audio.append(AudioSegment.silent(125, 22050))
         audio = effects.normalize(audio)
         audio = audio.set_channels(1)
         audio = audio.set_frame_rate(22050)
