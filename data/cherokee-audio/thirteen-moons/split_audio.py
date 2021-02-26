@@ -4,7 +4,6 @@ if __name__ == "__main__":
         
     import os
     import sys
-    import string
     import unicodedata as ud
     import random
     import re
@@ -25,10 +24,6 @@ if __name__ == "__main__":
     from pydub import AudioSegment
     from pydub.effects import normalize
     
-    # From https://stackoverflow.com/questions/29547218/
-    # remove-silence-at-the-beginning-and-at-the-end-of-wave-files-with-pydub
-    from pydub import AudioSegment
-    
     def detect_sound(sound:AudioSegment, silence_threshold:float=-30.0, chunk_size:int=200)->list:
         '''
         sound is a pydub.AudioSegment
@@ -43,20 +38,20 @@ if __name__ == "__main__":
         
         for position in range(0, len(sound), 10): #process in 10 ms chunks
             segment_end:int=min(position+chunk_size, len(sound))
-            segment_end_mid:int=min(position+chunk_size/2, len(sound))
+            segment_mid:int=min(position+chunk_size/2, len(sound))
             nextChunk:AudioSegment=sound[position:segment_end]
             if sound_start < 0 and nextChunk.dBFS <= silence_threshold:
                 continue
             if sound_start < 0:
-                sound_start=segment_end_mid
+                sound_start=segment_mid
                 continue
             if sound_start >= 0 and nextChunk.dBFS <= silence_threshold:
-                segments.append((sound_start, segment_end_mid))
+                segments.append((sound_start, segment_mid))
                 sound_start=-1
                 continue
             
         if sound_start >= 0:
-            segments.append((sound_start, segment_end_mid))
+            segments.append((sound_start, segment_mid))
             
         if len(segments) == 0:
             segments.append((0, len(sound)))
@@ -126,9 +121,9 @@ if __name__ == "__main__":
             chunk_mp3 = f"{tix:04d}-{mp3}"
             tix+=1
             # Normalize the chunk.
-            normalized = data[segment_start:segment_end] #normalize(data[segment_start:segment_end], -18.0)
+            normalized = normalize(data[segment_start:segment_end])
             
-            duration = len(normalized)
+            #duration = len(normalized)
             
             print(f"Saving mp3/{chunk_mp3}-{int(segment_start):06d}.mp3.")
             normalized.export(f"mp3/{chunk_mp3}-{int(segment_start):06d}.mp3",bitrate="192k",format="mp3")
