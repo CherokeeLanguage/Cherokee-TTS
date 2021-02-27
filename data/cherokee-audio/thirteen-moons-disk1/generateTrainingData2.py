@@ -10,13 +10,16 @@ import subprocess
 from shutil import rmtree
 from pydub import AudioSegment
 import pydub.effects as effects
+from split_audio import detect_sound
+from builtins import list
 
 if __name__ == "__main__":
-
+    
     if (sys.argv[0].strip()!=""):
         os.chdir(os.path.dirname(sys.argv[0]))
     
     MASTER_TEXTS:list=["thirteen-moons-selected.txt"]
+    max_duration:float=10.0
     
     #cleanup any previous runs
     for dir in ["linear_spectrograms", "spectrograms", "wav"]:
@@ -64,20 +67,32 @@ if __name__ == "__main__":
     
     id:int=1
     
+    shortestLength:float=-1
+    longestLength:float=0.0
     totalLength:float=0.0
     print("Creating wavs")
     rows:list=[]
     for speaker, mp3, text in entries.values():
         wav:str="wav/"+os.path.splitext(os.path.basename(mp3))[0]+".wav"
         text:str=ud.normalize('NFD', text)
+        mp3_segment:AudioSegment=AudioSegment.from_file(mp3)
+        segments:list = detect_sound(mp3_segment)
+        if len(segments) > 1:
+            mp3_segment=mp3_segment[segments[0][0]:segments[-1][1]]
+        if mp3_segment.duration_seconds > max_duration:
+            continue
         audio:AudioSegment = AudioSegment.silent(125, 22050)
-        audio = audio.append(AudioSegment.from_file(mp3), crossfade=0)
+        audio = audio.append(mp3_segment, crossfade=0)
         audio = audio.append(AudioSegment.silent(125, 22050))
         audio = effects.normalize(audio)
         audio = audio.set_channels(1)
         audio = audio.set_frame_rate(22050)
         audio.export(wav, format="wav")
         totalLength+=audio.duration_seconds
+        if shortestLength < 0 or shortestLength > audio.duration_seconds:
+            shortestLength = audio.duration_seconds
+        if longestLength < audio.duration_seconds:
+            longestLength = audio.duration_seconds
         vid:str=speaker
         if vid in voiceids.keys():
             vid = voiceids[vid]
@@ -90,6 +105,16 @@ if __name__ == "__main__":
     minutes=int(totalLength/60)
     seconds=int(totalLength%60)
     print(f"Total duration: {minutes:,}:{seconds:02}")
+    
+    shortestLength=int(shortestLength)
+    minutes=int(shortestLength/60)
+    seconds=int(shortestLength%60)
+    print(f"Shortest duration: {minutes:,}:{seconds:02}")
+    
+    longestLength=int(longestLength)
+    minutes=int(longestLength/60)
+    seconds=int(longestLength%60)
+    print(f"Longest duration: {minutes:,}:{seconds:02}")
     
     print("Creating training files")
     #save all copy before shuffling
