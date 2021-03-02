@@ -1,4 +1,4 @@
-#!/bin/bash -ix
+#!/bin/bash -i
 set -e
 set -o pipefail
 clear

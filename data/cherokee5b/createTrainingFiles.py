@@ -9,7 +9,7 @@ import pathlib
 
 if __name__ == "__main__":
 	
-	langSkip:list=["de", "nl", "ru", "zh"]
+	langSkip:list=["zh"]
 	
 	workdir:str = os.path.dirname(sys.argv[0])
 	if workdir.strip() != "":
@@ -25,17 +25,17 @@ if __name__ == "__main__":
 		
 	speaker_counts:dict=dict()
 		
-	for parent in [ "../cherokee-audio/beginning-cherokee",
-					"../cherokee-audio/cherokee-language-coach-1",
-					"../cherokee-audio/cherokee-language-coach-2",
+	for parent in [ "../comvoi_clean",
+		 			#"../cherokee-audio/beginning-cherokee",
+					#"../cherokee-audio/cherokee-language-coach-1",
+					#"../cherokee-audio/cherokee-language-coach-2",
 					"../cherokee-audio/durbin-feeling",
 					"../cherokee-audio/michael-conrad",
-					"../cherokee-audio/sam-hider",
-					"../cherokee-audio/see-say-write",
+					#"../cherokee-audio/sam-hider",
+					#"../cherokee-audio/see-say-write",
 					"../cherokee-audio/thirteen-moons",
 					"../cherokee-audio/cno",
-					"../comvoi_clean",
-					#"../cherokee-audio/tacotron-2020-12-28"
+					"../cherokee-audio/tacotron-2020-12-28",
 					]:
 		for txt in ("all.txt", "val.txt", "train.txt"):
 			with open(pathlib.Path(parent).joinpath(txt), "r") as f:

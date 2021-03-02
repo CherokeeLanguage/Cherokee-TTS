@@ -9,7 +9,7 @@ import pathlib
 
 if __name__ == "__main__":
 	
-	langSkip:list=["de", "nl", "ru", "zh"]
+	langSkip:list=["zh"]
 	
 	workdir:str = os.path.dirname(sys.argv[0])
 	if workdir.strip() != "":
@@ -25,19 +25,20 @@ if __name__ == "__main__":
 		
 	speaker_counts:dict=dict()
 		
-	for parent in [ "../cherokee-audio/beginning-cherokee",
-					"../cherokee-audio/cherokee-language-coach-1",
-					"../cherokee-audio/cherokee-language-coach-2",
+	for parent in [ "../comvoi_clean",
+		 			#"../cherokee-audio/beginning-cherokee",
+					#"../cherokee-audio/cherokee-language-coach-1",
+					#"../cherokee-audio/cherokee-language-coach-2",
 					"../cherokee-audio/durbin-feeling",
 					"../cherokee-audio/michael-conrad",
-					"../cherokee-audio/sam-hider",
-					"../cherokee-audio/see-say-write",
-					"../cherokee-audio/thirteen-moons",
+					#"../cherokee-audio/sam-hider",
+					#"../cherokee-audio/see-say-write",
+					"../cherokee-audio/thirteen-moons-disk1",
+					"../cherokee-audio/thirteen-moons-disk2",
 					"../cherokee-audio/cno",
-					"../comvoi_clean",
-					#"../cherokee-audio/tacotron-2020-12-28"
+					"../cherokee-audio/tacotron-2020-12-28",
 					]:
-		for txt in ("all.txt", "val.txt", "train.txt"):
+		for txt in ["all.txt", "val.txt", "train.txt"]:
 			with open(pathlib.Path(parent).joinpath(txt), "r") as f:
 				lines:list = []
 				for line in f:
@@ -47,10 +48,11 @@ if __name__ == "__main__":
 					line=ud.normalize("NFD",line.strip())
 					line=line.replace("|wav/", "|"+parent+"/wav/")
 					lines.append(line)
-					speaker:str=fields[1].strip()
-					if speaker not in speaker_counts:
-						speaker_counts[speaker]=0
-					speaker_counts[speaker]=speaker_counts[speaker]+1
+					if txt == "all.txt":
+						speaker:str=fields[1].strip()
+						if speaker not in speaker_counts:
+							speaker_counts[speaker]=0
+						speaker_counts[speaker]=speaker_counts[speaker]+1
 					
 				random.Random(len(lines)).shuffle(lines)
 				with open(txt, "a") as t:
@@ -58,7 +60,9 @@ if __name__ == "__main__":
 						t.write(line)
 						t.write("\n")
 				
+	print()
 	print(f"Speakers {len(speaker_counts):,}")
+	print()
 	speakers = [*speaker_counts]
 	speakers.sort()
 	for speaker in speakers:

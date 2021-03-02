@@ -1,17 +1,14 @@
-#!/bin/bash -ix
+#!/bin/bash -i
 set -e
 set -o pipefail
 clear
 
 conda activate Cherokee-TTS
 
-params="cherokee1b"
-cp="cherokee6i-192-0.216"
+params="cherokee5a"
 
 cd "$(dirname "$0")"
 WORK="$(pwd)"
-
-#cp -v data/"$params"/checkpoint/"$cp" checkpoints/
 
 cd data
 python prepare_spectrograms.py --directory "$params"
