@@ -23,6 +23,14 @@ if __name__ == "__main__":
             mp3=fields[3].strip()
             matches[mp3]=mco
             
+    cno_web:dict=dict()
+    with open("cno-web.txt", "r") as file:
+        for line in file:
+            fields=line.split("|")
+            mco=fields[0].strip()
+            mp3=fields[1].strip()
+            cno_web[mp3]=mco
+            
     speakers:dict=dict()
     with open("mp3-speaker-lookup.txt", "r") as file:
         for line in file:
@@ -36,6 +44,14 @@ if __name__ == "__main__":
         for mp3 in [*matches]:
             speaker=speakers[mp3]
             mco=matches[mp3]
+            print(f"{speaker}|cno_cwl/{mp3}|{mco}", file=file)
+            if speaker not in speaker_counts:
+                speaker_counts[speaker]=1
+            else:
+                speaker_counts[speaker]=speaker_counts[speaker]+1
+        for mp3 in [*cno_web]:
+            speaker=speakers[mp3]
+            mco=cno_web[mp3]
             print(f"{speaker}|cno_cwl/{mp3}|{mco}", file=file)
             if speaker not in speaker_counts:
                 speaker_counts[speaker]=1
