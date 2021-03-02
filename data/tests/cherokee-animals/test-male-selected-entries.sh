@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -i
 
 set -e
 set -o pipefail
@@ -12,9 +12,7 @@ rm *.wav 2> /dev/null || true
 cd ../../..
 y="$(pwd)"
 
-source ~/miniconda3/etc/profile.d/conda.sh
-
-conda activate ./env
+conda activate Cherokee-TTS
 
 cp="$(ls -1tr checkpoints/|tail -n 1)"
 

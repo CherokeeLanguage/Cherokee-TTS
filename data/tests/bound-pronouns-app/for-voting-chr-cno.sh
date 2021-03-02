@@ -28,7 +28,7 @@ tmp="$z/tmp.txt"
 cp /dev/null "$tmp"
 
 #v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
-v=("04-chr" "cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3")
+v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "04-chr" "01-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -53,7 +53,7 @@ for voice in "${v[@]}"; do
 
 	cd "$y"
 	
-	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" #--cpu
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
 
 	cd "$z"
 	
@@ -61,7 +61,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$text" "$wg"-"$voice"
 
-	python wavernnx.py || python wavernnx-cpu.py
+	#python wavernnx.py ||
+	python wavernnx-cpu.py
 	
 	xdg-open "$wg"-"$voice"
 	

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -i
 
 set -e
 set -o pipefail
@@ -12,9 +12,7 @@ rm *.wav 2> /dev/null || true
 cd ../../..
 y="$(pwd)"
 
-source ~/miniconda3/etc/profile.d/conda.sh
-
-conda activate ./env
+conda activate Cherokee-TTS
 
 cp="$(ls -1tr checkpoints/|tail -n 1)"
 
@@ -24,21 +22,12 @@ tmp="$z/tmp.txt"
 selected="$z/selected.txt"
 cp /dev/null "$tmp"
 
-cp /dev/null "$z"/voices.txt
-
-(
-	#echo "01-syn-chr" #espeak-ng default male voice
-	echo "03-ru" #female
-	echo "06-ru" #male
-	echo "02-chr" #Sam Hider as reference
-) >> "$z"/voices.txt
-
 for x in "$z"/animals-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
 
-v=($(cat "$z"/voices.txt))
+v=("03-ru" "06-ru")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -46,7 +35,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-sort "$text" > "$selected"
+sort "$text" | shuf | head -n 10 > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"

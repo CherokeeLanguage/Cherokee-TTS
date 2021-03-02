@@ -21,10 +21,6 @@ done
 cd ../../..
 y="$(pwd)"
 
-source ~/miniconda3/etc/profile.d/conda.sh
-
-conda activate ./env
-
 cp="$(ls -1tr checkpoints/*|tail -n 1)"
 cp="$(basename "$cp")"
 
@@ -41,7 +37,7 @@ for x in "$z"/animals-*; do
 	rm -r "$x"
 done
 
-v=("cno-spk_3" "cno-spk_2" "cno-spk_1" "cno-spk_0") # "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
+v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3") # "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -49,7 +45,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-cat "$text" | sort > "$selected"
+cat "$text" | uconv -x any-nfd | sort > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
@@ -70,26 +66,32 @@ for voice in "${v[@]}"; do
 	rm -r "$wg"-"$voice" 2> /dev/null || true
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
-	
-	python wavernnx.py || python wavernnx-cpu.py
+
+	#python wavernnx.py || 
+	#python wavernnx-cpu.py
 	
 	ix=0
 	cat "$selected" | while read line; do
+		ix="$(($ix+1))"
+
 		mp3name="$(echo "$line" | cut -f 3 | sed 's/ /_/g')"
 		text="$(echo "$line" | cut -f 2)"
 		textname="$(echo "$mp3name" | sed 's/.mp3$/.txt/')"
-		ix="$(($ix+1))"
-		wav="wg-$ix.wav"
-		mp3="$wg"-"$voice/$voice-$wg-$mp3name"
+		
 		textFile="$wg"-"$voice/$voice-$wg-$textname"
-		normalize-audio -q "$wav"
-		ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
 		echo "$text" > "$textFile"
-		rm "$wav"
-		#wav="$ix.wav"
-		#mp3="$wg"-"$voice/griffin-lim-$voice-$wg-$mp3name"
+
+		#wav="wg-$ix.wav"
+		#normalize-audio -q "$wav"
+		#mp3="$wg"-"$voice/$voice-$wg-$mp3name"
 		#ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
 		#rm "$wav"
+		
+		wav="$ix.wav"
+		normalize-audio -q "$wav"
+		mp3="$wg"-"$voice/gl-$voice-$wg-$mp3name"
+		ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
+		rm "$wav"
 	done
 	
 	xdg-open "$wg"-"$voice"

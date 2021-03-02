@@ -28,7 +28,7 @@ for x in "$z"/"$wg"-*; do
 	rm -r "$x"
 done
 
-v=("04-chr" "cno-spk_1" "cno-spk_2" "cno-spk_0" "cno-spk_3")
+v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "01-chr" "04-chr")
 vsize="${#v[@]}"
 
 selected="$z/see-say-write-for-audio-quality-vote.txt"

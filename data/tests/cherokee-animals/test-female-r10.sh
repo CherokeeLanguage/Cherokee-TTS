@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -i
 
 set -e
 set -o pipefail
@@ -12,9 +12,7 @@ rm *.wav 2> /dev/null || true
 cd ../../..
 y="$(pwd)"
 
-source ~/miniconda3/etc/profile.d/conda.sh
-
-conda activate ./env
+conda activate Cherokee-TTS
 
 cp="$(ls -1tr checkpoints/|tail -n 1)"
 
@@ -29,7 +27,7 @@ for x in "$z"/animals-*; do
 	rm -r "$x"
 done
 
-v=("14-de" "51-de" "02-fr" "04-fr" "14-fr" "18-fr" "19-fr" "22-fr" "03-ru" "03-chr")
+v=("14-de" "51-de" "02-fr" "04-fr" "14-fr" "18-fr" "19-fr" "22-fr" "03-ru")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"

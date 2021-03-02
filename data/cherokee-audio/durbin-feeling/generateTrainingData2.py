@@ -18,7 +18,7 @@ if __name__ == "__main__":
     if (sys.argv[0].strip()!=""):
         os.chdir(os.path.dirname(sys.argv[0]))
     
-    max_duration:float=10.0
+    max_duration:float=14.0
     MASTER_TEXTS:list=["aeneas.txt"]
     
     #cleanup any previous runs
@@ -35,7 +35,7 @@ if __name__ == "__main__":
                 speaker: str=fields[0].strip()
                 mp3: str=fields[1].strip()
                 text: str=ud.normalize("NFD", fields[2].strip())
-                dedupeKey=speaker+"|"+text
+                dedupeKey=speaker+"|"+text+"|"+mp3
                 if text=="" or "XXX" in text:
                     continue
                 entries[dedupeKey]=(speaker,mp3,text)

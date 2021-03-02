@@ -28,6 +28,7 @@ tmp="$z/tmp.txt"
 cp /dev/null "$tmp"
 
 #v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
+#v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3")
 v=("cno-spk_3")
 vsize="${#v[@]}"
 
@@ -61,16 +62,30 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$text" "$wg"-"$voice"
 
-	python wavernnx.py || python wavernnx-cpu.py
+	rm -r gl-"$wg"-"$voice" 2> /dev/null || true
+	mkdir gl-"$wg"-"$voice"
+	cp -p "$text" gl-"$wg"-"$voice"
+
+	# python wavernnx.py || 
+	# python wavernnx-cpu.py
 	
 	ix=0
 	cat "$text" | cut -f 1-4 | while read phrase; do
 		ix=$(($ix+1))
 		iy=$(printf "%02d" $ix)
-		wav="$wg"-"$voice/wg-$ix.wav"
-		mv "wg-$ix.wav" "$wav"
-		mp3="$wg"-"$voice/$wg-$voice-$iy".mp3
-		txt="$wg"-"$voice/$wg-$voice-$iy".txt
+		
+		#wav="$wg"-"$voice/wg-$ix.wav"
+		#mv "wg-$ix.wav" "$wav"
+		#mp3="$wg"-"$voice/$wg-$voice-$iy".mp3
+		#txt="$wg"-"$voice/$wg-$voice-$iy".txt
+		#echo "$phrase" > "$txt"
+		#normalize-audio -q "$wav"
+		#ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
+		#rm "$wav"
+
+		wav="$ix.wav"
+		mp3=gl-"$wg"-"$voice/$wg-$voice-$iy".mp3
+		txt=gl-"$wg"-"$voice/$wg-$voice-$iy".txt
 		echo "$phrase" > "$txt"
 		normalize-audio -q "$wav"
 		ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
@@ -87,10 +102,16 @@ for voice in "${v[@]}"; do
 	cat "$text" | cut -f 5 | while read filename; do
 		ix=$(($ix+1))
 		iy=$(printf "%02d" $ix)
-		mp3="$wg"-"$voice/$wg-$voice-$iy".mp3
-		newMp3="$wg"-"$voice/$filename".mp3
+		#mp3="$wg"-"$voice/$wg-$voice-$iy".mp3
+		#newMp3="$wg"-"$voice/$filename".mp3
+		#mv "$mp3" "$newMp3"
+		#txt="$wg"-"$voice/$wg-$voice-$iy".txt
+		#rm "$txt"
+
+		mp3=gl-"$wg"-"$voice/$wg-$voice-$iy".mp3
+		newMp3=gl-"$wg"-"$voice/$filename".mp3
 		mv "$mp3" "$newMp3"
-		txt="$wg"-"$voice/$wg-$voice-$iy".txt
+		txt=gl-"$wg"-"$voice/$wg-$voice-$iy".txt
 		rm "$txt"
 	done
 

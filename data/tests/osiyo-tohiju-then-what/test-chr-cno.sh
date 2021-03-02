@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -i
 
 set -e
 set -o pipefail
@@ -17,9 +17,7 @@ done
 cd ../../..
 y="$(pwd)"
 
-source ~/miniconda3/etc/profile.d/conda.sh
-
-conda activate ./env
+conda activate Cherokee-TTS
 
 cp="$(ls -1tr checkpoints/*|tail -n 1)"
 cp="$(basename "$cp")"
@@ -38,7 +36,8 @@ for x in "$z"/"$wg"-*; do
 	rm -r "$x"
 done
 
-v=("cno-spk_0" "cno-spk_3")
+v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3")
+#v=("cno-spk_0")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -67,7 +66,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx.py || python wavernnx-cpu.py
+	#python wavernnx.py || 
+	python wavernnx-cpu.py
 
 	ix=0
 	cat "$selected" | while read phrase; do

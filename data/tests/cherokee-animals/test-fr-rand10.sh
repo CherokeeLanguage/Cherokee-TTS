@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -i
 
 set -e
 set -o pipefail
@@ -17,9 +17,7 @@ done
 cd ../../..
 y="$(pwd)"
 
-source ~/miniconda3/etc/profile.d/conda.sh
-
-conda activate ./env
+conda activate Cherokee-TTS
 
 cp="$(ls -1tr checkpoints/*|tail -n 1)"
 cp="$(basename "$cp")"
@@ -78,6 +76,7 @@ for voice in "${v[@]}"; do
 	cut -f 2 "$selected" | while read phrase; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
+		#printf "%d|%s|%s|chr*0.9:fr*0.1\n" "$ix" "${phrase}" "$voice" >> "$tmp"
 	done
 
 	cd "$y"

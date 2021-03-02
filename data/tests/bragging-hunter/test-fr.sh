@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -i
 
 set -e
 set -o pipefail
@@ -17,9 +17,7 @@ done
 cd ../../..
 y="$(pwd)"
 
-source ~/miniconda3/etc/profile.d/conda.sh
-
-conda activate ./env
+conda activate Cherokee-TTS
 
 cp="$(ls -1tr checkpoints/|tail -n 1)"
 cp="$(basename "$cp")"
@@ -31,7 +29,7 @@ selected="$z/selected.txt"
 #v=("02-ru" "03-ru" "14-de" "02-fr" "01-chr" "02-chr" "03-chr" "04-chr" "05-chr")
 #v=("03-ru" "02-ru" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
 #v=("14-de" "51-de" "02-fr" "04-fr" "14-fr" "18-fr" "19-fr" "22-fr" "03-ru" "03-chr")
-v=("02-fr" "04-fr" "18-fr" "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
+#v=("02-fr" "04-fr" "18-fr" "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
 
 v=(
 "01-fr" 
@@ -73,7 +71,8 @@ for voice in "${v[@]}"; do
 	cp /dev/null "$selected"
 	cat "$text" | while read sentence; do
 		ix=$(($ix+1))
-		printf "%d|%s|%s|chr\n" "$ix" "${sentence}" "$voice" >> "$selected"
+		#printf "%d|%s|%s|chr\n" "$ix" "${sentence}" "$voice" >> "$selected"
+		printf "%d|%s|%s|chr*.9:nl*.1\n" "$ix" "${sentence}" "$voice" >> "$selected"
 	done
 
 	cd "$y"
