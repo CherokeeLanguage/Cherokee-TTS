@@ -28,9 +28,9 @@ if __name__ == "__main__":
         
     text:str=f"tmp|{args.text}|{args.voice}|{args.lang}"
     result = subprocess.run(synrun, input=text, text=True, check=True)
-    #print(result)
-    if args.griffin_lim:
-        os.replace("tmp.wav", args.wav)
-    else:
-        pass
+
+    if not args.griffin_lim:
+        subprocess.run(["python", bindir+"/wavernnx_cpu.py"], check=True)
+        os.remove("tmp.npy")
     
+    os.replace("tmp.wav", args.wav)
