@@ -1,0 +1,28 @@
+ID|PSET|DIALOG|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH
+|||Ꮿ|ᏏᏲ|||o²sị³yo|Hello.
+||||ᏙᎯ|||to¹hi⁴|Healthy or peaceful.
+|||Ꮷ|ᏙᎯ|||to¹hi⁴ju?|Things are well, aren’t they?
+|||Ꮚ|ᏙᎯ|||to¹hi⁴gwu|Just fine, peaceful.
+|||ᏕᏣ|ᎠᏙᎠ|||gạ²do¹ de²jạ²do³ɂa?|What is your name?
+|||ᏓᏆ|ᎠᏙᎠ|male||ja²n da¹gwạ²do³ɂa|My name is John.
+|||ᏓᏆ|ᎠᏙᎠ|male||mạ²ga²l da¹gwạ²do³ɂa|My name is Mike.
+|||ᏓᏆ|ᎠᏙᎠ|female||lị²ni²da da¹gwạ²do³ɂa|My name is Linda.
+|||ᏓᏆ|ᎠᏙᎠ|female||me²li da¹gwạ²do³ɂa|My name is Mary.
+|||ᏕᏍᏗ|ᎠᏙᎠ|||gạ²do¹ de²sdạ²do³ɂa?|What are your names you two?
+|||ᎢᏥ|ᎠᏙᎠ|||gạ²do¹ de¹jạ²do³ɂa?|What are your names you all?
+||||ᏣᎳᎩ|||Jạ²lạ²gi |Cherokee.
+|||Ꭿ|ᏬᏂᎭ|||Jạ²lạ²gi hị²wo³nị²ha?|Do you one speak Cherokee?
+|||ᏕᏍᏓ|ᏬᏂᎭ|||Jạ²lạ²gi de²sdạ²wo³nị²ha?|Do you both speak Cherokee?
+|||ᏕᏥ|ᏬᏂᎭ|||Jạ²lạ²gi de¹jị²wo³nị²ha?|Do you all speak Cherokee?
+|||Ꭿ|ᎣᎵᎦ|||hohl²ga⁴³s Jạ²lạ²gi?|Do you one understand Cherokee?
+|||ᏕᏍᏓ|ᎣᎵᎦ|||de²sdohl²ga⁴³s Jạ²lạ²gi?|Do you two understand Cherokee?
+|||ᏕᏥ|ᎣᎵᎦ|||de¹johl²ga⁴³s Jạ²lạ²gi?|Do you all understand Cherokee?
+|||Ꭿ|ᎠᏛᏁᎭ|||Gạ²do¹ hạ²dv²nẹ²ha?|What are you one doing?
+|||ᏕᏍᏗ|ᎠᏛᏁᎭ|||Gạ²do¹ de²sdạ²dv²nẹ²ha?|What are you two doing?
+|||ᏕᏥ|ᎠᏛᏁᎭ|||Gạ²do¹ de¹jạ²dv²nẹ²ha?|What are you all doing?
+|||Ꮳ|ᎡᏅᏒᎢ|||Ha²dlv wị²je²nv³sv²³ɂi?|Where did you go a while ago?
+|||ᏍᏗ|ᎡᏅᏒᎢ|||Ha²dlv wị²sde²nv³sv²³ɂi?|Where did you two go a while ago?
+|||ᎢᏥ|ᎡᏅᏒᎢ|||Ha²dlv wi¹je²nv³sv²³ɂi?|Where did you all go a while ago?
+|||Ꮳ|ᎡᏅᏒᎢ|||Ha²dlv hwe³ga?|Where are you going?
+|||ᏍᏗ|ᎡᏅᏒᎢ|||Ha²dlv wị²sde³ga?|Where are you two going?
+|||ᎢᏥ|ᎡᏅᏒᎢ|||Ha²dlv wi²je³ga?|Where are you all going?

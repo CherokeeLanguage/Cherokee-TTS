@@ -1,0 +1,28 @@
+ID|PSET|DIALOG|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH
+|||Ꮿ|ᏏᏲ|||o:síyo|Hello.
+||||ᏙᎯ|||tò:hi̋|Healthy or peaceful.
+|||Ꮷ|ᏙᎯ|||tò:hi̋:ju?|Things are well, aren’t they?
+|||Ꮚ|ᏙᎯ|||tò:hi̋:gwu|Just fine, peaceful.
+|||ᏕᏣ|ᎠᏙᎠ|||gadò de:jadó:ɂa?|What is your name?
+|||ᏓᏆ|ᎠᏙᎠ|male||ja:n dà:gwadó:ɂa|My name is John.
+|||ᏓᏆ|ᎠᏙᎠ|male||maga:l dà:gwadó:ɂa|My name is Mike.
+|||ᏓᏆ|ᎠᏙᎠ|female||lini:da dà:gwadó:ɂa|My name is Linda.
+|||ᏓᏆ|ᎠᏙᎠ|female||me:li dà:gwadó:ɂa|My name is Mary.
+|||ᏕᏍᏗ|ᎠᏙᎠ|||gadò de:sdadó:ɂa?|What are your names you two?
+|||ᎢᏥ|ᎠᏙᎠ|||gadò dè:jadó:ɂa?|What are your names you all?
+||||ᏣᎳᎩ|||Jalagi |Cherokee.
+|||Ꭿ|ᏬᏂᎭ|||Jalagi hiwó:niha?|Do you one speak Cherokee?
+|||ᏕᏍᏓ|ᏬᏂᎭ|||Jalagi de:sdawó:niha?|Do you both speak Cherokee?
+|||ᏕᏥ|ᏬᏂᎭ|||Jalagi dè:jiwó:niha?|Do you all speak Cherokee?
+|||Ꭿ|ᎣᎵᎦ|||hohlga̋́:s Jalagi?|Do you one understand Cherokee?
+|||ᏕᏍᏓ|ᎣᎵᎦ|||de:sdohlga̋́:s Jalagi?|Do you two understand Cherokee?
+|||ᏕᏥ|ᎣᎵᎦ|||dè:johlga̋́:s Jalagi?|Do you all understand Cherokee?
+|||Ꭿ|ᎠᏛᏁᎭ|||Gadò hadv:neha?|What are you one doing?
+|||ᏕᏍᏗ|ᎠᏛᏁᎭ|||Gadò de:sdadv:neha?|What are you two doing?
+|||ᏕᏥ|ᎠᏛᏁᎭ|||Gadò dè:jadv:neha?|What are you all doing?
+|||Ꮳ|ᎡᏅᏒᎢ|||Ha:dlv wije:nv́:sv̌:ɂi?|Where did you go a while ago?
+|||ᏍᏗ|ᎡᏅᏒᎢ|||Ha:dlv wisde:nv́:sv̌:ɂi?|Where did you two go a while ago?
+|||ᎢᏥ|ᎡᏅᏒᎢ|||Ha:dlv wì:je:nv́:sv̌:ɂi?|Where did you all go a while ago?
+|||Ꮳ|ᎡᏅᏒᎢ|||Ha:dlv hwé:ga?|Where are you going?
+|||ᏍᏗ|ᎡᏅᏒᎢ|||Ha:dlv wisdé:ga?|Where are you two going?
+|||ᎢᏥ|ᎡᏅᏒᎢ|||Ha:dlv wi:jé:ga?|Where are you all going?

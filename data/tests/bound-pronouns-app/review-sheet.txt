@@ -1,0 +1,1651 @@
+ID|PSET|VSET|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ANSWER|FILENAME
+102|2|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭽ||ᎤᎭ|ù:ha|He has something solid|uu1ha
+103|2|1||Ꭱ²Ꮵ||ᎡᏥ|e:ji|Mother|ee2ji
+104|2|1|Ꭰ̣²-, Ꭶ̣²-|Ꭱ³Ꭶ||ᎡᎦ|é:ga|He is going|ee3ga
+105|2|1|Ꮳ̣²-|Ꭵ²³Ꮜ||ᏨᏌ|jv̌:sa|Your one self|jvv23sa
+106|2|1|Ꮶ¹Ꭹ²-|ɂ¹ᏘᏗ||ᏦᎩᏘᏗ|jò:gì:tdi|For them and me to bake things|joo1gii1tdi
+107|2|1|Ꮳ̣²-, Ꮳ̣²-|ɂᎪ³Ꮧ||ᏣᎪᏗ|jakóhdi|For him to have you (1)|ja2koh3di
+108|2|1|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꭵ³²Ꮿ||ᏓᏋᏯ|dà:gwù:wâ:ya|I have rod shaped things|daa1gwuu1waa32ya
+109|2|1|Ꮣ¹Ꮒ²-|ɂᏰ³Ꭰ||ᏓᏂᏰᎠ|dà:ni:hyé:ɂa|They are eating flexible things|daa1nii2hyee3-a
+110|2|1|Ꭽ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ||ᎭᏓᎪᏩᏔ|hada:gò:wahta|Let you (1) see yourself|haa2daa2goo1wah2ta
+111|2|1|Ꭰ¹Ꮵ̣²-, Ꭰ¹Ꭶ͓-|Ꭳ²Ꮅ¹Ꭶ*||ᎠᎪᎵᎦ|à:go:lì:ga|He is being recognized|aa1goo2lii1ga
+112|2|1|Ꭸ²Ꮳ̣²-, Ꭸ²Ꮳ̣²-|Ꭳ²Ꮅ³ᏍᏗ||ᎨᏦᎵᏍᏗ|ge:jo:hlísdi|For them to recognize you (1)|gee2joo2hli3sdi
+113|2|1|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|Ꭺ¹Ꮹ²Ꮤ²||ᏓᎪᏩᏔ|dagò:wahtā|He recently saw them|da2goo1wah2ta2
+114|2|1|Ꮶ¹Ꮵ²-|ɂ¹Ꮯ²³Ꮜ||ᏫᏦᏥᏟᏌ|wijò:jì:hlǐ:sa|Let them and me gather things|wi2joo1jii1hlii23sa
+115|2|1|Ꮧ̣²Ꮵ̣²-, Ꮧ̣²Ꭶ͓-|Ꭳ²Ꮅ¹Ꭹ*||ᏫᏗᎪᎵᎩ|widigo:lì:gi|Let me understand things|wi2di2goo2lii1gi
+116|2|1|ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᏍᏓᏓᎪᎲᎢ|sdada:go:hv̌:ɂi|You both saw yourselves a while ago|sdaa2daa2goo2hvv23-i
+117|2|1|Ꮷ²-, Ꮷ²Ꮹ͓-|Ꭰ²Ꮴ²Ꮅ⁴Ꭲ||ᏧᏤᎵᎢ|juje:li̋:ɂi|His things|juu2jee2lii4-i
+118|2|1|Ꮨ̣²-|Ꭰ̣²Ꮪ²³Ꭹ||ᏔᏚᎩ|tatǔ:gi|Let you (1) drink alcoholic drinks|ta2tuu23gi
+119|2|1|Ꮧ̣²Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²³Ꮃ||ᏗᎩᎾᏓᏚᎳ|diginadadǔ:la|Let you (1) and me want each other|di2gi2na2da2duu23la
+120|2|1|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|Ꭰ̣²Ꮪ²³Ꭶ²||ᏕᎭᏚᎦ|de:hatǔ:gā|You (1) recently drank alcoholic drinks|dee2ha2tuu23ga2
+121|2|1|Ꭸ²Ꭹ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎨᎦᏚᎳ|ge:gadǔ:lā|They recently wanted all of us; They were recently wanted|gee2ga2duu23la2
+122|2|2|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꭽ||ᏚᎭ|du:ha|He has solid things|duu2ha
+123|2|2|Ꮵ̣²-, Ꭶ͓-|Ꭱ³Ꭶ||ᎨᎦ|gé:ga|I am going|gee3ga
+124|2|2|Ꮷ¹Ꮒ²-|ɂ¹ᏘᏗ||ᏧᏂᏘᏗ|jù:nì:tdi|For them to bake things|juu1nii1tdi
+125|2|2|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꭵ²³Ꮜ||ᎠᏋᏌ|à:gwv̌:sa|Myself|aa1gwvv23sa
+126|2|2|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꭵ³²Ꮿ||ᏕᏨᏯ|de:jù:wâ:ya|You (1) have rod shaped things|dee2juu1waa32ya
+127|2|2|Ꮥ³Ꮒ²-|ɂᏰ³Ꭰ||ᏕᏂᏰᎠ|dé:ni:hyé:ɂa|You (1) and I are eating flexible things|dee3nii2hyee3-a
+128|2|2|Ꭲ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ||ᎢᎾᏓᎪᏩᏔ|ì:nada:gò:wahta|Let you (1) and me see ourselves|ii1na2daa2goo1wah2ta
+129|2|2|Ꭱ¹Ꭹ²-|Ꭳ²Ꮅ¹Ꭶ*||ᎡᎪᎵᎦ|è:go:lì:ga|All of us are being recognized|ee1goo2lii1ga
+130|2|2|Ꭰ¹Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ²||ᎠᏓᎪᏩᏔ|à:da:gò:wahtā|He recently saw himself|aa1daa2goo1wah2ta2
+131|2|2|Ꮧ̣²Ꮒ²-|ɂ¹Ꮯ²³Ꮜ||ᏫᏗᏂᏟᏌ|widinì:hlǐ:sa|Let them gather things|wi2di2nii1hlii23sa
+132|2|2|Ꮶ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᏦᎦᏓᏙᎵᏍᏗ|jò:gada:do:hlísdi|For them and me to be acquainted|joo1ga2daa2doo2hli3sdi
+133|2|2|Ꮥ³Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᏕᎦᏓᎪᎲᎢ|dé:gada:go:hv̌:ɂi|All of us saw each other a while ago|dee3ga2daa2goo2hvv23-i
+134|2|2|Ꮧ̣²Ꮳ̣²-|Ꭰ²Ꮴ²Ꮅ⁴Ꭲ||ᏗᏣᏤᎵᎢ|dijaje:li̋:ɂi|Your things; You all, your things|di2jaa2jee2lii4-i
+135|2|2|Ꮧ̣²Ꮧ̣²-|Ꭰ̣²Ꮪ²³Ꭹ||ᏗᏓᏚᎩ|didatǔ:gi|Let all of us drink alcoholic drinks|di2da2tuu23gi
+136|2|2|Ꭺ²Ꭹ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎪᎦᏚᎳ|go:gadǔ:lā|They recently wanted them and me|goo2ga2duu23la2
+137|2|3|Ꭲ¹Ꭹ²-|Ꭽ||ᎢᎩᎭ|ì:gi:ha|All of us have something solid|ii1gii2ha
+138|2|3|Ꭿ̣²-|Ꭱ³Ꭶ||ᎮᎦ|hé:ga|You (1) are going|hee3ga
+139|2|3|Ꮧ̣²Ꭹ²-|ɂ¹ᏘᏗ||ᏗᎩᏘᏗ|digì:tdi|For all of us to bake things|di2gii1tdi
+140|2|3|Ꮥ³Ꮧ²-|ɂᏰ³Ꭰ||ᏕᏗᏰᎠ|dé:di:hyé:ɂa|All of us are eating flexible things|dee3dii2hyee3-a
+141|2|3|ᏍᎩ̣²-, ᏍᏆ͓-|ɂᎪ³Ꮧ||ᏍᎩᎪᏗ|sgikóhdi|For you (1) to have me|sgii2koh3di
+142|2|3|Ꭲ¹Ꮣ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ||ᎢᏓᏓᎪᏩᏔ|ì:dada:gò:wahta|Let all of us see ourselves|ii1da2daa2goo1wah2ta
+143|2|3|Ꭱ¹Ꮒ²-|Ꭳ²Ꮅ¹Ꭶ*||ᎡᏃᎵᎦ|è:no:lì:ga|You (1) and I recognize him|ee1noo2lii1ga
+144|2|3|Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ²||ᎦᏓᎪᏩᏔ|gada:gò:wahtā|I recently saw myself|ga2daa2goo1wah2ta2
+145|2|3|Ꮶ¹ᏍᏗ²-|ɂ¹Ꮯ²³Ꮜ||ᏫᏦᏍᏗᏟᏌ|wijò:sdì:hlǐ:sa|Let him and me gather things|wi2joo1sdii1hlii23sa
+146|2|3|Ꮷ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᏧᎾᏓᏙᎵᏍᏗ|jù:nada:do:hlísdi|For them to be acquainted|juu1na2daa2doo2hli3sdi
+147|2|3|Ꮥ³Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᏕᏣᏓᎪᎲᎢ|dé:jada:go:hv̌:ɂi|You all saw each other a while ago|dee3ja2daa2goo2hvv23-i
+148|2|3|Ꮧ̣²Ꮵ̣²-|Ꭰ̣²Ꮪ²³Ꭹ||ᏗᏣᏚᎩ|dijatǔ:gi|Let you all drink alcoholic drinks|di2ja2tuu23gi
+149|2|3|Ꭼ²Ꭹ̣²-, Ꭼ²Ꮖ͓-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎬᏆᏚᎳ|gv:gwadǔ:lā|They recently wanted me|gvv2gwa2duu23la2
+150|2|4|Ꭳ¹Ꭹ²-|Ꭽ||ᎣᎩᎭ|ò:gi:ha|They and I have something solid|oo1gii2ha
+151|2|4|ᏍᏗ²-|Ꭱ³Ꭶ||ᏍᏕᎦ|sdé:ga|You both are going|sdee3ga
+152|2|4|Ꮩ¹Ꮵ²-|ɂᏰ³Ꭰ||ᏙᏥᏰᎠ|dò:ji:hyé:ɂa|They and I are eating flexible things|doo1jii2hyee3-a
+153|2|4|Ꮧ̣²ᏍᏗ²-|ɂ¹ᏘᏗ||ᏗᏍᏗᏘᏗ|disdì:tdi|For you both to bake things|di2sdii1tdi
+154|2|4|Ꭱ¹Ꮳ̣²-, Ꭱ¹Ꮳ̣²-|ɂᎪ³Ꮧ||ᎡᏣᎪᏗ|è:jakóhdi|For someone to have you (1)|ee1ja2koh3di
+155|2|4|Ꮧ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ||ᏗᎾᏓᎪᏩᏔ|dinada:gò:wahta|Let you (1) and me see each other|di2na2daa2goo1wah2ta
+156|2|4|Ꭱ¹Ꮧ²-|Ꭳ²Ꮅ¹Ꭶ*||ᎡᏙᎵᎦ|è:do:lì:ga|All of us recognize him|ee1doo2lii1ga
+157|2|4|Ꮩ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᏙᎦᏓᎪᎲᎢ|dò:gada:go:hv̌:ɂi|They and I saw each other a while ago|doo1ga2daa2goo2hvv23-i
+158|2|4|Ꭰ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ²||ᎠᎾᏓᎪᏩᏔ|à:nada:gò:wahtā|They recently saw themselves|aa1naa2daa2goo1wah2ta2
+159|2|4|Ꮶ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᏦᎩᎾᏓᏙᎵᏍᏗ|jò:ginada:do:hlísdi|For him and me to be acquainted|joo1gi2na2daa2doo2hli3sdi
+160|2|4|Ꮧ̣³Ꮒ̣²-|Ꭰ̣²Ꮪ²³Ꭹ||ᏗᎾᏚᎩ|dínatǔ:gi|Let you (1) and me drink alcoholic drinks|di3na2tuu23gi
+161|2|4|Ꭸ²Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎨᎩᎾᏚᎳ|ge:ginadǔ:lā|They recently wanted you (1) and me|gee2gi2na2duu23la2
+162|2|5|Ꭴ¹Ꮒ²-|Ꭽ||ᎤᏂᎭ|ù:ni:ha|They have something solid|uu1nii2ha
+163|2|5|Ꮧ̣¹Ꭹ̣²-, Ꮧ̣¹Ꮖ͓-|ɂ¹ᏘᏗ||ᏗᎩᏘᏗ|dìgìtdi|For me to bake things|di1gi1tdi
+164|2|5|Ꮩ¹ᏍᏗ²-|ɂᏰ³Ꭰ||ᏙᏍᏗᏰᎠ|dò:sdi:hyé:ɂa|He and I are eating flexible things|doo1sdii2hyee3-a
+165|2|5|Ꭵ¹Ꭹ̣²-, Ꭵ¹Ꮖ͓-|ɂᎪ³Ꮧ||ᎥᎩᎪᏗ|v̀:gikóhdi|For someone to have me|vv1gi2koh3di
+166|2|5|Ꮧ̣²Ꮣ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ||ᏗᏓᏓᎪᏩᏔ|didada:gò:wahta|Let all of us see each other|di2da2daa2goo1wah2ta
+167|2|5|Ꭱ¹Ꮵ²-|Ꭳ²Ꮅ¹Ꭶ*||ᎡᏦᎵᎦ|è:jo:lì:ga|You all recognize him; You all are being recognized|ee1joo2lii1ga
+168|2|5|Ꮪ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᏚᎾᏓᎪᎲᎢ|dù:nada:go:hv̌:ɂi|They saw each other a while ago|duu1na2daa2goo2hvv23-i
+169|2|5|Ꭳ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ²||ᎣᏣᏓᎪᏩᏔ|ò:jada:gò:wahtā|They and I recently saw ourselves|oo1ja2daa2goo1wah2ta2
+170|2|5|Ꮧ̣²-, Ꮧ̣²Ꭶ̣²-|Ꭰ̣²Ꮪ²³Ꭹ||ᏫᏓᏚᎩ|widatǔ:gi|Let him drink alcoholic drinks|wi2da2tuu23gi
+171|2|5|Ꭺ²Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎪᎩᎾᏚᎳ|go:ginadǔ:lā|They recently wanted him and me|goo2gi2na2duu23la2
+172|2|6|Ꮥ³Ꭹ²-|Ꭽ||ᏕᎩᎭ|dé:gi:ha|All of us have solid things|dee3gii2ha
+173|2|6|Ꮧ̣²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ||ᏗᏍᏓᏓᎪᏩᏔ|disdada:gò:wahta|Let you both see each other|di2sdaa2daa2goo1wah2ta
+174|2|6|Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᎩᎾᏓᎪᎲᎢ|ginada:go:hv̌:ɂi|You (1) and I saw ourselves a while ago|gi2na2daa2goo2hvv23-i
+175|2|7|Ꮥ³Ꮵ²-|Ꭽ||ᏕᏥᎭ|dé:ji:ha|You all have solid things|dee3jii2ha
+176|2|7|Ꮶ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ||ᏫᏦᏣᏓᎪᏩᏔ|wijò:jada:gò:wahta|Let them and me see each other|wi2joo1ja2daa2goo1wah2ta
+177|2|7|Ꭸ²Ꮒ²-|Ꭳ²Ꮅ¹Ꭶ*||ᎨᏃᎵᎦ|ge:no:lì:ga|You (1) and I recognize them (animate)|gee2noo2lii1ga
+178|2|7|Ꮥ²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᏕᏍᏓᏓᎪᎲᎢ|de:sdada:go:hv̌:ɂi|You both saw each other a while ago|dee2sdaa2daa2goo2hvv23-i
+179|2|8|Ꮩ¹Ꭹ²-|Ꭽ||ᏙᎩᎭ|dò:gi:ha|They and I have solid things|doo1gii2ha
+180|2|8|Ꭲ¹Ꮵ²-|Ꭱ³Ꭶ||ᎢᏤᎦ|ì:jé:ga|You all are going|ii1jee3ga
+181|2|8|Ꮶ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ||ᏫᏦᏍᏓᏓᎪᏩᏔ|wijò:sdada:gò:wahta|Let him and me see each other|wi2joo1sda2daa2goo1wah2ta
+182|2|8|Ꭸ²Ꮧ²-|Ꭳ²Ꮅ¹Ꭶ*||ᎨᏙᎵᎦ|ge:do:lì:ga|All of us recognize them (animate)|gee2doo2lii1ga
+183|2|8|Ꮥ²Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᏕᎩᎾᏓᎪᎲᎢ|de:ginada:go:hv̌:ɂi|You (1) and I saw each other a while ago|dee2gi2na2daa2goo2hvv23-i
+184|2|9|Ꮪ¹Ꮒ²-|Ꭽ||ᏚᏂᎭ|dù:ni:ha|They have solid things|duu1nii2ha
+185|2|9|Ꭲ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|ɂᎪ³Ꮧ||ᏗᏣᏓᎪᏗ|dì:jada:kóhdi|For you all to have yourselves|dii1ja2daa2koh3di
+186|2|9|Ꭸ²Ꮵ²-|Ꭳ²Ꮅ¹Ꭶ*||ᎨᏦᎵᎦ|ge:jo:lì:ga|You all recognize them (animate)|gee2joo2lii1ga
+187|2|9|Ꮩ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᏙᎩᎾᏓᎪᎲᎢ|dò:ginada:go:hv̌:ɂi|He and I saw each other a while ago|doo1gi2na2daa2goo2hvv23-i
+188|2|10|Ꭹ̣²Ꮒ²-|Ꭽ||ᎩᏂᎭ|gini:ha|You (1) and I have something solid|gi2nii2ha
+189|2|10|Ꭳ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ²||ᎣᏍᏓᏓᎪᏩᏔ|ò:sdada:gò:wahtā|He and I recently saw ourselves|oo1sda2daa2goo1wah2ta2
+190|2|11|Ꮥ²ᏍᏗ²-|Ꭽ||ᏕᏍᏗᎭ|de:sdi:ha|You both have solid things|dee2sdii2ha
+191|2|12|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꭽ||ᎣᎩᏂᎭ|ò:gini:ha|He and I have something solid|oo1gi2nii2ha
+192|2|12|Ꮧ̣²Ꭶ̣²Ꮣ²[Ꮣ͓]-|ɂᎪ³Ꮧ||ᏗᎦᏓᎪᏗ|digada:kóhdi|For all of us to have each other|di2ga2daa2koh3di
+193|2|13|Ꮥ²Ꭹ̣²Ꮒ²-|Ꭽ||ᏕᎩᏂᎭ|de:gini:ha|You (1) and I have solid things|dee2gi2nii2ha
+194|2|13|Ꮧ̣²Ꮳ̣²Ꮣ²[Ꮣ͓]-|ɂᎪ³Ꮧ||ᏗᏣᏓᎪᏗ|dijada:kóhdi|For you all to have each other|di2ja2daa2koh3di
+195|2|14|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꭽ||ᏙᎩᏂᎭ|dò:gini:ha|He and I have solid things|doo1gi2nii2ha
+196|2|14|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|Ꭳ²Ꮅ¹Ꭶ*||ᏕᎪᎵᎦ|de:go:lì:ga|I understand things|dee2goo2lii1ga
+197|2|16|Ꭱ¹ᏍᏗ²-|Ꭳ²Ꮅ¹Ꭶ*||ᎡᏍᏙᎵᎦ|è:sdo:lì:ga|You both recognize him; You both are being recognized|ee1sdoo2lii1ga
+198|2|17|Ꭸ²ᏍᏗ²-|Ꭳ²Ꮅ¹Ꭶ*||ᎨᏍᏙᎵᎦ|ge:sdo:lì:ga|You both recognize them (animate); They recognize you both|gee2sdoo2lii1ga
+199|3|1|Ꭿ̣²-|Ꭱ¹Ꮎ||ᎮᎾ|hè:na|Let you (1) go|hee1na
+200|3|1||Ꭴ²Ꮵ||ᎤᏥ|u:ji|His mother|uu2ji
+201|3|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꮀ³Ꭲ||ᎤᎰᎢ|ù:hó:ɂi|He usually has something solid|uu1hoo3-i
+202|3|1|Ꭰ̣²-, Ꭶ̣²-|Ꭱ¹Ꮎ²||ᎡᎾ|è:nā|He recently went|ee1na2
+203|3|1|Ꮳ̣²-, Ꮳ̣²-|ᎣᎵ͓²Ꭶ||ᏦᎵᎦ|johlga|He recognizes you (1)|johl2ga
+204|3|1|Ꭴ¹Ꮣ²[Ꮣ͓]-|ɂᎧ̣³Ꭽ||ᎤᏓᎧᎭ|ù:da:káha|He has himself|uu1daa2ka3ha
+205|3|1|Ꮧ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭹ||ᏗᎾᏓᏙᎵᎩ|dinada:dohlgi|Let you (1) and me be acquainted|di2na2daa2dohl2gi
+206|3|1|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|ᏍᏗ²³Ꭶ²||ᏓᏍᏗᎦ|dasdǐ:gā|He recently ate rod shaped things|da2sdii23ga2
+207|3|1|Ꭰ¹Ꮵ̣²-, Ꭰ¹Ꭶ͓-|Ꭳ²Ꮅ¹Ꭶ²*||ᎠᎪᎵᎦ|à:go:lì:gā|He was recently recognized|aa1goo2lii1ga2
+208|3|1|Ꮣ¹Ꮒ²-|ɂ¹Ꮯ²³Ꮜ²||ᏓᏂᏟᏌ|dà:nì:hlǐ:sā|They recently gathered things|daa1nii1hlii23sa2
+209|3|1|Ꮶ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏦᎦᏓᎪᏩᏛᏗ|jò:gada:gowhtv́hdi|For them and me to see each other|joo1ga2daa2gowh2tvh3di
+210|3|1|Ꮧ̣²Ꮵ̣²-, Ꮧ̣²Ꭶ͓-|Ꭰ̣²Ꮪ²³Ꭹ*||ᏫᏗᎦᏚᎩ|widigaɂdǔ:gi|Let me drink alcoholic drinks|wi2di2ga-2duu23gi
+211|3|2|ᏍᏗ²-|Ꭱ¹Ꮎ||ᏍᏕᎾ|sdè:na|Let you both go|sdee1na
+212|3|2|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꮀ³Ꭲ||ᏚᎰᎢ|du:hó:ɂi|He usually has solid things|duu2hoo3-i
+213|3|2|Ꮵ̣²-, Ꭶ͓-|Ꭱ¹Ꮎ²||ᎨᎾ|gè:nā|I recently went|gee1na2
+214|3|2|Ꭸ²Ꮳ̣²-, Ꭸ²Ꮳ̣²-|ᎣᎵ͓²Ꭶ||ᎨᏦᎵᎦ|ge:johlga|They recognize you (1)|gee2johl2ga
+215|3|2|Ꮳ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣³Ꭽ||ᏣᏓᎧᎭ|jada:káha|You (1) have yourself|ja2daa2ka3ha
+216|3|2|Ꮧ̣²Ꮣ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭹ||ᏗᏓᏓᏙᎵᎩ|didada:dohlgi|Let all of us be acquainted|di2da2daa2dohl2gi
+217|3|2|ᏍᎩ̣²-, ᏍᏆ͓-|Ꭰ̣²Ꮪ²³Ꮃ||ᏍᏆᏚᎳ|sgwadǔ:la|Let you (1) want me|sgwa2duu23la
+218|3|2|Ꭱ¹Ꭹ²-|Ꭳ²Ꮅ¹Ꭶ²*||ᎡᎪᎵᎦ|è:go:lì:gā|All of us were recently recognized|ee1goo2lii1ga2
+219|3|2|Ꮥ³Ꮒ²-|ɂ¹Ꮯ²³Ꮜ²||ᏕᏂᏟᏌ|dé:nì:hlǐ:sā|You (1) and I recently gathered things|dee3nii1hlii23sa2
+220|3|2|Ꮷ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏧᎾᏓᎪᏩᏛᏗ|jù:nada:gowhtv́hdi|For them to see each other|juu1na2daa2gowh2tvh3di
+221|3|3|Ꭲ¹Ꮒ²-|Ꭱ¹Ꮎ||ᎢᏁᎾ|ì:nè:na|Let you (1) and me go|ii1nee1na
+222|3|3|Ꭰ¹Ꮒ²-|Ꭱ¹Ꮎ²||ᎠᏁᎾ|à:nè:nā|They recently went|aa1nee1na2
+223|3|3|Ꭲ¹Ꭹ²-|Ꭵ²³Ꮜ||ᎢᎬᏌ|ì:gv̌:sa|Ourselves, you all and I|ii1gvv23sa
+224|3|3|Ꭰ¹Ꮖ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣³Ꭽ||ᎠᏆᏓᎧᎭ|à:gwada:káha|I have myself|aa1gwaa2daa2ka3ha
+225|3|3|Ꮣ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ||ᏓᎾᏓᏙᎵᎦ|dà:nada:dohlga|They are acquainted|daa1naa2daa2dohl2ga
+226|3|3|Ꮶ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭹ||ᏫᏦᏣᏓᏙᎵᎩ|wijò:jada:dohlgi|Let them and me be acquainted|wi2joo1ja2daa2dohl2gi
+227|3|3|Ꭱ¹Ꮒ²-|Ꭳ²Ꮅ¹Ꭶ²*||ᎡᏃᎵᎦ|è:no:lì:gā|You (1) and I recently recognized him|ee1noo2lii1ga2
+228|3|3|Ꮥ³Ꮧ²-|ɂ¹Ꮯ²³Ꮜ²||ᏕᏗᏟᏌ|dé:dì:hlǐ:sā|All of us recently gathered things|dee3dii1hlii23sa2
+229|3|3|Ꮶ¹Ꭹ²-|Ꭰ²Ꮴ²Ꮅ⁴Ꭲ||ᏦᎦᏤᎵᎢ|jò:gaje:li̋:ɂi|Our things, they and I|joo1gaa2jee2lii4-i
+230|3|3|Ꮧ̣²Ꮳ̣²-|Ꭰ̣²Ꮪ²³Ꮃ||ᏗᏣᏚᎳ|dijadǔ:la|Let you (1) want them (inanimate); Let you all want them (inanimate)|di2ja2duu23la
+231|3|3|Ꮶ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏦᎩᎾᏓᎪᏩᏛᏗ|jò:ginada:gowhtv́hdi|For him and me to see each other|joo1gi2na2daa2gowh2tvh3di
+232|3|4|Ꭲ¹Ꮧ²-|Ꭱ¹Ꮎ||ᎢᏕᎾ|ì:dè:na|Let all of us go|ii1dee1na
+233|3|4|Ꭳ¹Ꮵ²-|Ꭱ¹Ꮎ²||ᎣᏤᎾ|ò:jè:nā|They and I recently went|oo1jee1na2
+234|3|4|Ꭳ¹Ꭹ²-|Ꭵ²³Ꮜ||ᎣᎬᏌ|ò:gv̌:sa|Ourselves, they and I|oo1gvv23sa
+235|3|4|Ꮥ³Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ||ᏕᎾᏓᏙᎵᎦ|dé:nada:dohlga|You (1) and I are acquainted|dee3na2daa2dohl2ga
+236|3|4|Ꮶ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭹ||ᏫᏦᏍᏓᏓᏙᎵᎩ|wijò:sdada:dohlgi|Let him and me be acquainted|wi2joo1sda2daa2dohl2gi
+237|3|4|Ꮨ̣²-|ɂ¹Ꮯ²³Ꮜ||ᏘᏟᏌ|tìhlǐ:sa|Let you (1) gather things|ti1hlii23sa
+238|3|4|Ꭱ¹Ꮧ²-|Ꭳ²Ꮅ¹Ꭶ²*||ᎡᏙᎵᎦ|è:do:lì:gā|All of us recently recognized him|ee1doo2lii1ga2
+239|3|4|Ꮩ¹Ꮵ²-|ɂ¹Ꮯ²³Ꮜ²||ᏙᏥᏟᏌ|dò:jì:hlǐ:sā|They and I recently gathered things|doo1jii1hlii23sa2
+240|3|4|Ꮷ¹Ꮒ²-|Ꭰ²Ꮴ²Ꮅ⁴Ꭲ||ᏧᎾᏤᎵᎢ|jù:naje:li̋:ɂi|Their things|juu1naa2jee2lii4-i
+241|3|4|Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²³Ꮃ||ᎩᎾᏓᏚᎳ|ginadadǔ:la|Let you (1) and me want ourselves|gi2na2da2duu23la
+242|3|5|Ꭲ¹Ꮵ²-|Ꭱ¹Ꮎ||ᎢᏤᎾ|ì:jè:na|Let you all go|ii1jee1na
+243|3|5|Ꭴ¹Ꮒ²-|Ꭵ²³Ꮜ||ᎤᏅᏌ|ù:nv̌:sa|Themselves|uu1nvv23sa
+244|3|5|Ꮥ³Ꭹ²-|Ꭵ³²Ꮿ||ᏕᎬᏯ|dé:gù:wâ:ya|All of us have rod shaped things|dee3guu1waa32ya
+245|3|5|Ꭳ¹ᏍᏗ²-|Ꭱ¹Ꮎ²||ᎣᏍᏕᎾ|ò:sdè:nā|He and I recently went|oo1sdee1na2
+246|3|5|Ꮥ³Ꮣ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ||ᏕᏓᏓᏙᎵᎦ|dé:dada:dohlga|All of us are acquainted|dee3da2daa2dohl2ga
+247|3|5|Ꭱ¹Ꮳ̣²-, Ꭱ¹Ꮳ̣²-|Ꭳ²Ꮅ³ᏍᏗ||ᎡᏦᎵᏍᏗ|è:jo:hlísdi|For you (1) to be recognized|ee1joo2hli3sdi
+248|3|5|Ꮧ̣²ᏍᏗ²-|ɂ¹Ꮯ²³Ꮜ||ᏗᏍᏗᏟᏌ|disdì:hlǐ:sa|Let you both gather things|di2sdii1hlii23sa
+249|3|5|Ꭱ¹Ꮵ²-|Ꭳ²Ꮅ¹Ꭶ²*||ᎡᏦᎵᎦ|è:jo:lì:gā|You all recently recognized him; You all were recently recognized|ee1joo2lii1ga2
+250|3|5|Ꮩ¹ᏍᏗ²-|ɂ¹Ꮯ²³Ꮜ²||ᏙᏍᏗᏟᏌ|dò:sdì:hlǐ:sā|He and I recently gathered things|doo1sdii1hlii23sa2
+251|3|5|Ꮧ̣²Ꭹ²-|Ꭰ²Ꮴ²Ꮅ⁴Ꭲ||ᏗᎦᏤᎵᎢ|digaje:li̋:ɂi|Our things, you all and I|di2gaa2jee2lii4-i
+252|3|5|Ꮧ̣²Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²³Ꮃ||ᏗᎦᏓᏚᎳ|digadadǔ:la|Let all of us want each other|di2ga2da2duu23la
+253|3|6|Ꮥ³Ꮵ²-|Ꭵ³²Ꮿ||ᏕᏨᏯ|dé:jù:wâ:ya|You all have rod shaped things|dee3juu1waa32ya
+254|3|6|Ꭹ̣²Ꮒ²-|Ꭵ²³Ꮜ||ᎩᏅᏌ|ginv̌:sa|Ourselves, you (1) and I|gi2nvv23sa
+255|3|6|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|ɂᏰ³Ꭰ||ᏕᎯᏰᎠ|de:hihyé:ɂa|You (1) are eating flexible things|dee2hi2hyee3-a
+256|3|6|Ꮩ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ||ᏙᏣᏓᏙᎵᎦ|dò:jada:dohlga|They and I are acquainted|doo1ja2daa2dohl2ga
+257|3|6|Ꭼ²Ꭹ̣²-, Ꭼ²Ꮖ͓-|Ꭳ²Ꮅ³ᏍᏗ||ᎬᏉᎵᏍᏗ|gv:gwo:hlísdi|For them to recognize me|gvv2gwoo2hli3sdi
+258|3|6|Ꮧ̣²Ꮧ̣²-|ɂ¹Ꮯ²³Ꮜ||ᏗᏗᏟᏌ|didì:hlǐ:sa|Let all of us gather things|di2dii1hlii23sa
+259|3|6|Ꮧ̣¹Ꭹ̣²-, Ꮧ̣¹Ꮖ͓-|Ꭰ²Ꮴ²Ꮅ⁴Ꭲ||ᏗᏆᏤᎵᎢ|dìgwaje:li̋:ɂi|My things|di1gwaa2jee2lii4-i
+260|3|6|Ꮶ¹Ꮵ²-|Ꭰ̣²Ꮪ²³Ꭹ||ᏫᏦᏣᏚᎩ|wijò:jatǔ:gi|Let them and me drink alcoholic drinks|wi2joo1ja2tuu23gi
+261|3|6|Ꮧ̣²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²³Ꮃ||ᏗᏍᏓᏓᏚᎳ|disdadadǔ:la|Let you both want each other|di2sdaa2da2duu23la
+262|3|6|Ꭵ¹Ꭹ̣²-, Ꭵ¹Ꮖ͓-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎥᏆᏚᎳ|v̀:gwadǔ:lā|I was recently wanted|vv1gwa2duu23la2
+263|3|7|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꭵ²³Ꮜ||ᎣᎩᏅᏌ|ò:ginv̌:sa|Ourselves, he and I|oo1gi2nvv23sa
+264|3|7|Ꮩ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ||ᏙᏍᏓᏓᏙᎵᎦ|dò:sdada:dohlga|He and I are acquainted|doo1sda2daa2dohl2ga
+265|3|7|Ꮧ̣³Ꮒ̣²-|ɂ¹Ꮯ²³Ꮜ||ᏗᏂᏟᏌ|dínì:hlǐ:sa|Let you (1) and me gather things|di3nii1hlii23sa
+266|3|7|Ꮧ̣²Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᏗᎩᎾᏓᏙᎵᏍᏗ|diginada:do:hlísdi|For you (1) and me to be acquainted|di2gi2na2daa2doo2hli3sdi
+267|3|7|Ꭸ²Ꮒ²-|Ꭳ²Ꮅ¹Ꭶ²*||ᎨᏃᎵᎦ|ge:no:lì:gā|You (1) and I recently recognized them (animate)|gee2noo2lii1ga2
+268|3|7|Ꮶ¹Ꭹ̣²Ꮒ²-|Ꭰ²Ꮴ²Ꮅ⁴Ꭲ||ᏦᎩᎾᏤᎵᎢ|jò:ginaje:li̋:ɂi|Our things, he and I|joo1gi2naa2jee2lii4-i
+269|3|7|Ꮧ̣²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꭹ||ᏫᏗᎾᏚᎩ|widinatǔ:gi|Let them drink alcoholic drinks|wi2di2na2tuu23gi
+270|3|8|Ꮷ²-, Ꮷ²Ꮹ͓-|ɂ¹ᏘᏗ||ꮷꮹᏘᏗ|ju:wà:tdi|For him to bake things|juu2waa1tdi
+271|3|8|Ꮧ̣²Ꭹ̣²Ꮒ²-|Ꭰ²Ꮴ²Ꮅ⁴Ꭲ||ᏗᎩᎾᏤᎵᎢ|diginaje:li̋:ɂi|Our things, you (1) and I|di2gi2naa2jee2lii4-i
+272|3|8|Ꮶ¹ᏍᏗ²-|Ꭰ̣²Ꮪ²³Ꭹ||ᏫᏦᏍᏓᏚᎩ|wijò:sdatǔ:gi|Let him and me drink alcoholic drinks|wi2joo1sda2tuu23gi
+273|3|9|Ꮥ²ᏍᏗ²-|Ꭵ³²Ꮿ||ᏕᏍᏛᏯ|de:sdù:wâ:ya|You both have rod shaped things|dee2sduu1waa32ya
+274|3|10|ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ||ᏍᏓᏓᎪᏩᏔ|sdada:gò:wahta|Let you both see yourselves|sdaa2daa2goo1wah2ta
+275|3|10|Ꭸ²Ꭹ²-|Ꭺ²Ꮂ²³Ꭲ||ᎨᎩᎪᎲᎢ|ge:gi:go:hv̌:ɂi|They saw all of us a while ago|gee2gii2goo2hvv23-i
+276|3|11|Ꮧ̣²-, Ꮧ̣²Ꭶ̣²-|Ꭺ¹Ꮹ²Ꮤ||ᏫᏗᎪᏩᏔ|widigò:wahta|Let him see them|wi2di2goo1wah2ta
+277|3|11|Ꭺ²Ꭹ²-|Ꭺ²Ꮂ²³Ꭲ||ᎪᎩᎪᎲᎢ|go:gi:go:hv̌:ɂi|They saw them and me a while ago|goo2gii2goo2hvv23-i
+278|3|12|Ꭲ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᎢᎦᏓᎪᎲᎢ|ì:gada:go:hv̌:ɂi|All of us saw ourselves a while ago|ii1ga2daa2goo2hvv23-i
+279|3|13|Ꭲ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᎢᏣᏓᎪᎲᎢ|ì:jada:go:hv̌:ɂi|You all saw yourselves a while ago|ii1ja2daa2goo2hvv23-i
+280|3|14|Ꮧ̣²Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ||ᏗᏣᏓᎪᏩᏔ|dijada:gò:wahta|Let you all see each other|di2ja2daa2goo1wah2ta
+281|3|14|Ꭳ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᎣᎦᏓᎪᎲᎢ|ò:gada:go:hv̌:ɂi|They and I saw ourselves a while ago|oo1ga2daa2goo2hvv23-i
+282|3|15|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꭽ||ᏓᎩᎭ|dà:giha|I have solid things|daa1gi2ha
+283|3|15|Ꭴ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᎤᎾᏓᎪᎲᎢ|ù:nada:go:hv̌:ɂi|They saw themselves a while ago|uu1na2daa2goo2hvv23-i
+284|3|16|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꭽ||ᏕᏣᎭ|de:jaha|You (1) have solid things|dee2ja2ha
+285|3|16|Ꭸ²Ꭹ̣²Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᎨᎩᏂᎪᎲᎢ|ge:gini:go:hv̌:ɂi|They saw you (1) and me a while ago|gee2gi2nii2goo2hvv23-i
+286|3|17|Ꭺ²Ꭹ̣²Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᎪᎩᏂᎪᎲᎢ|go:gini:go:hv̌:ɂi|They saw him and me a while ago|goo2gi2nii2goo2hvv23-i
+287|3|17|Ꭸ²ᏍᏗ²-|Ꭳ²Ꮅ¹Ꭶ²*||ᎨᏍᏙᎵᎦ|ge:sdo:lì:gā|You both recently recognized them (animate); They recently recognized you both|gee2sdoo2lii1ga2
+288|3|18|Ꭳ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᎣᎩᎾᏓᎪᎲᎢ|ò:ginada:go:hv̌:ɂi|He and I saw ourselves a while ago|oo1gi2na2daa2goo2hvv23-i
+289|3|21|Ꭱ¹Ꭹ̣²Ꮒ²-|Ꭳ²Ꮅ¹Ꭶ²*||ᎡᎩᏃᎵᎦ|è:gino:lì:gā|You (1) and I were recently recognized|ee1gi2noo2lii1ga2
+290|4|1|Ꮳ̣²-|Ꭵ⁴Ꮜ||ᏨᏌ|jv̋:sa|You (1) alone|jvv4sa
+291|4|1||Ꭼ²Ꮵ||ᎬᏥ|gv:ji|I, your mother|gvv2ji
+292|4|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꮂ²³Ꭲ||ᎤᎲᎢ|ù:hv̌:ɂi|He had something solid a while ago|uu1hvv23-i
+293|4|1|Ꮵ̣²-, Ꭶ͓-|Ꭰ̣²Ꮣ²||ᎦᏓ|gadā|I recently said|ga2da2
+294|4|1|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꭵ²³ᏲᎢ||ᏓᏋᏲᎢ|dà:gwù:wǎ:yóɂi|I usually have rod shaped things|daa1gwuu1waa23yo3-i
+295|4|1|Ꮶ¹Ꭹ²-|ɂᏰ¹ᏍᏗ||ᏦᎩᏰᏍᏗ|jò:gi:hyè:sdi|For them and me to eat flexible things|joo1gii2hyee1sdi
+296|4|1|Ꮧ̣²-, Ꮧ̣²Ꭶ̣²-|ᏍᏗ²³Ꭶ||ᏫᏗᏍᏗᎦ|widisdǐ:ga|Let him eat rod shaped things|wi2di2sdii23ga
+297|4|1|Ꮳ̣²-, Ꮳ̣²-|ᎣᎵ͓²Ꭶ²||ᏦᎵᎦ|johlgā|He recently recognized you (1)|johl2ga2
+298|4|1|Ꭸ²Ꮵ²-, Ꭸ²Ꭶ͓-|Ꭳ²Ꮅ²Ꭺ³Ꭲ*||ᎨᎪᎵᎪᎢ|ge:go:li:gó:ɂi|They are often recognized|gee2goo2lii2goo3-i
+299|4|1|Ꮶ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²ᏚᎸ͓²Ꮧ||ᏦᎦᏓᏚᎸᏗ|jò:gadaduhldi|For them and me to want each other|joo1ga2da2duhl2di
+300|4|1|Ꮥ³Ꭶ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏕᎦᏓᏙᎵᏨᎢ|dé:gada:dohljv̌:ɂi|All of us were acquainted a while ago|dee3ga2daa2dohl2jvv23-i
+301|4|1|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|Ꭰ̣²Ꮪ²³Ꭶ²*||ᏕᎦᏚᎦ|de:gaɂdǔ:gā|I recently drank alcoholic drinks|dee2ga-2duu23ga2
+302|4|1|Ꮧ̣²Ꮣ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏗᏓᏓᎦᏙᏍᏓ|didadaktǒ:sda|Let all of us look at each other|di2da2da2ktoo23sda
+303|4|2|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꭵ⁴Ꮜ||ᎠᏋᏌ|à:gwv̋:sa|I alone|aa1gwvv4sa
+304|4|2|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꮂ²³Ꭲ||ᏚᎲᎢ|du:hv̌:ɂi|He had solid things a while ago|duu2hvv23-i
+305|4|2|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꭵ²³ᏲᎢ||ᏕᏨᏲᎢ|de:jù:wǎ:yóɂi|You (1) usually have rod shaped things|dee2juu1waa23yo3-i
+306|4|2|Ꮷ¹Ꮒ²-|ɂᏰ¹ᏍᏗ||ᏧᏂᏰᏍᏗ|jù:ni:hyè:sdi|For them to eat flexible things|juu1nii2hyee1sdi
+307|4|2|Ꮣ¹Ꮒ²-|Ꭰ̣²Ꮪ²³Ꭶ²||ᏓᎾᏚᎦ|dà:natǔ:gā|They recently drank alcoholic drinks|daa1na2tuu23ga2
+308|4|2|Ꮷ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²ᏚᎸ͓²Ꮧ||ᏧᎾᏓᏚᎸᏗ|jù:nadaduhldi|For them to want each other|juu1na2da2duhl2di
+309|4|2|Ꮩ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏙᎦᏓᏙᎵᏨᎢ|dò:gada:dohljv̌:ɂi|They and I were acquainted a while ago|doo1ga2daa2dohl2jvv23-i
+310|4|2|Ꮶ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏫᏦᏣᏓᎦᏙᏍᏓ|wijò:jadaktǒ:sda|Let them and me look at each other|wi2joo1ja2da2ktoo23sda
+311|4|3|Ꮥ³Ꭹ²-|Ꮀ³Ꭲ||ᏕᎩᎰᎢ|dé:gi:hó:ɂi|All of us usually have solid things|dee3gii2hoo3-i
+312|4|3|Ꮶ¹Ꭹ̣²Ꮒ²-|ɂᏰ¹ᏍᏗ||ᏦᎩᏂᏰᏍᏗ|jò:gini:hyè:sdi|For him and me to eat flexible things|joo1gi2nii2hyee1sdi
+313|4|3|Ꮥ³Ꮒ²-|Ꭰ̣²Ꮪ²³Ꭶ²||ᏕᎾᏚᎦ|dé:natǔ:gā|You (1) and I recently drank alcoholic drinks|dee3na2tuu23ga2
+314|4|3|Ꮪ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏚᎾᏓᏙᎵᏨᎢ|dù:nada:dohljv̌:ɂi|They were acquainted a while ago|duu1na2daa2dohl2jvv23-i
+315|4|3|Ꮶ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²ᏚᎸ͓²Ꮧ||ᏦᎩᎾᏓᏚᎸᏗ|jò:ginadaduhldi|For him and me to want each other|joo1gi2na2da2duhl2di
+316|4|3|Ꮶ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏫᏦᏍᏓᏓᎦᏙᏍᏓ|wijò:sdadaktǒ:sda|Let him and me look at each other|wi2joo1sda2da2ktoo23sda
+317|4|4|Ꮩ¹Ꭹ²-|Ꮀ³Ꭲ||ᏙᎩᎰᎢ|dò:gi:hó:ɂi|They and I usually have solid things|doo1gii2hoo3-i
+318|4|4|Ꮧ̣²Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏗᎩᎾᏓᎪᏩᏛᏗ|diginada:gowhtv́hdi|For you (1) and me to see each other|di2gi2na2daa2gowh2tvh3di
+319|4|4|Ꮥ³Ꮧ²-|Ꭰ̣²Ꮪ²³Ꭶ²||ᏕᏓᏚᎦ|dé:datǔ:gā|All of us recently drank alcoholic drinks|dee3da2tuu23ga2
+320|4|4|Ꮥ²Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏕᎩᎾᏓᏙᎵᏨᎢ|de:ginada:dohljv̌:ɂi|You (1) and I were acquainted a while ago|dee2gi2na2daa2dohl2jvv23-i
+321|4|5|Ꮪ¹Ꮒ²-|Ꮀ³Ꭲ||ᏚᏂᎰᎢ|dù:ni:hó:ɂi|They usually have solid things|duu1nii2hoo3-i
+322|4|5|Ꮨ̣²-|ᎣᎵ͓²Ꭹ||ᏙᎵᎩ|tohlgi|Let you (1) understand things|tohl2gi
+323|4|5|Ꮩ¹Ꮵ²-|Ꭰ̣²Ꮪ²³Ꭶ²||ᏙᏣᏚᎦ|dò:jatǔ:gā|They and I recently drank alcoholic drinks|doo1ja2tuu23ga2
+324|4|5|Ꮩ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏙᎩᎾᏓᏙᎵᏨᎢ|dò:ginada:dohljv̌:ɂi|He and I were acquainted a while ago|doo1gi2na2daa2dohl2jvv23-i
+325|4|6|Ꮥ²Ꭹ̣²Ꮒ²-|Ꮀ³Ꭲ||ᏕᎩᏂᎰᎢ|de:gini:hó:ɂi|You (1) and I usually have solid things|dee2gi2nii2hoo3-i
+326|4|6|Ꮧ̣²Ꮧ̣²-|ᎣᎵ͓²Ꭹ||ᏗᏙᎵᎩ|didohlgi|Let all of us understand things|di2dohl2gi
+327|4|6|Ꭸ²Ꮒ²-|Ꭳ²Ꮅ¹Ꭹ*||ᎨᏃᎵᎩ|ge:no:lì:gi|Let you (1) and me recognize them (animate)|gee2noo2lii1gi
+328|4|6|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|ɂ¹Ꮯ²³Ꮜ²||ᏕᎯᏟᏌ|de:hìhlǐ:sā|You (1) recently gathered things|dee2hi1hlii23sa2
+329|4|6|Ꮩ¹ᏍᏗ²-|Ꭰ̣²Ꮪ²³Ꭶ²||ᏙᏍᏓᏚᎦ|dò:sdatǔ:gā|He and I recently drank alcoholic drinks|doo1sda2tuu23ga2
+330|4|7|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꮀ³Ꭲ||ᏙᎩᏂᎰᎢ|dò:gini:hó:ɂi|He and I usually have solid things|doo1gi2nii2hoo3-i
+331|4|7|ᏍᏗ²-|Ꭱ¹Ꮎ²||ᏍᏕᎾ|sdè:nā|You both recently went|sdee1na2
+332|4|7|Ꮥ³Ꮵ²-|ɂᏰ³Ꭰ||ᏕᏥᏰᎠ|dé:ji:hyé:ɂa|You all are eating flexible things|dee3jii2hyee3-a
+333|4|7|Ꮧ̣³Ꮒ̣²-|ᎣᎵ͓²Ꭹ||ᏗᏃᎵᎩ|dínohlgi|Let you (1) and me understand things|di3nohl2gi
+334|4|7|Ꭸ²Ꮧ²-|Ꭳ²Ꮅ¹Ꭹ*||ᎨᏙᎵᎩ|ge:do:lì:gi|Let all of us recognize them (animate)|gee2doo2lii1gi
+335|4|7|Ꮧ̣²Ꭹ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᏗᎦᏚᎳ|digadǔ:la|Let all of us want them (inanimate)|di2ga2duu23la
+336|4|8|Ꭳ¹Ꮵ²-|Ꭱ¹Ꮎ||ᏬᏤᎾ|wò:jè:na|Let them and me go|woo1jee1na
+337|4|8|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|ɂᏰ³Ꭰ||ᏕᎦᏰᎠ|de:gahyé:ɂa|He is eating flexible things|dee2ga2hyee3-a
+338|4|8|Ꭱ¹Ꮳ̣²-, Ꭱ¹Ꮳ̣²-|ᎣᎵ͓²Ꭶ||ᎡᏦᎵᎦ|è:johlga|You (1) are being recognized|ee1johl2ga
+339|4|8|Ꭸ²Ꮵ²-|Ꭳ²Ꮅ¹Ꭹ*||ᎨᏦᎵᎩ|ge:jo:lì:gi|Let you all recognize them (animate)|gee2joo2lii1gi
+340|4|8|Ꭵ¹Ꭹ̣²-, Ꭵ¹Ꮖ͓-|Ꭳ²Ꮅ³ᏍᏗ||ᎥᏉᎵᏍᏗ|v̀:gwo:hlísdi|For me to be recognized|vv1gwoo2hli3sdi
+341|4|8|Ꮧ̣²Ꮵ̣²-|ɂ¹Ꮯ²³Ꮜ||ᏗᏥᏟᏌ|dijì:hlǐ:sa|Let you all gather things|di2jii1hlii23sa
+342|4|8|Ꭲ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²³Ꮃ||ᎢᎦᏓᏚᎳ|ì:gadadǔ:la|Let all of us want ourselves|ii1ga2da2duu23la
+343|4|9|Ꭳ¹ᏍᏗ²-|Ꭱ¹Ꮎ||ᏬᏍᏕᎾ|wò:sdè:na|Let him and me go|woo1sdee1na
+344|4|9|Ꮥ²ᏍᏗ²-|ɂᏰ³Ꭰ||ᏕᏍᏗᏰᎠ|de:sdi:hyé:ɂa|You both are eating flexible things|dee2sdii2hyee3-a
+345|4|9|Ꭼ²Ꭹ̣²-, Ꭼ²Ꮖ͓-|ᎣᎵ͓²Ꭶ||ᎬᏉᎵᎦ|gv:gwohlga|They recognize me|gvv2gwohl2ga
+346|4|9|Ꭿ²-, Ꭿ²Ꮿ͓-|Ꭳ²Ꮅ¹Ꭹ*||ᎯᏲᎵᎩ|hi:yo:lì:gi|Let you (1) recognize him|hii2yoo2lii1gi
+347|4|9|Ꮧ̣¹Ꭹ̣²-, Ꮧ̣¹Ꮖ͓-|Ꭳ²Ꮅ³ᏍᏗ||ᏗᏉᎵᏍᏗ|dìgwo:hlísdi|For me to understand things|di1gwoo2hli3sdi
+348|4|9|Ꮧ̣²Ꮵ̣²-, Ꮧ̣²Ꭶ͓-|ɂ¹Ꮯ²³Ꮜ||ᏫᏗᏥᏟᏌ|widijìhlǐ:sa|Let me gather things|wi2di2ji1hlii23sa
+349|4|9|Ꮧ̣²ᏍᏗ²-|Ꭰ²Ꮴ²Ꮅ⁴Ꭲ||ᏗᏍᏓᏤᎵᎢ|disdaje:li̋:ɂi|You both, your things|di2sdaa2jee2lii4-i
+350|4|9|Ꮧ̣²Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᏗᎩᎾᏚᎳ|diginadǔ:la|Let you (1) and me want them (inanimate)|di2gi2na2duu23la
+351|4|10|Ꭰ¹Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ||ᎠᏓᏙᎵᎦ|à:da:dohlga|He recognizes himself|aa1daa2dohl2ga
+352|4|10|Ꮧ̣²Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᏗᎦᏓᏙᎵᏍᏗ|digada:do:hlísdi|For all of us to be acquainted|di2ga2daa2doo2hli3sdi
+353|4|10|Ꮧ̣²Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²³Ꮃ||ᏗᏣᏓᏚᎳ|dijadadǔ:la|Let you all want each other|di2ja2da2duu23la
+354|4|11|Ꭽ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ||ᎭᏓᏙᎵᎦ|hada:dohlga|You (1) recognize yourself|haa2daa2dohl2ga
+355|4|11|Ꭱ¹ᏍᏗ²-|Ꭳ²Ꮅ¹Ꭹ*||ᎡᏍᏙᎵᎩ|è:sdo:lì:gi|Let you both recognize him; Let you both be recognized|ee1sdoo2lii1gi
+356|4|11|Ꮧ̣²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᏗᏍᏓᏓᏙᎵᏍᏗ|disdada:do:hlísdi|For you both to be acquainted|di2sdaa2daa2doo2hli3sdi
+357|4|12|Ꭲ¹Ꭹ²-|Ꭵ³²Ꮿ||ᎢᎬᏯ|ì:gù:wâ:ya|All of us have something rod shaped|ii1guu1waa32ya
+358|4|12|Ꭰ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ||ᎠᎾᏓᏙᎵᎦ|à:nada:dohlga|They recognize themselves|aa1naa2daa2dohl2ga
+359|4|12|Ꭸ²ᏍᏗ²-|Ꭳ²Ꮅ¹Ꭹ*||ᎨᏍᏙᎵᎩ|ge:sdo:lì:gi|Let you both recognize them (animate)|gee2sdoo2lii1gi
+360|4|12|ᏍᎩ̣²-, ᏍᏆ͓-|Ꭰ̣²Ꮪ²³Ꮃ²||ᏍᏆᏚᎳ|sgwadǔ:lā|You (1) recently wanted me|sgwa2duu23la2
+361|4|13|Ꭳ¹Ꭹ²-|Ꭵ³²Ꮿ||ᎣᎬᏯ|ò:gù:wâ:ya|They and I have something rod shaped|oo1guu1waa32ya
+362|4|13|Ꭲ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ||ᎢᎾᏓᏙᎵᎦ|ì:nada:dohlga|You (1) and I recognize ourselves|ii1na2daa2dohl2ga
+363|4|13|Ꭱ¹Ꭹ̣²Ꮒ²-|Ꭳ²Ꮅ¹Ꭹ*||ᎡᎩᏃᎵᎩ|è:gino:lì:gi|Let you (1) and me be recognized|ee1gi2noo2lii1gi
+364|4|13|Ꭸ³Ꮵ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎨᏣᏚᎳ|gé:jadǔ:lā|They recently wanted you all|gee3ja2duu23la2
+365|4|14|Ꭲ¹Ꮣ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ||ᎢᏓᏓᏙᎵᎦ|ì:dada:dohlga|All of us recognize ourselves|ii1da2daa2dohl2ga
+366|4|14|Ꭺ²Ꮵ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎪᏣᏚᎳ|go:jadǔ:lā|They and I recently wanted them (animate)|goo2ja2duu23la2
+367|4|15|Ꭳ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ||ᎣᏣᏓᏙᎵᎦ|ò:jada:dohlga|They and I recognize ourselves|oo1ja2daa2dohl2ga
+368|4|15|Ꭺ²ᏍᏗ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎪᏍᏓᏚᎳ|go:sdadǔ:lā|He and I recently wanted them (animate)|goo2sda2duu23la2
+369|4|16|Ꭲ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ||ᎢᏣᏓᎪᏩᏔ|ì:jada:gò:wahta|Let you all see yourselves|ii1ja2daa2goo1wah2ta
+370|4|16|Ꭳ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ||ᎣᏍᏓᏓᏙᎵᎦ|ò:sdada:dohlga|He and I recognize ourselves|oo1sda2daa2dohl2ga
+371|4|17|Ꮶ¹Ꮵ²-|Ꭺ¹Ꮹ²Ꮤ||ᏫᏦᏥᎪᏩᏔ|wijò:ji:gò:wahta|Let them and me see them (inanimate)|wi2joo1jii2goo1wah2ta
+372|4|17|Ꭸ²Ꭹ²-|Ꭺ¹Ꮹ²Ꮤ²||ᎨᎩᎪᏩᏔ|ge:gi:gò:wahtā|They recently saw all of us|gee2gii2goo1wah2ta2
+373|4|18|Ꮧ̣²Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ||ᏫᏗᏂᎪᏩᏔ|widini:gò:wahta|Let them see them|wi2di2nii2goo1wah2ta
+374|4|18|Ꭺ²Ꭹ²-|Ꭺ¹Ꮹ²Ꮤ²||ᎪᎩᎪᏩᏔ|go:gi:gò:wahtā|They recently saw them and me|goo2gii2goo1wah2ta2
+375|4|19|Ꮶ¹ᏍᏗ²-|Ꭺ¹Ꮹ²Ꮤ||ᏫᏦᏍᏗᎪᏩᏔ|wijò:sdi:gò:wahta|Let him and me see them (inanimate)|wi2joo1sdii2goo1wah2ta
+376|4|19|Ꭼ²-, Ꭼ²Ꮿ͓-|Ꭺ²Ꮂ²³Ꭲ||ᎬᎪᎲᎢ|gv:go:hv̌:ɂi|I saw you (1) a while ago|gvv2goo2hvv23-i
+377|4|20|Ꮧ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭺ¹Ꮹ²Ꮤ||ᏫᏗᎾᏓᎪᏩᏔ|widinada:gò:wahta|Let them see each other|wi2di2nadaa2goo1wah2ta
+378|4|20|Ꮵ²-, Ꮵ²Ꮿ͓-|Ꭺ²Ꮂ²³Ꭲ||ᏥᎪᎲᎢ|ji:go:hv̌:ɂi|I saw him a while ago|jii2goo2hvv23-i
+379|4|20|Ꭸ²Ꭹ̣²Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ²||ᎨᎩᏂᎪᏩᏔ|ge:gini:gò:wahtā|They recently saw you (1) and me|gee2gi2nii2goo1wah2ta2
+380|4|21|Ꭺ²Ꭹ̣²Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ²||ᎪᎩᏂᎪᏩᏔ|go:gini:gò:wahtā|They recently saw him and me|goo2gi2nii2goo1wah2ta2
+381|4|22|Ꭲ¹Ꮸ²-, Ꭲ¹Ꮸ²Ꮿ͓-|Ꭺ²Ꮂ²³Ꭲ||ᎢᏨᎪᎲᎢ|ì:jv:go:hv̌:ɂi|I, we two, or we all saw you all a while ago; We all saw you (1), two a while ago|ii1jvv2goo2hvv23-i
+382|4|23|Ꭴ¹Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᎤᏓᎪᎲᎢ|ù:da:go:hv̌:ɂi|He saw himself a while ago|uu1daa2goo2hvv23-i
+383|4|25|Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᏣᏓᎪᎲᎢ|jada:go:hv̌:ɂi|You (1) saw yourself a while ago|ja2daa2goo2hvv23-i
+384|4|26|Ꭰ¹Ꮖ̣²Ꮣ²[Ꮣ͓]-|Ꭺ²Ꮂ²³Ꭲ||ᎠᏆᏓᎪᎲᎢ|à:gwada:go:hv̌:ɂi|I saw myself a while ago|aa1gwaa2daa2goo2hvv23-i
+385|4|26|Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ¹Ꭶ²*||ᎦᏓᏙᎵᎦ|gada:do:lì:gā|I recently recognized myself|ga2daa2doo2lii1ga2
+386|5|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|ᏁᏗ||ᎤᏁᏗ|ù:nehdi|For him to have a liquid|uu1neh2di
+387|5|1||Ꭿ²Ꮵ||ᎯᏥ|hi:ji|You one, his mother|hii2ji
+388|5|1|Ꭿ̣²-|Ꭰ̣²Ꮣ||ᎭᏓ|hada|Let you (1) say|ha2da
+389|5|1|Ꮧ̣²-, Ꮧ̣²Ꭶ̣²-|ɂᏯ̣²Ꭶ||ᏫᏗᏯᎦ|widihyaga|Let him eat flexible things|wi2di2hya2ga
+390|5|1|Ꭸ²Ꮵ²-, Ꭸ²Ꭶ͓-|Ꭳ²Ꮅ³ᏍᏗ*||ᎨᎪᎵᏍᏗ|ge:go:lí:sdi|For them to be recognized|gee2goo2lii3sdi
+391|5|1|Ꮣ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᏓᎾᏓᏙᎵᎪᎢ|dà:nada:dohlgó:ɂi|They usually are acquainted|daa1naa2daa2dohl2goo3-i
+392|5|1|Ꮥ³Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᏕᎦᏓᏚᎵᎭ|dé:gadadu:líha|All of us are wanting each other|dee3ga2da2duu2li3ha
+393|5|2|Ꭲ¹Ꮒ²-|Ꭰ̣²Ꮣ||ᎢᎾᏓ|ì:nada|Let you (1) and me say|ii1na2da
+394|5|2|Ꭰ̣²-, Ꭶ̣²-|Ꭰ̣²Ꮣ²||ᎠᏓ|adā|He recently said|a2da2
+395|5|2|Ꮶ¹Ꮵ²-|ᏍᏗ²³Ꭶ||ᏫᏦᏥᏍᏗᎦ|wijò:ji:sdǐ:ga|Let them and me eat rod shaped things|wi2joo1jii2sdii23ga
+396|5|2|Ꮥ³Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᏕᎾᏓᏙᎵᎪᎢ|dé:nada:dohlgó:ɂi|You (1) and I usually are acquainted|dee3na2daa2dohl2goo3-i
+397|5|2|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|Ꭳ²Ꮅ²Ꭺ³Ꭲ*||ᏕᎪᎵᎪᎢ|de:go:li:gó:ɂi|I usually understand things|dee2goo2lii2goo3-i
+398|5|2|Ꮩ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᏙᎦᏓᏚᎵᎭ|dò:gadadu:líha|They and I are wanting each other|doo1ga2da2duu2li3ha
+399|5|3|Ꭲ¹Ꭹ²-|Ꭵ⁴Ꮜ||ᎢᎬᏌ|ì:gv̋:sa|All of us alone|ii1gvv4sa
+400|5|3|Ꭲ¹Ꮧ²-|Ꭰ̣²Ꮣ||ᎢᏓᏓ|ì:dada|Let all of us say|ii1da2da
+401|5|3|Ꮥ³Ꭹ²-|Ꮂ²³Ꭲ||ᏕᎩᎲᎢ|dé:gi:hv̌:ɂi|All of us had solid things a while ago|dee3gii2hvv23-i
+402|5|3|Ꭰ¹Ꮒ²-|Ꭰ̣²Ꮣ²||ᎠᎾᏓ|à:nadā|They recently said|aa1na2da2
+403|5|3|Ꮧ̣²Ꮒ²-|ᏍᏗ²³Ꭶ||ᏫᏗᏂᏍᏗᎦ|widini:sdǐ:ga|Let them eat rod shaped things|wi2di2nii2sdii23ga
+404|5|3|Ꮥ³Ꮣ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᏕᏓᏓᏙᎵᎪᎢ|dé:dada:dohlgó:ɂi|All of us usually are acquainted|dee3da2daa2dohl2goo3-i
+405|5|3|Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ²Ꭺ³Ꭲ*||ᎦᏓᏙᎵᎪᎢ|gada:do:li:gó:ɂi|I usually recognize myself|ga2daa2doo2lii2goo3-i
+406|5|3|Ꮪ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᏚᎾᏓᏚᎵᎭ|dù:nadadu:líha|They are wanting each other|duu1na2da2duu2li3ha
+407|5|4|Ꭳ¹Ꭹ²-|Ꭵ⁴Ꮜ||ᎣᎬᏌ|ò:gv̋:sa|They and I alone|oo1gvv4sa
+408|5|4|Ꮩ¹Ꭹ²-|Ꮂ²³Ꭲ||ᏙᎩᎲᎢ|dò:gi:hv̌:ɂi|They and I had solid things a while ago|doo1gii2hvv23-i
+409|5|4|Ꮳ̣²-, Ꮳ̣²-|ɂᎧ̣³Ꭽ||ᏣᎧᎭ|jakáha|He has you (1)|ja2ka3ha
+410|5|4|Ꭳ¹Ꮵ²-|Ꭰ̣²Ꮣ²||ᎣᏣᏓ|ò:jadā|They and I recently said|oo1ja2da2
+411|5|4|Ꮧ̣²Ꭹ²-|ɂᏰ¹ᏍᏗ||ᏗᎩᏰᏍᏗ|digi:hyè:sdi|For all of us to eat flexible things|di2gii2hyee1sdi
+412|5|4|Ꮶ¹ᏍᏗ²-|ᏍᏗ²³Ꭶ||ᏫᏦᏍᏗᏍᏗᎦ|wijò:sdi:sdǐ:ga|Let him and me eat rod shaped things|wi2joo1sdii2sdii23ga
+413|5|4|Ꮩ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᏙᏣᏓᏙᎵᎪᎢ|dò:jada:dohlgó:ɂi|They and I usually are acquainted|doo1ja2daa2dohl2goo3-i
+414|5|4|Ꮧ̣²Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²ᏚᎸ͓²Ꮧ||ᏗᎩᎾᏓᏚᎸᏗ|diginadaduhldi|For you (1) and me to want each other|di2gi2na2da2duhl2di
+415|5|4|Ꮥ²Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᏕᎩᎾᏓᏚᎵᎭ|de:ginadadu:líha|You (1) and I are wanting each other|dee2gi2na2da2duu2li3ha
+416|5|4|Ꮧ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏗᎾᏓᎦᏙᏍᏓ|dinadaktǒ:sda|Let you (1) and me look at each other|di2na2da2ktoo23sda
+417|5|5|Ꭴ¹Ꮒ²-|Ꭵ⁴Ꮜ||ᎤᏅᏌ|ù:nv̋:sa|They alone|uu1nvv4sa
+418|5|5|Ꮪ¹Ꮒ²-|Ꮂ²³Ꭲ||ᏚᏂᎲᎢ|dù:ni:hv̌:ɂi|They had solid things a while ago|duu1nii2hvv23-i
+419|5|5|Ꭳ¹ᏍᏗ²-|Ꭰ̣²Ꮣ²||ᎣᏍᏓᏓ|ò:sdadā|He and I recently said|oo1sda2da2
+420|5|5|Ꭳ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣³Ꭽ||ᏙᎦᏓᎧᎭ|dò:gada:káha|They and I have each other|doo1ga2daa2ka3ha
+421|5|5|Ꮩ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᏙᏍᏓᏓᏙᎵᎪᎢ|dò:sdada:dohlgó:ɂi|He and I usually are acquainted|doo1sda2daa2dohl2goo3-i
+422|5|5|Ꮧ̣²Ꭶ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏗᎦᏓᎪᏩᏛᏗ|digada:gowhtv́hdi|For all of us to see each other|di2ga2daa2gowh2tvh3di
+423|5|5|Ꮩ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᏙᎩᎾᏓᏚᎵᎭ|dò:ginadadu:líha|He and I are wanting each other|doo1gi2na2da2duu2li3ha
+424|5|6|Ꭹ̣²Ꮒ²-|Ꭵ⁴Ꮜ||ᎩᏅᏌ|ginv̋:sa|You (1) and I alone|gi2nvv4sa
+425|5|6|Ꮥ²Ꭹ̣²Ꮒ²-|Ꮂ²³Ꭲ||ᏕᎩᏂᎲᎢ|de:gini:hv̌:ɂi|You (1) and I had solid things a while ago|dee2gi2nii2hvv23-i
+426|5|6|Ꭴ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣³Ꭽ||ᏚᎾᏓᎧᎭ|dù:nada:káha|They have each other|duu1na2daa2ka3ha
+427|5|6|Ꮧ̣²Ꭹ̣²Ꮒ²-|ɂᏰ¹ᏍᏗ||ᏗᎩᏂᏰᏍᏗ|digini:hyè:sdi|For you (1) and me to eat flexible things|di2gi2nii2hyee1sdi
+428|5|7|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꭵ⁴Ꮜ||ᎣᎩᏅᏌ|ò:ginv̋:sa|He and I alone|oo1gi2nvv4sa
+429|5|7|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꮂ²³Ꭲ||ᏙᎩᏂᎲᎢ|dò:gini:hv̌:ɂi|He and I had solid things a while ago|doo1gi2nii2hvv23-i
+430|5|7|Ꭳ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣³Ꭽ||ᏙᎩᎾᏓᎧᎭ|dò:ginada:káha|He and I have each other|doo1gi2na2daa2ka3ha
+431|5|7|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|Ꭰ̣²Ꮪ²³Ꭶ²||ᏕᎦᏚᎦ|de:gatǔ:gā|He recently drank alcoholic drinks|dee2ga2tuu23ga2
+432|5|8|Ꮥ³Ꮵ²-|Ꮀ³Ꭲ||ᏕᏥᎰᎢ|dé:ji:hó:ɂi|You all usually have solid things|dee3jii2hoo3-i
+433|5|8|Ꮧ̣²Ꮵ̣²-|ᎣᎵ͓²Ꭹ||ᏗᏦᎵᎩ|dijohlgi|Let you all understand things|di2johl2gi
+434|5|9|Ꮥ²ᏍᏗ²-|Ꮀ³Ꭲ||ᏕᏍᏗᎰᎢ|de:sdi:hó:ɂi|You both usually have solid things|dee2sdii2hoo3-i
+435|5|9|Ꮧ̣²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭹ||ᏗᏍᏓᏓᏙᎵᎩ|disdada:dohlgi|Let you both be acquainted|di2sdaa2daa2dohl2gi
+436|5|9|Ꮧ̣²ᏍᏗ²-|Ꭰ̣²Ꮪ²³Ꭹ||ᏗᏍᏓᏚᎩ|disdatǔ:gi|Let you both drink alcoholic drinks|di2sda2tuu23gi
+437|5|11|Ꭸ²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᎨᎾᏚᎳ|ge:nadǔ:la|Let you (1) and me want them (animate)|gee2na2duu23la
+438|5|12|ᏍᎩ̣²-, ᏍᏆ͓-|Ꭳ²Ꮅ³ᏍᏗ||ᏍᏉᎵᏍᏗ|sgwo:hlísdi|For you (1) to recognize me|sgwoo2hli3sdi
+439|5|12|Ꭰ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭶ²||ᎠᎾᏓᏙᎵᎦ|à:nada:dohlgā|They recently recognized themselves|aa1naa2daa2dohl2ga2
+440|5|12|Ꭸ²Ꮧ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᎨᏓᏚᎳ|ge:dadǔ:la|Let all of us want them (animate)|gee2da2duu23la
+441|5|13|Ꭸ²Ꭹ²-|Ꭳ²Ꮅ³ᏍᏗ||ᎨᎪᎵᏍᏗ|ge:go:hlísdi|For them to recognize all of us|gee2goo2hli3sdi
+442|5|13|Ꭸ²Ꮵ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᎨᏣᏚᎳ|ge:jadǔ:la|Let you all want them (animate)|gee2ja2duu23la
+443|5|14|Ꭺ²Ꭹ²-|Ꭳ²Ꮅ³ᏍᏗ||ᎪᎪᎵᏍᏗ|go:go:hlísdi|For them to recognize them and me|goo2goo2hli3sdi
+444|5|14|Ꭸ²ᏍᏗ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᎨᏍᏓᏚᎳ|ge:sdadǔ:la|Let you both want them (animate)|gee2sda2duu23la
+445|5|15|Ꮶ¹Ꭹ²-|Ꭳ²Ꮅ³ᏍᏗ||ᏦᎪᎵᏍᏗ|jò:go:hlísdi|For them and me to understand things|joo1goo2hli3sdi
+446|5|16|Ꮷ²-, Ꮷ²Ꮹ͓-|Ꭳ²Ꮅ³ᏍᏗ||ᏧᏬᎵᏍᏗ|ju:wo:hlísdi|For him to understand things; For him to recognize them (animate)|juu2woo2hli3sdi
+447|5|16|ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²³Ꮃ||ᏍᏓᏓᏚᎳ|sdadadǔ:la|Let you both want yourselves|sdaa2da2duu23la
+448|5|17|ᏍᏗ²-|Ꭽ||ᏍᏗᎭ|sdi:ha|You both have something solid|sdii2ha
+449|5|17|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꭵ³²Ꮿ||ᏚᏮᏯ|du:wù:wâ:ya|He has rod shaped things|duu2wuu1waa32ya
+450|5|17|Ꭵ¹Ꭹ̣²-, Ꭵ¹Ꮖ͓-|ᎣᎵ͓²Ꭶ||ᎥᏉᎵᎦ|v̀:gwohlga|I am being recognized|vv1gwohl2ga
+451|5|17|Ꮷ¹Ꮒ²-|Ꭳ²Ꮅ³ᏍᏗ||ᏧᏃᎵᏍᏗ|jù:no:hlísdi|For them to understand things; For them to recognize them (animate)|juu1noo2hli3sdi
+452|5|18|Ꮳ̣²-|Ꭽ||ᏣᎭ|jaha|You (1) have something solid|ja2ha
+453|5|18|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|ᎣᎵ͓²Ꭶ||ᏕᎰᎵᎦ|de:hohlga|You (1) understand things|dee2hohl2ga
+454|5|18|Ꮧ̣²Ꮳ̣²-|Ꭳ²Ꮅ³ᏍᏗ||ᏗᏦᎵᏍᏗ|dijo:hlísdi|For you (1) to understand things; For you all to understand things|di2joo2hli3sdi
+455|5|19|Ꭲ¹Ꮵ²-|Ꭽ||ᎢᏥᎭ|ì:ji:ha|You all have something solid|ii1jii2ha
+456|5|19|Ꭸ²Ꭹ̣²Ꮒ²-|Ꭳ²Ꮅ³ᏍᏗ||ᎨᎩᏃᎵᏍᏗ|ge:gino:hlísdi|For them to recognize you (1) and me|gee2gi2noo2hli3sdi
+457|5|20|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꭽ||ᎠᎩᎭ|à:giha|I have something solid|aa1gi2ha
+458|5|20|Ꭺ²Ꭹ̣²Ꮒ²-|Ꭳ²Ꮅ³ᏍᏗ||ᎪᎩᏃᎵᏍᏗ|go:gino:hlísdi|For them to recognize him and me|goo2gi2noo2hli3sdi
+459|5|21|Ꭱ¹Ꭹ̣²Ꮒ²-|ɂᎪ³Ꮧ||ᏤᎩᏂᎪᏗ|jè:gini:kóhdi|For someone to have you (1) and me|jee1gi2nii2koh3di
+460|5|21|Ꮨ̣²-|Ꭺ¹Ꮹ²Ꮤ||ᏘᎪᏩᏔ|tigò:wahta|Let you (1) see them (inanimate)|ti2goo1wah2ta
+461|5|21|Ꮶ¹Ꭹ̣²Ꮒ²-|Ꭳ²Ꮅ³ᏍᏗ||ᏦᎩᏃᎵᏍᏗ|jò:gino:hlísdi|For him and me to understand things|joo1gi2noo2hli3sdi
+462|5|22|Ꮧ̣²Ꮧ̣²-|Ꭺ¹Ꮹ²Ꮤ||ᏗᏗᎪᏩᏔ|didi:gò:wahta|Let all of us see them (inanimate)|di2dii2goo1wah2ta
+463|5|22|Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᎩᎾᏓᏙᎵᏍᏗ|ginada:do:hlísdi|For you (1) and me to recognize ourselves|gi2na2daa2doo2hli3sdi
+464|5|22|Ꭰ¹Ꮵ̣²-, Ꭰ¹Ꭶ͓-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎠᎦᏚᎳ|à:gadǔ:lā|He was recently wanted|aa1ga2duu23la2
+465|5|23|Ꮧ̣³Ꮒ̣²-|Ꭺ¹Ꮹ²Ꮤ||ᏗᏂᎪᏩᏔ|díni:gò:wahta|Let you (1) and me see them (inanimate)|di3nii2goo1wah2ta
+466|5|23|Ꮧ̣²Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᏗᏣᏓᏙᎵᏍᏗ|dijada:do:hlísdi|For you all to be acquainted|di2ja2daa2doo2hli3sdi
+467|5|24|Ꮧ̣²Ꮵ̣²-, Ꮧ̣²Ꭶ͓-|Ꭺ¹Ꮹ²Ꮤ||ᏫᏗᏥᎪᏩᏔ|widijigò:wahta|Let me see them (inanimate)|wi2di2ji2goo1wah2ta
+468|5|26|Ꮣ¹Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ²||ᏓᏂᎪᏩᏔ|dà:ni:gò:wahtā|They recently saw them|daa1nii2goo1wah2ta2
+469|5|27|Ꮥ³Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ²||ᏕᏂᎪᏩᏔ|dé:ni:gò:wahtā|You (1) and I recently saw them (inanimate)|dee3nii2goo1wah2ta2
+470|5|28|Ꮵ̣²-, Ꭶ͓-|Ꭳ²Ꮅ¹Ꭶ*||ᎪᎵᎦ|go:lì:ga|I understand it|goo2lii1ga
+471|5|28|Ꭸ³Ꮵ²-|Ꭺ²Ꮂ²³Ꭲ||ᎨᏥᎪᎲᎢ|gé:ji:go:hv̌:ɂi|They saw you all a while ago|gee3jii2goo2hvv23-i
+472|5|28|Ꮥ³Ꮧ²-|Ꭺ¹Ꮹ²Ꮤ²||ᏕᏗᎪᏩᏔ|dé:di:gò:wahtā|All of us recently saw them (inanimate)|dee3dii2goo1wah2ta2
+473|5|29|Ꭺ²Ꮵ²-|Ꭺ²Ꮂ²³Ꭲ||ᎪᏥᎪᎲᎢ|go:ji:go:hv̌:ɂi|They and I saw them (animate) a while ago|goo2jii2goo2hvv23-i
+474|5|29|Ꮩ¹Ꮵ²-|Ꭺ¹Ꮹ²Ꮤ²||ᏙᏥᎪᏩᏔ|dò:ji:gò:wahtā|They and I recently saw them (inanimate)|doo1jii2goo1wah2ta2
+475|5|31|Ꮩ¹ᏍᏗ²-|Ꭺ¹Ꮹ²Ꮤ²||ᏙᏍᏗᎪᏩᏔ|dò:sdi:gò:wahtā|He and I recently saw them (inanimate)|doo1sdii2goo1wah2ta2
+476|5|33|Ꭺ²ᏍᏗ²-|Ꭺ²Ꮂ²³Ꭲ||ᎪᏍᏗᎪᎲᎢ|go:sdi:go:hv̌:ɂi|He and I saw them (animate) a while ago|goo2sdii2goo2hvv23-i
+477|6|1||Ꮵ²Ꮵ||ᏥᏥ|ji:ji|I, his mother|jii2ji
+478|6|1|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|ɂᏰ³Ꭰ*||ᏕᏥᏰᎠ|de:jiyé:ɂa|I am eating flexible things|dee2ji2yee3-a
+479|6|1|Ꮧ̣²-, Ꮧ̣²Ꭶ̣²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏫᏓᎭᏗᏔ|wida:dǐ:ta|Let him drink drinks|wi2daa2dii23ta
+480|6|1|Ꮣ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ||ᏓᎾᏓᎦᏙᏍᏗ|dà:nadà:ktǒ:sdi|They are looking at each other|daa1naa2daa1ktoo23sdi
+481|6|1|Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ*||ᎦᏓᎦᏙᏍᏗ|gadagà:tǒ:sdi|I am looking at myself|ga2da2gaa1too23sdi
+482|6|1|Ꮶ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏙᏗ||ᏦᎦᏓᎦᏙᏍᏙᏗ|jò:gadaktǒ:sdóhdi|For them and me to look at each other|joo1ga2da2ktoo23sdoh3di
+483|6|1|Ꮥ³Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᏕᎦᏓᏚᎸᎲᎢ|dé:gadadu:lv:hv̌:ɂi|All of us wanted each other a while ago|dee3ga2da2duu2lvv2hvv23-i
+484|6|2|Ꮶ¹Ꮵ²-|ɂᏯ̣²Ꭶ||ᏫᏦᏥᏯᎦ|wijò:ji:hyaga|Let them and me eat flexible things|wi2joo1jii2hya2ga
+485|6|2|Ꮣ¹Ꮒ²-|ᏍᏗ²³Ꭶ²||ᏓᏂᏍᏗᎦ|dà:ni:sdǐ:gā|They recently ate rod shaped things|daa1nii2sdii23ga2
+486|6|2|Ꮷ¹Ꮒ²-|ɂ¹Ꮯ²³Ꮠ̣³Ꮧ||ᏧᏂᏟᏐᏗ|jù:nì:hlǐ:sóhdi|For them to gather things|juu1nii1hlii23soh3di
+487|6|2|Ꮥ³Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ||ᏕᎾᏓᎦᏙᏍᏗ|dé:nadà:ktǒ:sdi|You (1) and I are looking at each other|dee3na2daa1ktoo23sdi
+488|6|2|Ꮷ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏙᏗ||ᏧᎾᏓᎦᏙᏍᏙᏗ|jù:nadaktǒ:sdóhdi|For them to look at each other|juu1na2da2ktoo23sdoh3di
+489|6|2|Ꮩ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᏙᎦᏓᏚᎸᎲᎢ|dò:gadadu:lv:hv̌:ɂi|They and I wanted each other a while ago|doo1ga2da2duu2lvv2hvv23-i
+490|6|3|Ꮥ³Ꮒ²-|ᏍᏗ²³Ꭶ²||ᏕᏂᏍᏗᎦ|dé:ni:sdǐ:gā|You (1) and I recently ate rod shaped things|dee3nii2sdii23ga2
+491|6|3|Ꮧ̣¹Ꭹ̣²-, Ꮧ̣¹Ꮖ͓-|ɂ¹Ꮯ²³Ꮠ̣³Ꮧ||ᏗᎩᏟᏐᏗ|dìgìhlǐ:sóhdi|For me to gather things|di1gi1hlii23soh3di
+492|6|3|Ꮥ³Ꮣ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ||ᏕᏓᏓᎦᏙᏍᏗ|dé:dadà:ktǒ:sdi|All of us are looking at each other|dee3da2daa1ktoo23sdi
+493|6|3|Ꮪ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᏚᎾᏓᏚᎸᎲᎢ|dù:nadadu:lv:hv̌:ɂi|They wanted each other a while ago|duu1na2da2duu2lvv2hvv23-i
+494|6|3|Ꮶ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏙᏗ||ᏦᎩᎾᏓᎦᏙᏍᏙᏗ|jò:ginadaktǒ:sdóhdi|For him and me to look at each other|joo1gi2na2da2ktoo23sdoh3di
+495|6|4|Ꮥ³Ꮧ²-|ᏍᏗ²³Ꭶ²||ᏕᏗᏍᏗᎦ|dé:di:sdǐ:gā|All of us recently ate rod shaped things|dee3dii2sdii23ga2
+496|6|4|Ꮶ¹Ꭹ̣²Ꮒ²-|ɂ¹Ꮯ²³Ꮠ̣³Ꮧ||ᏦᎩᏂᏟᏐᏗ|jò:ginì:hlǐ:sóhdi|For him and me to gather things|joo1gi2nii1hlii23soh3di
+497|6|4|Ꮩ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ||ᏙᏣᏓᎦᏙᏍᏗ|dò:jadà:ktǒ:sdi|They and I are looking at each other|doo1ja2daa1ktoo23sdi
+498|6|4|Ꮥ²Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᏕᎩᎾᏓᏚᎸᎲᎢ|de:ginadadu:lv:hv̌:ɂi|You (1) and I wanted each other a while ago|dee2gi2na2da2duu2lvv2hvv23-i
+499|6|5|Ꮨ̣²-|ᏍᏗ²³Ꭶ||ᏘᏍᏗᎦ|tisdǐ:ga|Let you (1) eat rod shaped things|ti2sdii23ga
+500|6|5|Ꮩ¹Ꮵ²-|ᏍᏗ²³Ꭶ²||ᏙᏥᏍᏗᎦ|dò:ji:sdǐ:gā|They and I recently ate rod shaped things|doo1jii2sdii23ga2
+501|6|5|Ꮧ̣²Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²ᏚᎸ͓²Ꮧ||ᏗᎦᏓᏚᎸᏗ|digadaduhldi|For all of us to want each other|di2ga2da2duhl2di
+502|6|5|Ꮩ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ||ᏙᏍᏓᏓᎦᏙᏍᏗ|dò:sdadà:ktǒ:sdi|He and I are looking at each other|doo1sda2daa1ktoo23sdi
+503|6|5|Ꮩ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᏙᎩᎾᏓᏚᎸᎲᎢ|dò:ginadadu:lv:hv̌:ɂi|He and I wanted each other a while ago|doo1gi2na2da2duu2lvv2hvv23-i
+504|6|6|Ꮩ¹Ꭹ²-|Ꭵ²³ᏲᎢ||ᏙᎬᏲᎢ|dò:gù:wǎ:yóɂi|They and I usually have rod shaped things|doo1guu1waa23yo3-i
+505|6|6|Ꮧ̣²Ꮧ̣²-|ᏍᏗ²³Ꭶ||ᏗᏗᏍᏗᎦ|didi:sdǐ:ga|Let all of us eat rod shaped things|di2dii2sdii23ga
+506|6|6|Ꮩ¹ᏍᏗ²-|ᏍᏗ²³Ꭶ²||ᏙᏍᏗᏍᏗᎦ|dò:sdi:sdǐ:gā|He and I recently ate rod shaped things|doo1sdii2sdii23ga2
+507|6|6|Ꮷ²-, Ꮷ²Ꮹ͓-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏧᎪᏩᏛᏗ|ju:gowhtv́hdi|For him to see them|juu2gowh2tvh3di
+508|6|6|Ꮵ²-, Ꮵ²Ꮿ͓-|Ꭳ²Ꮅ²Ꭺ³Ꭲ*||ᏥᏲᎵᎪᎢ|ji:yo:li:gó:ɂi|I usually recognize him|jii2yoo2lii2goo3-i
+509|6|7|Ꮪ¹Ꮒ²-|Ꭵ²³ᏲᎢ||ᏚᏅᏲᎢ|dù:nù:wǎ:yóɂi|They usually have rod shaped things|duu1nuu1waa23yo3-i
+510|6|7|Ꮧ̣²Ꮳ̣²-|ɂᏰ¹ᏍᏗ||ᏗᏣᏰᏍᏗ|dijahyè:sdi|For you (1) to eat flexible things|di2ja2hyee1sdi
+511|6|7|Ꮧ̣³Ꮒ̣²-|ᏍᏗ²³Ꭶ||ᏗᏂᏍᏗᎦ|díni:sdǐ:ga|Let you (1) and me eat rod shaped things|di3nii2sdii23ga
+512|6|7|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|ɂ¹Ꮯ²³Ꮜ²||ᏕᎦᏟᏌ|de:gàhlǐ:sā|He recently gathered things|dee2ga1hlii23sa2
+513|6|7|Ꮧ̣²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏗᏍᏓᏓᎪᏩᏛᏗ|disdada:gowhtv́hdi|For you both to see each other|di2sdaa2daa2gowh2tvh3di
+514|6|8|ᏍᏗ²-|Ꭵ²³Ꮜ||ᏍᏛᏌ|sdv̌:sa|Your two selves|sdvv23sa
+515|6|8|Ꮥ³Ꮵ²-|Ꮂ²³Ꭲ||ᏕᏥᎲᎢ|dé:ji:hv̌:ɂi|You all had solid things a while ago|dee3jii2hvv23-i
+516|6|8|Ꮧ̣²Ꮵ̣²-|ɂᏰ¹ᏍᏗ||ᏗᏥᏰᏍᏗ|diji:hyè:sdi|For you all to eat flexible things|di2jii2hyee1sdi
+517|6|8|Ꮥ²Ꭹ̣²Ꮒ²-|Ꭵ²³ᏲᎢ||ᏕᎩᏅᏲᎢ|de:ginù:wǎ:yóɂi|You (1) and I usually have rod shaped things|dee2gi2nuu1waa23yo3-i
+518|6|8|Ꮧ̣²Ꮵ̣²-, Ꮧ̣²Ꭶ͓-|ᏍᏗ²³Ꭶ||ᏫᏗᏥᏍᏗᎦ|widijisdǐ:ga|Let me eat rod shaped things|wi2di2ji2sdii23ga
+519|6|8|Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|Ꭳ²Ꮅ²Ꭺ³Ꭲ*||ᎦᏥᏲᎵᎪᎢ|gaji:yo:li:gó:ɂi|I usually recognize them (animate)|ga2jii2yoo2lii2goo3-i
+520|6|9|Ꭲ¹Ꮵ²-|Ꭵ²³Ꮜ||ᎢᏨᏌ|ì:jv̌:sa|Your all selves|ii1jvv23sa
+521|6|9|Ꮥ²ᏍᏗ²-|Ꮂ²³Ꭲ||ᏕᏍᏗᎲᎢ|de:sdi:hv̌:ɂi|You both had solid things a while ago|dee2sdii2hvv23-i
+522|6|9|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꭵ²³ᏲᎢ||ᏙᎩᏅᏲᎢ|dò:ginù:wǎ:yóɂi|He and I usually have rod shaped things|doo1gi2nuu1waa23yo3-i
+523|6|9|Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣³Ꭽ||ᏕᎩᎾᏓᎧᎭ|de:ginada:káha|You (1) and I have each other|dee2gi2na2daa2ka3ha
+524|6|10|Ꭲ¹Ꭹ²-|Ꮀ³Ꭲ||ᎢᎩᎰᎢ|ì:gi:hó:ɂi|All of us usually have something solid|ii1gii2hoo3-i
+525|6|11|Ꭳ¹Ꭹ²-|Ꮀ³Ꭲ||ᎣᎩᎰᎢ|ò:gi:hó:ɂi|They and I usually have something solid|oo1gii2hoo3-i
+526|6|12|Ꭴ¹Ꮒ²-|Ꮀ³Ꭲ||ᎤᏂᎰᎢ|ù:ni:hó:ɂi|They usually have something solid|uu1nii2hoo3-i
+527|6|13|Ꭹ̣²Ꮒ²-|Ꮀ³Ꭲ||ᎩᏂᎰᎢ|gini:hó:ɂi|You (1) and I usually have something solid|gi2nii2hoo3-i
+528|6|14|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꮀ³Ꭲ||ᏓᎩᎰᎢ|dà:gihó:ɂi|I usually have solid things|daa1gi2hoo3-i
+529|6|15|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꮀ³Ꭲ||ᏕᏣᎰᎢ|de:jahó:ɂi|You (1) usually have solid things|dee2ja2hoo3-i
+530|6|16|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꮀ³Ꭲ||ᎣᎩᏂᎰᎢ|ò:gini:hó:ɂi|He and I usually have something solid|oo1gi2nii2hoo3-i
+531|6|17|Ꮧ̣²Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭹ||ᏗᏣᏓᏙᎵᎩ|dijada:dohlgi|Let you all be acquainted|di2ja2daa2dohl2gi
+532|6|17|ᏍᎩ̣²Ꮒ²-|Ꭳ²Ꮅ¹Ꭹ*||ᏍᎩᏃᎵᎩ|sgino:lì:gi|Let you (1) or both recognize us both|sgi2noo2lii1gi
+533|6|18|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|ᎣᎵ͓²Ꭶ²||ᏕᎰᎵᎦ|de:hohlgā|You (1) recently understood things|dee2hohl2ga2
+534|6|19|Ꮧ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭹ||ᏫᏗᎾᏓᏙᎵᎩ|widinada:dohlgi|Let them be acquainted|wi2di2nadaa2dohl2gi
+535|6|20|Ꭱ¹Ꭹ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᎡᎦᏚᎳ|è:gadǔ:la|Let all of us be wanted|ee1ga2duu23la
+536|6|21|Ꭱ¹Ꮒ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᎡᎾᏚᎳ|è:nadǔ:la|Let you (1) and me want him|ee1na2duu23la
+537|6|22|Ꭱ¹Ꮧ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᎡᏓᏚᎳ|è:dadǔ:la|Let all of us want him|ee1da2duu23la
+538|6|23|Ꭱ¹Ꮵ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᎡᏣᏚᎳ|è:jadǔ:la|Let you all want him; Let you (1) be wanted; Let you all be wanted|ee1ja2duu23la
+539|6|24|Ꮧ̣²Ꭹ²-|Ꭳ²Ꮅ³ᏍᏗ||ᏗᎪᎵᏍᏗ|digo:hlísdi|For all of us to understand things|di2goo2hli3sdi
+540|6|25|Ꮧ̣²Ꭹ̣²Ꮒ²-|Ꭳ²Ꮅ³ᏍᏗ||ᏗᎩᏃᎵᏍᏗ|digino:hlísdi|For you (1) and me to understand things|di2gi2noo2hli3sdi
+541|6|25|Ꭱ¹ᏍᏗ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᎡᏍᏓᏚᎳ|è:sdadǔ:la|Let you both want him; Let you both be wanted|ee1sda2duu23la
+542|6|26|Ꭸ²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎨᎾᏚᎳ|ge:nadǔ:lā|You (1) and I recently wanted them (animate)|gee2na2duu23la2
+543|6|27|Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|Ꭺ¹Ꮹ²Ꮤ||ᎦᎯᎪᏩᏔ|gahi:gò:wahta|Let you (1) see them (animate)|ga2hii2goo1wah2ta
+544|6|27|Ꭱ¹Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᎡᎩᎾᏚᎳ|è:ginadǔ:la|Let you (1) and me be wanted|ee1gi2na2duu23la
+545|6|27|Ꭸ²Ꮧ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎨᏓᏚᎳ|ge:dadǔ:lā|All of us recently wanted them (animate)|gee2da2duu23la2
+546|6|28|Ꭸ²Ꮵ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎨᏣᏚᎳ|ge:jadǔ:lā|You all recently wanted them (animate); They recently wanted you (1)|gee2ja2duu23la2
+547|6|29|Ꭸ²ᏍᏗ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎨᏍᏓᏚᎳ|ge:sdadǔ:lā|You both recently wanted them (animate); They recently wanted you both|gee2sda2duu23la2
+548|6|34|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꭺ²Ꮂ²³Ꭲ||ᏚᎪᎲᎢ|du:go:hv̌:ɂi|He saw them a while ago|duu2goo2hvv23-i
+549|6|34|Ꭸ³Ꮵ²-|Ꭺ¹Ꮹ²Ꮤ²||ᎨᏥᎪᏩᏔ|gé:ji:gò:wahtā|They recently saw you all|gee3jii2goo1wah2ta2
+550|6|35|Ꭺ²Ꮵ²-|Ꭺ¹Ꮹ²Ꮤ²||ᎪᏥᎪᏩᏔ|go:ji:gò:wahtā|They and I recently saw them (animate)|goo2jii2goo1wah2ta2
+551|6|35|Ꭼ²Ꭹ̣²-, Ꭼ²Ꮖ͓-|Ꭺ²Ꮂ²³Ꭲ||ᎬᎩᎪᎲᎢ|gv:gigo:hv̌:ɂi|They saw me a while ago|gvv2gi2goo2hvv23-i
+552|6|37|Ꭺ²ᏍᏗ²-|Ꭺ¹Ꮹ²Ꮤ²||ᎪᏍᏗᎪᏩᏔ|go:sdi:gò:wahtā|He and I recently saw them (animate)|goo2sdii2goo1wah2ta2
+553|7|1||Ꭰ̣²Ᏼ||ᎠᏴ|ayv|I, Me; We, Us|a2yv
+554|7|1|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꭾ³ᏍᏗ||ᏚᎮᏍᏗ|du:hé:sdi|He will be having solid things|duu2hee3sdi
+555|7|1|Ꭰ̣²-, Ꭶ̣²-|Ꭰ¹Ꮧ̣²Ꭽ||ᎠᏗᎭ|adiha|He is saying|a2di2ha
+556|7|1|Ꮧ̣²Ꮵ̣²-, Ꮧ̣²Ꭶ͓-|ɂᏯ̣²Ꭶ*||ᏫᏗᏥᏯᎦ|widijiyaga|Let me eat flexible things|wi2di2ji2ya2ga
+557|7|1|Ꮵ̣²-, Ꭶ͓-|Ꭰ¹Ꮧ̣²Ꭰ*||ᎦᏗᎠ|gadí:ɂa|I am saying|ga2dii3-a
+558|7|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ᏺ¹Ꮟ²³Ꮜ²||ᎤᏲᏏᏌ|ù:yò:sǐ:sā|He was recently hungry|uu1yoo1sii23sa2
+559|7|1|Ꭴ¹Ꮣ²[Ꮣ͓]-|ɂᎧ̣²Ꮀ³Ꭲ||ᎤᏓᎧᎰᎢ|ù:da:kahó:ɂi|He usually has himself|uu1daa2ka2hoo3-i
+560|7|1|Ꮶ¹Ꮵ²-|ɂ¹Ꮪ²Ꮂ¹Ꭶ||ᏫᏦᏥᏚᎲᎦ|wijò:jì:du:hv̀:ga|Let them and me bake things|wi2joo1jii1duu2hvv1ga
+561|7|1|Ꮣ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏓᎾᏓᎪᏩᏘᎭ|dà:nada:gowhtíha|They are seeing each other|daa1naa2daa2gowh2ti3ha
+562|7|1|Ꮷ²-, Ꮷ²Ꮹ͓-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᏧᏍᏗᎩᏍᏗ|ju:sdǐ:gî:sdi|For him to eat rod shaped things|juu2sdii23gii32sdi
+563|7|1|Ꮶ¹Ꭹ²-|Ꭰ̣²Ꮪ²³Ꭹ³²ᏍᏗ||ᏦᎦᏚᎩᏍᏗ|jò:gatǔ:gî:sdi|For them and me to drink alcoholic drinks|joo1ga2tuu23gii32sdi
+564|7|1|Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ²*||ᎦᏓᎦᏙᏍᏓ|gadagà:tǒ:sdā|I recently looked at myself|ga2da2gaa1too23sda2
+565|7|2|Ꭿ̣²-|Ꭰ¹Ꮧ̣²Ꭽ||ᎭᏗᎭ|hadiha|You (1) are saying|ha2di2ha
+566|7|2|Ꮳ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣²Ꮀ³Ꭲ||ᏣᏓᎧᎰᎢ|jada:kahó:ɂi|You (1) usually have yourself|ja2daa2ka2hoo3-i
+567|7|2|Ꮧ̣²Ꮒ²-|ɂ¹Ꮪ²Ꮂ¹Ꭶ||ᏫᏗᏂᏚᎲᎦ|widinì:du:hv̀:ga|Let them bake things|wi2di2nii1duu2hvv1ga
+568|7|2|Ꮥ³Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏕᎾᏓᎪᏩᏘᎭ|dé:nada:gowhtíha|You (1) and I are seeing each other|dee3na2daa2gowh2ti3ha
+569|7|2|Ꮷ¹Ꮒ²-|Ꭰ̣²Ꮪ²³Ꭹ³²ᏍᏗ||ᏧᎾᏚᎩᏍᏗ|jù:natǔ:gî:sdi|For them to drink alcoholic drinks|juu1na2tuu23gii32sdi
+570|7|3|Ꭼ²-, Ꭼ²Ꮿ͓-|Ꭳ²Ꮅ³ᏍᏗ*||ᎬᏲᎵᏍᏗ|gv:yo:lí:sdi|For me to recognize you (1)|gvv2yoo2lii3sdi
+571|7|3|Ꮶ¹ᏍᏗ²-|ɂ¹Ꮪ²Ꮂ¹Ꭶ||ᏫᏦᏍᏗᏚᎲᎦ|wijò:sdì:du:hv̀:ga|Let him and me bake things|wi2joo1sdii1duu2hvv1ga
+572|7|3|Ꭰ¹Ꮖ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣²Ꮀ³Ꭲ||ᎠᏆᏓᎧᎰᎢ|à:gwada:kahó:ɂi|I usually have myself|aa1gwaa2daa2ka2hoo3-i
+573|7|3|Ꮥ³Ꮣ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏕᏓᏓᎪᏩᏘᎭ|dé:dada:gowhtíha|All of us are seeing each other|dee3da2daa2gowh2ti3ha
+574|7|4|Ꮵ²-, Ꮵ²Ꮿ͓-|Ꭳ²Ꮅ³ᏍᏗ*||ᏥᏲᎵᏍᏗ|ji:yo:lí:sdi|For me to recognize him|jii2yoo2lii3sdi
+575|7|4|Ꮩ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏙᏣᏓᎪᏩᏘᎭ|dò:jada:gowhtíha|They and I are seeing each other|doo1ja2daa2gowh2ti3ha
+576|7|4|Ꮧ̣¹Ꭹ̣²-, Ꮧ̣¹Ꮖ͓-|Ꭰ̣²Ꮪ²³Ꭹ³²ᏍᏗ||ᏗᏆᏚᎩᏍᏗ|dìgwatǔ:gî:sdi|For me to drink alcoholic drinks|di1gwa2tuu23gii32sdi
+577|7|5|Ꮨ̣²-|ɂᏯ̣²Ꭶ||ᏘᏯᎦ|tihyaga|Let you (1) eat flexible things|ti2hya2ga
+578|7|5|Ꮩ¹ᏍᏗ²-|ɂᏯ̣²Ꭶ²||ᏙᏍᏗᏯᎦ|dò:sdi:hyagā|He and I recently ate flexible things|doo1sdii2hya2ga2
+579|7|5|ᏍᏛ²-, ᏍᏛ²Ꮿ͓-|Ꭳ²Ꮅ³ᏍᏗ*||ᏍᏛᏲᎵᏍᏗ|sdv:yo:lí:sdi|For me to recognize you both; For we two to recognize you (1) or you both|sdvv2yoo2lii3sdi
+580|7|5|Ꮩ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏙᏍᏓᏓᎪᏩᏘᎭ|dò:sdada:gowhtíha|He and I are seeing each other|doo1sda2daa2gowh2ti3ha
+581|7|5|Ꮧ̣²Ꭹ²-|ɂ¹Ꮯ²³Ꮠ̣³Ꮧ||ᏗᎩᏟᏐᏗ|digì:hlǐ:sóhdi|For all of us to gather things|di2gii1hlii23soh3di
+582|7|5|Ꮧ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏫᏗᎾᏓᎦᏙᏍᏓ|widinadaktǒ:sda|Let them look at each other|wi2di2nada2ktoo23sda
+583|7|5|Ꮶ¹Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꭹ³²ᏍᏗ||ᏦᎩᎾᏚᎩᏍᏗ|jò:ginatǔ:gî:sdi|For him and me to drink alcoholic drinks|joo1gi2na2tuu23gii32sdi
+584|7|5|Ꮧ̣²Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏙᏗ||ᏗᎦᏓᎦᏙᏍᏙᏗ|digadaktǒ:sdóhdi|For all of us to look at each other|di2ga2da2ktoo23sdoh3di
+585|7|6|Ꮩ¹Ꭹ²-|Ꭵ²³ᏴᎢ||ᏙᎬᏴᎢ|dò:gù:wǎ:yv́:ɂi|They and I had rod shaped things a while ago|doo1guu1waa23yvv3-i
+586|7|6|Ꮧ̣²Ꮧ̣²-|ɂᏯ̣²Ꭶ||ᏗᏗᏯᎦ|didi:hyaga|Let all of us eat flexible things|di2dii2hya2ga
+587|7|6|Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|Ꭳ²Ꮅ³ᏍᏗ*||ᎦᏥᏲᎵᏍᏗ|gaji:yo:lí:sdi|For me to recognize them (animate)|ga2jii2yoo2lii3sdi
+588|7|6|Ꮧ̣²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²ᏚᎸ͓²Ꮧ||ᏗᏍᏓᏓᏚᎸᏗ|disdadaduhldi|For you both to want each other|di2sdaa2da2duhl2di
+589|7|6|Ꮧ̣²Ꭹ̣²Ꮒ²-|ɂ¹Ꮯ²³Ꮠ̣³Ꮧ||ᏗᎩᏂᏟᏐᏗ|diginì:hlǐ:sóhdi|For you (1) and me to gather things|di2gi2nii1hlii23soh3di
+590|7|7|Ꮧ̣³Ꮒ̣²-|ɂᏯ̣²Ꭶ||ᏗᏂᏯᎦ|díni:hyaga|Let you (1) and me eat flexible things|di3nii2hya2ga
+591|7|8|Ꭰ¹Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᎠᏓᏙᎵᎪᎢ|à:da:dohlgó:ɂi|He usually recognizes himself|aa1daa2dohl2goo3-i
+592|7|8|Ꮧ̣²Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏗᏣᏓᎪᏩᏛᏗ|dijada:gowhtv́hdi|For you all to see each other|di2ja2daa2gowh2tvh3di
+593|7|9|Ꮧ̣²ᏍᏗ²-|ɂᏰ¹ᏍᏗ||ᏗᏍᏗᏰᏍᏗ|disdi:hyè:sdi|For you both to eat flexible things|di2sdii2hyee1sdi
+594|7|9|Ꭽ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᎭᏓᏙᎵᎪᎢ|hada:dohlgó:ɂi|You (1) usually recognize yourself|haa2daa2dohl2goo3-i
+595|7|10|Ꭲ¹Ꭹ²-|Ꮂ²³Ꭲ||ᎢᎩᎲᎢ|ì:gi:hv̌:ɂi|All of us had something solid a while ago|ii1gii2hvv23-i
+596|7|10|Ꭱ¹Ꮳ̣²-, Ꭱ¹Ꮳ̣²-|ɂᎧ̣³Ꭽ||ᎡᏣᎧᎭ|è:jakáha|Someone has you (1)|ee1ja2ka3ha
+597|7|10|Ꮧ̣²-, Ꮧ̣²Ꭶ̣²-|ɂ¹Ꮯ²³Ꮜ||ᏫᏗᎦᏟᏌ|widigàhlǐ:sa|Let him gather things|wi2di2ga1hlii23sa
+598|7|10|Ꭰ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᎠᎾᏓᏙᎵᎪᎢ|à:nada:dohlgó:ɂi|They usually recognize themselves|aa1naa2daa2dohl2goo3-i
+599|7|11|Ꭳ¹Ꭹ²-|Ꮂ²³Ꭲ||ᎣᎩᎲᎢ|ò:gi:hv̌:ɂi|They and I had something solid a while ago|oo1gii2hvv23-i
+600|7|11|Ꭲ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᎢᎾᏓᏙᎵᎪᎢ|ì:nada:dohlgó:ɂi|You (1) and I usually recognize ourselves|ii1na2daa2dohl2goo3-i
+601|7|12|Ꭴ¹Ꮒ²-|Ꮂ²³Ꭲ||ᎤᏂᎲᎢ|ù:ni:hv̌:ɂi|They had something solid a while ago|uu1nii2hvv23-i
+602|7|12|Ꭲ¹Ꮣ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᎢᏓᏓᏙᎵᎪᎢ|ì:dada:dohlgó:ɂi|All of us usually recognize ourselves|ii1da2daa2dohl2goo3-i
+603|7|13|Ꭹ̣²Ꮒ²-|Ꮂ²³Ꭲ||ᎩᏂᎲᎢ|gini:hv̌:ɂi|You (1) and I had something solid a while ago|gi2nii2hvv23-i
+604|7|13|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|ɂ¹Ꮯ²³Ꮜ²||ᏕᏥᏟᏌ|de:jìhlǐ:sā|I recently gathered things|dee2ji1hlii23sa2
+605|7|13|Ꭳ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᎣᏣᏓᏙᎵᎪᎢ|ò:jada:dohlgó:ɂi|They and I usually recognize ourselves|oo1ja2daa2dohl2goo3-i
+606|7|14|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꮂ²³Ꭲ||ᏓᎩᎲᎢ|dà:gihv̌:ɂi|I had solid things a while ago|daa1gi2hvv23-i
+607|7|14|Ꮥ³Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᏕᏣᏓᏙᎵᎪᎢ|dé:jada:dohlgó:ɂi|You all usually are acquainted|dee3ja2daa2dohl2goo3-i
+608|7|15|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꮂ²³Ꭲ||ᏕᏣᎲᎢ|de:jahv̌:ɂi|You (1) had solid things a while ago|dee2ja2hvv23-i
+609|7|15|Ꭳ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᎣᏍᏓᏓᏙᎵᎪᎢ|ò:sdada:dohlgó:ɂi|He and I usually recognize ourselves|oo1sda2daa2dohl2goo3-i
+610|7|16|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꮂ²³Ꭲ||ᎣᎩᏂᎲᎢ|ò:gini:hv̌:ɂi|He and I had something solid a while ago|oo1gi2nii2hvv23-i
+611|7|16|Ꮥ²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭺ³Ꭲ||ᏕᏍᏓᏓᏙᎵᎪᎢ|de:sdada:dohlgó:ɂi|You both usually are acquainted|dee2sdaa2daa2dohl2goo3-i
+612|7|18|ᏍᎩ̣²Ꮒ²-|Ꭳ²Ꮅ¹Ꭹ*||ᏍᎩᏃᎵᎩ|sgino:lì:gi|Let you both recognize me|sgii2noo2lii1gi
+613|7|26|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|ᎣᎵ͓²Ꭶ||ᏕᎪᎵᎦ|de:gohlga|He understands things; He recognizes them (animate)|dee2gohl2ga
+614|7|26|ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᏍᏓᏓᏙᎵᏍᏗ|sdada:do:hlísdi|For you both to recognize yourselves|sdaa2daa2doo2hli3sdi
+615|7|27|Ꭲ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᎢᎦᏓᏙᎵᏍᏗ|ì:gada:do:hlísdi|For all of us to recognize ourselves|ii1ga2daa2doo2hli3sdi
+616|7|28|Ꭳ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᎣᎦᏓᏙᎵᏍᏗ|ò:gada:do:hlísdi|For them and me to recognize ourselves|oo1ga2daa2doo2hli3sdi
+617|7|29|Ꮧ̣²Ꮵ̣²-|Ꭺ¹Ꮹ²Ꮤ||ᏗᏥᎪᏩᏔ|diji:gò:wahta|Let you all see them (inanimate)|di2jii2goo1wah2ta
+618|7|29|Ꭴ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᎤᎾᏓᏙᎵᏍᏗ|ù:nada:do:hlísdi|For them to recognize themselves|uu1na2daa2doo2hli3sdi
+619|7|30|Ꭳ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᎣᎩᎾᏓᏙᎵᏍᏗ|ò:ginada:do:hlísdi|For him and me to recognize ourselves|oo1gi2na2daa2doo2hli3sdi
+620|7|32|Ꭱ¹Ꭹ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎡᎦᏚᎳ|è:gadǔ:lā|All of us were recently wanted|ee1ga2duu23la2
+621|7|36|Ꭸ²Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᎨᏂᎪᎲᎢ|ge:ni:go:hv̌:ɂi|You (1) and I saw them (animate) a while ago|gee2nii2goo2hvv23-i
+622|7|36|Ꭱ¹ᏍᏗ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎡᏍᏓᏚᎳ|è:sdadǔ:lā|You both recently wanted him; You both were recently wanted|ee1sda2duu23la2
+623|7|37|Ꭸ²Ꮧ²-|Ꭺ²Ꮂ²³Ꭲ||ᎨᏗᎪᎲᎢ|ge:di:go:hv̌:ɂi|All of us saw them (animate) a while ago|gee2dii2goo2hvv23-i
+624|7|37|Ꭱ¹Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᎡᎩᎾᏚᎳ|è:ginadǔ:lā|You (1) and I were recently wanted|ee1gi2na2duu23la2
+625|7|38|Ꭸ²Ꮵ²-|Ꭺ²Ꮂ²³Ꭲ||ᎨᏥᎪᎲᎢ|ge:ji:go:hv̌:ɂi|You all saw them (animate) a while ago; They were seen a while ago|gee2jii2goo2hvv23-i
+626|7|39|Ꭸ²ᏍᏗ²-|Ꭺ²Ꮂ²³Ꭲ||ᎨᏍᏗᎪᎲᎢ|ge:sdi:go:hv̌:ɂi|You both saw them (animate) a while ago; They saw you both a while ago|gee2sdii2goo2hvv23-i
+627|7|41|Ꭼ²Ꭹ̣²-, Ꭼ²Ꮖ͓-|Ꭺ¹Ꮹ²Ꮤ²||ᎬᎩᎪᏩᏔ|gv:gigò:wahtā|They recently saw me|gvv2gi2goo1wah2ta2
+628|8|1|Ꭰ¹Ꮒ²-|ɂᎴ¹Ꭶ||ᎠᏂᎴᎦ|à:ní:lè:ga|They are climbing it|aa1nii3lee1ga
+629|8|1|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꮎ̣³Ꭰ||ᏚᎾᎠ|du:náɂa|He has flexible things|duu2na3-a
+630|8|1||Ꭱ²Ꮩ²Ꮣ||ᎡᏙᏓ|e:do:da|Father|ee2doo2da
+631|8|1|Ꮷ²-, Ꮷ²Ꮹ͓-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᏧᏗᏔᏍᏗ|ju:di:tasdi|For him to drink drinks|juu2dii2ta2sdi
+632|8|1|Ꮣ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᏓᎾᏓᎦᏙᏍᏓ|dà:nadaktǒ:sdā|They recently looked at each other|daa1naa2da2ktoo23sda2
+633|8|2|Ꭳ¹Ꮵ²-|ɂᎴ¹Ꭶ||ᎣᏥᎴᎦ|ò:jí:lè:ga|They and I are climbing it|oo1jii3lee1ga
+634|8|2|Ꮵ̣²-, Ꭶ͓-|Ꭰ̣²Ꮪ²³Ꭶ²*||ᎦᏚᎦ|gaɂdǔ:gā|I recently drank something alcoholic|ga-2duu23ga2
+635|8|2|Ꮥ³Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᏕᎾᏓᎦᏙᏍᏓ|dé:nadaktǒ:sdā|You (1) and I recently looked at each other|dee3na2da2ktoo23sda2
+636|8|3|Ꭳ¹ᏍᏗ²-|ɂᎴ¹Ꭶ||ᎣᏍᏗᎴᎦ|ò:sdí:lè:ga|He and I are climbing it|oo1sdii3lee1ga
+637|8|3|Ꭼ²-, Ꭼ²Ꮿ͓-|Ꭳ²Ꮅ¹Ꮸ²³Ꭲ*||ᎬᏲᎵᏨᎢ|gv:yo:li:jv̌:ɂi|I recognized you (1) a while ago|gvv2yoo2lii2jvv23-i
+638|8|3|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ*||ᏕᎦᎦᏙᏍᏗ|de:gagà:tǒ:sdi|I am looking at them (inanimate)|dee2ga2gaa1too23sdi
+639|8|3|Ꮥ³Ꮣ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᏕᏓᏓᎦᏙᏍᏓ|dé:dadaktǒ:sdā|All of us recently looked at each other|dee3da2da2ktoo23sda2
+640|8|4|Ꮨ̣²-|ɂ¹Ꮪ²Ꮂ¹Ꭶ||ᏘᏚᎲᎦ|tìdu:hv̀:ga|Let you (1) bake things|ti1duu2hvv1ga
+641|8|4|Ꭲ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎦᏓᎧᎰᎢ|dé:gada:kahó:ɂi|All of us usually have each other|dee3ga2daa2ka2hoo3-i
+642|8|4|Ꮵ²-, Ꮵ²Ꮿ͓-|Ꭳ²Ꮅ¹Ꮸ²³Ꭲ*||ᏥᏲᎵᏨᎢ|ji:yo:li:jv̌:ɂi|I recognized him a while ago|jii2yoo2lii2jvv23-i
+643|8|4|Ꮩ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᏙᏣᏓᎦᏙᏍᏓ|dò:jadaktǒ:sdā|They and I recently looked at each other|doo1ja2da2ktoo23sda2
+644|8|5|Ꭳ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣²Ꮀ³Ꭲ||ᏙᎦᏓᎧᎰᎢ|dò:gada:kahó:ɂi|They and I usually have each other|doo1ga2daa2ka2hoo3-i
+645|8|5|ᏍᏛ²-, ᏍᏛ²Ꮿ͓-|Ꭳ²Ꮅ¹Ꮸ²³Ꭲ*||ᏍᏛᏲᎵᏨᎢ|sdv:yo:li:jv̌:ɂi|I recognized you both a while ago; We two recognized you (1) or you both a while ago|sdvv2yoo2lii2jvv23-i
+646|8|5|Ꮩ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᏙᏍᏓᏓᎦᏙᏍᏓ|dò:sdadaktǒ:sdā|He and I recently looked at each other|doo1sda2da2ktoo23sda2
+647|8|6|Ꭴ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣²Ꮀ³Ꭲ||ᏚᎾᏓᎧᎰᎢ|dù:nada:kahó:ɂi|They usually have each other|duu1na2daa2ka2hoo3-i
+648|8|6|Ꮳ̣²-, Ꮳ̣²-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ||ᏣᎦᏙᏍᏗ|jà:ktǒ:sdi|He is looking at you (1)|jaa1ktoo23sdi
+649|8|6|Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|Ꭳ²Ꮅ¹Ꮸ²³Ꭲ*||ᎦᏥᏲᎵᏨᎢ|gaji:yo:li:jv̌:ɂi|I recognized them (animate) a while ago|ga2jii2yoo2lii2jvv23-i
+650|8|6|Ꮧ̣²Ꭹ²-|Ꭰ̣²Ꮪ²³Ꭹ³²ᏍᏗ||ᏗᎦᏚᎩᏍᏗ|digatǔ:gî:sdi|For all of us to drink alcoholic drinks|di2ga2tuu23gii32sdi
+651|8|7|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|ᏍᏗ²³Ꭶ²||ᏕᎯᏍᏗᎦ|de:hisdǐ:gā|You (1) recently ate rod shaped things|dee2hi2sdii23ga2
+652|8|7|Ꭸ³Ꮵ²-|Ꭳ²Ꮅ³ᏍᏗ*||ᎨᏦᎵᏍᏗ|gé:jo:lí:sdi|For them to recognize you all|gee3joo2lii3sdi
+653|8|7|Ꭳ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣²Ꮀ³Ꭲ||ᏙᎩᎾᏓᎧᎰᎢ|dò:ginada:kahó:ɂi|He and I usually have each other|doo1gi2na2daa2ka2hoo3-i
+654|8|7|Ꮥ³Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏕᏣᏓᏙᎵᏨᎢ|dé:jada:dohljv̌:ɂi|You all were acquainted a while ago|dee3ja2daa2dohl2jvv23-i
+655|8|7|Ꮧ̣²Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꭹ³²ᏍᏗ||ᏗᎩᎾᏚᎩᏍᏗ|diginatǔ:gî:sdi|For you (1) and me to drink alcoholic drinks|di2gi2na2tuu23gii32sdi
+656|8|8|ᏍᏗ²-|Ꭵ⁴Ꮜ||ᏍᏛᏌ|sdv̋:sa|You both alone|sdvv4sa
+657|8|8|Ꭺ²Ꮵ²-|Ꭳ²Ꮅ³ᏍᏗ*||ᎪᏦᎵᏍᏗ|go:jo:lí:sdi|For them and me to recognize them (animate)|goo2joo2lii3sdi
+658|8|8|Ꮷ¹Ꮒ²-|Ꭰ̣²ᏚᎸ͓²Ꮧ||ᏧᎾᏚᎸᏗ|jù:naduhldi|For them to want them|juu1na2duhl2di
+659|8|8|Ꮥ²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏕᏍᏓᏓᏙᎵᏨᎢ|de:sdada:dohljv̌:ɂi|You both were acquainted a while ago|dee2sdaa2daa2dohl2jvv23-i
+660|8|8|Ꭽ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ||ᎭᏓᎦᏙᏍᏗ|hadà:ktǒ:sdi|You (1) are looking at yourself|haa2daa1ktoo23sdi
+661|8|9|Ꭲ¹Ꮵ²-|Ꭵ⁴Ꮜ||ᎢᏨᏌ|ì:jv̋:sa|You all alone|ii1jvv4sa
+662|8|9|Ꮧ̣²Ꮵ̣²-|ᏍᏗ²³Ꭶ||ᏗᏥᏍᏗᎦ|diji:sdǐ:ga|Let you all eat rod shaped things|di2jii2sdii23ga
+663|8|9|Ꭺ²ᏍᏗ²-|Ꭳ²Ꮅ³ᏍᏗ*||ᎪᏍᏙᎵᏍᏗ|go:sdo:lí:sdi|For him and me to recognize them (animate)|goo2sdoo2lii3sdi
+664|8|9|Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎩᎾᏓᎪᏩᏛᏗ|ginada:gowhtv́hdi|For you (1) and me to see ourselves|gi2na2daa2gowh2tvh3di
+665|8|9|Ꭰ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ||ᎠᎾᏓᎦᏙᏍᏗ|à:nadà:ktǒ:sdi|They are looking at themselves|aa1naa2daa1ktoo23sdi
+666|8|10|Ꮥ³Ꮵ²-|Ꭵ²³ᏲᎢ||ᏕᏨᏲᎢ|dé:jù:wǎ:yóɂi|You all usually have rod shaped things|dee3juu1waa23yo3-i
+667|8|10|Ꭲ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ||ᎢᎾᏓᎦᏙᏍᏗ|ì:nadà:ktǒ:sdi|You (1) and I are looking at ourselves|ii1na2daa1ktoo23sdi
+668|8|11|Ꭲ¹Ꭹ²-|ɂ¹ᏘᏗ||ᎢᎩᏘᏗ|ì:gì:tdi|For all of us to bake something|ii1gii1tdi
+669|8|11|Ꮥ²ᏍᏗ²-|Ꭵ²³ᏲᎢ||ᏕᏍᏛᏲᎢ|de:sdù:wǎ:yóɂi|You both usually have rod shaped things|dee2sduu1waa23yo3-i
+670|8|11|Ꭲ¹Ꮣ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ||ᎢᏓᏓᎦᏙᏍᏗ|ì:dadà:ktǒ:sdi|All of us are looking at ourselves|ii1da2daa1ktoo23sdi
+671|8|12|Ꭳ¹Ꭹ²-|ɂ¹ᏘᏗ||ᎣᎩᏘᏗ|ò:gì:tdi|For them and me to bake something|oo1gii1tdi
+672|8|12|Ꮧ̣²Ꮵ̣²-, Ꮧ̣²Ꭶ͓-|ɂ¹Ꮪ²Ꮂ¹Ꭶ||ᏫᏗᏥᏚᎲᎦ|widijìdu:hv̀:ga|Let me bake things|wi2di2ji1duu2hvv1ga
+673|8|20|ᏍᎩ̣²-, ᏍᏆ͓-|ᎣᎵ͓²Ꭹ||ᏍᏉᎵᎩ|sgwohlgi|Let you (1) recognize me|sgwohl2gi
+674|8|22|Ꮶ¹Ꮵ²-|ᎣᎵ͓²Ꭹ||ᏫᏦᏦᎵᎩ|wijò:johlgi|Let them and me understand things|wi2joo1johl2gi
+675|8|23|Ꮧ̣²-, Ꮧ̣²Ꭶ̣²-|ᎣᎵ͓²Ꭹ||ᏫᏗᎪᎵᎩ|widigohlgi|Let him understand things; Let him recognize them (animate)|wi2di2gohl2gi
+676|8|24|Ꮧ̣²Ꮒ²-|ᎣᎵ͓²Ꭹ||ᏫᏗᏃᎵᎩ|widinohlgi|Let them understand things; Let them recognize them (animate)|wi2di2nohl2gi
+677|8|25|Ꮶ¹ᏍᏗ²-|ᎣᎵ͓²Ꭹ||ᏫᏦᏍᏙᎵᎩ|wijò:sdohlgi|Let him and me understand things|wi2joo1sdohl2gi
+678|8|26|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|ᎣᎵ͓²Ꭶ²||ᏕᎪᎵᎦ|de:gohlgā|He recently understood things; He recently recognized them (animate)|dee2gohl2ga2
+679|8|30|Ꭸ²Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ||ᎨᏂᎪᏩᏔ|ge:ni:gò:wahta|Let you (1) and me see them (animate)|gee2nii2goo1wah2ta
+680|8|31|Ꭸ²Ꮧ²-|Ꭺ¹Ꮹ²Ꮤ||ᎨᏗᎪᏩᏔ|ge:di:gò:wahta|Let all of us see them (animate)|gee2dii2goo1wah2ta
+681|8|32|Ꭸ²Ꮵ²-|Ꭺ¹Ꮹ²Ꮤ||ᎨᏥᎪᏩᏔ|ge:ji:gò:wahta|Let you all see them (animate)|gee2jii2goo1wah2ta
+682|8|33|Ꭸ²ᏍᏗ²-|Ꭺ¹Ꮹ²Ꮤ||ᎨᏍᏗᎪᏩᏔ|ge:sdi:gò:wahta|Let you both see them (animate)|gee2sdii2goo1wah2ta
+683|8|34|Ꮧ̣²ᏍᏗ²-|Ꭺ¹Ꮹ²Ꮤ||ᏗᏍᏗᎪᏩᏔ|disdi:gò:wahta|Let you both see them (inanimate)|di2sdii2goo1wah2ta
+684|8|34|ᏍᎩ̣²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᏍᎩᎾᏚᎳ|sginadǔ:la|Let you (1) or both want us both|sgi2na2duu23la
+685|8|40|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭺ²Ꮂ²³Ꭲ||ᎤᎪᎲᎢ|ù:go:hv̌:ɂi|He saw him a while ago; He saw it a while ago|uu1goo2hvv23-i
+686|8|41|Ꭱ¹Ꭹ²-|Ꭺ²Ꮂ²³Ꭲ||ᎡᎩᎪᎲᎢ|è:gi:go:hv̌:ɂi|All of us were seen a while ago|ee1gii2goo2hvv23-i
+687|8|42|Ꭱ¹Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᎡᏂᎪᎲᎢ|è:ni:go:hv̌:ɂi|You (1) and I saw him a while ago|ee1nii2goo2hvv23-i
+688|8|43|Ꭱ¹Ꮧ²-|Ꭺ²Ꮂ²³Ꭲ||ᎡᏗᎪᎲᎢ|è:di:go:hv̌:ɂi|All of us saw him a while ago|ee1dii2goo2hvv23-i
+689|8|44|Ꭱ¹Ꮵ²-|Ꭺ²Ꮂ²³Ꭲ||ᎡᏥᎪᎲᎢ|è:ji:go:hv̌:ɂi|You all saw him a while ago; You all were seen a while ago|ee1jii2goo2hvv23-i
+690|8|44|Ꮥ²Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꮃ²||ᏕᎩᎾᏚᎳ|de:ginadǔ:lā|You (1) and I recently wanted them (inanimate)|dee2gi2na2duu23la2
+691|8|45|Ꭱ¹ᏍᏗ²-|Ꭺ²Ꮂ²³Ꭲ||ᎡᏍᏗᎪᎲᎢ|è:sdi:go:hv̌:ɂi|You both saw him a while ago; You both were seen a while ago|ee1sdii2goo2hvv23-i
+692|8|47|Ꭱ¹Ꭹ̣²Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᎡᎩᏂᎪᎲᎢ|è:gini:go:hv̌:ɂi|You (1) and I were seen a while ago|ee1gi2nii2goo2hvv23-i
+693|9|1||Ꭲ¹Ꭹ²Ꮵ||ᎢᎩᏥ|ì:gi:ji|Your all's and my mother|ii1gii2ji
+694|9|1|Ꭰ¹Ꮒ²-|ɂᎷ¹Ꭶ²||ᎠᏂᎷᎦ|à:ni:lù:gā|They recently climbed it|aa1nii2luu1ga2
+695|9|1|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꮑ²Ꮀ³Ꭲ||ᏚᏁᎰᎢ|du:ne:hó:ɂi|He usually has liquid things|duu2nee2hoo3-i
+696|9|1|Ꮧ̣²Ꮵ̣²-, Ꮧ̣²Ꭶ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᏫᏗᎦᎦᏙᏍᏓ|widigagà:tǒ:sda|Let me look at them (inanimate)|wi2di2ga2gaa1too23sda
+697|9|1|Ꮣ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏓᎾᏓᎪᏩᏘᏍᎪᎢ|dà:nada:gowhtǐ:sgóɂi|They are often seeing each other|daa1naa2daa2gowh2tii23sgo3-i
+698|9|2|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭾ³ᏍᏗ||ᎤᎮᏍᏗ|ù:hé:sdi|He will be having something solid|uu1hee3sdi
+699|9|2|Ꭳ¹Ꮵ²-|ɂᎷ¹Ꭶ²||ᎣᏥᎷᎦ|ò:ji:lù:gā|They and I recently climbed it|oo1jii2luu1ga2
+700|9|2|Ꮨ̣²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏔᎭᏗᏔ|ta:dǐ:ta|Let you (1) drink drinks|taa2dii23ta
+701|9|2|Ꮧ̣¹Ꭹ̣²-, Ꮧ̣¹Ꮖ͓-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᏗᏊᏗᏔᏍᏗ|dìgwa:di:tasdi|For me to drink drinks|di1gwaa2dii2ta2sdi
+702|9|2|Ꮥ³Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏕᎾᏓᎪᏩᏘᏍᎪᎢ|dé:nada:gowhtǐ:sgóɂi|You (1) and I are often seeing each other|dee3na2daa2gowh2tii23sgo3-i
+703|9|3|Ꭳ¹ᏍᏗ²-|ɂᎷ¹Ꭶ²||ᎣᏍᏗᎷᎦ|ò:sdi:lù:gā|He and I recently climbed it|oo1sdii2luu1ga2
+704|9|3|Ꮧ̣²Ꮧ̣²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏗᏗᎭᏗᏔ|dida:dǐ:ta|Let all of us drink drinks|di2daa2dii23ta
+705|9|3|Ꮥ³Ꮣ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏕᏓᏓᎪᏩᏘᏍᎪᎢ|dé:dada:gowhtǐ:sgóɂi|All of us are often seeing each other|dee3da2daa2gowh2tii23sgo3-i
+706|9|4|Ꮧ̣³Ꮒ̣²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏗᏂᎭᏗᏔ|dína:dǐ:ta|Let you (1) and me drink drinks|di3naa2dii23ta
+707|9|4|Ꭲ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣²Ꮂ²³Ꭲ||ᏕᎦᏓᎧᎲᎢ|dé:gada:kahv̌:ɂi|All of us had each other a while ago|dee3ga2daa2ka2hvv23-i
+708|9|4|Ꮩ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏙᏣᏓᎪᏩᏘᏍᎪᎢ|dò:jada:gowhtǐ:sgóɂi|They and I are often seeing each other|doo1ja2daa2gowh2tii23sgo3-i
+709|9|5|ᏍᏗ²-|Ꭰ̣²Ꮣ||ᏍᏓᏓ|sdada|Let you both say|sda2da
+710|9|5|Ꮶ¹Ꮵ²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏫᏦᏥᎭᏗᏔ|wijò:ja:dǐ:ta|Let them and me drink drinks|wi2joo1jaa2dii23ta
+711|9|5|Ꮩ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏙᏍᏓᏓᎪᏩᏘᏍᎪᎢ|dò:sdada:gowhtǐ:sgóɂi|He and I are often seeing each other|doo1sda2daa2gowh2tii23sgo3-i
+712|9|6|Ꭲ¹Ꮵ²-|Ꭰ̣²Ꮣ||ᎢᏣᏓ|ì:jada|Let you all say|ii1ja2da
+713|9|6|Ꮧ̣²Ꮒ²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏫᏗᏂᎭᏗᏔ|widina:dǐ:ta|Let them drink drinks|wi2di2naa2dii23ta
+714|9|6|Ꭰ¹Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎠᏓᎪᏩᏘᎭ|à:da:gowhtíha|He is seeing himself|aa1daa2gowh2ti3ha
+715|9|7|Ꮶ¹ᏍᏗ²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏫᏦᏍᏗᎭᏗᏔ|wijò:sda:dǐ:ta|Let him and me drink drinks|wi2joo1sdaa2dii23ta
+716|9|7|Ꭽ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎭᏓᎪᏩᏘᎭ|hada:gowhtíha|You (1) are seeing yourself|haa2daa2gowh2ti3ha
+717|9|7|Ꭸ³Ꮵ²-|Ꭳ²Ꮅ¹Ꮸ²³Ꭲ*||ᎨᏦᎵᏨᎢ|gé:jo:li:jv̌:ɂi|They recognized you all a while ago|gee3joo2lii2jvv23-i
+718|9|7|Ꮧ̣²Ꮳ̣²-|ɂ¹Ꮯ²³Ꮠ̣³Ꮧ||ᏗᏣᏟᏐᏗ|dijàhlǐ:sóhdi|For you (1) to gather things|di2ja1hlii23soh3di
+719|9|7|Ꮧ̣²-, Ꮧ̣²Ꭶ̣²-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏫᏓᎦᏙᏍᏓ|widaktǒ:sda|Let him look at them|wi2da2ktoo23sda
+720|9|8|Ꮧ̣²Ꮵ̣²-|ɂᏯ̣²Ꭶ||ᏗᏥᏯᎦ|diji:hyaga|Let you all eat flexible things|di2jii2hya2ga
+721|9|8|Ꭰ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎠᎾᏓᎪᏩᏘᎭ|à:nada:gowhtíha|They are seeing themselves|aa1naa2daa2gowh2ti3ha
+722|9|8|Ꭺ²Ꮵ²-|Ꭳ²Ꮅ¹Ꮸ²³Ꭲ*||ᎪᏦᎵᏨᎢ|go:jo:li:jv̌:ɂi|They and I recognized them (animate) a while ago|goo2joo2lii2jvv23-i
+723|9|8|Ꮧ̣²Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏗᏣᏓᎦᏙᏍᏓ|dijadaktǒ:sda|Let you all look at each other|di2ja2da2ktoo23sda
+724|9|9|Ꭸ²Ꭹ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎨᎪᎵᏨᎢ|ge:gohljv̌:ɂi|They recognized all of us a while ago|gee2gohl2jvv23-i
+725|9|9|Ꭲ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎢᎾᏓᎪᏩᏘᎭ|ì:nada:gowhtíha|You (1) and I are seeing ourselves|ii1na2daa2gowh2ti3ha
+726|9|9|Ꭺ²ᏍᏗ²-|Ꭳ²Ꮅ¹Ꮸ²³Ꭲ*||ᎪᏍᏙᎵᏨᎢ|go:sdo:li:jv̌:ɂi|He and I recognized them (animate) a while ago|goo2sdoo2lii2jvv23-i
+727|9|10|Ꮥ³Ꮵ²-|Ꭵ²³ᏴᎢ||ᏕᏨᏴᎢ|dé:jù:wǎ:yv́:ɂi|You all had rod shaped things a while ago|dee3juu1waa23yvv3-i
+728|9|10|Ꮧ̣²ᏍᏗ²-|ᏍᏗ²³Ꭶ||ᏗᏍᏗᏍᏗᎦ|disdi:sdǐ:ga|Let you both eat rod shaped things|di2sdii2sdii23ga
+729|9|10|Ꭿ²-, Ꭿ²Ꮿ͓-|Ꭳ²Ꮅ³ᏍᏗ*||ᎯᏲᎵᏍᏗ|hi:yo:lí:sdi|For you (1) to recognize him|hii2yoo2lii3sdi
+730|9|10|Ꮶ¹Ꭹ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏦᎩᎪᏩᏛᏗ|jò:gi:gowhtv́hdi|For them and me to see them (inanimate)|joo1gii2gowh2tvh3di
+731|9|10|Ꭺ²Ꭹ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎪᎪᎵᏨᎢ|go:gohljv̌:ɂi|They recognized them and me a while ago|goo2gohl2jvv23-i
+732|9|10|Ꭲ¹Ꮣ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎢᏓᏓᎪᏩᏘᎭ|ì:dada:gowhtíha|All of us are seeing ourselves|ii1da2daa2gowh2ti3ha
+733|9|11|Ꭲ¹Ꮸ²-, Ꭲ¹Ꮸ²Ꮿ͓-|Ꭳ²Ꮅ³ᏍᏗ*||ᎢᏨᏲᎵᏍᏗ|ì:jv:yo:lí:sdi|For us, me, two, or we all to recognize you all; For we all to recognize you (1), two|ii1jvv2yoo2lii3sdi
+734|9|11|Ꮷ¹Ꮒ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏧᏂᎪᏩᏛᏗ|jù:ni:gowhtv́hdi|For them to see them|juu1nii2gowh2tvh3di
+735|9|11|Ꭳ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎣᏣᏓᎪᏩᏘᎭ|ò:jada:gowhtíha|They and I are seeing ourselves|oo1ja2daa2gowh2ti3ha
+736|9|12|ᏍᎩ̣²-, ᏍᏆ͓-|ɂᎧ̣³Ꭽ||ᏍᎩᎧᎭ|sgikáha|You (1) have me|sgii2ka3ha
+737|9|12|Ꭲ¹ᏍᎩ²-, Ꭲ¹ᏍᎩ²Ꮿ͓-|Ꭳ²Ꮅ³ᏍᏗ*||ᎢᏍᎩᏲᎵᏍᏗ|ì:sgi:yo:lí:sdi|For you (1), two, or all to recognize us all; For you all to recognize me|ii1sgii2yoo2lii3sdi
+738|9|12|Ꮶ¹Ꭹ̣²Ꮒ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏦᎩᏂᎪᏩᏛᏗ|jò:gini:gowhtv́hdi|For him and me to see them (inanimate)|joo1gi2nii2gowh2tvh3di
+739|9|12|Ꭸ²Ꭹ̣²Ꮒ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎨᎩᏃᎵᏨᎢ|ge:ginohljv̌:ɂi|They recognized you (1) and me a while ago|gee2gi2nohl2jvv23-i
+740|9|12|Ꭳ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎣᏍᏓᏓᎪᏩᏘᎭ|ò:sdada:gowhtíha|He and I are seeing ourselves|oo1sda2daa2gowh2ti3ha
+741|9|13|Ꭵ¹Ꭹ̣²-, Ꭵ¹Ꮖ͓-|ɂᎧ̣³Ꭽ||ᎥᎩᎧᎭ|v̀:gikáha|Someone has me|vv1gi2ka3ha
+742|9|13|Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|Ꭳ²Ꮅ³ᏍᏗ*||ᎦᎯᏲᎵᏍᏗ|gahi:yo:lí:sdi|For you (1) to recognize them (animate)|ga2hii2yoo2lii3sdi
+743|9|13|Ꭺ²Ꭹ̣²Ꮒ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎪᎩᏃᎵᏨᎢ|go:ginohljv̌:ɂi|They recognized him and me a while ago|goo2gi2nohl2jvv23-i
+744|9|14|Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎩᎾᏓᏙᎵᏨᎢ|ginada:dohljv̌:ɂi|You (1) and I recognized ourselves a while ago|gi2na2daa2dohl2jvv23-i
+745|9|17|Ꮳ̣²-|Ꮀ³Ꭲ||ᏣᎰᎢ|jahó:ɂi|You (1) usually have something solid|ja2hoo3-i
+746|9|18|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꮀ³Ꭲ||ᎠᎩᎰᎢ|à:gihó:ɂi|I usually have something solid|aa1gi2hoo3-i
+747|9|20|Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ¹Ꭹ*||ᏫᎦᏓᏙᎵᎩ|wigada:do:lì:gi|Let me recognize myself|wi2ga2daa2doo2lii1gi
+748|9|24|Ꭰ¹Ꮵ̣²-, Ꭰ¹Ꭶ͓-|ɂᎪ³Ꮧ||ᎠᏥᎪᏗ|à:jikóhdi|For someone to have him|aa1ji2koh3di
+749|9|28|Ꮣ¹Ꮒ²-|ᎣᎵ͓²Ꭶ||ᏓᏃᎵᎦ|dà:nohlga|They understand things; They recognize them (animate)|daa1nohl2ga
+750|9|29|Ꮥ³Ꮒ²-|ᎣᎵ͓²Ꭶ||ᏕᏃᎵᎦ|dé:nohlga|You (1) and I understand things|dee3nohl2ga
+751|9|30|Ꮥ³Ꮧ²-|ᎣᎵ͓²Ꭶ||ᏕᏙᎵᎦ|dé:dohlga|All of us understand things|dee3dohl2ga
+752|9|31|Ꮩ¹Ꮵ²-|ᎣᎵ͓²Ꭶ||ᏙᏦᎵᎦ|dò:johlga|They and I understand things|doo1johl2ga
+753|9|31|Ꭴ¹Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᎤᏓᏙᎵᏍᏗ|ù:da:do:hlísdi|For him to recognize himself|uu1daa2doo2hli3sdi
+754|9|32|Ꮩ¹ᏍᏗ²-|ᎣᎵ͓²Ꭶ||ᏙᏍᏙᎵᎦ|dò:sdohlga|He and I understand things|doo1sdohl2ga
+755|9|32|Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᏣᏓᏙᎵᏍᏗ|jada:do:hlísdi|For you (1) to recognize yourself|ja2daa2doo2hli3sdi
+756|9|33|Ꭰ¹Ꮖ̣²Ꮣ²[Ꮣ͓]-|Ꭳ²Ꮅ³ᏍᏗ||ᎠᏆᏓᏙᎵᏍᏗ|à:gwada:do:hlísdi|For me to recognize myself|aa1gwaa2daa2doo2hli3sdi
+757|9|35|ᏍᎩ̣²Ꮒ²-|Ꭰ̣²Ꮪ²³Ꮃ||ᏍᎩᎾᏚᎳ|sginadǔ:la|Let you both want me|sgii2na2duu23la
+758|9|36|Ꭱ¹Ꭹ²-|Ꭺ¹Ꮹ²Ꮤ||ᎡᎩᎪᏩᏔ|è:gi:gò:wahta|Let all of us be seen|ee1gii2goo1wah2ta
+759|9|37|Ꭱ¹Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ||ᎡᏂᎪᏩᏔ|è:ni:gò:wahta|Let you (1) and me see him|ee1nii2goo1wah2ta
+760|9|38|Ꭱ¹Ꮧ²-|Ꭺ¹Ꮹ²Ꮤ||ᎡᏗᎪᏩᏔ|è:di:gò:wahta|Let all of us see him|ee1dii2goo1wah2ta
+761|9|39|Ꭱ¹Ꮵ²-|Ꭺ¹Ꮹ²Ꮤ||ᎡᏥᎪᏩᏔ|è:ji:gò:wahta|Let you all see him; Let you all be seen|ee1jii2goo1wah2ta
+762|9|40|Ꭱ¹ᏍᏗ²-|Ꭺ¹Ꮹ²Ꮤ||ᎡᏍᏗᎪᏩᏔ|è:sdi:gò:wahta|Let you both see him; Let you both be seen|ee1sdii2goo1wah2ta
+763|9|42|Ꭱ¹Ꭹ̣²Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ||ᎡᎩᏂᎪᏩᏔ|è:gini:gò:wahta|Let you (1) and me be seen|ee1gi2nii2goo1wah2ta
+764|9|48|Ꮥ³Ꭹ²-|Ꭺ²Ꮂ²³Ꭲ||ᏕᎩᎪᎲᎢ|dé:gi:go:hv̌:ɂi|All of us saw them (inanimate) a while ago|dee3gii2goo2hvv23-i
+765|9|49|Ꮩ¹Ꭹ²-|Ꭺ²Ꮂ²³Ꭲ||ᏙᎩᎪᎲᎢ|dò:gi:go:hv̌:ɂi|They and I saw them (inanimate) a while ago|doo1gii2goo2hvv23-i
+766|9|50|Ꮪ¹Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᏚᏂᎪᎲᎢ|dù:ni:go:hv̌:ɂi|They saw them a while ago|duu1nii2goo2hvv23-i
+767|9|51|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꭺ²Ꮂ²³Ꭲ||ᏓᎩᎪᎲᎢ|dà:gigo:hv̌:ɂi|I saw them (inanimate) a while ago|daa1gi2goo2hvv23-i
+768|9|52|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꭺ²Ꮂ²³Ꭲ||ᏕᏣᎪᎲᎢ|de:jago:hv̌:ɂi|You (1) saw them (inanimate) a while ago|dee2ja2goo2hvv23-i
+769|9|53|Ꮥ²Ꭹ̣²Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᏕᎩᏂᎪᎲᎢ|de:gini:go:hv̌:ɂi|You (1) and I saw them (inanimate) a while ago|dee2gi2nii2goo2hvv23-i
+770|9|54|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᏙᎩᏂᎪᎲᎢ|dò:gini:go:hv̌:ɂi|He and I saw them (inanimate) a while ago|doo1gi2nii2goo2hvv23-i
+771|10|1||Ꭲ¹Ꮵ²Ꮵ||ᎢᏥᏥ|ì:ji:ji|Your all's mother|ii1jii2ji
+772|10|1|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꮑ²Ꮂ²³Ꭲ||ᏚᏁᎲᎢ|du:ne:hv̌:ɂi|He had liquid things a while ago|duu2nee2hvv23-i
+773|10|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꮈ³²Ꮢ²³Ꭲ||ᎤᎸᏒᎢ|ù:lv̂:sv̌:ɂi|He climbed it a while ago|uu1lvv32svv23-i
+774|10|1|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|Ꭰ¹Ꮧ²Ꮤ̣³ᏍᎦ||ᏓᏗᏔᏍᎦ|dà:di:tásga|He is drinking drinks|daa1dii2ta3sga
+775|10|2|Ꮶ¹Ꭹ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᏦᎩᏍᏗᎩᏍᏗ|jò:gi:sdǐ:gî:sdi|For them and me to eat rod shaped things|joo1gii2sdii23gii32sdi
+776|10|3|Ꮥ³Ꭹ²-|Ꭾ³ᏍᏗ||ᏕᎩᎮᏍᏗ|dé:gi:hé:sdi|All of us will be having solid things|dee3gii2hee3sdi
+777|10|3|Ꭿ̣²-|Ꭱ³Ꭺ̣³Ꭲ||ᎮᎪᎢ|hé:góɂi|You (1) usually are going|hee3go3-i
+778|10|3|Ꮧ̣²Ꮳ̣²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᏗᏧᏗᏔᏍᏗ|dija:di:tasdi|For you (1) to drink drinks; For you all to drink drinks|di2jaa2dii2ta2sdi
+779|10|3|Ꮷ¹Ꮒ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᏧᏂᏍᏗᎩᏍᏗ|jù:ni:sdǐ:gî:sdi|For them to eat rod shaped things|juu1nii2sdii23gii32sdi
+780|10|4|Ꭲ¹Ꮒ²-|ɂᎴ¹Ꭶ||ᎢᏂᎴᎦ|ì:ní:lè:ga|You (1) and I are climbing it|ii1nii3lee1ga
+781|10|4|Ꮩ¹Ꭹ²-|Ꭾ³ᏍᏗ||ᏙᎩᎮᏍᏗ|dò:gi:hé:sdi|They and I will be having solid things|doo1gii2hee3sdi
+782|10|4|Ꮶ¹Ꭹ̣²Ꮒ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᏦᎩᏂᏍᏗᎩᏍᏗ|jò:gini:sdǐ:gî:sdi|For him and me to eat rod shaped things|joo1gi2nii2sdii23gii32sdi
+783|10|5|Ꭲ¹Ꮧ²-|ɂᎴ¹Ꭶ||ᎢᏗᎴᎦ|ì:dí:lè:ga|All of us are climbing it|ii1dii3lee1ga
+784|10|5|Ꮪ¹Ꮒ²-|Ꭾ³ᏍᏗ||ᏚᏂᎮᏍᏗ|dù:ni:hé:sdi|They will be having solid things|duu1nii2hee3sdi
+785|10|6|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꭾ³ᏍᏗ||ᏓᎩᎮᏍᏗ|dà:gihé:sdi|I will be having solid things|daa1gi2hee3sdi
+786|10|6|Ꮥ³Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᏕᏣᏓᏚᎵᎭ|dé:jadadu:líha|You all are wanting each other|dee3ja2da2duu2li3ha
+787|10|6|Ꭺ²ᏍᏗ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ*||ᎪᏍᏓᎦᏙᏍᏗ|go:sdagà:tǒ:sdi|He and I are looking at them (animate)|goo2sda2gaa1too23sdi
+788|10|6|Ꭰ¹Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᎠᏓᎦᏙᏍᏓ|à:daktǒ:sdā|He recently looked at himself|aa1da2ktoo23sda2
+789|10|7|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꭾ³ᏍᏗ||ᏕᏣᎮᏍᏗ|de:jahé:sdi|You (1) will be having solid things|dee2ja2hee3sdi
+790|10|7|Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎩᎾᏓᏚᎵᎭ|ginadadu:líha|You (1) and I are wanting ourselves|gi2na2da2duu2li3ha
+791|10|7|Ꭰ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᎠᎾᏓᎦᏙᏍᏓ|à:nadaktǒ:sdā|They recently looked at themselves|aa1naa2da2ktoo23sda2
+792|10|7|Ꮧ̣²Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏙᏗ||ᏗᏣᏓᎦᏙᏍᏙᏗ|dijadaktǒ:sdóhdi|For you all to look at each other|di2ja2da2ktoo23sdoh3di
+793|10|8|Ꮥ²Ꭹ̣²Ꮒ²-|Ꭾ³ᏍᏗ||ᏕᎩᏂᎮᏍᏗ|de:gini:hé:sdi|You (1) and I will be having solid things|dee2gi2nii2hee3sdi
+794|10|8|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|ᏍᏗ²³Ꭶ²||ᏕᏥᏍᏗᎦ|de:jisdǐ:gā|I recently ate rod shaped things|dee2ji2sdii23ga2
+795|10|8|Ꮧ̣²Ꮵ̣²-, Ꮧ̣²Ꭶ͓-|Ꭽ̣²Ꮧ²³Ꮤ||ᏫᏗᎦᎭᏗᏔ|widiga:dǐ:ta|Let me drink drinks|wi2di2gaa2dii23ta
+796|10|8|Ꮷ²-, Ꮷ²Ꮹ͓-|Ꭰ̣²Ꮪ²³Ꭹ³²ᏍᏗ||ᏧᏚᎩᏍᏗ|ju:tǔ:gî:sdi|For him to drink alcoholic drinks|juu2tuu23gii32sdi
+797|10|8|Ꭳ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᎣᏣᏓᎦᏙᏍᏓ|ò:jadaktǒ:sdā|They and I recently looked at ourselves|oo1ja2da2ktoo23sda2
+798|10|9|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꭾ³ᏍᏗ||ᏙᎩᏂᎮᏍᏗ|dò:gini:hé:sdi|He and I will be having solid things|doo1gi2nii2hee3sdi
+799|10|9|ᏍᏗ²-|Ꭰ̣²Ꮣ²||ᏍᏓᏓ|sdadā|You both recently said|sda2da2
+800|10|9|Ꮨ̣²-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏔᎦᏙᏍᏓ|taktǒ:sda|Let you (1) look at them (inanimate)|ta2ktoo23sda
+801|10|9|Ꭳ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᎣᏍᏓᏓᎦᏙᏍᏓ|ò:sdadaktǒ:sdā|He and I recently looked at ourselves|oo1sda2da2ktoo23sda2
+802|10|10|Ꮥ³Ꮵ²-|Ꭰ̣²Ꮪ²³Ꭶ²||ᏕᏣᏚᎦ|dé:jatǔ:gā|You all recently drank alcoholic drinks|dee3ja2tuu23ga2
+803|10|10|Ꭽ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᎭᏓᎦᏙᏍᏓ|hadaktǒ:sda|Let you (1) look at yourself|haa2da2ktoo23sda
+804|10|11|Ꮥ²ᏍᏗ²-|Ꭰ̣²Ꮪ²³Ꭶ²||ᏕᏍᏓᏚᎦ|de:sdatǔ:gā|You both recently drank alcoholic drinks|dee2sda2tuu23ga2
+805|10|11|Ꭲ¹Ꮸ²-, Ꭲ¹Ꮸ²Ꮿ͓-|Ꭳ²Ꮅ¹Ꮸ²³Ꭲ*||ᎢᏨᏲᎵᏨᎢ|ì:jv:yo:li:jv̌:ɂi|I, we two, or we all recognized you all a while ago; We all recognized you (1), two a while ago|ii1jvv2yoo2lii2jvv23-i
+806|10|11|Ꮧ̣²Ꮧ̣²-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏗᏓᎦᏙᏍᏓ|didaktǒ:sda|Let all of us look at them (inanimate)|di2da2ktoo23sda
+807|10|12|Ꭲ¹ᏍᎩ²-, Ꭲ¹ᏍᎩ²Ꮿ͓-|Ꭳ²Ꮅ¹Ꮸ²³Ꭲ*||ᎢᏍᎩᏲᎵᏨᎢ|ì:sgi:yo:li:jv̌:ɂi|You (1), two, or all recognized us all a while ago; You all recognized me a while ago|ii1sgii2yoo2lii2jvv23-i
+808|10|12|Ꮧ̣³Ꮒ̣²-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏗᎾᎦᏙᏍᏓ|dínaktǒ:sda|Let you (1) and me look at them (inanimate)|di3na2ktoo23sda
+809|10|13|ᏍᏛ²-, ᏍᏛ²Ꮿ͓-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏍᏛᎪᏩᏛᏗ|sdv:gowhtv́hdi|For me to see you both; For we two to see you (1) or you both|sdvv2gowh2tvh3di
+810|10|13|Ꭶ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎦᏓᎪᏩᏘᎭ|gada:gowhtíha|I am seeing myself|ga2daa2gowh2ti3ha
+811|10|13|Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|Ꭳ²Ꮅ¹Ꮸ²³Ꭲ*||ᎦᎯᏲᎵᏨᎢ|gahi:yo:li:jv̌:ɂi|You (1) recognized them (animate) a while ago|ga2hii2yoo2lii2jvv23-i
+812|10|14|Ꮧ̣²Ꭹ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏗᎩᎪᏩᏛᏗ|digi:gowhtv́hdi|For all of us to see them (inanimate)|di2gii2gowh2tvh3di
+813|10|15|Ꭸ²Ꭹ²-|ɂᎧ̣³Ꭽ||ᏕᎨᎩᎧᎭ|de:ge:gi:káha|They have all of us|dee2gee2gii2ka3ha
+814|10|15|Ꭲ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎢᎦᏓᎪᏩᏛᏗ|ì:gada:gowhtv́hdi|For all of us to see ourselves|ii1ga2daa2gowh2tvh3di
+815|10|15|Ꮶ¹Ꮵ²-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏫᏦᏣᎦᏙᏍᏓ|wijò:jaktǒ:sda|Let them and me look at them (inanimate)|wi2joo1ja2ktoo23sda
+816|10|16|Ꭺ²Ꭹ²-|ɂᎧ̣³Ꭽ||ᏕᎪᎩᎧᎭ|de:go:gi:káha|They have them and me|dee2goo2gii2ka3ha
+817|10|16|Ꭳ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎣᎦᏓᎪᏩᏛᏗ|ò:gada:gowhtv́hdi|For them and me to see ourselves|oo1ga2daa2gowh2tvh3di
+818|10|16|Ꮵ̣²-, Ꭶ͓-|Ꭳ²Ꮅ²Ꭺ³Ꭲ*||ᎪᎵᎪᎢ|go:li:gó:ɂi|I usually understand it|goo2lii2goo3-i
+819|10|16|Ꮧ̣²Ꮒ²-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏫᏗᎾᎦᏙᏍᏓ|widinaktǒ:sda|Let them look at them|wi2di2na2ktoo23sda
+820|10|17|Ꮳ̣²-|Ꮂ²³Ꭲ||ᏣᎲᎢ|jahv̌:ɂi|You (1) had something solid a while ago|ja2hvv23-i
+821|10|17|Ꭼ²Ꭹ̣²-, Ꭼ²Ꮖ͓-|ɂᎧ̣³Ꭽ||ᏕᎬᎩᎧᎭ|de:gv:gikáha|They have me|dee2gvv2gi2ka3ha
+822|10|17|Ꭴ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎤᎾᏓᎪᏩᏛᏗ|ù:nada:gowhtv́hdi|For them to see themselves|uu1na2daa2gowh2tvh3di
+823|10|17|Ꮶ¹ᏍᏗ²-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏫᏦᏍᏓᎦᏙᏍᏓ|wijò:sdaktǒ:sda|Let him and me look at them (inanimate)|wi2joo1sda2ktoo23sda
+824|10|18|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꮂ²³Ꭲ||ᎠᎩᎲᎢ|à:gihv̌:ɂi|I had something solid a while ago|aa1gi2hvv23-i
+825|10|18|Ꭸ²Ꭹ̣²Ꮒ²-|ɂᎧ̣³Ꭽ||ᏕᎨᎩᏂᎧᎭ|de:ge:gini:káha|They have you (1) and me|dee2gee2gi2nii2ka3ha
+826|10|18|Ꮧ̣²Ꭹ̣²Ꮒ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏗᎩᏂᎪᏩᏛᏗ|digini:gowhtv́hdi|For you (1) and me to see them (inanimate)|di2gi2nii2gowh2tvh3di
+827|10|19|Ꭺ²Ꭹ̣²Ꮒ²-|ɂᎧ̣³Ꭽ||ᏕᎪᎩᏂᎧᎭ|de:go:gini:káha|They have him and me|dee2goo2gi2nii2ka3ha
+828|10|19|Ꭳ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎣᎩᎾᏓᎪᏩᏛᏗ|ò:ginada:gowhtv́hdi|For him and me to see ourselves|oo1gi2na2daa2gowh2tvh3di
+829|10|25|Ꭼ²-, Ꭼ²Ꮿ͓-|ɂᎪ³Ꮧ||ꭼꮿᎪᏗ|gv:ya:kóhdi|For me to have you (1)|gvv2yaa2koh3di
+830|10|26|Ꮵ²-, Ꮵ²Ꮿ͓-|ɂᎪ³Ꮧ||ꮵꮿᎪᏗ|ji:ya:kóhdi|For me to have something alive|jii2yaa2koh3di
+831|10|28|Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|ɂᎪ³Ꮧ||ꭶꮵꮿᎪᏗ|gaji:ya:kóhdi|For me to have living things|ga2jii2yaa2koh3di
+832|10|32|Ꮩ¹ᏍᏗ²-|ᎣᎵ͓²Ꭶ²||ᏙᏍᏙᎵᎦ|dò:sdohlgā|He and I recently understood things|doo1sdohl2ga2
+833|10|43|Ꭸ²Ꮵ²-, Ꭸ²Ꭶ͓-|Ꭺ¹Ꮹ²Ꮤ||ᏫᎨᏥᎪᏩᏔ|wige:ji:gò:wahta|Let them be seen|wi2gee2jii2goo1wah2ta
+834|10|54|Ꭱ¹Ꭹ̣²Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ²||ᎡᎩᏂᎪᏩᏔ|è:gini:gò:wahtā|You (1) and I were recently seen|ee1gi2nii2goo1wah2ta2
+835|11|1|Ꭲ¹Ꮒ²-|ɂᎷ¹Ꭶ||ᎢᏂᎷᎦ|ì:ni:lù:ga|Let you (1) and me climb it|ii1nii2luu1ga
+836|11|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꮈ¹ᏍᏗ||ᎤᎸᏍᏗ|ù:lv̀:sdi|For him to climb it|uu1lvv1sdi
+837|11|1||Ꭲ¹Ꮸ²Ꮵ||ᎢᏨᏥ|ì:jv:ji|I, your all's mother|ii1jvv2ji
+838|11|1|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|ɂᏯ̣²Ꭶ²*||ᏕᏥᏯᎦ|de:jiyagā|I recently ate flexible things|dee2ji2ya2ga2
+839|11|1|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᏓᎭᏗᏔ|da:dǐ:tā|He recently drank drinks|daa2dii23ta2
+840|11|1|Ꭸ²Ꮵ²-, Ꭸ²Ꭶ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᎨᎦᎦᏙᏍᏙᏗ|ge:gagà:tǒ:sdóhdi|For them to be looked at|gee2ga2gaa1too23sdoh3di
+841|11|1|Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ³ᏍᎪ³Ꭲ*||ᎦᏓᎦᏙᏍᏗᏍᎪᎢ|gadà:gà:tǒ:sdí:sgó:ɂi|I am often looking at myself|ga2daa1gaa1too23sdii3sgoo3-i
+842|11|2|Ꮳ̣²-|ᏁᏗ||ᏣᏁᏗ|janehdi|For you (1) to have a liquid|ja2neh2di
+843|11|2|Ꭲ¹Ꮧ²-|ɂᎷ¹Ꭶ||ᎢᏗᎷᎦ|ì:di:lù:ga|Let all of us climb it|ii1dii2luu1ga
+844|11|2|Ꮥ³Ꭹ²-|Ꮎ̣³Ꭰ||ᏕᎩᎾᎠ|dé:gi:náɂa|All of us have flexible things|dee3gii2na3-a
+845|11|2|Ꮵ̣²-, Ꭶ͓-|ɂᏰ³Ꭰ*||ᏥᏰᎠ|jiyé:ɂa|I am eating something flexible|ji2yee3-a
+846|11|3|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|ᏁᏗ||ᎠᎩᏁᏗ|à:ginehdi|For me to have a liquid|aa1gi2neh2di
+847|11|3|Ꮩ¹Ꭹ²-|Ꮎ̣³Ꭰ||ᏙᎩᎾᎠ|dò:gi:náɂa|They and I have flexible things|doo1gii2na3-a
+848|11|4|Ꮪ¹Ꮒ²-|Ꮎ̣³Ꭰ||ᏚᏂᎾᎠ|dù:ni:náɂa|They have flexible things|duu1nii2na3-a
+849|11|4|Ꮶ¹Ꭹ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᏦᎫᏗᏔᏍᏗ|jò:ga:di:tasdi|For them and me to drink drinks|joo1gaa2dii2ta2sdi
+850|11|5|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꮎ̣³Ꭰ||ᏓᎩᎾᎠ|dà:gináɂa|I have flexible things|daa1gi2na3-a
+851|11|5|Ꮷ¹Ꮒ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᏧᏄᏗᏔᏍᏗ|jù:na:di:tasdi|For them to drink drinks|juu1naa2dii2ta2sdi
+852|11|5|Ꮧ̣²Ꭹ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᏗᎩᏍᏗᎩᏍᏗ|digi:sdǐ:gî:sdi|For all of us to eat rod shaped things|di2gii2sdii23gii32sdi
+853|11|6|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꮎ̣³Ꭰ||ᏕᏣᎾᎠ|de:janáɂa|You (1) have flexible things|dee2ja2na3-a
+854|11|6|Ꮶ¹Ꭹ̣²Ꮒ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᏦᎩᏄᏗᏔᏍᏗ|jò:gina:di:tasdi|For him and me to drink drinks|joo1gi2naa2dii2ta2sdi
+855|11|6|Ꮧ̣²Ꭹ̣²Ꮒ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᏗᎩᏂᏍᏗᎩᏍᏗ|digini:sdǐ:gî:sdi|For you (1) and me to eat rod shaped things|di2gi2nii2sdii23gii32sdi
+856|11|6|Ꮥ³Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᏕᏣᏓᏚᎸᎲᎢ|dé:jadadu:lv:hv̌:ɂi|You all wanted each other a while ago|dee3ja2da2duu2lvv2hvv23-i
+857|11|15|Ꮷ²-, Ꮷ²Ꮹ͓-|Ꭰ̣²ᏚᎸ͓²Ꮧ||ᏧᏚᎸᏗ|ju:duhldi|For him to want them|juu2duhl2di
+858|11|15|Ꭲ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎢᎦᏓᏙᎵᏨᎢ|ì:gada:dohljv̌:ɂi|All of us recognized ourselves a while ago|ii1ga2daa2dohl2jvv23-i
+859|11|16|Ꭳ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎣᎦᏓᏙᎵᏨᎢ|ò:gada:dohljv̌:ɂi|They and I recognized ourselves a while ago|oo1ga2daa2dohl2jvv23-i
+860|11|17|Ꭴ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎤᎾᏓᏙᎵᏨᎢ|ù:nada:dohljv̌:ɂi|They recognized themselves a while ago|uu1na2daa2dohl2jvv23-i
+861|11|17|Ꭸ²Ꮳ̣²-, Ꭸ²Ꮳ̣²-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ||ᎨᏣᎦᏙᏍᏗ|ge:jà:ktǒ:sdi|They are looking at you (1)|gee2jaa1ktoo23sdi
+862|11|18|Ꭳ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎣᎩᎾᏓᏙᎵᏨᎢ|ò:ginada:dohljv̌:ɂi|He and I recognized ourselves a while ago|oo1gi2na2daa2dohl2jvv23-i
+863|11|20|Ꭸ³Ꮵ²-|ɂᎧ̣³Ꭽ||ᏕᎨᏥᎧᎭ|de:gé:ji:káha|They have you all|dee2gee3jii2ka3ha
+864|11|21|Ꭺ²Ꮵ²-|ɂᎧ̣³Ꭽ||ᏕᎪᏥᎧᎭ|de:go:ji:káha|They and I have living things|dee2goo2jii2ka3ha
+865|11|22|Ꭺ²ᏍᏗ²-|ɂᎧ̣³Ꭽ||ᏕᎪᏍᏗᎧᎭ|de:go:sdi:káha|He and I have living things|dee2goo2sdii2ka3ha
+866|11|22|Ꭴ¹Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎤᏓᎪᏩᏛᏗ|ù:da:gowhtv́hdi|For him to see himself|uu1daa2gowh2tvh3di
+867|11|23|ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣³Ꭽ||ᏕᏍᏓᏓᎧᎭ|de:sdada:káha|You both have each other|dee2sdaa2daa2ka3ha
+868|11|24|Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏣᏓᎪᏩᏛᏗ|jada:gowhtv́hdi|For you (1) to see yourself|ja2daa2gowh2tvh3di
+869|11|25|Ꮧ̣²Ꮳ̣²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏗᏣᎪᏩᏛᏗ|dijagowhtv́hdi|For you (1) to see them (inanimate)|di2ja2gowh2tvh3di
+870|11|26|Ꮧ̣¹Ꭹ̣²-, Ꮧ̣¹Ꮖ͓-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏗᎩᎪᏩᏛᏗ|dìgigowhtv́hdi|For me to see them (inanimate)|di1gi2gowh2tvh3di
+871|11|27|Ꭰ¹Ꮖ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎠᏆᏓᎪᏩᏛᏗ|à:gwada:gowhtv́hdi|For me to see myself|aa1gwaa2daa2gowh2tvh3di
+872|11|38|Ꭿ²-, Ꭿ²Ꮿ͓-|Ꭰ̣²Ꮪ²³Ꮃ||ᎯᏯᏚᎳ|hi:yadǔ:la|Let you (1) want him|hii2ya2duu23la
+873|11|40|Ꭲ¹ᏍᎩ²-, Ꭲ¹ᏍᎩ²Ꮿ͓-|Ꭰ̣²Ꮪ²³Ꮃ||ᎢᏍᎩᏯᏚᎳ|ì:sgi:yadǔ:la|Let you (1), two, or all want us all; Let you all want me|ii1sgii2ya2duu23la
+874|11|41|Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|Ꭰ̣²Ꮪ²³Ꮃ||ᎦᎯᏯᏚᎳ|gahi:yadǔ:la|Let you (1) want them (animate)|ga2hii2ya2duu23la
+875|11|44|ᏍᎩ̣²-, ᏍᏆ͓-|Ꭺ¹Ꮹ²Ꮤ||ᏍᎩᎪᏩᏔ|sgigò:wahta|Let you (1) see me|sgii2goo1wah2ta
+876|12|1||Ꭳ²Ꭹ²Ꮵ||ᎣᎩᏥ|o:gi:ji|Their and my mother|oo2gii2ji
+877|12|1|Ꭸ²Ꮵ²-, Ꭸ²Ꭶ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎨᎦᎦᏙᏍᏔᏅᎢ|ge:gà:gà:tǒ:stánv̌:ɂi|They were looked at a while ago|gee2gaa1gaa1too23sta3nvv23-i
+878|12|2|Ꮥ³Ꭹ²-|Ꮑ²Ꮀ³Ꭲ||ᏕᎩᏁᎰᎢ|dé:gi:ne:hó:ɂi|All of us usually have liquid things|dee3gii2nee2hoo3-i
+879|12|3|Ꮩ¹Ꭹ²-|Ꮑ²Ꮀ³Ꭲ||ᏙᎩᏁᎰᎢ|dò:gi:ne:hó:ɂi|They and I usually have liquid things|doo1gii2nee2hoo3-i
+880|12|4|Ꭲ¹Ꭹ²-|ᏁᏗ||ᏗᎩᏁᏗ|dì:gi:nehdi|For all of us to have a liquid|dii1gii2neh2di
+881|12|4|Ꮪ¹Ꮒ²-|Ꮑ²Ꮀ³Ꭲ||ᏚᏂᏁᎰᎢ|dù:ni:ne:hó:ɂi|They usually have liquid things|duu1nii2nee2hoo3-i
+882|12|5|Ꭳ¹Ꭹ²-|ᏁᏗ||ᏦᎩᏁᏗ|jò:gi:nehdi|For them and me to have a liquid|joo1gii2neh2di
+883|12|5|Ꭲ¹Ꮧ²-|ɂᎷ¹Ꭶ²||ᎢᏗᎷᎦ|ì:di:lù:gā|All of us recently climbed it|ii1dii2luu1ga2
+884|12|5|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꮑ²Ꮀ³Ꭲ||ᏓᎩᏁᎰᎢ|dà:gine:hó:ɂi|I usually have liquid things|daa1gi2nee2hoo3-i
+885|12|6|Ꭴ¹Ꮒ²-|ᏁᏗ||ᏧᏂᏁᏗ|jù:ni:nehdi|For them to have a liquid|juu1nii2neh2di
+886|12|6|Ꭰ̣²-, Ꭶ̣²-|ɂᎴ¹Ꭶ||ᎦᎴᎦ|gálè:ga|He is climbing it|ga3lee1ga
+887|12|6|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꮑ²Ꮀ³Ꭲ||ᏕᏣᏁᎰᎢ|de:jane:hó:ɂi|You (1) usually have liquid things|dee2ja2nee2hoo3-i
+888|12|7|Ꭳ¹Ꭹ̣²Ꮒ²-|ᏁᏗ||ᏦᎩᏂᏁᏗ|jò:gini:nehdi|For him and me to have a liquid|joo1gi2nii2neh2di
+889|12|7|Ꮥ²Ꭹ̣²Ꮒ²-|Ꮑ²Ꮀ³Ꭲ||ᏕᎩᏂᏁᎰᎢ|de:gini:ne:hó:ɂi|You (1) and I usually have liquid things|dee2gi2nii2nee2hoo3-i
+890|12|7|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|ɂᏯ̣²Ꭶ²||ᏕᎦᏯᎦ|de:gahyagā|He recently ate flexible things|dee2ga2hya2ga2
+891|12|7|Ꮧ̣²Ꭹ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᏗᎫᏗᏔᏍᏗ|diga:di:tasdi|For all of us to drink drinks|di2gaa2dii2ta2sdi
+892|12|7|Ꮧ̣²Ꮳ̣²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᏗᏣᏍᏗᎩᏍᏗ|dijasdǐ:gî:sdi|For you (1) to eat rod shaped things|di2ja2sdii23gii32sdi
+893|12|8|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꮑ²Ꮀ³Ꭲ||ᏙᎩᏂᏁᎰᎢ|dò:gini:ne:hó:ɂi|He and I usually have liquid things|doo1gi2nii2nee2hoo3-i
+894|12|8|Ꮧ̣²Ꭹ̣²Ꮒ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᏗᎩᏄᏗᏔᏍᏗ|digina:di:tasdi|For you (1) and me to drink drinks|di2gi2naa2dii2ta2sdi
+895|12|8|Ꮧ̣¹Ꭹ̣²-, Ꮧ̣¹Ꮖ͓-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᏗᎩᏍᏗᎩᏍᏗ|dìgisdǐ:gî:sdi|For me to eat rod shaped things|di1gi2sdii23gii32sdi
+896|12|8|Ꭰ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᎠᎾᏓᎪᏩᏘᏍᎪᎢ|à:nada:gowhtǐ:sgóɂi|They are often seeing themselves|aa1naa2daa2gowh2tii23sgo3-i
+897|12|9|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꮎ̣³Ꭰ||ᎤᎾᎠ|ù:náɂa|He has something flexible|uu1na3-a
+898|12|9|Ꭸ²Ꮳ̣²-, Ꭸ²Ꮳ̣²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎨᏣᎧᎰᎢ|de:ge:jakahó:ɂi|They usually have you (1)|dee2gee2ja2ka2hoo3-i
+899|12|9|Ꮧ̣²Ꮵ̣²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏗᏥᎭᏗᏔ|dija:dǐ:ta|Let you all drink drinks|di2jaa2dii23ta
+900|12|9|Ꭲ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎢᎦᏓᏚᎵᎭ|ì:gadadu:líha|All of us are wanting ourselves|ii1ga2da2duu2li3ha
+901|12|9|Ꭼ²-, Ꭼ²Ꮿ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ*||ᎬᏯᎦᏙᏍᏗ|gv:yagà:tǒ:sdi|I am looking at you (1)|gvv2ya2gaa1too23sdi
+902|12|10|Ꭳ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎣᎦᏓᏚᎵᎭ|ò:gadadu:líha|They and I are wanting ourselves|oo1ga2da2duu2li3ha
+903|12|10|Ꮵ²-, Ꮵ²Ꮿ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ*||ᏥᏯᎦᏙᏍᏗ|ji:yagà:tǒ:sdi|I am looking at him|jii2ya2gaa1too23sdi
+904|12|11|Ꭴ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎤᎾᏓᏚᎵᎭ|ù:nadadu:líha|They are wanting themselves|uu1na2da2duu2li3ha
+905|12|11|Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ*||ᎦᏥᏯᎦᏙᏍᏗ|gaji:yagà:tǒ:sdi|I am looking at them (animate)|ga2jii2ya2gaa1too23sdi
+906|12|12|Ꭳ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎣᎩᎾᏓᏚᎵᎭ|ò:ginadadu:líha|He and I are wanting ourselves|oo1gi2na2da2duu2li3ha
+907|12|14|Ꮥ³Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏕᏣᏓᎪᏩᏘᎭ|dé:jada:gowhtíha|You all are seeing each other|dee3ja2daa2gowh2ti3ha
+908|12|15|Ꮥ²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏕᏍᏓᏓᎪᏩᏘᎭ|de:sdada:gowhtíha|You both are seeing each other|dee2sdaa2daa2gowh2ti3ha
+909|12|16|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|ɂ¹ᏘᏗ||ᎠᎩᏘᏗ|à:gìtdi|For me to bake something|aa1gi1tdi
+910|12|19|ᏍᏗ²-|Ꮀ³Ꭲ||ᏍᏗᎰᎢ|sdi:hó:ɂi|You both usually have something solid|sdii2hoo3-i
+911|12|20|Ꭲ¹Ꮵ²-|Ꮀ³Ꭲ||ᎢᏥᎰᎢ|ì:ji:hó:ɂi|You all usually have something solid|ii1jii2hoo3-i
+912|12|20|Ꭴ¹Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎤᏓᏙᎵᏨᎢ|ù:da:dohljv̌:ɂi|He recognized himself a while ago|uu1daa2dohl2jvv23-i
+913|12|21|Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏣᏓᏙᎵᏨᎢ|jada:dohljv̌:ɂi|You (1) recognized yourself a while ago|ja2daa2dohl2jvv23-i
+914|12|22|Ꭰ¹Ꮖ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎠᏆᏓᏙᎵᏨᎢ|à:gwada:dohljv̌:ɂi|I recognized myself a while ago|aa1gwaa2daa2dohl2jvv23-i
+915|12|28|Ꭲ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꭹ||ᎢᏣᏓᏙᎵᎩ|ì:jada:dohlgi|Let you all recognize yourselves|ii1ja2daa2dohl2gi
+916|12|35|Ꮧ̣²ᏍᏗ²-|Ꭳ²Ꮅ³ᏍᏗ||ᏗᏍᏙᎵᏍᏗ|disdo:hlísdi|For you both to understand things|di2sdoo2hli3sdi
+917|12|57|Ꮥ³Ꮵ²-|Ꭺ²Ꮂ²³Ꭲ||ᏕᏥᎪᎲᎢ|dé:ji:go:hv̌:ɂi|You all saw them (inanimate) a while ago|dee3jii2goo2hvv23-i
+918|12|58|Ꮥ²ᏍᏗ²-|Ꭺ²Ꮂ²³Ꭲ||ᏕᏍᏗᎪᎲᎢ|de:sdi:go:hv̌:ɂi|You both saw them (inanimate) a while ago|dee2sdii2goo2hvv23-i
+919|13|1||Ꭴ²Ꮒ²Ꮵ||ᎤᏂᏥ|u:ni:ji|Their mother|uu2nii2ji
+920|13|2|Ꮥ³Ꭹ²-|Ꮑ²Ꮂ²³Ꭲ||ᏕᎩᏁᎲᎢ|dé:gi:ne:hv̌:ɂi|All of us had liquid things a while ago|dee3gii2nee2hvv23-i
+921|13|2|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|Ꭰ¹Ꮧ²Ꮤ̣³ᏍᎦ||ᏕᎦᏗᏔᏍᎦ|de:gà:di:tásga|I am drinking drinks|dee2gaa1dii2ta3sga
+922|13|3|Ꭰ¹Ꮒ²-|Ꭰ¹Ꮧ̣²Ꭽ||ᎠᎾᏗᎭ|à:nadiha|They are saying|aa1na2di2ha
+923|13|3|Ꮩ¹Ꭹ²-|Ꮑ²Ꮂ²³Ꭲ||ᏙᎩᏁᎲᎢ|dò:gi:ne:hv̌:ɂi|They and I had liquid things a while ago|doo1gii2nee2hvv23-i
+924|13|4|Ꭲ¹Ꮒ²-|Ꭰ¹Ꮧ̣²Ꭽ||ᎢᎾᏗᎭ|ì:nadiha|You (1) and I are saying|ii1na2di2ha
+925|13|4|Ꮪ¹Ꮒ²-|Ꮑ²Ꮂ²³Ꭲ||ᏚᏂᏁᎲᎢ|dù:ni:ne:hv̌:ɂi|They had liquid things a while ago|duu1nii2nee2hvv23-i
+926|13|5|Ꭲ¹Ꮧ²-|Ꭰ¹Ꮧ̣²Ꭽ||ᎢᏓᏗᎭ|ì:dadiha|All of us are saying|ii1da2di2ha
+927|13|5|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꮑ²Ꮂ²³Ꭲ||ᏓᎩᏁᎲᎢ|dà:gine:hv̌:ɂi|I had liquid things a while ago|daa1gi2nee2hvv23-i
+928|13|6|Ꭰ̣²-, Ꭶ̣²-|ɂᎷ¹Ꭶ²||ᎦᎷᎦ|galù:gā|He recently climbed it|ga2luu1ga2
+929|13|6|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꮑ²Ꮂ²³Ꭲ||ᏕᏣᏁᎲᎢ|de:jane:hv̌:ɂi|You (1) had liquid things a while ago|dee2ja2nee2hvv23-i
+930|13|6|Ꭰ¹Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ³ᏍᎪ³Ꭲ||ᎠᏓᎦᏙᏍᏗᏍᎪᎢ|à:dà:ktǒ:sdí:sgó:ɂi|He is often looking at himself|aa1daa1ktoo23sdii3sgoo3-i
+931|13|7|Ꮵ̣²-, Ꭶ͓-|ɂᎴ¹Ꭶ||ᏥᎴᎦ|jílè:ga|I am climbing it|ji3lee1ga
+932|13|7|Ꮥ²Ꭹ̣²Ꮒ²-|Ꮑ²Ꮂ²³Ꭲ||ᏕᎩᏂᏁᎲᎢ|de:gini:ne:hv̌:ɂi|You (1) and I had liquid things a while ago|dee2gi2nii2nee2hvv23-i
+933|13|7|Ꭽ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ³ᏍᎪ³Ꭲ||ᎭᏓᎦᏙᏍᏗᏍᎪᎢ|hadà:ktǒ:sdí:sgó:ɂi|You (1) are often looking at yourself|haa2daa1ktoo23sdii3sgoo3-i
+934|13|8|Ꭰ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ³ᏍᎪ³Ꭲ||ᎠᎾᏓᎦᏙᏍᏗᏍᎪᎢ|à:nadà:ktǒ:sdí:sgó:ɂi|They are often looking at themselves|aa1naa2daa1ktoo23sdii3sgoo3-i
+935|13|9|Ꭳ¹ᏍᏗ²-|Ꭰ̣²Ꮣ||ᏬᏍᏓᏓ|wò:sdada|Let him and me say|woo1sda2da
+936|13|9|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꮑ²Ꮀ³Ꭲ||ᎤᏁᎰᎢ|ù:ne:hó:ɂi|He usually has a liquid|uu1nee2hoo3-i
+937|13|9|Ꭸ²Ꮳ̣²-, Ꭸ²Ꮳ̣²-|ɂᎧ̣²Ꮂ²³Ꭲ||ᏕᎨᏣᎧᎲᎢ|de:ge:jakahv̌:ɂi|They had you (1) a while ago|dee2gee2ja2ka2hvv23-i
+938|13|9|Ꮷ²-, Ꮷ²Ꮹ͓-|ɂ¹Ꮯ²³Ꮠ̣³Ꮧ||ꮷꮹᏟᏐᏗ|ju:wà:hlǐ:sóhdi|For him to gather things|juu2waa1hlii23soh3di
+939|13|9|Ꭲ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ³ᏍᎪ³Ꭲ||ᎢᎾᏓᎦᏙᏍᏗᏍᎪᎢ|ì:nadà:ktǒ:sdí:sgó:ɂi|You (1) and I are often looking at ourselves|ii1na2daa1ktoo23sdii3sgoo3-i
+940|13|10|Ꭲ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᏣᏓᎧᎰᎢ|dé:jada:kahó:ɂi|You all usually have each other|dee3ja2daa2ka2hoo3-i
+941|13|10|Ꭳ¹Ꭶ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᎣᎦᏓᏚᎸᎲᎢ|ò:gadadu:lv:hv̌:ɂi|They and I wanted ourselves a while ago|oo1ga2da2duu2lvv2hvv23-i
+942|13|10|Ꭲ¹Ꮣ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ³ᏍᎪ³Ꭲ||ᎢᏓᏓᎦᏙᏍᏗᏍᎪᎢ|ì:dadà:ktǒ:sdí:sgó:ɂi|All of us are often looking at ourselves|ii1da2daa1ktoo23sdii3sgoo3-i
+943|13|11|Ꭴ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᎤᎾᏓᏚᎸᎲᎢ|ù:nadadu:lv:hv̌:ɂi|They wanted themselves a while ago|uu1na2da2duu2lvv2hvv23-i
+944|13|11|Ꭳ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ³ᏍᎪ³Ꭲ||ᎣᏣᏓᎦᏙᏍᏗᏍᎪᎢ|ò:jadà:ktǒ:sdí:sgó:ɂi|They and I are often looking at ourselves|oo1ja2daa1ktoo23sdii3sgoo3-i
+945|13|12|Ꭳ¹Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᎣᎩᎾᏓᏚᎸᎲᎢ|ò:ginadadu:lv:hv̌:ɂi|He and I wanted ourselves a while ago|oo1gi2na2da2duu2lvv2hvv23-i
+946|13|12|Ꭳ¹ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ³ᏍᎪ³Ꭲ||ᎣᏍᏓᏓᎦᏙᏍᏗᏍᎪᎢ|ò:sdadà:ktǒ:sdí:sgó:ɂi|He and I are often looking at ourselves|oo1sda2daa1ktoo23sdii3sgoo3-i
+947|13|13|Ꮳ̣²-, Ꮳ̣²-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᏣᎦᏙᏍᏓ|jaktǒ:sdā|He recently looked at you (1)|ja2ktoo23sda2
+948|13|14|Ꭸ²Ꭹ²-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎨᎦᏚᎵᎭ|ge:gadu:líha|They are wanting all of us; They are wanted|gee2ga2duu2li3ha
+949|13|15|Ꭺ²Ꭹ²-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎪᎦᏚᎵᎭ|go:gadu:líha|They are wanting them and me|goo2ga2duu2li3ha
+950|13|15|Ꭸ²ᏍᏗ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ*||ᎨᏍᏓᎦᏙᏍᏗ|ge:sdagà:tǒ:sdi|You both are looking at them (animate); They are looking at you both|gee2sda2gaa1too23sdi
+951|13|16|Ꭼ²Ꭹ̣²-, Ꭼ²Ꮖ͓-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎬᏆᏚᎵᎭ|gv:gwadu:líha|They are wanting me|gvv2gwa2duu2li3ha
+952|13|18|Ꭰ¹Ꮖ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎠᏆᏓᏚᎵᎭ|à:gwadadu:líha|I am wanting myself|aa1gwaa2da2duu2li3ha
+953|13|19|ᏍᏗ²-|Ꮂ²³Ꭲ||ᏍᏗᎲᎢ|sdi:hv̌:ɂi|You both had something solid a while ago|sdii2hvv23-i
+954|13|19|Ꭸ²Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎨᎩᎾᏚᎵᎭ|ge:ginadu:líha|They are wanting you (1) and me|gee2gi2na2duu2li3ha
+955|13|20|Ꭲ¹Ꮵ²-|Ꮂ²³Ꭲ||ᎢᏥᎲᎢ|ì:ji:hv̌:ɂi|You all had something solid a while ago|ii1jii2hvv23-i
+956|13|20|Ꭺ²Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎪᎩᎾᏚᎵᎭ|go:ginadu:líha|They are wanting him and me|goo2gi2na2duu2li3ha
+957|13|22|Ꮧ̣²Ꮵ̣²-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏗᏣᎦᏙᏍᏓ|dijaktǒ:sda|Let you all look at them (inanimate)|di2ja2ktoo23sda
+958|13|25|Ꭼ²-, Ꭼ²Ꮿ͓-|ɂᎧ̣³Ꭽ||ꭼꮿᎧᎭ|gv:ya:káha|I have you (1)|gvv2yaa2ka3ha
+959|13|26|Ꮵ²-, Ꮵ²Ꮿ͓-|ɂᎧ̣³Ꭽ||ꮵꮿᎧᎭ|ji:ya:káha|I have something alive|jii2yaa2ka3ha
+960|13|26|Ꮣ¹Ꮒ²-|ᎣᎵ͓²Ꭺ³Ꭲ||ᏓᏃᎵᎪᎢ|dà:nohlgó:ɂi|They usually understand things; They usually recognize them (animate)|daa1nohl2goo3-i
+961|13|27|Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|ɂᎧ̣³Ꭽ||ꭶꮵꮿᎧᎭ|gaji:ya:káha|I have living things|ga2jii2yaa2ka3ha
+962|13|27|Ꮥ³Ꮒ²-|ᎣᎵ͓²Ꭺ³Ꭲ||ᏕᏃᎵᎪᎢ|dé:nohlgó:ɂi|You (1) and I usually understand things|dee3nohl2goo3-i
+963|13|28|Ꮥ³Ꮧ²-|ᎣᎵ͓²Ꭺ³Ꭲ||ᏕᏙᎵᎪᎢ|dé:dohlgó:ɂi|All of us usually understand things|dee3dohl2goo3-i
+964|13|29|Ꮧ̣²ᏍᏗ²-|ᎣᎵ͓²Ꭹ||ᏗᏍᏙᎵᎩ|disdohlgi|Let you both understand things|di2sdohl2gi
+965|13|29|Ꮩ¹Ꮵ²-|ᎣᎵ͓²Ꭺ³Ꭲ||ᏙᏦᎵᎪᎢ|dò:johlgó:ɂi|They and I usually understand things|doo1johl2goo3-i
+966|13|30|Ꮩ¹ᏍᏗ²-|ᎣᎵ͓²Ꭺ³Ꭲ||ᏙᏍᏙᎵᎪᎢ|dò:sdohlgó:ɂi|He and I usually understand things|doo1sdohl2goo3-i
+967|13|57|Ꮥ³Ꮵ²-|Ꭺ¹Ꮹ²Ꮤ²||ᏕᏥᎪᏩᏔ|dé:ji:gò:wahtā|You all recently saw them (inanimate)|dee3jii2goo1wah2ta2
+968|13|58|Ꮥ²ᏍᏗ²-|Ꭺ¹Ꮹ²Ꮤ²||ᏕᏍᏗᎪᏩᏔ|de:sdi:gò:wahtā|You both recently saw them (inanimate)|dee2sdii2goo1wah2ta2
+969|14|1||Ꭴ²Ꮩ²Ꮣ||ᎤᏙᏓ|u:do:da|His father|uu2doo2da
+970|14|1|Ꭹ̣²Ꮒ²-|Ꭱ²Ꮕ³Ꮢ²³Ꭲ||ᎩᏁᏅᏒᎢ|gine:nv́:sv̌:ɂi|You (1) and I went a while ago|gi2nee2nvv3svv23-i
+971|14|1|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|Ꭰ̣¹Ꮪ²³Ꭹ̣³Ꭰ||ᏕᎭᏚᎩᎠ|de:hàtǔ:gía|You (1) are drinking alcoholic drinks|dee2ha1tuu23gi3a
+972|14|3|Ꮩ¹Ꭹ²-|Ꮑ̣³Ꭽ||ᏙᎩᏁᎭ|dò:gi:néha|They and I have liquid things|doo1gii2ne3ha
+973|14|3|Ꭸ³Ꮵ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ²*||ᎨᏣᎦᏙᏍᏓ|gé:jagà:tǒ:sdā|They recently looked at you all|gee3ja2gaa1too23sda2
+974|14|4|Ꭺ²Ꮵ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ²*||ᎪᏣᎦᏙᏍᏓ|go:jagà:tǒ:sdā|They and I recently looked at them (animate)|goo2ja2gaa1too23sda2
+975|14|7|Ꮥ²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᏕᏍᏓᏓᏚᎵᏍᎪᎢ|de:sdadadu:lǐ:sgóɂi|You both usually are wanting each other|dee2sdaa2da2duu2lii23sgo3-i
+976|14|8|Ꭿ̣²-|ɂᎴ¹Ꭶ||ᎯᎴᎦ|hílè:ga|You (1) are climbing it|hi3lee1ga
+977|14|9|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꮑ²Ꮂ²³Ꭲ||ᎤᏁᎲᎢ|ù:ne:hv̌:ɂi|He had a liquid a while ago|uu1nee2hvv23-i
+978|14|10|Ꮥ³Ꮵ²-|Ꭾ³ᏍᏗ||ᏕᏥᎮᏍᏗ|dé:ji:hé:sdi|You all will be having solid things|dee3jii2hee3sdi
+979|14|11|Ꮥ²ᏍᏗ²-|Ꭾ³ᏍᏗ||ᏕᏍᏗᎮᏍᏗ|de:sdi:hé:sdi|You both will be having solid things|dee2sdii2hee3sdi
+980|14|14|Ꭸ²Ꭹ²-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᎨᎦᏚᎸᎲᎢ|ge:gadu:lv:hv̌:ɂi|They wanted all of us a while ago; They were wanted a while ago|gee2ga2duu2lvv2hvv23-i
+981|14|16|ᏍᏛ²-, ᏍᏛ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏍᏛᎪᏩᏘᎭ|sdv:gowhtíha|I am seeing you both; We two are seeing you (1) or you both|sdvv2gowh2ti3ha
+982|14|33|Ꭸ²Ꮒ²-|ɂᎧ̣³Ꭽ||ᏕᎨᏂᎧᎭ|de:ge:ni:káha|You (1) and I have living things|dee2gee2nii2ka3ha
+983|14|33|Ꮧ̣²Ꮵ̣²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏗᏥᎪᏩᏛᏗ|diji:gowhtv́hdi|For you all to see them (inanimate)|di2jii2gowh2tvh3di
+984|14|34|Ꭰ̣²-, Ꭶ̣²-|ᎣᎵ͓²Ꭶ||ᎪᎵᎦ|gohlga|He understands it; He recognizes him|gohl2ga
+985|14|34|Ꭸ²Ꮧ²-|ɂᎧ̣³Ꭽ||ᏕᎨᏗᎧᎭ|de:ge:di:káha|All of us have living things|dee2gee2dii2ka3ha
+986|14|35|Ꭸ²Ꮵ²-|ɂᎧ̣³Ꭽ||ᏕᎨᏥᎧᎭ|de:ge:ji:káha|You all have living things; Someone has them|dee2gee2jii2ka3ha
+987|14|36|Ꭸ²ᏍᏗ²-|ɂᎧ̣³Ꭽ||ᏕᎨᏍᏗᎧᎭ|de:ge:sdi:káha|You both have living things; They have you both|dee2gee2sdii2ka3ha
+988|14|46|Ꭵ¹Ꭹ̣²-, Ꭵ¹Ꮖ͓-|Ꭺ¹Ꮹ²Ꮤ||ᏮᎩᎪᏩᏔ|wv̀:gigò:wahta|Let me be seen|wvv1gi2goo1wah2ta
+989|14|47|ᏍᎩ̣²Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ||ᏍᎩᏂᎪᏩᏔ|sgini:gò:wahta|Let you (1) or both see us both|sgi2nii2goo1wah2ta
+990|15|1||Ꭶ²Ꭿ²Ꮵ||ᎦᎯᏥ|gahi:ji|You one, their mother|ga2hii2ji
+991|15|1|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꭰ̣²Ꮕ͓Ꮤ||ᏕᏣᏅᏔ|de:janhta|You (1) know things|dee2ja2nhta
+992|15|1|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꭵ²³ᏰᏍᏗ||ᏚᎥᏰᏍᏗ|du:jv̌:yê:sdi|He will be having rod shaped things|duu2jvv23yee32sdi
+993|15|1|Ꭹ̣²Ꮒ²-|Ꭱ²Ꮕ¹ᏍᏗ||ᎩᏁᏅᏍᏗ|gine:nv̀:sdi|For you (1) and me to go|gi2nee2nvv1sdi
+994|15|1|Ꮥ³Ꭹ²-|ɂᏯ³Ꭵ²³Ꭲ||ᏕᎩᏯᎥᎢ|dé:gi:hyá:ɂv̌:ɂi|All of us ate flexible things a while ago|dee3gii2hyaa3-vv23-i
+995|15|1|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|Ꭰ¹Ꮧ²Ꮤ̣²ᏍᎪ³Ꭲ||ᏓᏗᏔᏍᎪᎢ|dà:di:tasgó:ɂi|He usually is drinking drinks|daa1dii2ta2sgoo3-i
+996|15|1|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|Ꭰ̣¹Ꮪ²³Ꭹ̣³Ꭰ*||ᏕᎦᏚᎩᎠ|de:gaɂdǔ:gía|I am drinking alcoholic drinks|dee2ga-2duu23gi3a
+997|15|2|Ꮩ¹Ꭹ²-|ɂᏯ³Ꭵ²³Ꭲ||ᏙᎩᏯᎥᎢ|dò:gi:hyá:ɂv̌:ɂi|They and I ate flexible things a while ago|doo1gii2hyaa3-vv23-i
+998|15|2|Ꮳ̣²-|Ꭱ²Ꮕ³Ꮢ²³Ꭲ||ᏤᏅᏒᎢ|je:nv́:sv̌:ɂi|You (1) went a while ago|jee2nvv3svv23-i
+999|15|3|Ꮪ¹Ꮒ²-|ɂᏯ³Ꭵ²³Ꭲ||ᏚᏂᏯᎥᎢ|dù:ni:hyá:ɂv̌:ɂi|They ate flexible things a while ago|duu1nii2hyaa3-vv23-i
+1000|15|3|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꭱ²Ꮕ³Ꮢ²³Ꭲ||ᎠᏇᏅᏒᎢ|à:gwe:nv́:sv̌:ɂi|I went a while ago|aa1gwee2nvv3svv23-i
+1001|15|4|Ꭿ̣²-|ɂᎷ¹Ꭶ||ᎯᎷᎦ|hilù:ga|Let you (1) climb it|hi2luu1ga
+1002|15|4|Ꭰ¹Ꮒ²-|Ꭱ³Ꭺ̣³Ꭲ||ᎠᏁᎪᎢ|à:né:góɂi|They usually are going|aa1nee3go3-i
+1003|15|4|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|ɂᏯ³Ꭵ²³Ꭲ||ᏓᎩᏯᎥᎢ|dà:gihyá:ɂv̌:ɂi|I ate flexible things a while ago|daa1gi2hyaa3-vv23-i
+1004|15|4|Ꭳ¹Ꭹ²-|Ꭱ²Ꮕ³Ꮢ²³Ꭲ||ᎣᎨᏅᏒᎢ|ò:ge:nv́:sv̌:ɂi|They and I went a while ago|oo1gee2nvv3svv23-i
+1005|15|5|Ꮥ²Ꭹ̣²Ꮒ²-|ɂᏯ³Ꭵ²³Ꭲ||ᏕᎩᏂᏯᎥᎢ|de:gini:hyá:ɂv̌:ɂi|You (1) and I ate flexible things a while ago|dee2gi2nii2hyaa3-vv23-i
+1006|15|5|Ꭴ¹Ꮒ²-|Ꭱ²Ꮕ³Ꮢ²³Ꭲ||ᎤᏁᏅᏒᎢ|ù:ne:nv́:sv̌:ɂi|They went a while ago|uu1nee2nvv3svv23-i
+1007|15|6|Ꮩ¹Ꭹ̣²Ꮒ²-|ɂᏯ³Ꭵ²³Ꭲ||ᏙᎩᏂᏯᎥᎢ|dò:gini:hyá:ɂv̌:ɂi|He and I ate flexible things a while ago|doo1gi2nii2hyaa3-vv23-i
+1008|15|6|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꭱ²Ꮕ³Ꮢ²³Ꭲ||ᎣᎩᏁᏅᏒᎢ|ò:gine:nv́:sv̌:ɂi|He and I went a while ago|oo1gi2nee2nvv3svv23-i
+1009|15|8|Ꭹ̣²Ꮎ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣²Ꭾ³ᏍᏗ||ᏕᎩᎾᏓᎧᎮᏍᏗ|de:ginada:kahé:sdi|You (1) and I will be having each other|dee2gi2na2daa2ka2hee3sdi
+1010|15|9|Ꮧ̣²Ꮵ̣²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᏗᏥᏍᏗᎩᏍᏗ|diji:sdǐ:gî:sdi|For you all to eat rod shaped things|di2jii2sdii23gii32sdi
+1011|15|9|Ꮧ̣²ᏍᏗ²-|Ꭰ̣²Ꮪ²³Ꭹ³²ᏍᏗ||ᏗᏍᏓᏚᎩᏍᏗ|disdatǔ:gî:sdi|For you both to drink alcoholic drinks|di2sda2tuu23gii32sdi
+1012|15|10|Ꮥ³Ꮵ²-|Ꮎ̣³Ꭰ||ᏕᏥᎾᎠ|dé:ji:náɂa|You all have flexible things|dee3jii2na3-a
+1013|15|11|Ꮥ²ᏍᏗ²-|Ꮎ̣³Ꭰ||ᏕᏍᏗᎾᎠ|de:sdi:náɂa|You both have flexible things|dee2sdii2na3-a
+1014|15|12|Ꭲ¹Ꮧ²-|Ꭰ̣²Ꮪ²³Ꭹ||ᎢᏓᏚᎩ|ì:datǔ:gi|Let all of us drink something alcoholic|ii1da2tuu23gi
+1015|15|21|Ꭸ³Ꮵ²-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎨᏣᏚᎵᎭ|gé:jadu:líha|They are wanting you all|gee3ja2duu2li3ha
+1016|15|22|Ꭺ²Ꮵ²-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎪᏣᏚᎵᎭ|go:jadu:líha|They and I are wanting them (animate)|goo2ja2duu2li3ha
+1017|15|23|Ꭺ²ᏍᏗ²-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎪᏍᏓᏚᎵᎭ|go:sdadu:líha|He and I are wanting them (animate)|goo2sda2duu2li3ha
+1018|15|25|ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏍᏓᏓᏙᎵᏨᎢ|sdada:dohljv̌:ɂi|You both recognized yourselves a while ago|sdaa2daa2dohl2jvv23-i
+1019|15|34|Ꭰ̣²-, Ꭶ̣²-|ᎣᎵ͓²Ꭶ²||ᎪᎵᎦ|gohlgā|He recently understood it; He recently recognized him|gohl2ga2
+1020|15|48|Ꭰ¹Ꮵ̣²-, Ꭰ¹Ꭶ͓-|Ꭺ¹Ꮹ²Ꮤ||ᏩᏥᎪᏩᏔ|wà:jigò:wahta|Let him be seen|waa1ji2goo1wah2ta
+1021|15|51|ᏍᎩ̣²Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ||ᏍᎩᏂᎪᏩᏔ|sgini:gò:wahta|Let you both see me|sgii2nii2goo1wah2ta
+1022|16|1||Ꭼ²Ꮩ²Ꮣ||ᎬᏙᏓ|gv:do:da|I, your father|gvv2doo2da
+1023|16|1|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꮎ̣³Ꭳ³Ꭲ||ᏚᎾᎣᎢ|du:náó:ɂi|He usually has flexible things|duu2na3oo3-i
+1024|16|1|Ꮥ³Ꭹ²-|ɂ³Ꮪ²Ꮕ²³Ꭲ||ᏕᎩᏚᏅᎢ|dé:gí:du:hnv̌:ɂi|All of us baked things a while ago|dee3gii3duu2hnvv23-i
+1025|16|2|Ꮳ̣²-|Ꭱ²Ꮕ¹ᏍᏗ||ᏤᏅᏍᏗ|je:nv̀:sdi|For you (1) to go|jee2nvv1sdi
+1026|16|2|Ꮩ¹Ꭹ²-|ɂ³Ꮪ²Ꮕ²³Ꭲ||ᏙᎩᏚᏅᎢ|dò:gí:du:hnv̌:ɂi|They and I baked things a while ago|doo1gii3duu2hnvv23-i
+1027|16|2|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|Ꭽ̣²Ꮧ²³Ꮤ²||ᏕᎦᎭᏗᏔ|de:ga:dǐ:tā|I recently drank drinks|dee2gaa2dii23ta2
+1028|16|2|Ꮣ¹Ꮒ²-|Ꭰ̣¹Ꮪ²³Ꭹ̣³Ꭰ||ᏓᎾᏚᎩᎠ|dà:nàtǔ:gía|They are drinking alcoholic drinks|daa1na1tuu23gi3a
+1029|16|3|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꭱ²Ꮕ¹ᏍᏗ||ᎠᏇᏅᏍᏗ|à:gwe:nv̀:sdi|For me to go|aa1gwee2nvv1sdi
+1030|16|3|Ꮪ¹Ꮒ²-|ɂ³Ꮪ²Ꮕ²³Ꭲ||ᏚᏂᏚᏅᎢ|dù:ní:du:hnv̌:ɂi|They baked things a while ago|duu1nii3duu2hnvv23-i
+1031|16|3|Ꮥ³Ꮒ²-|Ꭰ̣¹Ꮪ²³Ꭹ̣³Ꭰ||ᏕᎾᏚᎩᎠ|dé:nàtǔ:gía|You (1) and I are drinking alcoholic drinks|dee3na1tuu23gi3a
+1032|16|4|Ꭳ¹Ꭹ²-|Ꭱ²Ꮕ¹ᏍᏗ||ᎣᎨᏅᏍᏗ|ò:ge:nv̀:sdi|For them and me to go|oo1gee2nvv1sdi
+1033|16|4|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|ɂ³Ꮪ²Ꮕ²³Ꭲ||ᏓᎩᏚᏅᎢ|dà:gídu:hnv̌:ɂi|I baked things a while ago|daa1gi3duu2hnvv23-i
+1034|16|4|Ꮥ³Ꮧ²-|Ꭰ̣¹Ꮪ²³Ꭹ̣³Ꭰ||ᏕᏓᏚᎩᎠ|dé:dàtǔ:gía|All of us are drinking alcoholic drinks|dee3da1tuu23gi3a
+1035|16|4|Ꭸ²Ꮒ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎨᎾᎦᏙᏍᏓ|ge:nagà:tǒ:sda|Let you (1) and me look at them (animate)|gee2na2gaa1too23sda
+1036|16|5|Ꭴ¹Ꮒ²-|Ꭱ²Ꮕ¹ᏍᏗ||ᎤᏁᏅᏍᏗ|ù:ne:nv̀:sdi|For them to go|uu1nee2nvv1sdi
+1037|16|5|Ꭲ¹Ꮒ²-|Ꭱ³Ꭺ̣³Ꭲ||ᎢᏁᎪᎢ|ì:né:góɂi|You (1) and I usually are going|ii1nee3go3-i
+1038|16|5|Ꮩ¹Ꮵ²-|Ꭰ̣¹Ꮪ²³Ꭹ̣³Ꭰ||ᏙᏣᏚᎩᎠ|dò:jàtǔ:gía|They and I are drinking alcoholic drinks|doo1ja1tuu23gi3a
+1039|16|5|Ꭸ²Ꮧ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎨᏓᎦᏙᏍᏓ|ge:dagà:tǒ:sda|Let all of us look at them (animate)|gee2da2gaa1too23sda
+1040|16|6|Ꭲ¹Ꮧ²-|Ꭱ³Ꭺ̣³Ꭲ||ᎢᏕᎪᎢ|ì:dé:góɂi|All of us usually are going|ii1dee3go3-i
+1041|16|6|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꭱ²Ꮕ¹ᏍᏗ||ᎣᎩᏁᏅᏍᏗ|ò:gine:nv̀:sdi|For him and me to go|oo1gi2nee2nvv1sdi
+1042|16|6|Ꮩ¹ᏍᏗ²-|Ꭰ̣¹Ꮪ²³Ꭹ̣³Ꭰ||ᏙᏍᏓᏚᎩᎠ|dò:sdàtǔ:gía|He and I are drinking alcoholic drinks|doo1sda1tuu23gi3a
+1043|16|6|Ꭸ²Ꮵ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎨᏣᎦᏙᏍᏓ|ge:jagà:tǒ:sda|Let you all look at them (animate)|gee2ja2gaa1too23sda
+1044|16|7|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|ɂᏯ³Ꭵ²³Ꭲ||ᏕᏣᏯᎥᎢ|de:jahyá:ɂv̌:ɂi|You (1) ate flexible things a while ago|dee2ja2hyaa3-vv23-i
+1045|16|7|Ꭲ¹Ꭹ²-|Ꭱ²Ꮕ³Ꮢ²³Ꭲ||ᎢᎨᏅᏒᎢ|ì:ge:nv́:sv̌:ɂi|All of us went a while ago|ii1gee2nvv3svv23-i
+1046|16|7|Ꮥ²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ||ᏕᏍᏓᏓᎦᏙᏍᏔᏅᎢ|de:sdadà:ktǒ:stánv̌:ɂi|You both looked at each other a while ago|dee2sdaa2daa1ktoo23sta3nvv23-i
+1047|16|8|Ꭿ̣²-|ɂᎷ¹Ꭶ²||ᎯᎷᎦ|hilù:gā|You (1) recently climbed it|hi2luu1ga2
+1048|16|10|Ꮥ³Ꮵ²-|Ꮑ²Ꮀ³Ꭲ||ᏕᏥᏁᎰᎢ|dé:ji:ne:hó:ɂi|You all usually have liquid things|dee3jii2nee2hoo3-i
+1049|16|11|Ꭹ̣²Ꮒ²-|ɂᏰ¹ᏍᏗ||ᎩᏂᏰᏍᏗ|gini:hyè:sdi|For you (1) and me to eat something flexible|gi2nii2hyee1sdi
+1050|16|11|Ꮥ²ᏍᏗ²-|Ꮑ²Ꮀ³Ꭲ||ᏕᏍᏗᏁᎰᎢ|de:sdi:ne:hó:ɂi|You both usually have liquid things|dee2sdii2nee2hoo3-i
+1051|16|15|Ꭱ¹Ꭹ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎩᎧᎰᎢ|dè:gi:kahó:ɂi|Someone often has you all and me|dee1gii2ka2hoo3-i
+1052|16|16|Ꭱ¹Ꮒ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᏂᎧᎰᎢ|dè:ni:kahó:ɂi|You (1) and I usually have something alive|dee1nii2ka2hoo3-i
+1053|16|17|Ꭱ¹Ꮧ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᏗᎧᎰᎢ|dè:di:kahó:ɂi|All of us usually have something alive|dee1dii2ka2hoo3-i
+1054|16|17|Ꭼ²-, Ꭼ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎬᎪᏩᏘᎭ|gv:gowhtíha|I am seeing you (1)|gvv2gowh2ti3ha
+1055|16|17|Ꭸ²Ꮳ̣²-, Ꭸ²Ꮳ̣²-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᎨᏣᎦᏙᏍᏓ|ge:jaktǒ:sdā|They recently looked at you (1)|gee2ja2ktoo23sda2
+1056|16|18|Ꭱ¹Ꮵ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᏥᎧᎰᎢ|dè:ji:kahó:ɂi|You all usually have something alive; Someone often has you all|dee1jii2ka2hoo3-i
+1057|16|18|Ꮵ²-, Ꮵ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏥᎪᏩᏘᎭ|ji:gowhtíha|I am seeing him|jii2gowh2ti3ha
+1058|16|19|Ꭱ¹ᏍᏗ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᏍᏗᎧᎰᎢ|dè:sdi:kahó:ɂi|You both usually have something alive; Someone often has you both|dee1sdii2ka2hoo3-i
+1059|16|19|Ꮳ̣²-, Ꮳ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏣᎪᏩᏘᎭ|jagowhtíha|He is seeing you (1)|ja2gowh2ti3ha
+1060|16|20|Ꭼ²Ꭹ̣²-, Ꭼ²Ꮖ͓-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎬᎩᎧᎰᎢ|de:gv:gikahó:ɂi|They usually have me|dee2gvv2gi2ka2hoo3-i
+1061|16|20|Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎦᏥᎪᏩᏘᎭ|gaji:gowhtíha|I am seeing them (animate)|ga2jii2gowh2ti3ha
+1062|16|21|Ꭱ¹Ꭹ̣²Ꮒ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎩᏂᎧᎰᎢ|dè:gini:kahó:ɂi|Someone often has you (1) and me|dee1gi2nii2ka2hoo3-i
+1063|16|24|ᏍᏛ²-, ᏍᏛ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᏍᏛᏯᏚᎵᎭ|sdv:yadu:líha|I am wanting you both; We two are wanting you (1) or you both|sdvv2ya2duu2li3ha
+1064|16|26|Ꮵ̣²-, Ꭶ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ*||ᎦᎦᏙᏍᏗ|gagà:tǒ:sdi|I am looking at it|ga2gaa1too23sdi
+1065|16|29|Ꭳ¹ᏍᏗ²-|Ꭳ²Ꮅ¹Ꭹ*||ᏬᏍᏙᎵᎩ|wò:sdo:lì:gi|Let him and me recognize him|woo1sdoo2lii1gi
+1066|16|38|Ꭿ²-, Ꭿ²Ꮿ͓-|ɂᎧ̣³Ꭽ||ꭿꮿᎧᎭ|hi:ya:káha|You (1) have something alive|hii2yaa2ka3ha
+1067|16|40|Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|ɂᎧ̣³Ꭽ||ꭶꭿꮿᎧᎭ|gahi:ya:káha|You (1) have living things|ga2hii2yaa2ka3ha
+1068|16|41|Ꭲ¹ᏍᎩ²-, Ꭲ¹ᏍᎩ²Ꮿ͓-|ɂᎧ̣³Ꭽ||ᏕꮝꭹꮿᎧᎭ|dé:sgi:ya:káha|You (1), two, or all have us all; You all have me|dee3sgii2yaa2ka3ha
+1069|16|60|Ꭰ¹Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ²||ᎠᏂᎪᏩᏔ|à:ni:gò:wahtā|They recently saw him; They recently saw it|aa1nii2goo1wah2ta2
+1070|17|1||Ꭿ²Ꮩ²Ꮣ||ᎯᏙᏓ|hi:do:da|You one, his father|hii2doo2da
+1071|17|1|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|ɂᏰ³ᏍᎪ³Ꭲ*||ᏕᏥᏰᏍᎪᎢ|de:jiyé:sgó:ɂi|I am usually eating flexible things|dee2ji2yee3sgoo3-i
+1072|17|1|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᏓᏍᏗᎩᎠ|dàsdǐ:gíɂa|He is eating rod shaped things|da1sdii23gi3-a
+1073|17|2|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꭰ̣²Ꮕ͓Ꮤ||ᏓᏆᏅᏔ|dà:gwanhta|I know things|daa1gwa2nhta
+1074|17|2|Ꮥ³Ꭹ²-|Ꭵ²³ᏰᏍᏗ||ᏕᎩᎥᏰᏍᏗ|dé:gi:jv̌:yê:sdi|All of us will be having rod shaped things|dee3gii2jvv23yee32sdi
+1075|17|3|Ꮩ¹Ꭹ²-|Ꭵ²³ᏰᏍᏗ||ᏙᎩᎥᏰᏍᏗ|dò:gi:jv̌:yê:sdi|They and I will be having rod shaped things|doo1gii2jvv23yee32sdi
+1076|17|3|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᏕᎯᎭᏗᏔ|de:ha:dǐ:tā|You (1) recently drank drinks|dee2haa2dii23ta2
+1077|17|4|Ꮪ¹Ꮒ²-|Ꭵ²³ᏰᏍᏗ||ᏚᏂᎥᏰᏍᏗ|dù:ni:jv̌:yê:sdi|They will be having rod shaped things|duu1nii2jvv23yee32sdi
+1078|17|5|Ꮥ²Ꭹ̣²Ꮒ²-|Ꭵ²³ᏰᏍᏗ||ᏕᎩᏂᎥᏰᏍᏗ|de:gini:jv̌:yê:sdi|You (1) and I will be having rod shaped things|dee2gi2nii2jvv23yee32sdi
+1079|17|6|Ꭳ¹Ꮵ²-|Ꭰ¹Ꮧ̣²Ꭽ||ᎣᏣᏗᎭ|ò:jadiha|They and I are saying|oo1ja2di2ha
+1080|17|6|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꭵ²³ᏰᏍᏗ||ᏙᎩᏂᎥᏰᏍᏗ|dò:gini:jv̌:yê:sdi|He and I will be having rod shaped things|doo1gi2nii2jvv23yee32sdi
+1081|17|7|Ꭲ¹Ꭹ²-|Ꭱ²Ꮕ¹ᏍᏗ||ᎢᎨᏅᏍᏗ|ì:ge:nv̀:sdi|For all of us to go|ii1gee2nvv1sdi
+1082|17|7|Ꭳ¹ᏍᏗ²-|Ꭰ¹Ꮧ̣²Ꭽ||ᎣᏍᏓᏗᎭ|ò:sdadiha|He and I are saying|oo1sda2di2ha
+1083|17|7|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|ɂ³Ꮪ²Ꮕ²³Ꭲ||ᏕᏣᏚᏅᎢ|de:jádu:hnv̌:ɂi|You (1) baked things a while ago|dee2ja3duu2hnvv23-i
+1084|17|7|Ꭸ²ᏍᏗ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎨᏍᏓᎦᏙᏍᏓ|ge:sdagà:tǒ:sda|Let you both look at them (animate)|gee2sda2gaa1too23sda
+1085|17|8|Ꭴ¹Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᎤᏓᏚᎵᏍᎪᎢ|ù:dadu:lǐ:sgóɂi|He usually is wanting himself|uu1da2duu2lii23sgo3-i
+1086|17|9|ᏍᏗ²-|ɂᎴ¹Ꭶ||ᏍᏗᎴᎦ|sdí:lè:ga|You both are climbing it|sdii3lee1ga
+1087|17|9|Ꭰ¹Ꮒ²-|ᏍᏗ²³Ꭶ²||ᎠᏂᏍᏗᎦ|à:ni:sdǐ:gā|They recently ate something rod shaped|aa1nii2sdii23ga2
+1088|17|9|Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᏣᏓᏚᎵᏍᎪᎢ|jadadu:lǐ:sgóɂi|You (1) usually are wanting yourself|ja2da2duu2lii23sgo3-i
+1089|17|10|Ꭲ¹Ꮵ²-|ɂᎴ¹Ꭶ||ᎢᏥᎴᎦ|ì:jí:lè:ga|You all are climbing it|ii1jii3lee1ga
+1090|17|10|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭵ²³Ꮜ||ᎤᏩᏌ|uwǎ:sa|Himself|uu2waa23sa
+1091|17|10|Ꮥ³Ꮵ²-|Ꮑ²Ꮂ²³Ꭲ||ᏕᏥᏁᎲᎢ|dé:ji:ne:hv̌:ɂi|You all had liquid things a while ago|dee3jii2nee2hvv23-i
+1092|17|10|Ꭰ¹Ꮖ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᎠᏆᏓᏚᎵᏍᎪᎢ|à:gwadadu:lǐ:sgóɂi|I am usually wanting myself|aa1gwaa2da2duu2lii23sgo3-i
+1093|17|11|Ꮥ²ᏍᏗ²-|Ꮑ²Ꮂ²³Ꭲ||ᏕᏍᏗᏁᎲᎢ|de:sdi:ne:hv̌:ɂi|You both had liquid things a while ago|dee2sdii2nee2hvv23-i
+1094|17|12|Ꭳ¹Ꭹ²-|ɂᏰ¹ᏍᏗ||ᎣᎩᏰᏍᏗ|ò:gi:hyè:sdi|For them and me to eat something flexible|oo1gii2hyee1sdi
+1095|17|13|Ꮵ²-, Ꮵ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ²*||ᏥᏯᎦᏙᏍᏓ|ji:yagà:tǒ:sdā|I recently looked at him|jii2ya2gaa1too23sda2
+1096|17|14|Ꭳ¹Ꭹ̣²Ꮒ²-|ɂᏰ¹ᏍᏗ||ᎣᎩᏂᏰᏍᏗ|ò:gini:hyè:sdi|For him and me to eat something flexible|oo1gi2nii2hyee1sdi
+1097|17|14|Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ²*||ᎦᏥᏯᎦᏙᏍᏓ|gaji:yagà:tǒ:sdā|I recently looked at them (animate)|ga2jii2ya2gaa1too23sda2
+1098|17|15|Ꭱ¹Ꭹ²-|ɂᎧ̣²Ꮂ²³Ꭲ||ᏕᎩᎧᎲᎢ|dè:gi:kahv̌:ɂi|Someone had you all and me, we a while ago|dee1gii2ka2hvv23-i
+1099|17|16|Ꭱ¹Ꮒ²-|ɂᎧ̣²Ꮂ²³Ꭲ||ᏕᏂᎧᎲᎢ|dè:ni:kahv̌:ɂi|You (1) and I had something alive a while ago|dee1nii2ka2hvv23-i
+1100|17|17|Ꭱ¹Ꮧ²-|ɂᎧ̣²Ꮂ²³Ꭲ||ᏕᏗᎧᎲᎢ|dè:di:kahv̌:ɂi|All of us had something alive a while ago|dee1dii2ka2hvv23-i
+1101|17|18|Ꭱ¹Ꮵ²-|ɂᎧ̣²Ꮂ²³Ꭲ||ᏕᏥᎧᎲᎢ|dè:ji:kahv̌:ɂi|You all had something alive a while ago; Someone had you all a while ago|dee1jii2ka2hvv23-i
+1102|17|18|Ꭱ¹Ꮳ̣²-, Ꭱ¹Ꮳ̣²-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᎡᏣᎦᏙᏍᏓ|è:jaktǒ:sdā|You (1) were recently looked at|ee1ja2ktoo23sda2
+1103|17|19|Ꭱ¹ᏍᏗ²-|ɂᎧ̣²Ꮂ²³Ꭲ||ᏕᏍᏗᎧᎲᎢ|dè:sdi:kahv̌:ɂi|You both had something alive a while ago; Someone had you both a while ago|dee1sdii2ka2hvv23-i
+1104|17|21|Ꭿ²-, Ꭿ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎯᎪᏩᏘᎭ|hi:gowhtíha|You (1) are seeing him|hii2gowh2ti3ha
+1105|17|22|Ꭸ²Ꭹ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎨᎩᎧᎰᎢ|de:ge:gi:kahó:ɂi|They usually have all of us|dee2gee2gii2ka2hoo3-i
+1106|17|22|Ꭲ¹Ꮸ²-, Ꭲ¹Ꮸ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎢᏨᎪᏩᏘᎭ|ì:jv:gowhtíha|I, we two, or we all are seeing you all; We all are seeing you (1), two|ii1jvv2gowh2ti3ha
+1107|17|23|Ꭺ²Ꭹ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎪᎩᎧᎰᎢ|de:go:gi:kahó:ɂi|They usually have them and me|dee2goo2gii2ka2hoo3-i
+1108|17|23|Ꭲ¹ᏍᎩ²-, Ꭲ¹ᏍᎩ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎢᏍᎩᎪᏩᏘᎭ|ì:sgi:gowhtíha|You (1), two, or all are seeing us all; You all are seeing me|ii1sgii2gowh2ti3ha
+1109|17|24|Ꭸ²Ꭹ̣²Ꮒ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎨᎩᏂᎧᎰᎢ|de:ge:gini:kahó:ɂi|They usually have you (1) and me|dee2gee2gi2nii2ka2hoo3-i
+1110|17|24|Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎦᎯᎪᏩᏘᎭ|gahi:gowhtíha|You (1) are seeing them (animate)|ga2hii2gowh2ti3ha
+1111|17|24|ᏍᏛ²-, ᏍᏛ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᏍᏛᏯᏚᎸᎲᎢ|sdv:yadu:lv:hv̌:ɂi|I wanted you both a while ago; We two wanted you (1) or you both a while ago|sdvv2ya2duu2lvv2hvv23-i
+1112|17|25|Ꭺ²Ꭹ̣²Ꮒ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎪᎩᏂᎧᎰᎢ|de:go:gini:kahó:ɂi|They usually have him and me|dee2goo2gi2nii2ka2hoo3-i
+1113|17|25|Ꭰ¹Ꮵ̣²-, Ꭰ¹Ꭶ͓-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎠᎦᏚᎵᎭ|à:gadu:líha|He is wanted|aa1ga2duu2li3ha
+1114|17|26|Ꭲ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎢᏣᏓᏙᎵᏨᎢ|ì:jada:dohljv̌:ɂi|You all recognized yourselves a while ago|ii1ja2daa2dohl2jvv23-i
+1115|17|35|Ꭿ̣²-|ᎣᎵ͓²Ꭶ||ᎰᎵᎦ|hohlga|You (1) understand it|hohl2ga
+1116|17|36|Ꮳ̣²-|Ꭳ²Ꮅ³ᏍᏗ||ᏦᎵᏍᏗ|jo:hlísdi|For you (1) to understand it; For him to recognize you (1)|joo2hli3sdi
+1117|17|40|Ꮧ̣²ᏍᏗ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏗᏍᏗᎪᏩᏛᏗ|disdi:gowhtv́hdi|For you both to see them (inanimate)|di2sdii2gowh2tvh3di
+1118|17|54|Ꭲ¹Ꮒ²-|Ꭺ¹Ꮹ²Ꮤ||ᎢᏂᎪᏩᏔ|ì:ni:gò:wahta|Let you (1) and me see it|ii1nii2goo1wah2ta
+1119|17|55|Ꭲ¹Ꮧ²-|Ꭺ¹Ꮹ²Ꮤ||ᎢᏗᎪᏩᏔ|ì:di:gò:wahta|Let all of us see it|ii1dii2goo1wah2ta
+1120|17|62|Ꭹ̣²Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᎩᏂᎪᎲᎢ|gini:go:hv̌:ɂi|He saw you (1) and me a while ago; You (1) and I saw it a while ago|gi2nii2goo2hvv23-i
+1121|18|1||Ꭿ̣²Ꭰ||ᎯᎠ|hiɂa|This, These; They, Them; He, Him|hi2-a
+1122|18|2|Ꮥ³Ꭹ²-|Ꮎ̣³Ꭳ³Ꭲ||ᏕᎩᎾᎣᎢ|dé:gi:náó:ɂi|All of us usually have flexible things|dee3gii2na3oo3-i
+1123|18|2|Ꮣ¹Ꮒ²-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᏓᏂᏍᏗᎩᎠ|dà:nì:sdǐ:gíɂa|They are eating rod shaped things|daa1nii1sdii23gi3-a
+1124|18|2|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|Ꭰ¹Ꮧ²Ꮤ̣²ᏍᎪ³Ꭲ||ᏕᎭᏗᏔᏍᎪᎢ|de:hà:di:tasgó:ɂi|You (1) usually are drinking drinks|dee2haa1dii2ta2sgoo3-i
+1125|18|3|Ꮩ¹Ꭹ²-|Ꮎ̣³Ꭳ³Ꭲ||ᏙᎩᎾᎣᎢ|dò:gi:náó:ɂi|They and I usually have flexible things|doo1gii2na3oo3-i
+1126|18|3|Ꮥ³Ꮒ²-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᏕᏂᏍᏗᎩᎠ|dé:nì:sdǐ:gíɂa|You (1) and I are eating rod shaped things|dee3nii1sdii23gi3-a
+1127|18|4|Ꮪ¹Ꮒ²-|Ꮎ̣³Ꭳ³Ꭲ||ᏚᏂᎾᎣᎢ|dù:ni:náó:ɂi|They usually have flexible things|duu1nii2na3oo3-i
+1128|18|4|Ꮥ³Ꮧ²-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᏕᏗᏍᏗᎩᎠ|dé:dì:sdǐ:gíɂa|All of us are eating rod shaped things|dee3dii1sdii23gi3-a
+1129|18|5|Ꮥ²Ꭹ̣²Ꮒ²-|Ꮎ̣³Ꭳ³Ꭲ||ᏕᎩᏂᎾᎣᎢ|de:gini:náó:ɂi|You (1) and I usually have flexible things|dee2gi2nii2na3oo3-i
+1130|18|5|Ꮩ¹Ꮵ²-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᏙᏥᏍᏗᎩᎠ|dò:jì:sdǐ:gíɂa|They and I are eating rod shaped things|doo1jii1sdii23gi3-a
+1131|18|6|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꮎ̣³Ꭳ³Ꭲ||ᏙᎩᏂᎾᎣᎢ|dò:gini:náó:ɂi|He and I usually have flexible things|doo1gi2nii2na3oo3-i
+1132|18|6|Ꮩ¹ᏍᏗ²-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᏙᏍᏗᏍᏗᎩᎠ|dò:sdì:sdǐ:gíɂa|He and I are eating rod shaped things|doo1sdii1sdii23gi3-a
+1133|18|7|ᏍᏗ²-|ɂᎷ¹Ꭶ||ᏍᏗᎷᎦ|sdi:lù:ga|Let you both climb it|sdii2luu1ga
+1134|18|7|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|ɂᏰ³ᏍᎪ³Ꭲ||ᏕᎦᏰᏍᎪᎢ|de:gahyé:sgó:ɂi|He usually is eating flexible things|dee2ga2hyee3sgoo3-i
+1135|18|7|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|ɂ³Ꮯ²Ꮟ̣³Ꭽ||ᏕᏥᏟᏏᎭ|de:jíhli:síha|I am gathering things|dee2ji3hlii2si3ha
+1136|18|8|Ꭲ¹Ꮵ²-|ɂᎷ¹Ꭶ||ᎢᏥᎷᎦ|ì:ji:lù:ga|Let you all climb it|ii1jii2luu1ga
+1137|18|8|Ꭱ¹Ꭹ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎡᎦᎦᏙᏍᏓ|è:gagà:tǒ:sda|Let all of us be looked at|ee1ga2gaa1too23sda
+1138|18|8|Ꭴ¹Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ||ᎤᏓᎦᏙᏍᏔᏅᎢ|ù:dà:ktǒ:stánv̌:ɂi|He looked at himself a while ago|uu1daa1ktoo23sta3nvv23-i
+1139|18|9|Ꭱ¹Ꮒ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎡᎾᎦᏙᏍᏓ|è:nagà:tǒ:sda|Let you (1) and me look at him|ee1na2gaa1too23sda
+1140|18|9|Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ||ᏣᏓᎦᏙᏍᏔᏅᎢ|jadà:ktǒ:stánv̌:ɂi|You (1) looked at yourself a while ago|ja2daa1ktoo23sta3nvv23-i
+1141|18|10|Ꮥ³Ꮵ²-|Ꮑ̣³Ꭽ||ᏕᏥᏁᎭ|dé:ji:néha|You all have liquid things|dee3jii2ne3ha
+1142|18|10|Ꭰ̣²-, Ꭶ̣²-|ᏍᏗ²³Ꭶ²||ᎠᏍᏗᎦ|asdǐ:gā|He recently ate something rod shaped|a2sdii23ga2
+1143|18|10|Ꭱ¹Ꮳ̣²-, Ꭱ¹Ꮳ̣²-|ɂᎧ̣²Ꭾ³ᏍᏗ||ᎡᏣᎧᎮᏍᏗ|è:jakahé:sdi|Someone will have you (1)|ee1ja2ka2hee3sdi
+1144|18|10|Ꮧ̣²ᏍᏗ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᏗᏍᏗᏍᏗᎩᏍᏗ|disdi:sdǐ:gî:sdi|For you both to eat rod shaped things|di2sdii2sdii23gii32sdi
+1145|18|10|Ꭱ¹Ꮧ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎡᏓᎦᏙᏍᏓ|è:dagà:tǒ:sda|Let all of us look at him|ee1da2gaa1too23sda
+1146|18|10|Ꭰ¹Ꮖ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ||ᎠᏆᏓᎦᏙᏍᏔᏅᎢ|à:gwadà:ktǒ:stánv̌:ɂi|I looked at myself a while ago|aa1gwaa2daa1ktoo23sta3nvv23-i
+1147|18|11|Ꮵ̣²-, Ꭶ͓-|ᏍᏗ²³Ꭶ²||ᏥᏍᏗᎦ|jisdǐ:gā|I recently ate something rod shaped|ji2sdii23ga2
+1148|18|11|Ꭱ¹Ꮵ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎡᏣᎦᏙᏍᏓ|è:jagà:tǒ:sda|Let you all look at him; Let you all be looked at|ee1ja2gaa1too23sda
+1149|18|12|Ꭿ²-, Ꭿ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎯᏯᎦᏙᏍᏓ|hi:yagà:tǒ:sda|Let you (1) look at him|hii2ya2gaa1too23sda
+1150|18|13|Ꭱ¹ᏍᏗ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎡᏍᏓᎦᏙᏍᏓ|è:sdagà:tǒ:sda|Let you both look at him; Let you both be looked at|ee1sda2gaa1too23sda
+1151|18|14|Ꭱ¹Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎡᎩᎾᎦᏙᏍᏓ|è:ginagà:tǒ:sda|Let you (1) and me be looked at|ee1gi2na2gaa1too23sda
+1152|18|15|Ꮳ̣²-|ɂᏰ¹ᏍᏗ||ᏣᏰᏍᏗ|jahyè:sdi|For you (1) to eat something flexible|ja2hyee1sdi
+1153|18|15|Ꭲ¹ᏍᎩ²-, Ꭲ¹ᏍᎩ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎢᏍᎩᏯᎦᏙᏍᏓ|ì:sgi:yagà:tǒ:sda|Let you (1), two, or all look at us all; Let you all look at me|ii1sgii2ya2gaa1too23sda
+1154|18|15|Ꭸ²ᏍᏗ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ²*||ᎨᏍᏓᎦᏙᏍᏓ|ge:sdagà:tǒ:sdā|You both recently looked at them (animate); They recently looked at you both|gee2sda2gaa1too23sda2
+1155|18|16|Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎦᎯᏯᎦᏙᏍᏓ|gahi:yagà:tǒ:sda|Let you (1) look at them (animate)|ga2hii2ya2gaa1too23sda
+1156|18|16|Ꭲ¹Ꮸ²-, Ꭲ¹Ꮸ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ²*||ᎢᏨᏯᎦᏙᏍᏓ|ì:jv:yagà:tǒ:sdā|I, we two, or we all recently looked at you all; We all recently looked at you (1), two|ii1jvv2ya2gaa1too23sda2
+1157|18|25|Ꭺ²Ꭹ̣²Ꮒ²-|ɂᎧ̣²Ꮂ²³Ꭲ||ᏕᎪᎩᏂᎧᎲᎢ|de:go:gini:kahv̌:ɂi|They had him and me a while ago|dee2goo2gi2nii2ka2hvv23-i
+1158|18|27|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏓᏉᎵᏨᎢ|dà:gwohljv̌:ɂi|I understood things a while ago|daa1gwohl2jvv23-i
+1159|18|28|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏕᏦᎵᏨᎢ|de:johljv̌:ɂi|You (1) understood things a while ago|dee2johl2jvv23-i
+1160|18|32|Ꭼ²-, Ꭼ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎬᏯᏚᎵᎭ|gv:yadu:líha|I am wanting you (1)|gvv2ya2duu2li3ha
+1161|18|33|Ꮵ²-, Ꮵ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᏥᏯᏚᎵᎭ|ji:yadu:líha|I am wanting him|jii2ya2duu2li3ha
+1162|18|34|Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎦᏥᏯᏚᎵᎭ|gaji:yadu:líha|I am wanting them (animate)|ga2jii2ya2duu2li3ha
+1163|18|36|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|ᎣᎵ͓²Ꭶ||ᎠᏉᎵᎦ|à:gwohlga|He recognizes me|aa1gwohl2ga
+1164|18|63|Ꭳ¹Ꭹ²-|Ꭺ²Ꮂ²³Ꭲ||ᎣᎩᎪᎲᎢ|ò:gi:go:hv̌:ɂi|He saw them and me a while ago; They and I saw it a while ago; They and I were seen a while ago|oo1gii2goo2hvv23-i
+1165|18|64|Ꭴ¹Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᎤᏂᎪᎲᎢ|ù:ni:go:hv̌:ɂi|They saw him a while ago; They saw it a while ago|uu1nii2goo2hvv23-i
+1166|18|65|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᎣᎩᏂᎪᎲᎢ|ò:gini:go:hv̌:ɂi|He saw him and me a while ago; He and I saw it a while ago; He and I were seen a while ago|oo1gi2nii2goo2hvv23-i
+1167|19|1||Ꮒ̣²Ꭿ||ᏂᎯ|nihi|You one; You two; You all|ni2hi
+1168|19|1|Ꮳ̣²-|Ᏺ¹Ꮟ²³Ꮜ||ᏣᏲᏏᏌ|jayò:sǐ:sa|Let you (1) be hungry|ja2yoo1sii23sa
+1169|19|1|Ꮪ²-, Ꮪ²Ꮹ͓-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏚᏍᏗᎬᎢ|dù:sdí:gv̌:ɂi|He ate rod shaped things a while ago|duu1sdii3gvv23-i
+1170|19|2|Ꮵ̣²-, Ꭶ͓-|ɂᏯ̣²Ꭶ²*||ᏥᏯᎦ|jiyagā|I recently ate something flexible|ji2ya2ga2
+1171|19|3|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|Ꭰ¹Ꮧ²Ꮤ̣²ᏍᎪ³Ꭲ||ᏕᎦᏗᏔᏍᎪᎢ|de:gà:di:tasgó:ɂi|I am usually drinking drinks|dee2gaa1dii2ta2sgoo3-i
+1172|19|4|Ꮣ¹Ꮒ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᏓᏂᎭᏗᏔ|dà:na:dǐ:tā|They recently drank drinks|daa1naa2dii23ta2
+1173|19|5|Ꮥ²Ꭹ̣²Ꮒ²-|Ꮎ̣³Ꭵ²³Ꭲ||ᏕᎩᏂᎾᎥᎢ|de:gini:náv̌:ɂi|You (1) and I had flexible things a while ago|dee2gi2nii2na3vv23-i
+1174|19|5|Ꮥ³Ꮒ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᏕᏂᎭᏗᏔ|dé:na:dǐ:tā|You (1) and I recently drank drinks|dee3naa2dii23ta2
+1175|19|6|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꮎ̣³Ꭵ²³Ꭲ||ᏙᎩᏂᎾᎥᎢ|dò:gini:náv̌:ɂi|He and I had flexible things a while ago|doo1gi2nii2na3vv23-i
+1176|19|6|Ꮥ³Ꮧ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᏕᏗᎭᏗᏔ|dé:da:dǐ:tā|All of us recently drank drinks|dee3daa2dii23ta2
+1177|19|7|Ꮩ¹Ꮵ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᏙᏥᎭᏗᏔ|dò:ja:dǐ:tā|They and I recently drank drinks|doo1jaa2dii23ta2
+1178|19|8|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|ɂ³Ꮯ²Ꮟ̣³Ꭽ||ᏕᎦᏟᏏᎭ|de:gáhli:síha|He is gathering things|dee2ga3hlii2si3ha
+1179|19|8|Ꮩ¹ᏍᏗ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᏙᏍᏗᎭᏗᏔ|dò:sda:dǐ:tā|He and I recently drank drinks|doo1sdaa2dii23ta2
+1180|19|10|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭵ⁴Ꮜ||ᎤᏩᏌ|uwa̋:sa|He alone|uu2waa4sa
+1181|19|10|Ꮧ̣²ᏍᏗ²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏗᏍᏗᎭᏗᏔ|disda:dǐ:ta|Let you both drink drinks|di2sdaa2dii23ta
+1182|19|11|Ꭲ¹Ꮒ²-|ᏍᏗ²³Ꭶ||ᎢᏂᏍᏗᎦ|ì:ni:sdǐ:ga|Let you (1) and me eat something rod shaped|ii1nii2sdii23ga
+1183|19|12|Ꭴ¹Ꮒ²-|Ꭾ³ᏍᏗ||ᎤᏂᎮᏍᏗ|ù:ni:hé:sdi|They will be having something solid|uu1nii2hee3sdi
+1184|19|12|Ꭲ¹Ꮧ²-|ᏍᏗ²³Ꭶ||ᎢᏗᏍᏗᎦ|ì:di:sdǐ:ga|Let all of us eat something rod shaped|ii1dii2sdii23ga
+1185|19|12|Ꮥ³Ꮵ²-|ᏍᏗ²³Ꭶ²||ᏕᏥᏍᏗᎦ|dé:ji:sdǐ:gā|You all recently ate rod shaped things|dee3jii2sdii23ga2
+1186|19|13|Ꭹ̣²Ꮒ²-|Ꭾ³ᏍᏗ||ᎩᏂᎮᏍᏗ|gini:hé:sdi|You (1) and I will be having something solid|gi2nii2hee3sdi
+1187|19|13|Ꮥ²ᏍᏗ²-|ᏍᏗ²³Ꭶ²||ᏕᏍᏗᏍᏗᎦ|de:sdi:sdǐ:gā|You both recently ate rod shaped things|dee2sdii2sdii23ga2
+1188|19|16|Ꮳ̣²-, Ꮳ̣²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏣᎪᏩᏘᏍᎪᎢ|jagowhtǐ:sgóɂi|He is often seeing you (1)|ja2gowh2tii23sgo3-i
+1189|19|26|Ꭸ³Ꮵ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎨᏥᎧᎰᎢ|de:gé:ji:kahó:ɂi|They usually have you all|dee2gee3jii2ka2hoo3-i
+1190|19|27|Ꭺ²Ꮵ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎪᏥᎧᎰᎢ|de:go:ji:kahó:ɂi|They and I usually have living things|dee2goo2jii2ka2hoo3-i
+1191|19|28|Ꭺ²ᏍᏗ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎪᏍᏗᎧᎰᎢ|de:go:sdi:kahó:ɂi|He and I usually have living things|dee2goo2sdii2ka2hoo3-i
+1192|19|31|Ꭿ̣²-|ᎣᎵ͓²Ꭹ||ᎰᎵᎩ|hohlgi|Let you (1) understand it|hohl2gi
+1193|19|32|Ꭼ²-, Ꭼ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᎬᏯᏚᎸᎲᎢ|gv:yadu:lv:hv̌:ɂi|I wanted you (1) a while ago|gvv2ya2duu2lvv2hvv23-i
+1194|19|33|Ꮵ²-, Ꮵ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᏥᏯᏚᎸᎲᎢ|ji:yadu:lv:hv̌:ɂi|I wanted him a while ago|jii2ya2duu2lvv2hvv23-i
+1195|19|34|Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᎦᏥᏯᏚᎸᎲᎢ|gaji:yadu:lv:hv̌:ɂi|I wanted them (animate) a while ago|ga2jii2ya2duu2lvv2hvv23-i
+1196|19|36|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|ᎣᎵ͓²Ꭶ²||ᎠᏉᎵᎦ|à:gwohlgā|He recently recognized me|aa1gwohl2ga2
+1197|19|36|Ꭲ¹Ꮸ²-, Ꭲ¹Ꮸ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎢᏨᏯᏚᎵᎭ|ì:jv:yadu:líha|I, we two, or we all are wanting you all; We all are wanting you (1), two|ii1jvv2ya2duu2li3ha
+1198|19|66|Ꭲ¹Ꭹ²-|Ꭺ²Ꮂ²³Ꭲ||ᎢᎩᎪᎲᎢ|ì:gi:go:hv̌:ɂi|He saw all of us a while ago; All of us saw it a while ago|ii1gii2goo2hvv23-i
+1199|19|68|Ꭳ¹Ꭹ²-|Ꭺ¹Ꮹ²Ꮤ²||ᎣᎩᎪᏩᏔ|ò:gi:gò:wahtā|He recently saw them and me; They and I were recently seen|oo1gii2goo1wah2ta2
+1200|20|1||ᏍᏗ²Ꮵ||ᏍᏗᏥ|sdi:ji|Your two's mother|sdii2ji
+1201|20|1|Ꭰ¹Ꮒ²-|ɂᎴ¹Ꭺ³Ꭲ||ᎠᏂᎴᎪᎢ|à:ní:lè:gó:ɂi|They usually are climbing it|aa1nii3lee1goo3-i
+1202|20|1|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|Ꭰ̣¹Ꮪ²³Ꭹ³²ᏍᎪ³Ꭲ*||ᏕᎦᏚᎩᏍᎪᎢ|de:gaɂdǔ:gî:sgó:ɂi|I am usually drinking alcoholic drinks|dee2ga-2duu23gii32sgoo3-i
+1203|20|2|Ꮳ̣²-|Ᏺ¹Ꮟ²³Ꮜ²||ᏣᏲᏏᏌ|jayò:sǐ:sā|You (1) were recently hungry|ja2yoo1sii23sa2
+1204|20|2|Ꭴ¹Ꮒ²-|Ꮈ³²Ꮢ²³Ꭲ||ᎤᏂᎸᏒᎢ|ù:ni:lv̂:sv̌:ɂi|They climbed it a while ago|uu1nii2lvv32svv23-i
+1205|20|3|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꭰ̣²Ꮕ͓Ꮤ||ᏚᏅᏔ|du:nhta|He knows things|duu2nhta
+1206|20|3|Ꭹ̣²Ꮒ²-|Ꮈ³²Ꮢ²³Ꭲ||ᎩᏂᎸᏒᎢ|gini:lv̂:sv̌:ɂi|You (1) and I climbed it a while ago|gi2nii2lvv32svv23-i
+1207|20|5|Ꮥ²Ꭹ̣²Ꮒ²-|Ꮑ²Ꭾ³ᏍᏗ||ᏕᎩᏂᏁᎮᏍᏗ|de:gini:ne:hé:sdi|You (1) and I will be having liquid things|dee2gi2nii2nee2hee3sdi
+1208|20|6|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꮑ²Ꭾ³ᏍᏗ||ᏙᎩᏂᏁᎮᏍᏗ|dò:gini:ne:hé:sdi|He and I will be having liquid things|doo1gi2nii2nee2hee3sdi
+1209|20|7|Ꭳ¹Ꮵ²-|Ꭱ³Ꭺ̣³Ꭲ||ᎣᏤᎪᎢ|ò:jé:góɂi|They and I usually are going|oo1jee3go3-i
+1210|20|7|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꮎ̣³Ꭳ³Ꭲ||ᏓᎩᎾᎣᎢ|dà:gináó:ɂi|I usually have flexible things|daa1gi2na3oo3-i
+1211|20|7|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|Ꭰ̣¹Ꮪ²³Ꭹ̣³Ꭰ||ᏕᎦᏚᎩᎠ|de:gàtǔ:gía|He is drinking alcoholic drinks|dee2ga1tuu23gi3a
+1212|20|8|Ꭳ¹ᏍᏗ²-|Ꭱ³Ꭺ̣³Ꭲ||ᎣᏍᏕᎪᎢ|ò:sdé:góɂi|He and I usually are going|oo1sdee3go3-i
+1213|20|8|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꮎ̣³Ꭳ³Ꭲ||ᏕᏣᎾᎣᎢ|de:janáó:ɂi|You (1) usually have flexible things|dee2ja2na3oo3-i
+1214|20|8|Ꮥ³Ꮵ²-|ɂᏯ³Ꭵ²³Ꭲ||ᏕᏥᏯᎥᎢ|dé:ji:hyá:ɂv̌:ɂi|You all ate flexible things a while ago|dee3jii2hyaa3-vv23-i
+1215|20|9|Ꮥ²ᏍᏗ²-|ɂᏯ³Ꭵ²³Ꭲ||ᏕᏍᏗᏯᎥᎢ|de:sdi:hyá:ɂv̌:ɂi|You both ate flexible things a while ago|dee2sdii2hyaa3-vv23-i
+1216|20|9|Ꮧ̣²ᏍᏗ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᏗᏍᏚᏗᏔᏍᏗ|disda:di:tasdi|For you both to drink drinks|di2sdaa2dii2ta2sdi
+1217|20|14|Ꭳ¹Ꭹ²-|Ꭾ³ᏍᏗ||ᎣᎩᎮᏍᏗ|ò:gi:hé:sdi|They and I will be having something solid|oo1gii2hee3sdi
+1218|20|15|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꭾ³ᏍᏗ||ᎣᎩᏂᎮᏍᏗ|ò:gini:hé:sdi|He and I will be having something solid|oo1gi2nii2hee3sdi
+1219|20|30|ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᏍᏓᏓᎧᎰᎢ|de:sdada:kahó:ɂi|You both usually have each other|dee2sdaa2daa2ka2hoo3-i
+1220|20|36|Ꭲ¹Ꮸ²-, Ꭲ¹Ꮸ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᎢᏨᏯᏚᎸᎲᎢ|ì:jv:yadu:lv:hv̌:ɂi|I, we two, or we all wanted you all a while ago; We all wanted you (1), two a while ago|ii1jvv2ya2duu2lvv2hvv23-i
+1221|20|42|Ꭿ²-, Ꭿ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎯᏯᏚᎵᎭ|hi:yadu:líha|You (1) are wanting him|hii2ya2duu2li3ha
+1222|20|45|Ꭲ¹ᏍᎩ²-, Ꭲ¹ᏍᎩ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎢᏍᎩᏯᏚᎵᎭ|ì:sgi:yadu:líha|You (1), two, or all are wanting us all; You all are wanting me|ii1sgii2ya2duu2li3ha
+1223|20|46|Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎦᎯᏯᏚᎵᎭ|gahi:yadu:líha|You (1) are wanting them (animate)|ga2hii2ya2duu2li3ha
+1224|20|57|Ꭿ̣²-|Ꭺ¹Ꮹ²Ꮤ||ᎯᎪᏩᏔ|higò:wahta|Let you (1) see it|hi2goo1wah2ta
+1225|20|70|Ꭲ¹Ꭹ²-|Ꭺ¹Ꮹ²Ꮤ²||ᎢᎩᎪᏩᏔ|ì:gi:gò:wahtā|He recently saw all of us|ii1gii2goo1wah2ta2
+1226|21|1||ᏍᏛ²Ꮵ||ᏍᏛᏥ|sdv:ji|I, your two's mother|sdvv2ji
+1227|21|2|Ꭴ¹Ꮒ²-|Ꮈ¹ᏍᏗ||ᎤᏂᎸᏍᏗ|ù:ni:lv̀:sdi|For them to climb it|uu1nii2lvv1sdi
+1228|21|2|Ꭰ̣²-, Ꭶ̣²-|ɂᎴ¹Ꭺ³Ꭲ||ᎦᎴᎪᎢ|gálè:gó:ɂi|He usually is climbing it|ga3lee1goo3-i
+1229|21|2|Ꮥ³Ꭹ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏕᎩᏍᏗᎬᎢ|dé:gì:sdí:gv̌:ɂi|All of us ate rod shaped things a while ago|dee3gii1sdii3gvv23-i
+1230|21|3|Ꭹ̣²Ꮒ²-|Ꮈ¹ᏍᏗ||ᎩᏂᎸᏍᏗ|gini:lv̀:sdi|For you (1) and me to climb it|gi2nii2lvv1sdi
+1231|21|3|Ꮵ̣²-, Ꭶ͓-|ɂᎴ¹Ꭺ³Ꭲ||ᏥᎴᎪᎢ|jílè:gó:ɂi|I am usually climbing it|ji3lee1goo3-i
+1232|21|3|Ꮩ¹Ꭹ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏙᎩᏍᏗᎬᎢ|dò:gì:sdí:gv̌:ɂi|They and I ate rod shaped things a while ago|doo1gii1sdii3gvv23-i
+1233|21|4|Ꭳ¹Ꭹ²-|Ꮈ³²Ꮢ²³Ꭲ||ᎣᎩᎸᏒᎢ|ò:gi:lv̂:sv̌:ɂi|They and I climbed it a while ago|oo1gii2lvv32svv23-i
+1234|21|4|Ꮪ¹Ꮒ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏚᏂᏍᏗᎬᎢ|dù:nì:sdí:gv̌:ɂi|They ate rod shaped things a while ago|duu1nii1sdii3gvv23-i
+1235|21|5|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꮈ³²Ꮢ²³Ꭲ||ᎣᎩᏂᎸᏒᎢ|ò:gini:lv̂:sv̌:ɂi|He and I climbed it a while ago|oo1gi2nii2lvv32svv23-i
+1236|21|5|Ꮥ²Ꭹ̣²Ꮒ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏕᎩᏂᏍᏗᎬᎢ|de:ginì:sdí:gv̌:ɂi|You (1) and I ate rod shaped things a while ago|dee2gi2nii1sdii3gvv23-i
+1237|21|6|Ꮩ¹Ꭹ̣²Ꮒ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏙᎩᏂᏍᏗᎬᎢ|dò:ginì:sdí:gv̌:ɂi|He and I ate rod shaped things a while ago|doo1gi2nii1sdii3gvv23-i
+1238|21|7|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|ɂ³Ꮪ²Ꮂ̣³ᏍᎦ||ᏕᏥᏚᎲᏍᎦ|de:jídu:hv́sga|I am baking things|dee2ji3duu2hv3sga
+1239|21|16|Ꭲ¹Ꭹ²-|Ꭾ³ᏍᏗ||ᎢᎩᎮᏍᏗ|ì:gi:hé:sdi|All of us will be having something solid|ii1gii2hee3sdi
+1240|21|25|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏓᎪᏩᏘᎭ|dagowhtíha|He is seeing them|da2gowh2ti3ha
+1241|21|25|Ꮧ̣²ᏍᏗ²-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ||ᏗᏍᏓᎦᏙᏍᏓ|disdaktǒ:sda|Let you both look at them (inanimate)|di2sda2ktoo23sda
+1242|21|26|Ꭱ¹Ꮳ̣²-, Ꭱ¹Ꮳ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎡᏣᎪᏩᏘᎭ|è:jagowhtíha|You (1) are being seen|ee1ja2gowh2ti3ha
+1243|21|27|Ꭸ²Ꮳ̣²-, Ꭸ²Ꮳ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎨᏣᎪᏩᏘᎭ|ge:jagowhtíha|They are seeing you (1)|gee2ja2gowh2ti3ha
+1244|21|30|ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|ɂᎧ̣²Ꮂ²³Ꭲ||ᏕᏍᏓᏓᎧᎲᎢ|de:sdada:kahv̌:ɂi|You both had each other a while ago|dee2sdaa2daa2ka2hvv23-i
+1245|21|33|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|ᎣᎵ͓²Ꭹ||ᏩᏉᎵᎩ|wà:gwohlgi|Let him recognize me|waa1gwohl2gi
+1246|21|37|Ꭰ¹Ꮒ²-|ᎣᎵ͓²Ꭶ||ᎠᏃᎵᎦ|à:nohlga|They understand it; They recognize him|aa1nohl2ga
+1247|21|46|Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᎦᎯᏯᏚᎸᎲᎢ|gahi:yadu:lv:hv̌:ɂi|You (1) wanted them (animate) a while ago|ga2hii2ya2duu2lvv2hvv23-i
+1248|21|67|Ꮳ̣²-|Ꭺ²Ꮂ²³Ꭲ||ᏣᎪᎲᎢ|jago:hv̌:ɂi|You (1) saw it a while ago; He saw you (1) a while ago|ja2goo2hvv23-i
+1249|21|68|Ꭳ¹Ꮵ²-|Ꭺ²Ꮂ²³Ꭲ||ᎣᏥᎪᎲᎢ|ò:ji:go:hv̌:ɂi|They and I saw him a while ago|oo1jii2goo2hvv23-i
+1250|21|69|Ꭳ¹ᏍᏗ²-|Ꭺ²Ꮂ²³Ꭲ||ᎣᏍᏗᎪᎲᎢ|ò:sdi:go:hv̌:ɂi|He and I saw him a while ago|oo1sdii2goo2hvv23-i
+1251|22|1||Ꮳ̣²Ꮵ||ᏣᏥ|jaji|xShe, your one's mother|ja2ji
+1252|22|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ᏺ³Ꮟ̣²Ꭽ||ᎤᏲᏏᎭ|ù:yó:siha|He is hungry|uu1yoo3si2ha
+1253|22|2|ᏍᏛ²-, ᏍᏛ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᏍᏛᏯᎦᏙᏍᏙᏗ|sdv:yagà:tǒ:sdóhdi|For me to look at you both; For we two to look at you (1) or you both|sdvv2ya2gaa1too23sdoh3di
+1254|22|3|Ꮥ³Ꮒ²-|Ꭰ̣¹Ꮪ²³Ꭹ³²ᏍᎪ³Ꭲ||ᏕᎾᏚᎩᏍᎪᎢ|dé:nà:tǔ:gî:sgó:ɂi|You (1) and I usually are drinking alcoholic drinks|dee3naa1tuu23gii32sgoo3-i
+1255|22|4|Ꭳ¹Ꭹ²-|Ꮈ¹ᏍᏗ||ᎣᎩᎸᏍᏗ|ò:gi:lv̀:sdi|For them and me to climb it|oo1gii2lvv1sdi
+1256|22|5|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꮈ¹ᏍᏗ||ᎣᎩᏂᎸᏍᏗ|ò:gini:lv̀:sdi|For him and me to climb it|oo1gi2nii2lvv1sdi
+1257|22|6|Ꭲ¹Ꭹ²-|Ꮈ³²Ꮢ²³Ꭲ||ᎢᎩᎸᏒᎢ|ì:gi:lv̂:sv̌:ɂi|All of us climbed it a while ago|ii1gii2lvv32svv23-i
+1258|22|6|Ꮩ¹ᏍᏗ²-|Ꭰ̣¹Ꮪ²³Ꭹ³²ᏍᎪ³Ꭲ||ᏙᏍᏓᏚᎩᏍᎪᎢ|dò:sdà:tǔ:gî:sgó:ɂi|He and I usually are drinking alcoholic drinks|doo1sdaa1tuu23gii32sgoo3-i
+1259|22|8|Ꮥ³Ꮵ²-|ɂ³Ꮪ²Ꮕ²³Ꭲ||ᏕᏥᏚᏅᎢ|dé:jí:du:hnv̌:ɂi|You all baked things a while ago|dee3jii3duu2hnvv23-i
+1260|22|8|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᏕᏥᏍᏗᎩᎠ|de:jìsdǐ:gíɂa|I am eating rod shaped things|dee2ji1sdii23gi3-a
+1261|22|9|Ꮥ²ᏍᏗ²-|ɂ³Ꮪ²Ꮕ²³Ꭲ||ᏕᏍᏗᏚᏅᎢ|de:sdí:du:hnv̌:ɂi|You both baked things a while ago|dee2sdii3duu2hnvv23-i
+1262|22|10|Ꮪ²-, Ꮪ²Ꮹ͓-|ɂ³Ꮪ²Ꮕ²³Ꭲ||ꮪꮹᏚᏅᎢ|du:wá:du:hnv̌:ɂi|He baked things a while ago|duu2waa3duu2hnvv23-i
+1263|22|12|Ꭴ¹Ꮒ²-|Ꮎ̣³Ꭰ||ᎤᏂᎾᎠ|ù:ni:náɂa|They have something flexible|uu1nii2na3-a
+1264|22|13|Ꭿ̣²-|ᏍᏗ²³Ꭶ||ᎯᏍᏗᎦ|hisdǐ:ga|Let you (1) eat something rod shaped|hi2sdii23ga
+1265|22|14|Ꭼ²Ꭹ̣²-, Ꭼ²Ꮖ͓-|ɂᎧ̣²Ꭾ³ᏍᏗ||ᏕᎬᎩᎧᎮᏍᏗ|de:gv:gikahé:sdi|They will be having me|dee2gvv2gi2ka2hee3sdi
+1266|22|16|Ꭱ¹Ꮳ̣²-, Ꭱ¹Ꮳ̣²-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ||ᎡᏣᎦᏙᏍᏔᏅᎢ|è:jà:ktǒ:stánv̌:ɂi|You (1) were looked at a while ago|ee1jaa1ktoo23sta3nvv23-i
+1267|22|17|Ꮳ̣²-|Ꭾ³ᏍᏗ||ᏣᎮᏍᏗ|jahé:sdi|You (1) will be having something solid|ja2hee3sdi
+1268|22|17|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|ɂᏰ¹ᏍᏗ||ᎠᎩᏰᏍᏗ|à:gihyè:sdi|For me to eat something flexible|aa1gi2hyee1sdi
+1269|22|17|Ꭸ²Ꮳ̣²-, Ꭸ²Ꮳ̣²-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ||ᎨᏣᎦᏙᏍᏔᏅᎢ|ge:jà:ktǒ:stánv̌:ɂi|They looked at you (1) a while ago|gee2jaa1ktoo23sta3nvv23-i
+1270|22|29|Ꮥ³Ꭹ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏕᎪᎵᏨᎢ|dé:gohljv̌:ɂi|All of us understood things a while ago|dee3gohl2jvv23-i
+1271|22|30|Ꮩ¹Ꭹ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏙᎪᎵᏨᎢ|dò:gohljv̌:ɂi|They and I understood things a while ago|doo1gohl2jvv23-i
+1272|22|31|Ꮪ¹Ꮒ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏚᏃᎵᏨᎢ|dù:nohljv̌:ɂi|They understood things a while ago; They recognized them (animate) a while ago|duu1nohl2jvv23-i
+1273|22|32|Ꮥ²Ꭹ̣²Ꮒ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏕᎩᏃᎵᏨᎢ|de:ginohljv̌:ɂi|You (1) and I understood things a while ago|dee2gi2nohl2jvv23-i
+1274|22|33|Ꮩ¹Ꭹ̣²Ꮒ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏙᎩᏃᎵᏨᎢ|dò:ginohljv̌:ɂi|He and I understood things a while ago|doo1gi2nohl2jvv23-i
+1275|22|34|Ꭸ²Ꮒ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎨᏂᎧᎰᎢ|de:ge:ni:kahó:ɂi|You (1) and I usually have living things|dee2gee2nii2ka2hoo3-i
+1276|22|35|Ꭸ²Ꮧ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎨᏗᎧᎰᎢ|de:ge:di:kahó:ɂi|All of us usually have living things|dee2gee2dii2ka2hoo3-i
+1277|22|36|Ꭸ²Ꮵ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎨᏥᎧᎰᎢ|de:ge:ji:kahó:ɂi|You all usually have living things; Someone often has them|dee2gee2jii2ka2hoo3-i
+1278|22|37|Ꭲ¹Ꮸ²-, Ꭲ¹Ꮸ²Ꮿ͓-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕꮸꮿᎧᎰᎢ|dé:jv:ya:kahó:ɂi|I, we two, or we all usually have you all; We all usually have you (1), two|dee3jvv2yaa2ka2hoo3-i
+1279|23|1||Ꮵ²Ꮩ²Ꮣ||ᏥᏙᏓ|ji:do:da|I, his father|jii2doo2da
+1280|23|3|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ᏺ¹Ꮟ²³Ꮜ²||ᎠᎩᏲᏏᏌ|à:giyò:sǐ:sā|I was recently hungry|aa1gi2yoo1sii23sa2
+1281|23|3|Ꭰ¹Ꮵ̣²-, Ꭰ¹Ꭶ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᎠᎦᎦᏙᏍᏙᏗ|à:gagà:tǒ:sdóhdi|For him to be looked at|aa1ga2gaa1too23sdoh3di
+1282|23|3|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ³ᏍᎪ³Ꭲ*||ᏕᎦᎦᏙᏍᏗᏍᎪᎢ|de:gà:gà:tǒ:sdí:sgó:ɂi|I am often looking at them (inanimate)|dee2gaa1gaa1too23sdii3sgoo3-i
+1283|23|6|Ꭲ¹Ꭹ²-|Ꮈ¹ᏍᏗ||ᎢᎩᎸᏍᏗ|ì:gi:lv̀:sdi|For all of us to climb it|ii1gii2lvv1sdi
+1284|23|7|Ꮳ̣²-|Ꮈ³²Ꮢ²³Ꭲ||ᏣᎸᏒᎢ|jalv̂:sv̌:ɂi|You (1) climbed it a while ago|ja2lvv32svv23-i
+1285|23|7|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏓᎩᏍᏗᎬᎢ|dà:gìsdí:gv̌:ɂi|I ate rod shaped things a while ago|daa1gi1sdii3gvv23-i
+1286|23|8|Ꭲ¹Ꮵ²-|ᏁᏗ||ᏗᏥᏁᏗ|dì:ji:nehdi|For you all to have a liquid|dii1jii2neh2di
+1287|23|8|ᏍᏗ²-|Ꭰ¹Ꮧ̣²Ꭽ||ᏍᏓᏗᎭ|sdadiha|You both are saying|sda2di2ha
+1288|23|8|Ꮣ̣²-, Ꮥ²Ꭶ̣²-|ɂ³Ꮪ²Ꮂ̣³ᏍᎦ||ᏕᎦᏚᎲᏍᎦ|de:gádu:hv́sga|He is baking things|dee2ga3duu2hv3sga
+1289|23|9|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭵ²³ᏰᏍᏗ||ᎤᎥᏰᏍᏗ|ù:jv̌:yê:sdi|He will be having something rod shaped|uu1jvv23yee32sdi
+1290|23|12|Ꭴ¹Ꮒ²-|Ꮑ²Ꮀ³Ꭲ||ᎤᏂᏁᎰᎢ|ù:ni:ne:hó:ɂi|They usually have a liquid|uu1nii2nee2hoo3-i
+1291|23|14|Ꭳ¹Ꭹ²-|Ꮎ̣³Ꭰ||ᎣᎩᎾᎠ|ò:gi:náɂa|They and I have something flexible|oo1gii2na3-a
+1292|23|15|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꮎ̣³Ꭰ||ᎣᎩᏂᎾᎠ|ò:gini:náɂa|He and I have something flexible|oo1gi2nii2na3-a
+1293|23|16|Ꭿ̣²-|ᏍᏗ²³Ꭶ²||ᎯᏍᏗᎦ|hisdǐ:gā|You (1) recently ate something rod shaped|hi2sdii23ga2
+1294|23|16|Ꭱ¹Ꮳ̣²-, Ꭱ¹Ꮳ̣²-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏗ³ᏍᎪ³Ꭲ||ᎡᏣᎦᏙᏍᏗᏍᎪᎢ|è:jà:ktǒ:sdí:sgó:ɂi|You (1) are often looked at|ee1jaa1ktoo23sdii3sgoo3-i
+1295|23|17|Ꭳ¹Ꮵ²-|ᏍᏗ²³Ꭶ²||ᎣᏥᏍᏗᎦ|ò:ji:sdǐ:gā|They and I recently ate something rod shaped|oo1jii2sdii23ga2
+1296|23|18|Ꭳ¹ᏍᏗ²-|ᏍᏗ²³Ꭶ²||ᎣᏍᏗᏍᏗᎦ|ò:sdi:sdǐ:gā|He and I recently ate something rod shaped|oo1sdii2sdii23ga2
+1297|23|29|Ꭸ²Ꭹ²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎨᎩᎪᏩᏘᎭ|ge:gi:gowhtíha|They are seeing all of us|gee2gii2gowh2ti3ha
+1298|23|35|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏕᎯᎪᏩᏘᎭ|de:higowhtíha|You (1) are seeing them (inanimate)|dee2hi2gowh2ti3ha
+1299|23|37|Ꭲ¹Ꮸ²-, Ꭲ¹Ꮸ²Ꮿ͓-|ɂᎧ̣²Ꮂ²³Ꭲ||ᏕꮸꮿᎧᎲᎢ|dé:jv:ya:kahv̌:ɂi|I, we two, or we all had you all a while ago; We all had you (1), two a while ago|dee3jvv2yaa2ka2hvv23-i
+1300|23|39|Ꭸ²ᏍᏗ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᎨᏍᏗᎧᎰᎢ|de:ge:sdi:kahó:ɂi|You both usually have living things; They usually have you both|dee2gee2sdii2ka2hoo3-i
+1301|23|41|ᏍᏛ²-, ᏍᏛ²Ꮿ͓-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕꮝꮫꮿᎧᎰᎢ|de:sdv:ya:kahó:ɂi|I usually have you both; We two usually have you (1) or you both|dee2sdvv2yaa2ka2hoo3-i
+1302|24|1||Ꭰ²Ꮅ̣²Ꭲ||ᎠᎵᎢ|a:liɂi|Friendship|aa2li2-i
+1303|24|5|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|ɂ³Ꮪ²Ꮂ̣²ᏍᎪ³Ꭲ||ᏕᎯᏚᎲᏍᎪᎢ|de:hídu:hvsgó:ɂi|You (1) are usually baking things|dee2hi3duu2hv2sgoo3-i
+1304|24|7|Ꮳ̣²-|Ꮈ¹ᏍᏗ||ᏣᎸᏍᏗ|jalv̀:sdi|For you (1) to climb it|ja2lvv1sdi
+1305|24|7|Ꭸ²Ꮒ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᎨᎾᎦᏙᏍᏙᏗ|ge:nagà:tǒ:sdóhdi|For you (1) and me to look at them (animate)|gee2na2gaa1too23sdoh3di
+1306|24|8|Ꭸ²Ꮧ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᎨᏓᎦᏙᏍᏙᏗ|ge:dagà:tǒ:sdóhdi|For all of us to look at them (animate)|gee2da2gaa1too23sdoh3di
+1307|24|9|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꮎ̣³Ꭳ³Ꭲ||ᎤᎾᎣᎢ|ù:náó:ɂi|He usually has something flexible|uu1na3oo3-i
+1308|24|9|Ꮵ̣²-, Ꭶ͓-|Ꭰ¹Ꮧ²Ꮤ̣³ᏍᎦ||ᎦᏗᏔᏍᎦ|gà:di:tásga|I am drinking something|gaa1dii2ta3sga
+1309|24|9|Ꭸ²Ꮵ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᎨᏣᎦᏙᏍᏙᏗ|ge:jagà:tǒ:sdóhdi|For you all to look at them (animate)|gee2ja2gaa1too23sdoh3di
+1310|24|10|Ꭼ²-, Ꭼ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᎬᏯᎦᏙᏍᏙᏗ|gv:yagà:tǒ:sdóhdi|For me to look at you (1)|gvv2ya2gaa1too23sdoh3di
+1311|24|11|Ꮵ²-, Ꮵ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᏥᏯᎦᏙᏍᏙᏗ|ji:yagà:tǒ:sdóhdi|For me to look at him|jii2ya2gaa1too23sdoh3di
+1312|24|12|Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᎦᏥᏯᎦᏙᏍᏙᏗ|gaji:yagà:tǒ:sdóhdi|For me to look at them (animate)|ga2jii2ya2gaa1too23sdoh3di
+1313|24|14|Ꭳ¹Ꭹ²-|Ꮑ²Ꮀ³Ꭲ||ᎣᎩᏁᎰᎢ|ò:gi:ne:hó:ɂi|They and I usually have a liquid|oo1gii2nee2hoo3-i
+1314|24|15|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꮑ²Ꮀ³Ꭲ||ᎣᎩᏂᏁᎰᎢ|ò:gini:ne:hó:ɂi|He and I usually have a liquid|oo1gi2nii2nee2hoo3-i
+1315|24|16|Ꭲ¹Ꭹ²-|Ꮎ̣³Ꭰ||ᎢᎩᎾᎠ|ì:gi:náɂa|All of us have something flexible|ii1gii2na3-a
+1316|24|17|Ꭱ¹Ꮳ̣²-, Ꭱ¹Ꮳ̣²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᎡᏣᎪᏩᏘᏍᎪᎢ|è:jagowhtǐ:sgóɂi|You (1) are usually seen|ee1ja2gowh2tii23sgo3-i
+1317|24|18|Ꭲ¹Ꮸ²-, Ꭲ¹Ꮸ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᏫᏨᏯᎦᏙᏍᏓ|wì:jv:yagà:tǒ:sda|Let us, me, two, or we all look at you all; Let us all look at you (1), two|wii1jvv2ya2gaa1too23sda
+1318|24|20|Ꭰ¹Ꮵ̣²-, Ꭰ¹Ꭶ͓-|ɂᎧ̣²Ꭾ³ᏍᏗ||ᎠᏥᎧᎮᏍᏗ|à:jikahé:sdi|Someone will have him|aa1ji2ka2hee3sdi
+1319|24|38|Ꮥ³Ꮵ²-|ᎣᎵ͓²Ꭶ||ᏕᏦᎵᎦ|dé:johlga|You all understand things|dee3johl2ga
+1320|24|39|Ꮥ²ᏍᏗ²-|ᎣᎵ͓²Ꭶ||ᏕᏍᏙᎵᎦ|de:sdohlga|You both understand things|dee2sdohl2ga
+1321|24|41|ᏍᏛ²-, ᏍᏛ²Ꮿ͓-|ɂᎧ̣²Ꮂ²³Ꭲ||ᏕꮝꮫꮿᎧᎲᎢ|de:sdv:ya:kahv̌:ɂi|I had you both a while ago; We two had you (1) or you both a while ago|dee2sdvv2yaa2ka2hvv23-i
+1322|24|44|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏕᏥᎪᏩᏘᎭ|de:jigowhtíha|I am seeing them (inanimate)|dee2ji2gowh2ti3ha
+1323|25|1||Ꭲ¹Ꭹ²Ꮩ²Ꮣ||ᎢᎩᏙᏓ|ì:gi:do:da|Your all's and my father|ii1gii2doo2da
+1324|25|1|Ꮥ³Ꭹ²-|Ꭰ̣¹Ꮪ²³Ꭹ³²Ꮢ²³Ꭲ||ᏕᎦᏚᎩᏒᎢ|dé:gàtǔ:gî:sv̌:ɂi|All of us drank alcoholic drinks a while ago|dee3ga1tuu23gii32svv23-i
+1325|25|2|Ꮩ¹Ꭹ²-|Ꭰ̣¹Ꮪ²³Ꭹ³²Ꮢ²³Ꭲ||ᏙᎦᏚᎩᏒᎢ|dò:gàtǔ:gî:sv̌:ɂi|They and I drank alcoholic drinks a while ago|doo1ga1tuu23gii32svv23-i
+1326|25|3|Ꮪ¹Ꮒ²-|Ꭰ̣¹Ꮪ²³Ꭹ³²Ꮢ²³Ꭲ||ᏚᎾᏚᎩᏒᎢ|dù:nàtǔ:gî:sv̌:ɂi|They drank alcoholic drinks a while ago|duu1na1tuu23gii32svv23-i
+1327|25|4|Ꮥ²Ꭹ̣²Ꮒ²-|Ꭰ̣¹Ꮪ²³Ꭹ³²Ꮢ²³Ꭲ||ᏕᎩᎾᏚᎩᏒᎢ|de:ginàtǔ:gî:sv̌:ɂi|You (1) and I drank alcoholic drinks a while ago|dee2gi2na1tuu23gii32svv23-i
+1328|25|5|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|ɂ³Ꮯ²Ꮟ²³ᏍᎪ̣Ꭲ||ᏕᎯᏟᏏᏍᎪᎢ|de:híhli:sǐ:sgóɂi|You (1) are usually gathering things|dee2hi3hlii2sii23sgo3-i
+1329|25|5|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꭰ̣¹Ꮪ²³Ꭹ³²Ꮢ²³Ꭲ||ᏙᎩᎾᏚᎩᏒᎢ|dò:ginàtǔ:gî:sv̌:ɂi|He and I drank alcoholic drinks a while ago|doo1gi2na1tuu23gii32svv23-i
+1330|25|7|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|ɂ³Ꮪ²Ꮂ̣²ᏍᎪ³Ꭲ||ᏕᏥᏚᎲᏍᎪᎢ|de:jídu:hvsgó:ɂi|I am usually baking things|dee2ji3duu2hv2sgoo3-i
+1331|25|8|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏕᏣᏍᏗᎬᎢ|de:jàsdí:gv̌:ɂi|You (1) ate rod shaped things a while ago|dee2ja1sdii3gvv23-i
+1332|25|9|Ꭲ¹Ꮵ²-|Ꭰ¹Ꮧ̣²Ꭽ||ᎢᏣᏗᎭ|ì:jadiha|You all are saying|ii1ja2di2ha
+1333|25|9|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꮎ̣³Ꭵ²³Ꭲ||ᎤᎾᎥᎢ|ù:náv̌:ɂi|He had something flexible a while ago|uu1na3vv23-i
+1334|25|16|Ꭲ¹Ꭹ²-|Ꮑ²Ꮀ³Ꭲ||ᎢᎩᏁᎰᎢ|ì:gi:ne:hó:ɂi|All of us usually have a liquid|ii1gii2nee2hoo3-i
+1335|25|17|Ꭿ²-, Ꭿ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᎯᏯᎦᏙᏍᏙᏗ|hi:yagà:tǒ:sdóhdi|For you (1) to look at him|hii2ya2gaa1too23sdoh3di
+1336|25|19|Ꭸ²Ꮳ̣²-, Ꭸ²Ꮳ̣²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᎨᏣᎪᏩᏘᏍᎪᎢ|ge:jagowhtǐ:sgóɂi|They are often seeing you (1)|gee2ja2gowh2tii23sgo3-i
+1337|25|21|Ꭲ¹ᏍᎩ²-, Ꭲ¹ᏍᎩ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᎢᏍᎩᏯᎦᏙᏍᏙᏗ|ì:sgi:yagà:tǒ:sdóhdi|For you (1), two, or all to look at us all; For you all to look at me|ii1sgii2ya2gaa1too23sdoh3di
+1338|25|22|Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᎦᎯᏯᎦᏙᏍᏙᏗ|gahi:yagà:tǒ:sdóhdi|For you (1) to look at them (animate)|ga2hii2ya2gaa1too23sdoh3di
+1339|25|26|Ꮵ̣²-, Ꭶ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ²*||ᎦᎦᏙᏍᏓ|gagà:tǒ:sdā|I recently looked at it|ga2gaa1too23sda2
+1340|25|27|Ꭼ²-, Ꭼ²Ꮿ͓-|ɂᎧ̣²Ꭾ³ᏍᏗ||ꭼꮿᎧᎮᏍᏗ|gv:ya:kahé:sdi|I will be having you (1)|gvv2yaa2ka2hee3sdi
+1341|25|34|Ꮪ²-, Ꮪ²Ꮹ͓-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏚᏬᎵᏨᎢ|du:wohljv̌:ɂi|He understood things a while ago; He recognized them (animate) a while ago|duu2wohl2jvv23-i
+1342|25|48|ᏍᎩ̣²-, ᏍᏆ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏍᎩᎪᏩᏘᎭ|sgigowhtíha|You (1) are seeing me|sgii2gowh2ti3ha
+1343|25|49|Ꭵ¹Ꭹ̣²-, Ꭵ¹Ꮖ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎥᎩᎪᏩᏘᎭ|v̀:gigowhtíha|I am being seen|vv1gi2gowh2ti3ha
+1344|25|70|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꭺ²Ꮂ²³Ꭲ||ᎠᎩᎪᎲᎢ|à:gigo:hv̌:ɂi|I saw it a while ago; He saw me a while ago|aa1gi2goo2hvv23-i
+1345|26|1||Ꭲ¹ᏍᎩ²Ꮵ||ᎢᏍᎩᏥ|ì:sgi:ji|You one, their and my mother|ii1sgii2ji
+1346|26|1|Ꮵ̣²-, Ꭶ͓-|Ꭰ̣²Ꮧ²³ᏍᎪ³Ꭲ||ᎦᏗᏍᎪᎢ|gadǐ:sgó:ɂi|I am often saying|ga2dii23sgoo3-i
+1347|26|2|Ꭰ¹Ꮵ̣²-, Ꭰ¹Ꭶ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎠᎦᎦᏙᏍᏔᏅᎢ|à:gà:gà:tǒ:stánv̌:ɂi|He was looked at a while ago|aa1gaa1gaa1too23sta3nvv23-i
+1348|26|3|Ꮥ³Ꮒ²-|¹ᏍᏗ²³Ꭹ³²ᏍᎪ³Ꭲ||ᏕᏂᏍᏗᎩᏍᎪᎢ|dé:nì:sdǐ:gî:sgó:ɂi|You (1) and I usually are eating rod shaped things|dee3nii1sdii23gii32sgoo3-i
+1349|26|3|Ꭸ³Ꮵ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎨᏣᎦᏙᏍᏔᏅᎢ|gé:jà:gà:tǒ:stánv̌:ɂi|They looked at you all a while ago|gee3jaa1gaa1too23sta3nvv23-i
+1350|26|4|Ꭺ²Ꮵ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎪᏣᎦᏙᏍᏔᏅᎢ|go:jà:gà:tǒ:stánv̌:ɂi|They and I looked at them (animate) a while ago|goo2jaa1gaa1too23sta3nvv23-i
+1351|26|5|Ꭺ²ᏍᏗ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎪᏍᏓᎦᏙᏍᏔᏅᎢ|go:sdà:gà:tǒ:stánv̌:ɂi|He and I looked at them (animate) a while ago|goo2sdaa1gaa1too23sta3nvv23-i
+1352|26|6|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|¹ᏍᏗ²³Ꭹ³²ᏍᎪ³Ꭲ||ᏕᎯᏍᏗᎩᏍᎪᎢ|de:hìsdǐ:gî:sgó:ɂi|You (1) usually are eating rod shaped things|dee2hi1sdii23gii32sgoo3-i
+1353|26|6|ᏍᏛ²-, ᏍᏛ²Ꮿ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᏍᏛᏯᎦᏙᏍᏔᏅᎢ|sdv:yà:gà:tǒ:stánv̌:ɂi|I looked at you both a while ago; We two looked at you (1) or you both a while ago|sdvv2yaa1gaa1too23sta3nvv23-i
+1354|26|7|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|ɂ³Ꮯ²Ꮟ²³ᏍᎪ̣Ꭲ||ᏕᏥᏟᏏᏍᎪᎢ|de:jíhli:sǐ:sgóɂi|I am usually gathering things|dee2ji3hlii2sii23sgo3-i
+1355|26|7|Ꮩ¹ᏍᏗ²-|¹ᏍᏗ²³Ꭹ³²ᏍᎪ³Ꭲ||ᏙᏍᏗᏍᏗᎩᏍᎪᎢ|dò:sdì:sdǐ:gî:sgó:ɂi|He and I usually are eating rod shaped things|doo1sdii1sdii23gii32sgoo3-i
+1356|26|8|Ꮥ³Ꮵ²-|ɂᏰ³ᏍᎪ³Ꭲ||ᏕᏥᏰᏍᎪᎢ|dé:ji:hyé:sgó:ɂi|You all usually are eating flexible things|dee3jii2hyee3sgoo3-i
+1357|26|11|Ꭴ¹Ꮒ²-|ɂᏯ³Ꭵ²³Ꭲ||ᎤᏂᏯᎥᎢ|ù:ni:hyá:ɂv̌:ɂi|They ate something flexible a while ago|uu1nii2hyaa3-vv23-i
+1358|26|12|Ꭹ̣²Ꮒ²-|ɂᏯ³Ꭵ²³Ꭲ||ᎩᏂᏯᎥᎢ|gini:hyá:ɂv̌:ɂi|You (1) and I ate something flexible a while ago|gi2nii2hyaa3-vv23-i
+1359|26|16|Ꭲ¹Ꭹ²-|Ꮑ²Ꮂ²³Ꭲ||ᎢᎩᏁᎲᎢ|ì:gi:ne:hv̌:ɂi|All of us had a liquid a while ago|ii1gii2nee2hvv23-i
+1360|26|17|Ꮳ̣²-|Ꮑ²Ꮀ³Ꭲ||ᏣᏁᎰᎢ|jane:hó:ɂi|You (1) usually have a liquid|ja2nee2hoo3-i
+1361|26|22|Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᎦᏥᎪᏩᏘᏍᎪᎢ|gaji:gowhtǐ:sgóɂi|I am often seeing them (animate)|ga2jii2gowh2tii23sgo3-i
+1362|26|34|Ꭿ²-, Ꭿ²Ꮿ͓-|ɂᎧ̣²Ꭾ³ᏍᏗ||ꭿꮿᎧᎮᏍᏗ|hi:ya:kahé:sdi|You (1) will be having something alive|hii2yaa2ka2hee3sdi
+1363|26|39|Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|ɂᎧ̣²Ꭾ³ᏍᏗ||ꭶꭿꮿᎧᎮᏍᏗ|gahi:ya:kahé:sdi|You (1) will be having living things|ga2hii2yaa2ka2hee3sdi
+1364|26|40|Ꭲ¹ᏍᎩ²-, Ꭲ¹ᏍᎩ²Ꮿ͓-|ɂᎧ̣²Ꭾ³ᏍᏗ||ᏕꮝꭹꮿᎧᎮᏍᏗ|dé:sgi:ya:kahé:sdi|You (1), two, or all will be having us all; You all will be having me|dee3sgii2yaa2ka2hee3sdi
+1365|26|45|ᏍᎩ̣²Ꮒ²-|ɂᎧ̣³Ꭽ||ᏕᏍᎩᏂᎧᎭ|de:sgini:káha|You (1) or both have us both|dee2sgi2nii2ka3ha
+1366|27|1||Ꭲ¹Ꮵ²Ꮩ²Ꮣ||ᎢᏥᏙᏓ|ì:ji:do:da|Your all's father|ii1jii2doo2da
+1367|27|1|Ꮥ³Ꭹ²-|ɂ³Ꮯ²Ꮜ̣²Ꮕ²³Ꭲ||ᏕᎩᏟᏌᏅᎢ|dé:gí:hli:sahnv̌:ɂi|All of us gathered things a while ago|dee3gii3hlii2sa2hnvv23-i
+1368|27|1|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᏓᏊᏗᏔᎲᎢ|dà:gwù:di:tahv̌:ɂi|I drank drinks a while ago|daa1gwuu1dii2ta2hvv23-i
+1369|27|2|Ꮵ̣²-, Ꭶ͓-|Ꭰ̣¹Ꮪ²³Ꭹ̣³Ꭰ*||ᎦᏚᎩᎠ|gaɂdǔ:gía|I am drinking something alcoholic|ga-2duu23gi3a
+1370|27|2|Ꮩ¹Ꭹ²-|ɂ³Ꮯ²Ꮜ̣²Ꮕ²³Ꭲ||ᏙᎩᏟᏌᏅᎢ|dò:gí:hli:sahnv̌:ɂi|They and I gathered things a while ago|doo1gii3hlii2sa2hnvv23-i
+1371|27|2|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᏕᏧᏗᏔᎲᎢ|de:jù:di:tahv̌:ɂi|You (1) drank drinks a while ago|dee2juu1dii2ta2hvv23-i
+1372|27|4|Ꮥ²Ꭹ̣²Ꮒ²-|ɂ³Ꮯ²Ꮜ̣²Ꮕ²³Ꭲ||ᏕᎩᏂᏟᏌᏅᎢ|de:giní:hli:sahnv̌:ɂi|You (1) and I gathered things a while ago|dee2gi2nii3hlii2sa2hnvv23-i
+1373|27|5|Ꮩ¹Ꭹ̣²Ꮒ²-|ɂ³Ꮯ²Ꮜ̣²Ꮕ²³Ꭲ||ᏙᎩᏂᏟᏌᏅᎢ|dò:giní:hli:sahnv̌:ɂi|He and I gathered things a while ago|doo1gi2nii3hlii2sa2hnvv23-i
+1374|27|7|Ꭱ¹Ꭹ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎡᎦᎦᏙᏍᏔᏅᎢ|è:gà:gà:tǒ:stánv̌:ɂi|All of us were looked at a while ago|ee1gaa1gaa1too23sta3nvv23-i
+1375|27|8|Ꭱ¹Ꮒ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎡᎾᎦᏙᏍᏔᏅᎢ|è:nà:gà:tǒ:stánv̌:ɂi|You (1) and I looked at him a while ago|ee1naa1gaa1too23sta3nvv23-i
+1376|27|9|Ꭴ¹-, Ꭴ¹Ꮹ͓-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᎤᏍᏗᎬᎢ|ù:sdí:gv̌:ɂi|He ate something rod shaped a while ago|uu1sdii3gvv23-i
+1377|27|9|Ꭱ¹Ꮧ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎡᏓᎦᏙᏍᏔᏅᎢ|è:dà:gà:tǒ:stánv̌:ɂi|All of us looked at him a while ago|ee1daa1gaa1too23sta3nvv23-i
+1378|27|10|Ꭱ¹Ꮵ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎡᏣᎦᏙᏍᏔᏅᎢ|è:jà:gà:tǒ:stánv̌:ɂi|You all looked at him a while ago; You all were looked at a while ago|ee1jaa1gaa1too23sta3nvv23-i
+1379|27|11|Ꭴ¹Ꮒ²-|ɂ³Ꮪ²Ꮕ²³Ꭲ||ᎤᏂᏚᏅᎢ|ù:ní:du:hnv̌:ɂi|They baked something a while ago|uu1nii3duu2hnvv23-i
+1380|27|13|Ꭳ¹Ꭹ²-|ɂᏯ³Ꭵ²³Ꭲ||ᎣᎩᏯᎥᎢ|ò:gi:hyá:ɂv̌:ɂi|They and I ate something flexible a while ago|oo1gii2hyaa3-vv23-i
+1381|27|14|Ꭳ¹Ꭹ̣²Ꮒ²-|ɂᏯ³Ꭵ²³Ꭲ||ᎣᎩᏂᏯᎥᎢ|ò:gini:hyá:ɂv̌:ɂi|He and I ate something flexible a while ago|oo1gi2nii2hyaa3-vv23-i
+1382|27|16|Ꭱ¹ᏍᏗ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎡᏍᏓᎦᏙᏍᏔᏅᎢ|è:sdà:gà:tǒ:stánv̌:ɂi|You both looked at him a while ago; You both were looked at a while ago|ee1sdaa1gaa1too23sta3nvv23-i
+1383|27|17|Ꭱ¹Ꭹ̣²Ꮒ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎡᎩᎾᎦᏙᏍᏔᏅᎢ|è:ginà:gà:tǒ:stánv̌:ɂi|You (1) and I were looked at a while ago|ee1gi2naa1gaa1too23sta3nvv23-i
+1384|27|18|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꭾ³ᏍᏗ||ᎠᎩᎮᏍᏗ|à:gihé:sdi|I will be having something solid|aa1gi2hee3sdi
+1385|27|22|Ꭵ¹Ꭹ̣²-, Ꭵ¹Ꮖ͓-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᎥᏆᏚᎵᏍᎪᎢ|v̀:gwadu:lǐ:sgóɂi|I am often wanted|vv1gwa2duu2lii23sgo3-i
+1386|27|23|Ꭿ²-, Ꭿ²Ꮿ͓-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᎯᎪᏩᏘᏍᎪᎢ|hi:gowhtǐ:sgóɂi|You (1) are often seeing him|hii2gowh2tii23sgo3-i
+1387|27|23|ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᏍᏓᏓᏚᎵᏍᎪᎢ|sdadadu:lǐ:sgóɂi|You both usually are wanting yourselves|sdaa2da2duu2lii23sgo3-i
+1388|27|24|Ꭲ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᎢᏣᏓᏚᎵᏍᎪᎢ|ì:jadadu:lǐ:sgóɂi|You all usually are wanting yourselves|ii1ja2da2duu2lii23sgo3-i
+1389|27|25|Ꭲ¹ᏍᎩ²-, Ꭲ¹ᏍᎩ²Ꮿ͓-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᎢᏍᎩᎪᏩᏘᏍᎪᎢ|ì:sgi:gowhtǐ:sgóɂi|You (1), two, or all are often seeing us all; You all are often seeing me|ii1sgii2gowh2tii23sgo3-i
+1390|27|26|Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᎦᎯᎪᏩᏘᏍᎪᎢ|gahi:gowhtǐ:sgóɂi|You (1) are often seeing them (animate)|ga2hii2gowh2tii23sgo3-i
+1391|28|1||Ꭲ¹Ꮸ²Ꮩ²Ꮣ||ᎢᏨᏙᏓ|ì:jv:do:da|I, your all's father|ii1jvv2doo2da
+1392|28|3|Ꮥ³Ꭹ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᏕᎫᏗᏔᎲᎢ|dé:gù:di:tahv̌:ɂi|All of us drank drinks a while ago|dee3guu1dii2ta2hvv23-i
+1393|28|4|Ꮩ¹Ꭹ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᏙᎫᏗᏔᎲᎢ|dò:gù:di:tahv̌:ɂi|They and I drank drinks a while ago|doo1guu1dii2ta2hvv23-i
+1394|28|5|Ꮪ¹Ꮒ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᏚᏄᏗᏔᎲᎢ|dù:nù:di:tahv̌:ɂi|They drank drinks a while ago|duu1nuu1dii2ta2hvv23-i
+1395|28|6|Ꮥ²Ꭹ̣²Ꮒ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᏕᎩᏄᏗᏔᎲᎢ|de:ginù:di:tahv̌:ɂi|You (1) and I drank drinks a while ago|dee2gi2nuu1dii2ta2hvv23-i
+1396|28|7|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᏙᎩᏄᏗᏔᎲᎢ|dò:ginù:di:tahv̌:ɂi|He and I drank drinks a while ago|doo1gi2nuu1dii2ta2hvv23-i
+1397|28|8|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꮈ³²Ꮢ²³Ꭲ||ᎠᎩᎸᏒᎢ|à:gilv̂:sv̌:ɂi|I climbed it a while ago|aa1gi2lvv32svv23-i
+1398|28|8|ᏍᏗ²-|Ꭱ²Ꮕ³Ꮢ²³Ꭲ||ᏍᏕᏅᏒᎢ|sde:nv́:sv̌:ɂi|You both went a while ago|sdee2nvv3svv23-i
+1399|28|9|Ꮵ̣²-, Ꭶ͓-|Ꭽ̣²Ꮧ²³Ꮤ²||ᎦᎭᏗᏔ|ga:dǐ:tā|I recently drank something|gaa2dii23ta2
+1400|28|10|Ꮥ³Ꮵ²-|Ꮎ̣³Ꭳ³Ꭲ||ᏕᏥᎾᎣᎢ|dé:ji:náó:ɂi|You all usually have flexible things|dee3jii2na3oo3-i
+1401|28|10|Ꭱ¹Ꮒ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ³ᏍᎪ³Ꭲ*||ᎡᎾᎦᏙᏍᏗᏍᎪᎢ|è:nà:gà:tǒ:sdí:sgó:ɂi|You (1) and I are often looking at him|ee1naa1gaa1too23sdii3sgoo3-i
+1402|28|15|Ꭲ¹Ꭹ²-|ɂᏯ³Ꭵ²³Ꭲ||ᎢᎩᏯᎥᎢ|ì:gi:hyá:ɂv̌:ɂi|All of us ate something flexible a while ago|ii1gii2hyaa3-vv23-i
+1403|28|19|Ꭿ²-, Ꭿ²Ꮿ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎯᏯᎦᏙᏍᏔᏅᎢ|hi:yà:gà:tǒ:stánv̌:ɂi|You (1) looked at him a while ago|hii2yaa1gaa1too23sta3nvv23-i
+1404|28|26|Ꭳ¹Ꮵ²-|Ꭳ²Ꮅ³ᏍᏗ*||ᎣᏦᎵᏍᏗ|ò:jo:lí:sdi|For them and me to recognize him|oo1joo2lii3sdi
+1405|28|27|Ꭳ¹ᏍᏗ²-|Ꭳ²Ꮅ³ᏍᏗ*||ᎣᏍᏙᎵᏍᏗ|ò:sdo:lí:sdi|For him and me to recognize him|oo1sdoo2lii3sdi
+1406|28|28|Ꮣ¹Ꮒ²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏓᏂᎪᏩᏘᏍᎪᎢ|dà:ni:gowhtǐ:sgóɂi|They are often seeing them|daa1nii2gowh2tii23sgo3-i
+1407|28|29|Ꮥ³Ꮒ²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏕᏂᎪᏩᏘᏍᎪᎢ|dé:ni:gowhtǐ:sgóɂi|You (1) and I are often seeing them (inanimate)|dee3nii2gowh2tii23sgo3-i
+1408|28|30|Ꮥ³Ꮧ²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏕᏗᎪᏩᏘᏍᎪᎢ|dé:di:gowhtǐ:sgóɂi|All of us are often seeing them (inanimate)|dee3dii2gowh2tii23sgo3-i
+1409|28|31|Ꮩ¹Ꮵ²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏙᏥᎪᏩᏘᏍᎪᎢ|dò:ji:gowhtǐ:sgóɂi|They and I are often seeing them (inanimate)|doo1jii2gowh2tii23sgo3-i
+1410|28|32|Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏕᎯᎪᏩᏘᏍᎪᎢ|de:higowhtǐ:sgóɂi|You (1) are often seeing them (inanimate)|dee2hi2gowh2tii23sgo3-i
+1411|28|33|Ꮥ²Ꮵ̣²-, Ꮥ²Ꭶ͓-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏕᏥᎪᏩᏘᏍᎪᎢ|de:jigowhtǐ:sgóɂi|I am often seeing them (inanimate)|dee2ji2gowh2tii23sgo3-i
+1412|28|34|Ꮩ¹ᏍᏗ²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏙᏍᏗᎪᏩᏘᏍᎪᎢ|dò:sdi:gowhtǐ:sgóɂi|He and I are often seeing them (inanimate)|doo1sdii2gowh2tii23sgo3-i
+1413|28|38|Ꭲ¹Ꮒ²-|ᎣᎵ͓²Ꭹ||ᎢᏃᎵᎩ|ì:nohlgi|Let you (1) and me understand it|ii1nohl2gi
+1414|28|38|Ꭴ¹Ꮒ²-|Ꭳ²Ꮅ³ᏍᏗ||ᎤᏃᎵᏍᏗ|ù:no:hlísdi|For them to understand it; For them to recognize him|uu1noo2hli3sdi
+1415|28|39|Ꭲ¹Ꮧ²-|ᎣᎵ͓²Ꭹ||ᎢᏙᎵᎩ|ì:dohlgi|Let all of us understand it|ii1dohl2gi
+1416|28|39|Ꭹ̣²Ꮒ²-|Ꭳ²Ꮅ³ᏍᏗ||ᎩᏃᎵᏍᏗ|gino:hlísdi|For you (1) and me to understand it; For him to recognize you (1) and me|gi2noo2hli3sdi
+1417|29|1||Ꭳ²Ꭹ²Ꮩ²Ꮣ||ᎣᎩᏙᏓ|o:gi:do:da|Their and my father|oo2gii2doo2da
+1418|29|1|Ꮥ²Ꮳ̣²-, Ꮥ²Ꮳ̣²-|Ꭰ̣²Ꮕ͓Ꮦ³ᏍᏗ||ᏕᏣᏅᏖᏍᏗ|de:janhté:sdi|You (1) will be knowing things|dee2ja2nhtee3sdi
+1419|29|2|Ꮵ̣²-, Ꭶ͓-|ɂᏰ³ᏍᎪ³Ꭲ*||ᏥᏰᏍᎪᎢ|jiyé:sgó:ɂi|I am usually eating something flexible|ji2yee3sgoo3-i
+1420|29|4|Ꭴ¹Ꮒ²-|Ᏺ¹Ꮟ²³Ꮜ²||ᏚᏂᏲᏏᏌ|dù:ni:yò:sǐ:sā|They were recently hungry|duu1nii2yoo1sii23sa2
+1421|29|8|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꮈ¹ᏍᏗ||ᎠᎩᎸᏍᏗ|à:gilv̀:sdi|For me to climb it|aa1gi2lvv1sdi
+1422|29|8|ᏍᏗ²-|Ꭱ²Ꮕ¹ᏍᏗ||ᏍᏕᏅᏍᏗ|sde:nv̀:sdi|For you both to go|sdee2nvv1sdi
+1423|29|26|Ꭳ¹Ꮵ²-|Ꭳ²Ꮅ¹Ꮸ²³Ꭲ*||ᎣᏦᎵᏨᎢ|ò:jo:li:jv̌:ɂi|They and I recognized him a while ago|oo1joo2lii2jvv23-i
+1424|29|26|Ꭲ¹Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ||ᎢᏣᏓᎦᏙᏍᏔᏅᎢ|ì:jadà:ktǒ:stánv̌:ɂi|You all looked at yourselves a while ago|ii1ja2daa1ktoo23sta3nvv23-i
+1425|29|27|Ꭳ¹ᏍᏗ²-|Ꭳ²Ꮅ¹Ꮸ²³Ꭲ*||ᎣᏍᏙᎵᏨᎢ|ò:sdo:li:jv̌:ɂi|He and I recognized him a while ago|oo1sdoo2lii2jvv23-i
+1426|29|30|Ꭱ¹Ꭹ²-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᎡᎦᏚᎵᏍᎪᎢ|è:gadu:lǐ:sgóɂi|All of us are often wanted|ee1ga2duu2lii23sgo3-i
+1427|29|31|Ꭱ¹Ꮒ²-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᎡᎾᏚᎵᏍᎪᎢ|è:nadu:lǐ:sgóɂi|You (1) and I usually are wanting him|ee1na2duu2lii23sgo3-i
+1428|29|32|Ꭱ¹Ꮧ²-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᎡᏓᏚᎵᏍᎪᎢ|è:dadu:lǐ:sgóɂi|All of us usually are wanting him|ee1da2duu2lii23sgo3-i
+1429|29|33|Ꭱ¹Ꮵ²-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᎡᏣᏚᎵᏍᎪᎢ|è:jadu:lǐ:sgóɂi|You all usually are wanting him; You (1) are often wanted; You all are often wanted|ee1ja2duu2lii23sgo3-i
+1430|29|39|Ꮩ¹Ꭹ²-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᏙᎦᏚᎵᏍᎪᎢ|dò:gadu:lǐ:sgóɂi|They and I usually are wanting them (inanimate)|doo1ga2duu2lii23sgo3-i
+1431|29|40|Ꭳ¹Ꭹ²-|Ꭳ²Ꮅ³ᏍᏗ||ᎣᎪᎵᏍᏗ|ò:go:hlísdi|For them and me to understand it; For him to recognize them and me; For them and me to be recognized|oo1goo2hli3sdi
+1432|29|41|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꭳ²Ꮅ³ᏍᏗ||ᎣᎩᏃᎵᏍᏗ|ò:gino:hlísdi|For him and me to understand it; For him to recognize him and me; For him and me to be recognized|oo1gi2noo2hli3sdi
+1433|29|43|Ꭱ¹Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮪ²Ꮅ²³ᏍᎪ̣³Ꭲ||ᎡᎩᎾᏚᎵᏍᎪᎢ|è:ginadu:lǐ:sgóɂi|You (1) and I are often wanted|ee1gi2na2duu2lii23sgo3-i
+1434|30|1||Ꭴ²Ꮒ²Ꮩ²Ꮣ||ᎤᏂᏙᏓ|u:ni:do:da|Their father|uu2nii2doo2da
+1435|30|1|Ꮳ̣²-|Ꭰ̣²Ꮫ²Ꮕ²³Ꭲ||ᏣᏛᏅᎢ|jadv:hnv̌:ɂi|You (1) said a while ago|ja2dvv2hnvv23-i
+1436|30|2|Ꮵ̣²-, Ꭶ͓-|Ꭰ¹Ꮧ̣²Ꭰ*||ᏥᎠᏗᎠ|jigà:taha|I know how|ji2gaa1ta2ha
+1437|30|2|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꭰ̣²Ꮕ͓Ꮦ³ᏍᏗ||ᏓᏆᏅᏖᏍᏗ|dà:gwanhté:sdi|I will be knowing things|daa1gwa2nhtee3sdi
+1438|30|9|Ꭲ¹Ꮵ²-|Ꭱ²Ꮕ³Ꮢ²³Ꭲ||ᎢᏤᏅᏒᎢ|ì:je:nv́:sv̌:ɂi|You all went a while ago|ii1jee2nvv3svv23-i
+1439|30|10|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭱ²Ꮕ³Ꮢ²³Ꭲ||ᎤᏪᏅᏒᎢ|ù:we:nv́:sv̌:ɂi|He went a while ago|uu1wee2nvv3svv23-i
+1440|30|10|Ꭰ̣²-, Ꭶ̣²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᎠᎭᏗᏔ|a:dǐ:tā|He recently drank something|aa2dii23ta2
+1441|30|18|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꮎ̣³Ꭰ||ᎠᎩᎾᎠ|à:gináɂa|I have something flexible|aa1gi2na3-a
+1442|30|22|ᏍᎩ̣²Ꮒ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᏍᎩᎾᎦᏙᏍᏓ|sginagà:tǒ:sda|Let you (1) or both look at us both|sgi2na2gaa1too23sda
+1443|30|27|Ꮥ³Ꭹ²-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ||ᏕᎦᎦᏙᏍᏔᏅᎢ|dé:gà:ktǒ:stánv̌:ɂi|All of us looked at them (inanimate) a while ago|dee3gaa1ktoo23sta3nvv23-i
+1444|30|28|Ꮩ¹Ꭹ²-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ||ᏙᎦᎦᏙᏍᏔᏅᎢ|dò:gà:ktǒ:stánv̌:ɂi|They and I looked at them (inanimate) a while ago|doo1gaa1ktoo23sta3nvv23-i
+1445|30|29|Ꮪ¹Ꮒ²-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ||ᏚᎾᎦᏙᏍᏔᏅᎢ|dù:nà:ktǒ:stánv̌:ɂi|They looked at them a while ago|duu1naa1ktoo23sta3nvv23-i
+1446|30|30|Ꮥ²Ꭹ̣²Ꮒ²-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ||ᏕᎩᎾᎦᏙᏍᏔᏅᎢ|de:ginà:ktǒ:stánv̌:ɂi|You (1) and I looked at them (inanimate) a while ago|dee2gi2naa1ktoo23sta3nvv23-i
+1447|30|31|Ꮩ¹Ꭹ̣²Ꮒ²-|Ꭰ¹Ꭶ͓Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ||ᏙᎩᎾᎦᏙᏍᏔᏅᎢ|dò:ginà:ktǒ:stánv̌:ɂi|He and I looked at them (inanimate) a while ago|doo1gi2naa1ktoo23sta3nvv23-i
+1448|30|42|Ꭲ¹Ꭹ²-|Ꭳ²Ꮅ³ᏍᏗ||ᎢᎪᎵᏍᏗ|ì:go:hlísdi|For all of us to understand it; For him to recognize all of us|ii1goo2hli3sdi
+1449|30|44|Ꭳ¹Ꮵ²-|ᎣᎵ͓²Ꭶ||ᎣᏦᎵᎦ|ò:johlga|They and I understand it|oo1johl2ga
+1450|30|45|Ꭳ¹ᏍᏗ²-|ᎣᎵ͓²Ꭶ||ᎣᏍᏙᎵᎦ|ò:sdohlga|He and I understand it|oo1sdohl2ga
+1451|30|51|Ꭰ¹Ꮵ̣²-, Ꭰ¹Ꭶ͓-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᎠᏥᎪᏩᏘᏍᎪᎢ|à:jigowhtǐ:sgóɂi|He is usually seen|aa1ji2gowh2tii23sgo3-i
+1452|31|1||Ꭶ²Ꭿ²Ꮩ²Ꮣ||ᎦᎯᏙᏓ|gahi:do:da|You one, their father|ga2hii2doo2da
+1453|31|2|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꭰ̣²Ꮕ͓Ꮩ³ɂᎢ||ᏓᏆᏅᏙɂᎢ|dà:gwanhtó:ɂi|I usually know things|daa1gwa2nhtoo3-i
+1454|31|2|Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮫ²Ꮕ²³Ꭲ||ᎩᎾᏛᏅᎢ|ginadv:hnv̌:ɂi|You (1) and I said a while ago|gi2na2dvv2hnvv23-i
+1455|31|8|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᏚᏭᏗᏔᎲᎢ|du:wù:di:tahv̌:ɂi|He drank drinks a while ago|duu2wuu1dii2ta2hvv23-i
+1456|31|9|Ꭲ¹Ꮵ²-|Ꭱ²Ꮕ¹ᏍᏗ||ᎢᏤᏅᏍᏗ|ì:je:nv̀:sdi|For you all to go|ii1jee2nvv1sdi
+1457|31|10|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭱ²Ꮕ¹ᏍᏗ||ᎤᏪᏅᏍᏗ|ù:we:nv̀:sdi|For him to go|uu1wee2nvv1sdi
+1458|31|18|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꮑ²Ꮀ³Ꭲ||ᎠᎩᏁᎰᎢ|à:gine:hó:ɂi|I usually have a liquid|aa1gi2nee2hoo3-i
+1459|32|1||Ꭶ̣²Ꮵ²Ꮵ||ᎦᏥᏥ|gaji:ji|I, their mother|ga2jii2ji
+1460|32|1|Ꭹ̣²Ꮒ²-|Ꭰ̣Ꮨ͓²Ꮧ||ᎩᎾᏘᏗ|ginatdi|For you (1) and me to say it|gi2nat2di
+1461|32|2|Ꮵ̣²-, Ꭶ͓-|Ꭰ̣²Ꮪ²³Ꭹ*||ᏫᎦᏚᎩ|wigaɂdǔ:gi|Let me drink something alcoholic|wi2ga-2duu23gi
+1462|32|2|Ꮣ¹Ꭹ̣²-, Ꮣ¹Ꮖ͓-|Ꭰ̣²Ꮕ͓Ꮫ²³ɂᎢ||ᏓᏆᏅᏛɂᎢ|dà:gwanhtv̌:ɂi|I knew things a while ago|daa1gwa2nhtvv23-i
+1463|32|3|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꭰ̣²Ꮕ͓Ꮦ³ᏍᏗ||ᏚᏅᏖᏍᏗ|du:nhté:sdi|He will be knowing things|duu2nhtee3sdi
+1464|32|3|Ꭴ¹Ꮒ²-|Ꭰ̣²Ꮫ²Ꮕ²³Ꭲ||ᎤᎾᏛᏅᎢ|ù:nadv:hnv̌:ɂi|They said a while ago|uu1na2dvv2hnvv23-i
+1465|32|3|Ꭿ̣²-|Ꭰ̣²Ꮧ²³ᏍᎪ³Ꭲ||ᎭᏗᏍᎪᎢ|hadǐ:sgó:ɂi|You (1) are often saying|ha2dii23sgoo3-i
+1466|32|5|Ꭳ¹Ꭹ²-|Ᏺ¹Ꮟ²³Ꮜ²||ᏙᎩᏲᏏᏌ|dò:gi:yò:sǐ:sā|They and I were recently hungry|doo1gii2yoo1sii23sa2
+1467|32|6|Ꭳ¹Ꭹ̣²Ꮒ²-|Ᏺ¹Ꮟ²³Ꮜ²||ᏙᎩᏂᏲᏏᏌ|dò:gini:yò:sǐ:sā|He and I were recently hungry|doo1gi2nii2yoo1sii23sa2
+1468|32|10|Ꮥ³Ꮵ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏕᏥᏍᏗᎬᎢ|dé:jì:sdí:gv̌:ɂi|You all ate rod shaped things a while ago|dee3jii1sdii3gvv23-i
+1469|32|11|Ꮥ²ᏍᏗ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏕᏍᏗᏍᏗᎬᎢ|de:sdì:sdí:gv̌:ɂi|You both ate rod shaped things a while ago|dee2sdii1sdii3gvv23-i
+1470|32|36|Ꭰ¹Ꮒ²-|ᎣᎵ͓²Ꭺ³Ꭲ||ᎠᏃᎵᎪᎢ|à:nohlgó:ɂi|They usually understand it; They usually recognize him|aa1nohl2goo3-i
+1471|32|37|Ꭲ¹Ꮒ²-|ᎣᎵ͓²Ꭺ³Ꭲ||ᎢᏃᎵᎪᎢ|ì:nohlgó:ɂi|You (1) and I usually understand it|ii1nohl2goo3-i
+1472|32|38|Ꭲ¹Ꮧ²-|ᎣᎵ͓²Ꭺ³Ꭲ||ᎢᏙᎵᎪᎢ|ì:dohlgó:ɂi|All of us usually understand it|ii1dohl2goo3-i
+1473|32|43|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭳ²Ꮅ³ᏍᏗ||ᎤᏬᎵᏍᏗ|ù:wo:hlísdi|For him to understand it; For him to recognize him|uu1woo2hli3sdi
+1474|32|71|ᏍᏗ²-|Ꭺ²Ꮂ²³Ꭲ||ᏍᏗᎪᎲᎢ|sdi:go:hv̌:ɂi|He saw you both a while ago; You both saw it a while ago|sdii2goo2hvv23-i
+1475|33|1||Ꭹ̣²Ꮒ²Ꮵ||ᎩᏂᏥ|gini:ji|Your one's and my mother|gi2nii2ji
+1476|33|2|Ꮳ̣²-|Ꭰ̣Ꮨ͓²Ꮧ||ᏣᏘᏗ|jatdi|For you (1) to say it|jat2di
+1477|33|3|Ꭴ¹Ꮒ²-|Ꭰ̣Ꮨ͓²Ꮧ||ᎤᎾᏘᏗ|ù:natdi|For them to say it|uu1nat2di
+1478|33|3|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꭰ̣²Ꮕ͓Ꮩ³ɂᎢ||ᏚᏅᏙɂᎢ|du:nhtó:ɂi|He usually knows things|duu2nhtoo3-i
+1479|33|5|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭰ̣²Ꮕ͓Ꮤ||ᎤᏅᏔ|u:nhta|He knows something|uu2nhta
+1480|33|7|Ꭲ¹Ꭹ²-|Ᏺ¹Ꮟ²³Ꮜ²||ᏕᎩᏲᏏᏌ|dé:gi:yò:sǐ:sā|All of us were recently hungry|dee3gii2yoo1sii23sa2
+1481|33|69|ᏍᏗ²-|Ꭺ¹Ꮹ²Ꮤ||ᏍᏗᎪᏩᏔ|sdi:gò:wahta|Let you both see it|sdii2goo1wah2ta
+1482|34|1||ᏍᎩ̣²Ꮵ||ᏍᎩᏥ|sgiji|You one, my mother|sgi2ji
+1483|34|3|Ꮪ²-, Ꮪ²Ꮹ͓-|Ꭰ̣²Ꮕ͓Ꮫ²³ɂᎢ||ᏚᏅᏛɂᎢ|du:nhtv̌:ɂi|He knew things a while ago|duu2nhtvv23-i
+1484|34|4|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭰ̣²Ꮫ²Ꮕ²³Ꭲ||ᎤᏛᏅᎢ|u:dv:hnv̌:ɂi|He said a while ago|uu2dvv2hnvv23-i
+1485|34|11|Ꭰ̣²-, Ꭶ̣²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏩᎭᏗᏔ|wa:dǐ:ta|Let him drink something|waa2dii23ta
+1486|34|12|Ꭹ̣²Ꮒ²-|Ꮎ̣³Ꭳ³Ꭲ||ᎩᏂᎾᎣᎢ|gini:náó:ɂi|You (1) and I usually have something flexible|gi2nii2na3oo3-i
+1487|34|35|Ꮳ̣²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏦᎵᏨᎢ|johljv̌:ɂi|You (1) understood it a while ago; He recognized you (1) a while ago|johl2jvv23-i
+1488|34|36|Ꮥ³Ꮵ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏕᏦᎵᏨᎢ|dé:johljv̌:ɂi|You all understood things a while ago|dee3johl2jvv23-i
+1489|34|37|Ꮥ²ᏍᏗ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏕᏍᏙᎵᏨᎢ|de:sdohljv̌:ɂi|You both understood things a while ago|dee2sdohl2jvv23-i
+1490|34|72|Ꭲ¹Ꮵ²-|Ꭺ²Ꮂ²³Ꭲ||ᎢᏥᎪᎲᎢ|ì:ji:go:hv̌:ɂi|He saw you all a while ago; You all saw it a while ago|ii1jii2goo2hvv23-i
+1491|35|1||ᏍᏗ²Ꮩ²Ꮣ||ᏍᏗᏙᏓ|sdi:do:da|Your two's father|sdii2doo2da
+1492|35|3|Ꭲ¹Ꭹ²-|Ᏺ¹Ꮟ²³Ꮜ||ᏗᎩᏲᏏᏌ|dì:gi:yò:sǐ:sa|Let all of us be hungry|dii1gii2yoo1sii23sa
+1493|35|6|Ꭲ¹Ꮧ²-|Ꭰ̣²Ꮧ²³ᏍᎪ³Ꭲ||ᎢᏓᏗᏍᎪᎢ|ì:dadǐ:sgó:ɂi|All of us are often saying|ii1da2dii23sgoo3-i
+1494|35|8|Ꮪ²-, Ꮪ²Ꮹ͓-|ɂ³Ꮯ²Ꮜ̣²Ꮕ²³Ꭲ||ꮪꮹᏟᏌᏅᎢ|du:wá:hli:sahnv̌:ɂi|He gathered things a while ago|duu2waa3hlii2sa2hnvv23-i
+1495|35|12|Ꭹ̣²Ꮒ²-|Ꮎ̣³Ꭵ²³Ꭲ||ᎩᏂᎾᎥᎢ|gini:náv̌:ɂi|You (1) and I had something flexible a while ago|gi2nii2na3vv23-i
+1496|35|19|ᏍᏗ²-|Ꭾ³ᏍᏗ||ᏍᏗᎮᏍᏗ|sdi:hé:sdi|You both will be having something solid|sdii2hee3sdi
+1497|35|70|Ꭲ¹Ꮵ²-|Ꭺ¹Ꮹ²Ꮤ||ᎢᏥᎪᏩᏔ|ì:ji:gò:wahta|Let you all see it|ii1jii2goo1wah2ta
+1498|36|1||ᏍᏛ²Ꮩ²Ꮣ||ᏍᏛᏙᏓ|sdv:do:da|I, your two's father|sdvv2doo2da
+1499|36|2|Ꮵ̣²-, Ꭶ͓-|Ꭰ̣¹Ꮪ²³Ꭹ³²ᏍᎪ³Ꭲ*||ᎦᏚᎩᏍᎪᎢ|gaɂdǔ:gî:sgó:ɂi|I am usually drinking something alcoholic|ga-2duu23gii32sgoo3-i
+1500|36|9|ᏍᏗ²-|Ꮈ³²Ꮢ²³Ꭲ||ᏍᏗᎸᏒᎢ|sdi:lv̂:sv̌:ɂi|You both climbed it a while ago|sdii2lvv32svv23-i
+1501|36|12|Ꭹ̣²Ꮒ²-|Ꮑ²Ꭾ³ᏍᏗ||ᎩᏂᏁᎮᏍᏗ|gini:ne:hé:sdi|You (1) and I will be having a liquid|gi2nii2nee2hee3sdi
+1502|36|16|Ꭳ¹Ꮵ²-|ᏍᏗ²³Ꭶ||ᏬᏥᏍᏗᎦ|wò:ji:sdǐ:ga|Let them and me eat something rod shaped|woo1jii2sdii23ga
+1503|36|17|Ꭳ¹ᏍᏗ²-|ᏍᏗ²³Ꭶ||ᏬᏍᏗᏍᏗᎦ|wò:sdi:sdǐ:ga|Let him and me eat something rod shaped|woo1sdii2sdii23ga
+1504|36|41|Ꭳ¹Ꭹ²-|ᎣᎵ͓²Ꭹ||ᏬᎪᎵᎩ|wò:gohlgi|Let him recognize them and me; Let them and me be recognized|woo1gohl2gi
+1505|36|42|Ꭳ¹Ꭹ̣²Ꮒ²-|ᎣᎵ͓²Ꭹ||ᏬᎩᏃᎵᎩ|wò:ginohlgi|Let him recognize him and me; Let him and me be recognized|woo1gi2nohl2gi
+1506|37|1||Ꮳ̣²Ꮩ²Ꮣ||ᏣᏙᏓ|jado:da|xHe, your one's father|ja2doo2da
+1507|37|1|Ꮵ̣²-, Ꭶ͓-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ²||ᏥᏔᏕᎬᎦ|jitade:gv̀:gā|I was recently thirsty|ji2ta2dee2gvv1ga2
+1508|37|4|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭰ̣Ꮨ͓²Ꮧ||ᎤᏘᏗ|utdi|For him to say it|uut2di
+1509|37|5|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꭰ̣²Ꮫ²Ꮕ²³Ꭲ||ᎠᏆᏛᏅᎢ|à:gwadv:hnv̌:ɂi|I said a while ago|aa1gwa2dvv2hnvv23-i
+1510|37|6|Ꭳ¹Ꭹ²-|Ꭰ̣²Ꮫ²Ꮕ²³Ꭲ||ᎣᎦᏛᏅᎢ|ò:gadv:hnv̌:ɂi|They and I said a while ago|oo1ga2dvv2hnvv23-i
+1511|37|7|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꭰ̣²Ꮫ²Ꮕ²³Ꭲ||ᎣᎩᎾᏛᏅᎢ|ò:ginadv:hnv̌:ɂi|He and I said a while ago|oo1gi2na2dvv2hnvv23-i
+1512|37|9|ᏍᏗ²-|Ꮈ¹ᏍᏗ||ᏍᏗᎸᏍᏗ|sdi:lv̀:sdi|For you both to climb it|sdii2lvv1sdi
+1513|37|12|Ꭿ̣²-|Ꭽ̣²Ꮧ²³Ꮤ||ᎯᎭᏗᏔ|ha:dǐ:ta|Let you (1) drink something|haa2dii23ta
+1514|37|12|Ꭹ̣²Ꮒ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᎩᏂᏍᏗᎬᎢ|ginì:sdí:gv̌:ɂi|You (1) and I ate something rod shaped a while ago|gi2nii1sdii3gvv23-i
+1515|37|14|Ꮳ̣²-|Ꮎ̣³Ꭳ³Ꭲ||ᏣᎾᎣᎢ|janáó:ɂi|You (1) usually have something flexible|ja2na3oo3-i
+1516|37|20|Ꭲ¹Ꮵ²-|Ꭾ³ᏍᏗ||ᎢᏥᎮᏍᏗ|ì:ji:hé:sdi|You all will be having something solid|ii1jii2hee3sdi
+1517|38|1||Ꮷ²Ꮅ̣²Ꭲ||ᏧᎵᎢ|ju:liɂi|His friends|juu2li2-i
+1518|38|5|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꭰ̣Ꮨ͓²Ꮧ||ᎠᏆᏘᏗ|à:gwatdi|For me to say it|aa1gwat2di
+1519|38|6|Ꭳ¹Ꭹ²-|Ꭰ̣Ꮨ͓²Ꮧ||ᎣᎦᏘᏗ|ò:gatdi|For them and me to say it|oo1gat2di
+1520|38|7|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꭰ̣Ꮨ͓²Ꮧ||ᎣᎩᎾᏘᏗ|ò:ginatdi|For him and me to say it|oo1gi2nat2di
+1521|38|9|Ꭰ¹Ꮒ²-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᎠᏂᏍᏗᎩᎠ|à:nì:sdǐ:gíɂa|They are eating something rod shaped|aa1nii1sdii23gi3-a
+1522|38|10|Ꭲ¹Ꮵ²-|Ꮈ³²Ꮢ²³Ꭲ||ᎢᏥᎸᏒᎢ|ì:ji:lv̂:sv̌:ɂi|You all climbed it a while ago|ii1jii2lvv32svv23-i
+1523|38|10|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᎤᏗᏔᏍᏗ|u:di:tasdi|For him to drink something|uu2dii2ta2sdi
+1524|38|10|Ꭲ¹Ꮒ²-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᎢᏂᏍᏗᎩᎠ|ì:nì:sdǐ:gíɂa|You (1) and I are eating something rod shaped|ii1nii1sdii23gi3-a
+1525|38|11|Ꭿ̣²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᎯᎭᏗᏔ|ha:dǐ:tā|You (1) recently drank something|haa2dii23ta2
+1526|38|11|Ꭲ¹Ꮧ²-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᎢᏗᏍᏗᎩᎠ|ì:dì:sdǐ:gíɂa|All of us are eating something rod shaped|ii1dii1sdii23gi3-a
+1527|38|11|Ꭹ̣²Ꮒ²-|ɂ¹Ꮯ²³Ꮠ̣³Ꮧ||ᎩᏂᏟᏐᏗ|ginì:hlǐ:sóhdi|For you (1) and me to gather something|gi2nii1hlii23soh3di
+1528|38|13|Ꭴ¹Ꮒ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᎤᏂᏍᏗᎬᎢ|ù:nì:sdí:gv̌:ɂi|They ate something rod shaped a while ago|uu1nii1sdii3gvv23-i
+1529|38|14|Ꮳ̣²-|Ꮎ̣³Ꭵ²³Ꭲ||ᏣᎾᎥᎢ|janáv̌:ɂi|You (1) had something flexible a while ago|ja2na3vv23-i
+1530|38|19|ᏍᏗ²-|Ꮎ̣³Ꭰ||ᏍᏗᎾᎠ|sdi:náɂa|You both have something flexible|sdii2na3-a
+1531|38|44|Ꭲ¹Ꭹ²-|ᎣᎵ͓²Ꭹ||ᏫᎪᎵᎩ|wì:gohlgi|Let him recognize all of us|wii1gohl2gi
+1532|39|1||Ꭰ̣²Ꭹ̣²Ꮵ||ᎠᎩᏥ|agiji|xShe, my mother|a2gi2ji
+1533|39|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ᏺ³Ꮟ²ᏍᎪ³Ꭲ||ᎤᏲᏏᏍᎪᎢ|ù:yó:si:sgó:ɂi|He usually is hungry|uu1yoo3sii2sgoo3-i
+1534|39|8|Ꭲ¹Ꭹ²-|Ꭰ̣²Ꮫ²Ꮕ²³Ꭲ||ᎢᎦᏛᏅᎢ|ì:gadv:hnv̌:ɂi|All of us said a while ago|ii1ga2dvv2hnvv23-i
+1535|39|9|Ꮥ³Ꮵ²-|Ꭰ̣¹Ꮪ²³Ꭹ³²Ꮢ²³Ꭲ||ᏕᏣᏚᎩᏒᎢ|dé:jàtǔ:gî:sv̌:ɂi|You all drank alcoholic drinks a while ago|dee3ja1tuu23gii32svv23-i
+1536|39|10|Ꭲ¹Ꮵ²-|Ꮈ¹ᏍᏗ||ᎢᏥᎸᏍᏗ|ì:ji:lv̀:sdi|For you all to climb it|ii1jii2lvv1sdi
+1537|39|10|Ꮥ²ᏍᏗ²-|Ꭰ̣¹Ꮪ²³Ꭹ³²Ꮢ²³Ꭲ||ᏕᏍᏓᏚᎩᏒᎢ|de:sdàtǔ:gî:sv̌:ɂi|You both drank alcoholic drinks a while ago|dee2sda1tuu23gii32svv23-i
+1538|39|12|Ꭰ¹Ꮒ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᎠᏂᎭᏗᏔ|à:na:dǐ:tā|They recently drank something|aa1naa2dii23ta2
+1539|39|13|Ꭲ¹Ꮒ²-|Ꭽ̣²Ꮧ²³Ꮤ||ᎢᏂᎭᏗᏔ|ì:na:dǐ:ta|Let you (1) and me drink something|ii1naa2dii23ta
+1540|39|14|Ꮳ̣²-|Ꮑ²Ꭾ³ᏍᏗ||ᏣᏁᎮᏍᏗ|jane:hé:sdi|You (1) will be having a liquid|ja2nee2hee3sdi
+1541|39|14|Ꭲ¹Ꮧ²-|Ꭽ̣²Ꮧ²³Ꮤ||ᎢᏗᎭᏗᏔ|ì:da:dǐ:ta|Let all of us drink something|ii1daa2dii23ta
+1542|39|19|ᏍᏗ²-|Ꮑ²Ꮀ³Ꭲ||ᏍᏗᏁᎰᎢ|sdi:ne:hó:ɂi|You both usually have a liquid|sdii2nee2hoo3-i
+1543|40|1||Ꭲ¹Ꭶ²Ꮅ̣²Ꭲ||ᎢᎦᎵᎢ|ì:ga:liɂi|You one and I, our friend; You two and I, our friend; You all and I, our friend; You all and I, friends; You all, my friends|ii1gaa2li2-i
+1544|40|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ᏺ³Ꮟ²ᏍᎬ²³Ꭲ||ᎤᏲᏏᏍᎬᎢ|ù:yó:si:sgv̌:ɂi|He was hungry a while ago|uu1yoo3sii2sgvv23-i
+1545|40|2|Ꭰ̣²-, Ꭶ̣²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ²||ᎠᏔᏕᎬᎦ|atade:gv̀:gā|He was recently thirsty|a2ta2dee2gvv1ga2
+1546|40|3|Ꭰ¹Ꮒ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ²||ᏓᏂᏔᏕᎬᎦ|dà:ni:tade:gv̀:gā|They were recently thirsty|daa1nii2ta2dee2gvv1ga2
+1547|40|8|Ꭲ¹Ꭹ²-|Ꭰ̣Ꮨ͓²Ꮧ||ᎢᎦᏘᏗ|ì:gatdi|For all of us to say it|ii1gat2di
+1548|40|13|Ꭲ¹Ꮒ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᎢᏂᎭᏗᏔ|ì:na:dǐ:tā|You (1) and I recently drank something|ii1naa2dii23ta2
+1549|40|13|Ꮥ³Ꮵ²-|Ꭰ̣¹Ꮪ²³Ꭹ̣³Ꭰ||ᏕᏣᏚᎩᎠ|dé:jàtǔ:gía|You all are drinking alcoholic drinks|dee3ja1tuu23gi3a
+1550|40|14|Ꭲ¹Ꮧ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᎢᏗᎭᏗᏔ|ì:da:dǐ:tā|All of us recently drank something|ii1daa2dii23ta2
+1551|40|15|Ꭳ¹Ꭹ²-|Ꮎ̣³Ꭳ³Ꭲ||ᎣᎩᎾᎣᎢ|ò:gi:náó:ɂi|They and I usually have something flexible|oo1gii2na3oo3-i
+1552|40|16|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꮎ̣³Ꭳ³Ꭲ||ᎣᎩᏂᎾᎣᎢ|ò:gini:náó:ɂi|He and I usually have something flexible|oo1gi2nii2na3oo3-i
+1553|40|20|Ꭲ¹Ꮵ²-|Ꮎ̣³Ꭰ||ᎢᏥᎾᎠ|ì:ji:náɂa|You all have something flexible|ii1jii2na3-a
+1554|40|39|Ꭴ¹Ꮒ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎤᏃᎵᏨᎢ|ù:nohljv̌:ɂi|They understood it a while ago; They recognized him a while ago|uu1nohl2jvv23-i
+1555|40|40|Ꭹ̣²Ꮒ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎩᏃᎵᏨᎢ|ginohljv̌:ɂi|You (1) and I understood it a while ago; He recognized you (1) and me a while ago|gi2nohl2jvv23-i
+1556|41|1||Ꭲ¹ᏍᎩ²Ꮩ²Ꮣ||ᎢᏍᎩᏙᏓ|ì:sgi:do:da|You one, their and my father|ii1sgii2doo2da
+1557|41|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ᏺ¹Ꮟ²³Ꮠ̣³Ꮧ||ᎤᏲᏏᏐᏗ|ù:yò:sǐ:sóhdi|For him to be hungry|uu1yoo1sii23soh3di
+1558|41|4|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ᏺ¹Ꮟ²³Ꮜ||ᏩᎩᏲᏏᏌ|wà:giyò:sǐ:sa|Let me be hungry|waa1gi2yoo1sii23sa
+1559|41|4|Ꭲ¹Ꮒ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ²||ᏕᏂᏔᏕᎬᎦ|dé:ni:tade:gv̀:gā|You (1) and I were recently thirsty|dee3nii2ta2dee2gvv1ga2
+1560|41|5|Ꭲ¹Ꮧ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ²||ᏕᏗᏔᏕᎬᎦ|dé:di:tade:gv̀:gā|All of us were recently thirsty|dee3dii2ta2dee2gvv1ga2
+1561|41|8|Ꭹ̣²Ꮒ²-|Ᏺ¹Ꮟ²³Ꮜ²||ᏕᎩᏂᏲᏏᏌ|de:gini:yò:sǐ:sā|You (1) and I were recently hungry|dee2gi2nii2yoo1sii23sa2
+1562|41|9|Ꮥ³Ꮵ²-|Ꮎ̣³Ꭱ³ᏍᏗ||ᏕᏥᎾᎡᏍᏗ|dé:ji:náé:sdi|You all will be having flexible things|dee3jii2na3ee3sdi
+1563|41|10|Ꮥ²ᏍᏗ²-|Ꮎ̣³Ꭱ³ᏍᏗ||ᏕᏍᏗᎾᎡᏍᏗ|de:sdi:náé:sdi|You both will be having flexible things|dee2sdii2na3ee3sdi
+1564|41|15|Ꭰ¹Ꮒ²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏩᏂᎭᏗᏔ|wà:na:dǐ:ta|Let them drink something|waa1naa2dii23ta
+1565|41|20|Ꭲ¹Ꮵ²-|Ꮑ²Ꮀ³Ꭲ||ᎢᏥᏁᎰᎢ|ì:ji:ne:hó:ɂi|You all usually have a liquid|ii1jii2nee2hoo3-i
+1566|42|1||Ꭲ¹Ꮳ²Ꮅ̣²Ꭲ||ᎢᏣᎵᎢ|ì:ja:liɂi|You two, your friend; You all, your friend; You all, friends|ii1jaa2li2-i
+1567|42|1|Ꭲ¹Ꮒ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ||ᏗᏂᏔᏕᎬᎦ|dì:ni:tade:gv̀:ga|Let you (1) and me be thirsty|dii1nii2ta2dee2gvv1ga
+1568|42|2|Ꮵ̣²-, Ꭶ͓-|ɂᏯ̣²Ꭶ*||ᏫᏥᏯᎦ|wijiyaga|Let me eat something flexible|wi2ji2ya2ga
+1569|42|2|Ꭲ¹Ꮧ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ||ᏗᏗᏔᏕᎬᎦ|dì:di:tade:gv̀:ga|Let all of us be thirsty|dii1dii2ta2dee2gvv1ga
+1570|42|3|Ꭴ¹Ꮒ²-|Ᏺ³Ꮟ̣²Ꭽ||ᏚᏂᏲᏏᎭ|dù:ni:yó:siha|They are hungry|duu1nii2yoo3si2ha
+1571|42|17|Ꭲ¹Ꭹ²-|Ꮎ̣³Ꭳ³Ꭲ||ᎢᎩᎾᎣᎢ|ì:gi:náó:ɂi|All of us usually have something flexible|ii1gii2na3oo3-i
+1572|42|19|ᏍᏗ²-|ᏍᏗ²³Ꭶ||ᏍᏗᏍᏗᎦ|sdi:sdǐ:ga|Let you both eat something rod shaped|sdii2sdii23ga
+1573|42|44|ᏍᎩ̣²Ꮒ²-|ɂᎧ̣²Ꮀ³Ꭲ||ᏕᏍᎩᏂᎧᎰᎢ|de:sgini:kahó:ɂi|You (1) or both usually have us both|dee2sgi2nii2ka2hoo3-i
+1574|42|61|Ꭴ¹-, Ꭴ¹Ꮹ͓-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎤᎪᏩᏛᏗ|ù:gowhtv́hdi|For him to see him; For him to see it|uu1gowh2tvh3di
+1575|43|1||Ꭳ²Ꭹ̣²Ꮒ²Ꮵ||ᎣᎩᏂᏥ|o:gini:ji|His and my mother|oo2gi2nii2ji
+1576|43|3|Ꭿ̣²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ||ᎯᏔᏕᎬᎦ|hitade:gv̀:ga|Let you (1) be thirsty|hi2ta2dee2gvv1ga
+1577|43|14|Ꭳ¹Ꭹ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᎣᎩᏍᏗᎬᎢ|ò:gì:sdí:gv̌:ɂi|They and I ate something rod shaped a while ago|oo1gii1sdii3gvv23-i
+1578|43|15|Ꭳ¹Ꭹ̣²Ꮒ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᎣᎩᏂᏍᏗᎬᎢ|ò:ginì:sdí:gv̌:ɂi|He and I ate something rod shaped a while ago|oo1gi2nii1sdii3gvv23-i
+1579|43|17|Ꭲ¹Ꭹ²-|Ꮎ̣³Ꭵ²³Ꭲ||ᎢᎩᎾᎥᎢ|ì:gi:náv̌:ɂi|All of us had something flexible a while ago|ii1gii2na3vv23-i
+1580|43|19|ᏍᏗ²-|ᏍᏗ²³Ꭶ²||ᏍᏗᏍᏗᎦ|sdi:sdǐ:gā|You both recently ate something rod shaped|sdii2sdii23ga2
+1581|44|1||Ꭳ¹Ꭶ²Ꮅ̣²Ꭲ||ᎣᎦᎵᎢ|ò:ga:liɂi|He and I, our friend; They and I, our friend; They and I, friends; They, my friends|oo1gaa2li2-i
+1582|44|6|Ꭿ̣²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ²||ᎯᏔᏕᎬᎦ|hitade:gv̀:gā|You (1) were recently thirsty|hi2ta2dee2gvv1ga2
+1583|44|9|Ꭹ̣²Ꮒ²-|ᏁᏗ||ᏗᎩᏂᏁᏗ|digini:nehdi|For you (1) and me to have a liquid|di2gi2nii2neh2di
+1584|44|11|Ꭴ¹-, Ꭴ¹Ꮹ͓-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᎤᏍᏗᎩᏍᏗ|ù:sdǐ:gî:sdi|For him to eat something rod shaped|uu1sdii23gii32sdi
+1585|44|14|Ꮥ³Ꮵ²-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᏕᏥᏍᏗᎩᎠ|dé:jì:sdǐ:gíɂa|You all are eating rod shaped things|dee3jii1sdii23gi3-a
+1586|44|16|Ꮳ̣²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏣᏍᏗᎬᎢ|jàsdí:gv̌:ɂi|You (1) ate something rod shaped a while ago|ja1sdii3gvv23-i
+1587|44|20|Ꭲ¹Ꮵ²-|ᏍᏗ²³Ꭶ||ᎢᏥᏍᏗᎦ|ì:ji:sdǐ:ga|Let you all eat something rod shaped|ii1jii2sdii23ga
+1588|44|43|Ꭳ¹Ꮵ²-|ᎣᎵ͓²Ꭺ³Ꭲ||ᎣᏦᎵᎪᎢ|ò:johlgó:ɂi|They and I usually understand it|oo1johl2goo3-i
+1589|44|44|Ꭳ¹ᏍᏗ²-|ᎣᎵ͓²Ꭺ³Ꭲ||ᎣᏍᏙᎵᎪᎢ|ò:sdohlgó:ɂi|He and I usually understand it|oo1sdohl2goo3-i
+1590|45|1||Ꭴ¹Ꮎ²Ꮅ̣²Ꭲ||ᎤᎾᎵᎢ|ù:na:liɂi|His friend; Their friend; They, friends|uu1naa2li2-i
+1591|45|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꮤ̣²Ꮥ²³Ꭺ³²Ꮧ||ᎤᏔᏕᎪᏗ|ù:tadě:gô:di|For him to be thirsty|uu1ta2dee23goo32di
+1592|45|1|Ꮵ̣²-, Ꭶ͓-|Ꭰ̣²Ꮧ²³ᏍᎪ³Ꭲ*||ᏥᎠᏗᏍᎪᎢ|jigà:tahó:ɂi|I usually know how|ji2gaa1ta2hoo3-i
+1593|45|4|Ꭰ̣²-, Ꭶ̣²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ||ᏩᏔᏕᎬᎦ|watade:gv̀:ga|Let him be thirsty|wa2ta2dee2gvv1ga
+1594|45|15|Ꮥ³Ꮵ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᏕᏥᎭᏗᏔ|dé:ja:dǐ:tā|You all recently drank drinks|dee3jaa2dii23ta2
+1595|45|16|Ꮥ²ᏍᏗ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᏕᏍᏗᎭᏗᏔ|de:sda:dǐ:tā|You both recently drank drinks|dee2sdaa2dii23ta2
+1596|45|17|Ꭲ¹Ꭹ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᎢᎩᏍᏗᎬᎢ|ì:gì:sdí:gv̌:ɂi|All of us ate something rod shaped a while ago|ii1gii1sdii3gvv23-i
+1597|45|20|Ꭲ¹Ꮵ²-|ᏍᏗ²³Ꭶ²||ᎢᏥᏍᏗᎦ|ì:ji:sdǐ:gā|You all recently ate something rod shaped|ii1jii2sdii23ga2
+1598|45|58|Ꭰ¹Ꮒ²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎠᏂᎪᏩᏘᎭ|à:ni:gowhtíha|They are seeing him; They are seeing it|aa1nii2gowh2ti3ha
+1599|46|1||Ꭵ¹ᏍᎩ̣²Ꮎ||ᎥᏍᎩᎾ|v̀:sgina|That, Those; They, Them; He, Him|vv1sgi2na
+1600|46|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꮤ̣²Ꮥ²Ꭹ³Ꭰ||ᎤᏔᏕᎩᎠ|ù:tade:gí:ɂa|He is thirsty|uu1ta2dee2gii3-a
+1601|46|9|Ꮥ³Ꮵ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᏕᏧᏗᏔᎲᎢ|dé:jù:di:tahv̌:ɂi|You all drank drinks a while ago|dee3juu1dii2ta2hvv23-i
+1602|46|10|Ꮥ²ᏍᏗ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᏕᏍᏚᏗᏔᎲᎢ|de:sdù:di:tahv̌:ɂi|You both drank drinks a while ago|dee2sduu1dii2ta2hvv23-i
+1603|46|15|Ꮳ̣²-|ɂ¹Ꮯ²³Ꮠ̣³Ꮧ||ᏣᏟᏐᏗ|jàhlǐ:sóhdi|For you (1) to gather something|ja1hlii23soh3di
+1604|46|24|ᏍᎩ̣²Ꮒ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᏍᎩᎾᎦᏙᏍᏙᏗ|sginagà:tǒ:sdóhdi|For you (1) or both to look at us both|sgi2na2gaa1too23sdoh3di
+1605|46|41|Ꭳ¹Ꭹ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎣᎪᎵᏨᎢ|ò:gohljv̌:ɂi|They and I understood it a while ago; He recognized them and me a while ago; They and I were recognized a while ago|oo1gohl2jvv23-i
+1606|46|59|Ꮵ̣²-, Ꭶ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏥᎪᏩᏘᎭ|jigowhtíha|I am seeing it|ji2gowh2ti3ha
+1607|47|1||Ꭶ̣²Ꮵ²Ꮩ²Ꮣ||ᎦᏥᏙᏓ|gaji:do:da|I, their father|ga2jii2doo2da
+1608|47|8|Ꭳ¹Ꭹ²-|Ꭰ̣²Ꮕ͓Ꮤ||ᏙᎦᏅᏔ|dò:ganhta|They and I know something; They and I know things|doo1ga2nhta
+1609|47|11|Ꮳ̣²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᏧᏗᏔᏍᏗ|ja:di:tasdi|For you (1) to drink something|jaa2dii2ta2sdi
+1610|47|18|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꮎ̣³Ꭳ³Ꭲ||ᎠᎩᎾᎣᎢ|à:gináó:ɂi|I usually have something flexible|aa1gi2na3oo3-i
+1611|47|60|Ꭰ̣²-, Ꭶ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎠᎪᏩᏘᎭ|agowhtíha|He is seeing him; He is seeing it|a2gowh2ti3ha
+1612|47|62|Ꭲ¹Ꮒ²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎢᏂᎪᏩᏘᎭ|ì:ni:gowhtíha|You (1) and I are seeing it|ii1nii2gowh2ti3ha
+1613|47|63|Ꭲ¹Ꮧ²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎢᏗᎪᏩᏘᎭ|ì:di:gowhtíha|All of us are seeing it|ii1dii2gowh2ti3ha
+1614|48|1||Ꭹ̣²Ꮒ²Ꮩ²Ꮣ||ᎩᏂᏙᏓ|gini:do:da|Your one's and my father|gi2nii2doo2da
+1615|48|5|Ꭳ¹Ꭹ²-|Ᏺ³Ꮟ̣²Ꭽ||ᏙᎩᏲᏏᎭ|dò:gi:yó:siha|They and I are hungry|doo1gii2yoo3si2ha
+1616|48|6|Ꭳ¹Ꭹ̣²Ꮒ²-|Ᏺ³Ꮟ̣²Ꭽ||ᏙᎩᏂᏲᏏᎭ|dò:gini:yó:siha|He and I are hungry|doo1gi2nii2yoo3si2ha
+1617|48|9|Ꭰ̣²-, Ꭶ̣²-|¹ᏍᏗ²³Ꭹ³²ᏍᎪ³Ꭲ||ᎠᏍᏗᎩᏍᎪᎢ|àsdǐ:gî:sgó:ɂi|He usually is eating something rod shaped|a1sdii23gii32sgoo3-i
+1618|48|11|Ꮳ̣²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᏧᏗᏔᎲᎢ|jù:di:tahv̌:ɂi|You (1) drank something a while ago|juu1dii2ta2hvv23-i
+1619|48|11|Ꭿ̣²-|ɂ³Ꮪ²Ꮂ̣²ᏍᎪ³Ꭲ||ᎯᏚᎲᏍᎪᎢ|hídu:hvsgó:ɂi|You (1) are usually baking something|hi3duu2hv2sgoo3-i
+1620|48|43|Ꭲ¹Ꭹ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎢᎪᎵᏨᎢ|ì:gohljv̌:ɂi|All of us understood it a while ago; He recognized all of us a while ago|ii1gohl2jvv23-i
+1621|49|1||ᏍᎩ̣²Ꮒ²Ꮵ||ᏍᎩᏂᏥ|sgini:ji|You one, his and my mother|sgi2nii2ji
+1622|49|11|Ꮵ̣²-, Ꭶ͓-|¹ᏍᏗ²³Ꭹ³²ᏍᎪ³Ꭲ||ᏥᏍᏗᎩᏍᎪᎢ|jìsdǐ:gî:sgó:ɂi|I am usually eating something rod shaped|ji1sdii23gii32sgoo3-i
+1623|50|1||ᏍᎩ̣²Ꮩ²Ꮣ||ᏍᎩᏙᏓ|sgido:da|You one, my father|sgi2doo2da
+1624|50|7|Ꭲ¹Ꭹ²-|Ᏺ³Ꮟ̣²Ꭽ||ᏕᎩᏲᏏᎭ|dé:gi:yó:siha|All of us are hungry|dee3gii2yoo3si2ha
+1625|50|12|Ꭿ̣²-|¹ᏍᏗ²³Ꭹ³²ᏍᎪ³Ꭲ||ᎯᏍᏗᎩᏍᎪᎢ|hìsdǐ:gî:sgó:ɂi|You (1) usually are eating something rod shaped|hi1sdii23gii32sgoo3-i
+1626|50|18|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᎠᎩᏍᏗᎬᎢ|à:gìsdí:gv̌:ɂi|I ate something rod shaped a while ago|aa1gi1sdii3gvv23-i
+1627|50|44|ᏍᎩ̣²Ꮒ²-|ɂᎧ̣²Ꭾ³ᏍᏗ||ᏕᏍᎩᏂᎧᎮᏍᏗ|de:sgini:kahé:sdi|You (1) or both will be having us both|dee2sgi2nii2ka2hee3sdi
+1628|50|62|Ꭴ¹Ꮒ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎤᏂᎪᏩᏛᏗ|ù:ni:gowhtv́hdi|For them to see him; For them to see it|uu1nii2gowh2tvh3di
+1629|51|1||ᏍᏓ²Ꮅ̣²Ꭲ||ᏍᏓᎵᎢ|sda:liɂi|You one, your friend; You two, friends|sdaa2li2-i
+1630|51|5|Ꭰ¹Ꮒ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ||ᏫᏗᏂᏔᏕᎬᎦ|widìni:tade:gv̀:ga|Let them be thirsty|wi2di1nii2ta2dee2gvv1ga
+1631|51|12|Ꭴ¹Ꮒ²-|Ꮎ̣³Ꭱ³ᏍᏗ||ᎤᏂᎾᎡᏍᏗ|ù:ni:náé:sdi|They will be having something flexible|uu1nii2na3ee3sdi
+1632|51|16|Ꮵ̣²-, Ꭶ͓-|Ꭽ̣²Ꮧ²³Ꮤ||ᏫᎦᎭᏗᏔ|wiga:dǐ:ta|Let me drink something|wi2gaa2dii23ta
+1633|51|44|ᏍᏗ²-|Ꭳ²Ꮅ³ᏍᏗ||ᏍᏙᎵᏍᏗ|sdo:hlísdi|For you both to understand it; For him to recognize you both|sdoo2hli3sdi
+1634|51|44|Ꭴ¹-, Ꭴ¹Ꮹ͓-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎤᏬᎵᏨᎢ|ù:wohljv̌:ɂi|He understood it a while ago; He recognized him a while ago|uu1wohl2jvv23-i
+1635|51|63|Ꭹ̣²Ꮒ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎩᏂᎪᏩᏛᏗ|gini:gowhtv́hdi|For him to see you (1) and me; For you (1) and me to see it|gi2nii2gowh2tvh3di
+1636|52|1||Ꮶ¹Ꭶ²Ꮅ̣²Ꭲ||ᏦᎦᎵᎢ|jò:ga:liɂi|They and I, our friends|joo1gaa2li2-i
+1637|52|6|Ꮵ̣²-, Ꭶ͓-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ||ᏫᏥᏔᏕᎬᎦ|wijitade:gv̀:ga|Let me be thirsty|wi2ji2ta2dee2gvv1ga
+1638|52|12|Ꭴ¹Ꮒ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᎤᏂᏍᏗᎩᏍᏗ|ù:ni:sdǐ:gî:sdi|For them to eat something rod shaped|uu1nii2sdii23gii32sdi
+1639|52|64|Ꮳ̣²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᏣᎪᏩᏛᏗ|jagowhtv́hdi|For you (1) to see it; For him to see you (1)|ja2gowh2tvh3di
+1640|53|1||Ꮷ¹Ꮎ²Ꮅ̣²Ꭲ||ᏧᎾᎵᎢ|jù:na:liɂi|Their friends|juu1naa2li2-i
+1641|53|13|Ꭹ̣²Ꮒ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᎩᏂᏍᏗᎩᏍᏗ|gini:sdǐ:gî:sdi|For you (1) and me to eat something rod shaped|gi2nii2sdii23gii32sdi
+1642|53|14|Ꮳ̣²-|Ꮎ̣³Ꭱ³ᏍᏗ||ᏣᎾᎡᏍᏗ|janáé:sdi|You (1) will be having something flexible|ja2na3ee3sdi
+1643|53|45|Ꭲ¹Ꮵ²-|Ꭳ²Ꮅ³ᏍᏗ||ᎢᏦᎵᏍᏗ|ì:jo:hlísdi|For you all to understand it; For him to recognize you all|ii1joo2hli3sdi
+1644|53|58|Ꭰ̣²-, Ꭶ̣²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᎠᎪᏩᏘᏍᎪᎢ|agowhtǐ:sgóɂi|He is often seeing him; He is often seeing it|a2gowh2tii23sgo3-i
+1645|53|59|Ꭿ̣²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᎯᎪᏩᏘᏍᎪᎢ|higowhtǐ:sgóɂi|You (1) are often seeing it|hi2gowh2tii23sgo3-i
+1646|53|60|Ꮵ̣²-, Ꭶ͓-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏥᎪᏩᏘᏍᎪᎢ|jigowhtǐ:sgóɂi|I am often seeing it|ji2gowh2tii23sgo3-i
+1647|54|1||Ꭰ̣²Ꭹ̣²Ꮩ²Ꮣ||ᎠᎩᏙᏓ|agido:da|xHe, my father|a2gi2doo2da
+1648|54|12|Ꭴ¹Ꮒ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᎤᏄᏗᏔᏍᏗ|ù:na:di:tasdi|For them to drink something|uu1naa2dii2ta2sdi
+1649|55|1||Ꭳ²Ꭹ̣²Ꮒ²Ꮩ²Ꮣ||ᎣᎩᏂᏙᏓ|o:gini:do:da|His and my father|oo2gi2nii2doo2da
+1650|55|12|Ꭴ¹Ꮒ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᎤᏄᏗᏔᎲᎢ|ù:nù:di:tahv̌:ɂi|They drank something a while ago|uu1nuu1dii2ta2hvv23-i
+1651|55|13|Ꭹ̣²Ꮒ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᎩᏄᏗᏔᏍᏗ|gina:di:tasdi|For you (1) and me to drink something|gi2naa2dii2ta2sdi
+1652|55|65|Ꭳ¹Ꮵ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎣᏥᎪᏩᏛᏗ|ò:ji:gowhtv́hdi|For them and me to see him|oo1jii2gowh2tvh3di
+1653|55|66|Ꭳ¹ᏍᏗ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎣᏍᏗᎪᏩᏛᏗ|ò:sdi:gowhtv́hdi|For him and me to see him|oo1sdii2gowh2tvh3di
+1654|56|1||Ꭹ̣²Ꮎ²Ꮅ̣²Ꭲ||ᎩᎾᎵᎢ|gina:liɂi|You one and I, friends; You one, my friend|gi2naa2li2-i
+1655|56|3|Ꭴ¹Ꮒ²-|Ᏺ³Ꮟ²ᏍᎪ³Ꭲ||ᏚᏂᏲᏏᏍᎪᎢ|dù:ni:yó:si:sgó:ɂi|They usually are hungry|duu1nii2yoo3sii2sgoo3-i
+1656|56|13|Ꭹ̣²Ꮒ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᎩᏄᏗᏔᎲᎢ|ginù:di:tahv̌:ɂi|You (1) and I drank something a while ago|gi2nuu1dii2ta2hvv23-i
+1657|57|1||ᏍᎩ̣²Ꮒ²Ꮩ²Ꮣ||ᏍᎩᏂᏙᏓ|sgini:do:da|You one, his and my father|sgi2nii2doo2da
+1658|57|1|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꮤ̣²Ꮥ²Ꭶ³²Ꮕ²³Ꭲ||ᎤᏔᏕᎦᏅᎢ|ù:tade:gâ:nv̌:ɂi|He was thirsty a while ago|uu1ta2dee2gaa32nvv23-i
+1659|57|3|Ꭴ¹Ꮒ²-|Ᏺ³Ꮟ²ᏍᎬ²³Ꭲ||ᏚᏂᏲᏏᏍᎬᎢ|dù:ni:yó:si:sgv̌:ɂi|They were hungry a while ago|duu1nii2yoo3sii2sgvv23-i
+1660|57|9|Ꭲ¹Ꮵ²-|Ᏺ¹Ꮟ²³Ꮜ²||ᏕᏥᏲᏏᏌ|dé:ji:yò:sǐ:sā|You all were recently hungry|dee3jii2yoo1sii23sa2
+1661|57|13|Ꮳ̣²-|ɂ³Ꮯ²Ꮜ̣²Ꮕ²³Ꭲ||ᏣᏟᏌᏅᎢ|jáhli:sahnv̌:ɂi|You (1) gathered something a while ago|ja3hlii2sa2hnvv23-i
+1662|57|18|Ꭳ¹ᏍᏗ²-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᎣᏍᏗᏍᏗᎩᎠ|ò:sdì:sdǐ:gíɂa|He and I are eating something rod shaped|oo1sdii1sdii23gi3-a
+1663|57|67|Ꭳ¹Ꭹ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎣᎩᎪᏩᏛᏗ|ò:gi:gowhtv́hdi|For him to see them and me; For them and me to see it; For them and me to be seen|oo1gii2gowh2tvh3di
+1664|57|68|Ꭳ¹Ꭹ̣²Ꮒ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎣᎩᏂᎪᏩᏛᏗ|ò:gini:gowhtv́hdi|For him to see him and me; For him and me to see it; For him and me to be seen|oo1gi2nii2gowh2tvh3di
+1665|58|1||Ꮧ̣²Ꭶ²Ꮅ̣²Ꭲ||ᏗᎦᎵᎢ|diga:liɂi|You all and I, our friends|di2gaa2li2-i
+1666|58|14|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᎠᏊᏗᏔᏍᏗ|à:gwa:di:tasdi|For me to drink something|aa1gwaa2dii2ta2sdi
+1667|58|14|Ꮳ̣²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᏣᏍᏗᎩᏍᏗ|tssdǐ:gî:sdi|For you (1) to eat something rod shaped|tssdii23gii32sdi
+1668|58|17|Ꭳ¹Ꮵ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᎣᏥᎭᏗᏔ|ò:ja:dǐ:tā|They and I recently drank something|oo1jaa2dii23ta2
+1669|58|18|Ꭳ¹ᏍᏗ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᎣᏍᏗᎭᏗᏔ|ò:sda:dǐ:tā|He and I recently drank something|oo1sdaa2dii23ta2
+1670|58|18|Ꭴ¹-, Ꭴ¹Ꮹ͓-|ɂ¹Ꮯ²³Ꮠ̣³Ꮧ||ꭴꮹᏟᏐᏗ|ù:wà:hlǐ:sóhdi|For him to gather something|uu1waa1hlii23soh3di
+1671|59|1||Ꮧ̣²Ꮳ²Ꮅ̣²Ꭲ||ᏗᏣᎵᎢ|dija:liɂi|You all, your friends|di2jaa2li2-i
+1672|59|2|Ꭴ¹Ꮒ²-|Ꮤ̣²Ꮥ²Ꭹ³Ꭰ||ᏚᏂᏔᏕᎩᎠ|dù:ni:tade:gí:ɂa|They are thirsty|duu1nii2ta2dee2gii3-a
+1673|59|2|Ꮳ̣²-|Ꮤ̣²Ꮥ²³Ꭺ³²Ꮧ||ᏣᏔᏕᎪᏗ|tstadě:gô:di|For you (1) to be thirsty|tsta2dee23goo32di
+1674|59|5|Ꭲ¹Ꮵ²-|Ᏺ¹Ꮟ²³Ꮜ||ᏗᏥᏲᏏᏌ|dì:ji:yò:sǐ:sa|Let you all be hungry|dii1jii2yoo1sii23sa
+1675|59|14|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᎠᏊᏗᏔᎲᎢ|à:gwù:di:tahv̌:ɂi|I drank something a while ago|aa1gwuu1dii2ta2hvv23-i
+1676|59|15|Ꭳ¹Ꭹ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᎣᎩᏍᏗᎩᏍᏗ|ò:gi:sdǐ:gî:sdi|For them and me to eat something rod shaped|oo1gii2sdii23gii32sdi
+1677|59|16|Ꭳ¹Ꭹ̣²Ꮒ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᎣᎩᏂᏍᏗᎩᏍᏗ|ò:gini:sdǐ:gî:sdi|For him and me to eat something rod shaped|oo1gi2nii2sdii23gii32sdi
+1678|59|19|ᏍᏗ²-|Ꮎ̣³Ꭳ³Ꭲ||ᏍᏗᎾᎣᎢ|sdi:náó:ɂi|You both usually have something flexible|sdii2na3oo3-i
+1679|59|69|Ꭲ¹Ꭹ²-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎢᎩᎪᏩᏛᏗ|ì:gi:gowhtv́hdi|For him to see all of us; For all of us to see it|ii1gii2gowh2tvh3di
+1680|60|1||Ꮧ̣¹Ꮖ²Ꮅ̣²Ꭲ||ᏗᏆᎵᎢ|dìgwa:liɂi|My friends|di1gwaa2li2-i
+1681|60|3|Ꭴ¹Ꮒ²-|Ᏺ¹Ꮟ²³Ꮠ̣³Ꮧ||ᏧᏂᏲᏏᏐᏗ|jù:ni:yò:sǐ:sóhdi|For them to be hungry|juu1nii2yoo1sii23soh3di
+1682|60|7|Ꭳ¹Ꮵ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ²||ᏙᏥᏔᏕᎬᎦ|dò:ji:tade:gv̀:gā|They and I were recently thirsty|doo1jii2ta2dee2gvv1ga2
+1683|60|8|Ꭳ¹ᏍᏗ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ²||ᏙᏍᏗᏔᏕᎬᎦ|dò:sdi:tade:gv̀:gā|He and I were recently thirsty|doo1sdii2ta2dee2gvv1ga2
+1684|61|1||Ꮧ̣¹Ꮳ²Ꮅ̣²Ꭲ||ᏗᏣᎵᎢ|dijaliɂi|You one, your friends|di2ja2li2-i
+1685|61|3|Ꭴ¹Ꮒ²-|Ꮤ̣²Ꮥ²³Ꭺ³²Ꮧ||ᏧᏂᏔᏕᎪᏗ|jù:ni:tadě:gô:di|For them to be thirsty|juu1nii2ta2dee23goo32di
+1686|61|6|Ꭹ̣²Ꮒ²-|Ᏺ¹Ꮟ²³Ꮜ||ᏗᎩᏂᏲᏏᏌ|digini:yò:sǐ:sa|Let you (1) and me be hungry|di2gi2nii2yoo1sii23sa
+1687|61|15|Ꭳ¹Ꭹ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᎣᎫᏗᏔᏍᏗ|ò:ga:di:tasdi|For them and me to drink something|oo1gaa2dii2ta2sdi
+1688|61|15|Ꭴ¹-, Ꭴ¹Ꮹ͓-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᎤᏭᏗᏔᎲᎢ|ù:wù:di:tahv̌:ɂi|He drank something a while ago|uu1wuu1dii2ta2hvv23-i
+1689|61|16|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᎣᎩᏄᏗᏔᏍᏗ|ò:gina:di:tasdi|For him and me to drink something|oo1gi2naa2dii2ta2sdi
+1690|61|17|Ꭲ¹Ꭹ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᎢᎩᏍᏗᎩᏍᏗ|ì:gi:sdǐ:gî:sdi|For all of us to eat something rod shaped|ii1gii2sdii23gii32sdi
+1691|62|1||Ꭳ¹Ꭹ̣²Ꮎ²Ꮅ̣²Ꭲ||ᎣᎩᎾᎵᎢ|ò:gina:liɂi|He and I, friends; He, my friend|oo1gi2naa2li2-i
+1692|62|16|Ꭳ¹Ꭹ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᎣᎫᏗᏔᎲᎢ|ò:gù:di:tahv̌:ɂi|They and I drank something a while ago|oo1guu1dii2ta2hvv23-i
+1693|62|17|Ꭳ¹Ꮵ²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏬᏥᎭᏗᏔ|wò:ja:dǐ:ta|Let them and me drink something|woo1jaa2dii23ta
+1694|62|17|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᎣᎩᏄᏗᏔᎲᎢ|ò:ginù:di:tahv̌:ɂi|He and I drank something a while ago|oo1gi2nuu1dii2ta2hvv23-i
+1695|62|18|Ꭳ¹ᏍᏗ²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏬᏍᏗᎭᏗᏔ|wò:sda:dǐ:ta|Let him and me drink something|woo1sdaa2dii23ta
+1696|63|1||Ꮧ̣²ᏍᏓ²Ꮅ̣²Ꭲ||ᏗᏍᏓᎵᎢ|disda:liɂi|You two, your friends|di2sdaa2li2-i
+1697|63|2|Ꮳ̣²-|Ꮤ̣²Ꮥ²Ꭶ³²Ꮕ²³Ꭲ||ᏣᏔᏕᎦᏅᎢ|tstade:gâ:nv̌:ɂi|You (1) were thirsty a while ago|tsta2dee2gaa32nvv23-i
+1698|63|6|Ꭴ¹Ꮒ²-|Ꭰ̣²Ꮕ͓Ꮦ³ᏍᏗ||ᏚᎾᏅᏖᏍᏗ|dù:nanhté:sdi|They will be knowing something; They will be knowing things|duu1na2nhtee3sdi
+1699|63|17|Ꭲ¹Ꭹ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᎢᎫᏗᏔᏍᏗ|ì:ga:di:tasdi|For all of us to drink something|ii1gaa2dii2ta2sdi
+1700|63|19|ᏍᏗ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏍᏗᏍᏗᎬᎢ|sdì:sdí:gv̌:ɂi|You both ate something rod shaped a while ago|sdii1sdii3gvv23-i
+1701|64|1||Ꮶ¹Ꭹ̣²Ꮎ²Ꮅ̣²Ꭲ||ᏦᎩᎾᎵᎢ|jò:gina:liɂi|He and I, our friends|joo1gi2naa2li2-i
+1702|64|18|Ꭲ¹Ꭹ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᎢᎫᏗᏔᎲᎢ|ì:gù:di:tahv̌:ɂi|All of us drank something a while ago|ii1guu1dii2ta2hvv23-i
+1703|64|26|Ꭳ¹Ꮵ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᎣᏣᎦᏙᏍᏙᏗ|ò:jagà:tǒ:sdóhdi|For them and me to look at him|oo1ja2gaa1too23sdoh3di
+1704|64|27|Ꭳ¹ᏍᏗ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏙᏗ*||ᎣᏍᏓᎦᏙᏍᏙᏗ|ò:sdagà:tǒ:sdóhdi|For him and me to look at him|oo1sda2gaa1too23sdoh3di
+1705|64|70|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|ᎪᏩ͓²Ꮫ³Ꮧ||ᎠᎩᎪᏩᏛᏗ|à:gigowhtv́hdi|For me to see it; For him to see me|aa1gi2gowh2tvh3di
+1706|65|1||Ꮧ̣²Ꭹ̣²Ꮎ²Ꮅ̣²Ꭲ||ᏗᎩᎾᎵᎢ|digina:liɂi|You one and I, our friends|di2gi2naa2li2-i
+1707|66|4|Ꭳ¹Ꭹ²-|Ꮤ̣²Ꮥ²Ꭹ³Ꭰ||ᏙᎩᏔᏕᎩᎠ|dò:gi:tade:gí:ɂa|They and I are thirsty|doo1gii2ta2dee2gii3-a
+1708|66|5|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꮤ̣²Ꮥ²Ꭹ³Ꭰ||ᏙᎩᏂᏔᏕᎩᎠ|dò:gini:tade:gí:ɂa|He and I are thirsty|doo1gi2nii2ta2dee2gii3-a
+1709|66|18|Ꭴ¹-, Ꭴ¹Ꮹ͓-|ɂ³Ꮯ²Ꮜ̣²Ꮕ²³Ꭲ||ꭴꮹᏟᏌᏅᎢ|ù:wá:hli:sahnv̌:ɂi|He gathered something a while ago|uu1waa3hlii2sa2hnvv23-i
+1710|67|18|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᎠᎩᏍᏗᎩᏍᏗ|à:ksdǐ:gî:sdi|For me to eat something rod shaped|aa1ksdii23gii32sdi
+1711|67|20|Ꭲ¹Ꮵ²-|Ꮎ̣³Ꭳ³Ꭲ||ᎢᏥᎾᎣᎢ|ì:ji:náó:ɂi|You all usually have something flexible|ii1jii2na3oo3-i
+1712|67|45|ᏍᏗ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᏍᏙᎵᏨᎢ|sdohljv̌:ɂi|You both understood it a while ago; He recognized you both a while ago|sdohl2jvv23-i
+1713|68|4|Ꭳ¹Ꭹ²-|Ꮤ̣²Ꮥ²³Ꭺ³²Ꮧ||ᏦᎩᏔᏕᎪᏗ|jò:gi:tadě:gô:di|For them and me to be thirsty|joo1gii2ta2dee23goo32di
+1714|68|5|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꮤ̣²Ꮥ²³Ꭺ³²Ꮧ||ᎠᎩᏔᏕᎪᏗ|à:ktadě:gô:di|For me to be thirsty|aa1kta2dee23goo32di
+1715|68|6|Ꭲ¹Ꭹ²-|Ꮤ̣²Ꮥ²Ꭹ³Ꭰ||ᏕᎩᏔᏕᎩᎠ|dé:gi:tade:gí:ɂa|All of us are thirsty|dee3gii2ta2dee2gii3-a
+1716|68|10|ᏍᏗ²-|Ᏺ¹Ꮟ²³Ꮜ²||ᏕᏍᏗᏲᏏᏌ|de:sdi:yò:sǐ:sā|You both were recently hungry|dee2sdii2yoo1sii23sa2
+1717|69|7|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꮤ̣²Ꮥ²Ꭹ³Ꭰ||ᎠᎩᏔᏕᎩᎠ|à:ktade:gí:ɂa|I am thirsty|aa1kta2dee2gii3-a
+1718|70|7|Ꭲ¹Ꭹ²-|Ꮤ̣²Ꮥ²³Ꭺ³²Ꮧ||ᏗᎩᏔᏕᎪᏗ|dì:gi:tadě:gô:di|For all of us to be thirsty|dii1gii2ta2dee23goo32di
+1719|70|8|Ꭹ̣²Ꮒ²-|Ꮤ̣²Ꮥ²Ꭹ³Ꭰ||ᏕᎩᏂᏔᏕᎩᎠ|de:gini:tade:gí:ɂa|You (1) and I are thirsty|dee2gi2nii2ta2dee2gii3-a
+1720|71|10|ᏍᏗ²-|ᏁᏗ||ᏗᏍᏗᏁᏗ|disdi:nehdi|For you both to have a liquid|di2sdii2neh2di
+1721|73|26|Ꭳ¹Ꮵ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎣᏣᎦᏙᏍᏔᏅᎢ|ò:jà:gà:tǒ:stánv̌:ɂi|They and I looked at him a while ago|oo1jaa1gaa1too23sta3nvv23-i
+1722|73|27|Ꭳ¹ᏍᏗ²-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏔ̣³Ꮕ²³Ꭲ*||ᎣᏍᏓᎦᏙᏍᏔᏅᎢ|ò:sdà:gà:tǒ:stánv̌:ɂi|He and I looked at him a while ago|oo1sdaa1gaa1too23sta3nvv23-i
+1723|75|5|Ꭳ¹Ꭹ̣²Ꮒ²-|Ꮤ̣²Ꮥ²Ꭶ³²Ꮕ²³Ꭲ||ᏙᎩᏂᏔᏕᎦᏅᎢ|dò:gini:tade:gâ:nv̌:ɂi|He and I were thirsty a while ago|doo1gi2nii2ta2dee2gaa32nvv23-i
+1724|75|46|Ꭲ¹Ꮵ²-|ᎣᎵ͓²Ꮸ²³Ꭲ||ᎢᏦᎵᏨᎢ|ì:johljv̌:ɂi|You all understood it a while ago; He recognized you all a while ago|ii1johl2jvv23-i
+1725|76|6|Ꭲ¹Ꭹ²-|Ꮤ̣²Ꮥ²Ꭶ³²Ꮕ²³Ꭲ||ᏕᎩᏔᏕᎦᏅᎢ|dé:gi:tade:gâ:nv̌:ɂi|All of us were thirsty a while ago|dee3gii2ta2dee2gaa32nvv23-i
+1726|76|7|Ꭳ¹Ꮵ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ||ᏫᏦᏥᏔᏕᎬᎦ|wijò:ji:tade:gv̀:ga|Let them and me be thirsty|wi2joo1jii2ta2dee2gvv1ga
+1727|76|8|Ꭳ¹ᏍᏗ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ||ᏫᏦᏍᏗᏔᏕᎬᎦ|wijò:sdi:tade:gv̀:ga|Let him and me be thirsty|wi2joo1sdii2ta2dee2gvv1ga
+1728|76|8|Ꭹ̣²Ꮒ²-|Ꮤ̣²Ꮥ²Ꭶ³²Ꮕ²³Ꭲ||ᏕᎩᏂᏔᏕᎦᏅᎢ|de:gini:tade:gâ:nv̌:ɂi|You (1) and I were thirsty a while ago|dee2gi2nii2ta2dee2gaa32nvv23-i
+1729|79|5|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꮤ̣²Ꮥ²Ꭹ³ᏍᎪ³Ꭲ||ᎠᎩᏔᏕᎩᏍᎪᎢ|à:ktade:gí:sgó:ɂi|I am usually thirsty|aa1kta2dee2gii3sgoo3-i
+1730|82|72|Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᎠᎩᎪᏩᏘᏍᎪᎢ|à:gigowhtǐ:sgóɂi|He is often seeing me|aa1gi2gowh2tii23sgo3-i
+1731|83|19|ᏍᏗ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᏍᏗᏍᏗᎩᏍᏗ|sdi:sdǐ:gî:sdi|For you both to eat something rod shaped|sdii2sdii23gii32sdi
+1732|87|19|ᏍᏗ²-|Ꭽ̣²Ꮧ²³Ꮤ||ᏍᏗᎭᏗᏔ|sda:dǐ:ta|Let you both drink something|sdaa2dii23ta
+1733|88|19|ᏍᏗ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᏍᏗᎭᏗᏔ|sda:dǐ:tā|You both recently drank something|sdaa2dii23ta2
+1734|89|18|ᏍᏗ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᏍᏚᏗᏔᏍᏗ|sda:di:tasdi|For you both to drink something|sdaa2dii2ta2sdi
+1735|90|19|ᏍᏗ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᏍᏚᏗᏔᎲᎢ|sdù:di:tahv̌:ɂi|You both drank something a while ago|sduu1dii2ta2hvv23-i
+1736|91|20|Ꭲ¹Ꮵ²-|ᏍᏗ²³Ꭹ³²ᏍᏗ||ᎢᏥᏍᏗᎩᏍᏗ|ì:ji:sdǐ:gî:sdi|For you all to eat something rod shaped|ii1jii2sdii23gii32sdi
+1737|92|10|ᏍᏗ²-|Ᏺ³Ꮟ̣²Ꭽ||ᏕᏍᏗᏲᏏᎭ|de:sdi:yó:siha|You both are hungry|dee2sdii2yoo3si2ha
+1738|95|10|ᏍᏗ²-|Ᏺ¹Ꮟ²³Ꮜ||ᏗᏍᏗᏲᏏᏌ|disdi:yò:sǐ:sa|Let you both be hungry|di2sdii2yoo1sii23sa
+1739|95|20|Ꭲ¹Ꮵ²-|Ꭽ̣²Ꮧ²³Ꮤ||ᎢᏥᎭᏗᏔ|ì:ja:dǐ:ta|Let you all drink something|ii1jaa2dii23ta
+1740|96|20|Ꭲ¹Ꮵ²-|Ꭽ̣²Ꮧ²³Ꮤ²||ᎢᏥᎭᏗᏔ|ì:ja:dǐ:tā|You all recently drank something|ii1jaa2dii23ta2
+1741|97|19|Ꭲ¹Ꮵ²-|Ꭴ²Ꮧ²Ꮤ̣²ᏍᏗ||ᎢᏧᏗᏔᏍᏗ|ì:ja:di:tasdi|For you all to drink something|ii1jaa2dii2ta2sdi
+1742|98|20|Ꭲ¹Ꮵ²-|Ꭴ¹Ꮧ²Ꮤ̣²Ꮂ²³Ꭲ||ᎢᏧᏗᏔᎲᎢ|ì:jù:di:tahv̌:ɂi|You all drank something a while ago|ii1juu1dii2ta2hvv23-i
+1743|111|9|ᏍᏗ²-|Ꮤ̣²Ꮥ²Ꭹ³Ꭰ||ᏕᏍᏗᏔᏕᎩᎠ|de:sdi:tade:gí:ɂa|You both are thirsty|dee2sdii2ta2dee2gii3-a
+1744|112|9|ᏍᏗ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ²||ᏕᏍᏗᏔᏕᎬᎦ|de:sdi:tade:gv̀:gā|You both were recently thirsty|dee2sdii2ta2dee2gvv1ga2
+1745|115|10|Ꭲ¹Ꮵ²-|Ꮤ̣²Ꮥ²Ꭹ³Ꭰ||ᏕᏥᏔᏕᎩᎠ|dé:tstade:gí:ɂa|You all are thirsty|dee3tsta2dee2gii3-a
+1746|116|10|Ꭲ¹Ꮵ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ²||ᏕᏥᏔᏕᎬᎦ|dé:tstade:gv̀:gā|You all were recently thirsty|dee3tsta2dee2gvv1ga2
+1747|117|9|Ꭲ¹Ꮵ²-|Ꮤ̣²Ꮥ²³Ꭺ³²Ꮧ||ᏗᏥᏔᏕᎪᏗ|dì:tstadě:gô:di|For you all to be thirsty|dii1tsta2dee23goo32di
+1748|118|9|Ꭲ¹Ꮵ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ||ᏗᏥᏔᏕᎬᎦ|dì:tstade:gv̀:ga|Let you all be thirsty|dii1tsta2dee2gvv1ga
+1749|118|9|ᏍᏗ²-|Ꮤ̣²Ꮥ²Ꭶ³²Ꮕ²³Ꭲ||ᏕᏍᏗᏔᏕᎦᏅᎢ|de:sdi:tade:gâ:nv̌:ɂi|You both were thirsty a while ago|dee2sdii2ta2dee2gaa32nvv23-i
+1750|121|10|ᏍᏗ²-|Ꮤ̣²Ꮥ²Ꭼ¹Ꭶ||ᏗᏍᏗᏔᏕᎬᎦ|disdi:tade:gv̀:ga|Let you both be thirsty|di2sdii2ta2dee2gvv1ga
+1751|125|9|ᏍᏗ²-|Ꮤ̣²Ꮥ²Ꭹ³ᏍᎪ³Ꭲ||ᏕᏍᏗᏔᏕᎩᏍᎪᎢ|de:sdi:tade:gí:sgó:ɂi|You both are usually thirsty|dee2sdii2ta2dee2gii3sgoo3-i

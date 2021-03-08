@@ -35,7 +35,7 @@ for x in "$z"/animals-*; do
 	rm -r "$x"
 done
 
-v=("04-chr" "cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "01-chr")
+v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "04-chr" "01-chr" "10-chr")
 #v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3")
 vsize="${#v[@]}"
 
@@ -66,7 +66,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx.py || python wavernnx-cpu.py
+	#python wavernnx.py || 
+	python wavernnx-cpu.py
 	
 	ix=0
 	mp3s=($(cut -f 3 "$selected" | sed 's/ /_/g'))

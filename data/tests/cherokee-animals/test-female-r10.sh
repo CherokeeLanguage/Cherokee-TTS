@@ -27,7 +27,7 @@ for x in "$z"/animals-*; do
 	rm -r "$x"
 done
 
-v=("14-de" "51-de" "02-fr" "04-fr" "14-fr" "18-fr" "19-fr" "22-fr" "03-ru")
+v=("14-de" "51-de" "02-fr" "04-fr" "14-fr" "18-fr" "19-fr" "22-fr" "03-ru" "cno-spk_0" "cno-spk_2")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"

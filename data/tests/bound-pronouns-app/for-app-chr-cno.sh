@@ -22,6 +22,9 @@ conda activate Cherokee-TTS
 cp="$(ls -1tr checkpoints/|tail -n 1)"
 cp="$(basename "$cp")"
 
+#cp="cherokee5c_loss-185-0.118"
+#cp="cherokee5b_loss-300-0.119"
+
 printf "Using checkpoint: $cp\n"
 
 tmp="$z/tmp.txt"
@@ -34,11 +37,11 @@ vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
-source_text="$z/cherokee-tts.txt"
+source_text="$z/review-sheet.txt"
 text="$z/tmp-cherokee-tts.txt"
 wg="bound-pronouns-app"
 
-cp "$source_text" "$text"
+tail -n +2 "$source_text" > "$text"
 
 #head -n 3 "$source_text" > "$text"
 
@@ -47,7 +50,7 @@ for voice in "${v[@]}"; do
 	syn=""
 	cp /dev/null "$tmp"
 	ix=0
-	cat "$text" | cut -f 2 | uconv -x any-nfd | while read sentence; do
+	cat "$text" | cut -f 8 -d '|'| uconv -x any-nfd | while read sentence; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${sentence}." "$voice" >> "$tmp"
 	done
@@ -67,21 +70,21 @@ for voice in "${v[@]}"; do
 	cp -p "$text" gl-"$wg"-"$voice"
 
 	# python wavernnx.py || 
-	# python wavernnx-cpu.py
+	python wavernnx-cpu.py
 	
 	ix=0
-	cat "$text" | cut -f 1-4 | while read phrase; do
+	cat "$text" | cut -f 7,8,9 -d '|' | while read phrase; do
 		ix=$(($ix+1))
 		iy=$(printf "%02d" $ix)
 		
-		#wav="$wg"-"$voice/wg-$ix.wav"
-		#mv "wg-$ix.wav" "$wav"
-		#mp3="$wg"-"$voice/$wg-$voice-$iy".mp3
-		#txt="$wg"-"$voice/$wg-$voice-$iy".txt
-		#echo "$phrase" > "$txt"
-		#normalize-audio -q "$wav"
-		#ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
-		#rm "$wav"
+		wav="$wg"-"$voice/wg-$ix.wav"
+		mv "wg-$ix.wav" "$wav"
+		mp3="$wg"-"$voice/$wg-$voice-$iy".mp3
+		txt="$wg"-"$voice/$wg-$voice-$iy".txt
+		echo "$phrase" > "$txt"
+		normalize-audio -q "$wav"
+		ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
+		rm "$wav"
 
 		wav="$ix.wav"
 		mp3=gl-"$wg"-"$voice/$wg-$voice-$iy".mp3
@@ -99,14 +102,15 @@ for voice in "${v[@]}"; do
 	done
 
 	ix=0
-	cat "$text" | cut -f 5 | while read filename; do
+	cat "$text" | cut -f 10 -d '|' | while read filename; do
 		ix=$(($ix+1))
 		iy=$(printf "%02d" $ix)
-		#mp3="$wg"-"$voice/$wg-$voice-$iy".mp3
-		#newMp3="$wg"-"$voice/$filename".mp3
-		#mv "$mp3" "$newMp3"
-		#txt="$wg"-"$voice/$wg-$voice-$iy".txt
-		#rm "$txt"
+		
+		mp3="$wg"-"$voice/$wg-$voice-$iy".mp3
+		newMp3="$wg"-"$voice/$filename".mp3
+		mv "$mp3" "$newMp3"
+		txt="$wg"-"$voice/$wg-$voice-$iy".txt
+		rm "$txt"
 
 		mp3=gl-"$wg"-"$voice/$wg-$voice-$iy".mp3
 		newMp3=gl-"$wg"-"$voice/$filename".mp3
