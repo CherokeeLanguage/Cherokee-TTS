@@ -35,6 +35,9 @@ if __name__ == "__main__":
 					#"../cherokee-audio/see-say-write",
 					"../cherokee-audio/thirteen-moons-disk1",
 					"../cherokee-audio/thirteen-moons-disk2",
+					"../cherokee-audio/thirteen-moons-disk3",
+					"../cherokee-audio/thirteen-moons-disk4",
+					"../cherokee-audio/thirteen-moons-disk5",
 					"../cherokee-audio/cno",
 					"../cherokee-audio/tacotron-2020-12-28",
 					]:
