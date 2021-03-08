@@ -1,6 +1,84 @@
 #!/usr/bin/env python3
+from builtins import str, dict, list
+
+def char_range(c1, c2):
+    for c in range(ord(c1), ord(c2)+1):
+        yield chr(c)
+
+syl2latin_dict:dict = dict()
+syl2latin_vowels:list = ["a"+"\u030a", "e"+"\u030a", "i"+"\u030a", "o"+"\u030a", "u"+"\u030a", "v"+"\u030a"]
+
+for syl, latin in zip(char_range("Ꭰ", "Ꭵ"), syl2latin_vowels):
+    syl2latin_dict[syl]=latin
+
+syl2latin_dict["Ꭶ"]="ga"+"\u030a"
+syl2latin_dict["Ꭷ"]="ka"+"\u030a"
+
+for syl, latin in zip(char_range("Ꭸ", "Ꭼ"), syl2latin_vowels[1:]):
+    syl2latin_dict[syl]="gk"+latin
+    
+for syl, latin in zip(char_range("Ꭽ", "Ꮂ"), syl2latin_vowels):
+    syl2latin_dict[syl]="h"+latin
+    
+for syl, latin in zip(char_range("Ꮃ", "Ꮈ"), syl2latin_vowels):
+    syl2latin_dict[syl]="l"+latin
+    
+for syl, latin in zip(char_range("Ꮃ", "Ꮍ"), syl2latin_vowels[:-1]):
+    syl2latin_dict[syl]="m"+latin
+    
+syl2latin_dict["Ꮎ"]="na"+"\u030a"
+syl2latin_dict["Ꮐ"]="na"+"\u030a"+"h"
+syl2latin_dict["Ꮏ"]="hna"+"\u030a"
+
+for syl, latin in zip(char_range("Ꮑ", "Ꮕ"), syl2latin_vowels[1:]):
+    syl2latin_dict[syl]="n"+latin
+    
+for syl, latin in zip(char_range("Ꮖ", "Ꮛ"), syl2latin_vowels):
+    syl2latin_dict[syl]="gkw"+latin
+    
+syl2latin_dict["Ꮜ"]="sa"+"\u030a"
+syl2latin_dict["Ꮝ"]="s"
+
+for syl, latin in zip(char_range("Ꮞ", "Ꮢ"), syl2latin_vowels[1:]):
+    syl2latin_dict[syl]="s"+latin
+
+syl2latin_dict["Ꮣ"]="da"+"\u030a"
+syl2latin_dict["Ꮤ"]="ta"+"\u030a"
+syl2latin_dict["Ꮥ"]="de"+"\u030a"
+syl2latin_dict["Ꮦ"]="te"+"\u030a"
+syl2latin_dict["Ꮧ"]="di"+"\u030a"
+syl2latin_dict["Ꮨ"]="ti"+"\u030a"
+syl2latin_dict["Ꮩ"]="dto"+"\u030a"
+syl2latin_dict["Ꮪ"]="dtu"+"\u030a"
+syl2latin_dict["Ꮫ"]="dtv"+"\u030a"
+
+syl2latin_dict["Ꮬ"]="dla"+"\u030a"
+syl2latin_dict["Ꮭ"]="tla"+"\u030a"
+
+for syl, latin in zip(char_range("Ꮮ", "Ꮲ"), syl2latin_vowels[1:]):
+    syl2latin_dict[syl]="dtl"+latin
+    
+for syl, latin in zip(char_range("Ꮳ", "Ꮸ"), syl2latin_vowels):
+    syl2latin_dict[syl]="jch"+latin
+    
+for syl, latin in zip(char_range("Ꮹ", "Ꮾ"), syl2latin_vowels):
+    syl2latin_dict[syl]="w"+latin
+    
+for syl, latin in zip(char_range("Ꮿ", "Ᏼ"), syl2latin_vowels):
+    syl2latin_dict[syl]="y"+latin
+    
+def syl2latin(text:str)->str:
+    latin=""
+    for c in text:
+        if c in syl2latin_dict:
+            latin += syl2latin_dict[c]
+        else:
+            latin += c
+    return latin
 
 def test():
+    print(syl2latin("ᎣᏏᏲ, ᏙᎯᏧ? ᏙᎯᏊ."))
+    
     cedTest = [ "U²sgal²sdi ạ²dv¹ne²³li⁴sgi.", 
                 "Ụ²wo²³dị³ge⁴ɂi gi²hli a¹ke²³he³²ga na ạ²chu⁴ja.",
                 "Ạ²ni²³tạɂ³li ạ²ni²sgạ²ya a¹ni²no²hạ²li²³do³²he, ạ²hwi du¹ni²hyọ²he.", 

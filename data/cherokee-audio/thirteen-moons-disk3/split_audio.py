@@ -21,7 +21,10 @@ def detect_sound(sound:AudioSegment, silence_threshold:float=-55.0, chunk_size:i
         if sound_start < 0 and nextChunk.dBFS <= silence_threshold:
             continue
         if sound_start < 0:
-            sound_start=segment_mid
+            if position == 0:
+                sound_start = 0
+            else:
+                sound_start=segment_mid
             continue
         if sound_start >= 0 and nextChunk.dBFS <= silence_threshold:
             segments.append((sound_start, segment_mid))
@@ -75,9 +78,9 @@ if __name__ == "__main__":
     from builtins import list
     from pydub.effects import normalize
     
-    silence_threshold:float=-55.0
-    silence_min_duration:int=150 #ms
-    max_target_duration:int=9000 #ms
+    silence_threshold:float=-50.0
+    silence_min_duration:int=125 #ms
+    max_target_duration:int=10000 #ms
     
     workdir:str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":

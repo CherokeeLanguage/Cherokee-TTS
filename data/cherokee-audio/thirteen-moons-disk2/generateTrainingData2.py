@@ -36,7 +36,7 @@ if __name__ == "__main__":
                 mp3: str=fields[1].strip()
                 text: str=ud.normalize("NFD", fields[2].strip())
                 dedupeKey=speaker+"|"+mp3+"|"+text
-                if text=="" or "XXX" in text:
+                if text.strip() == "" or "x" in text.lower():
                     continue
                 entries[dedupeKey]=(speaker,mp3,text)
     

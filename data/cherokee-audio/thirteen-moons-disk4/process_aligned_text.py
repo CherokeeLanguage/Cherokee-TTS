@@ -1,19 +1,10 @@
 #!/usr/bin/env python3
 
-def clear()->None:
-    from os import system, name
-    if name == "nt":
-        system("cls")
-    else:
-        system("clear")
-
 if __name__ == "__main__":
 
     import os
     import sys
     import unicodedata as ud
-
-    clear()
 
     aligned_text: str = "text-copyrighted/aligned-text.txt"
     output_text: str = "thirteen-moons-selected.txt"

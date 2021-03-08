@@ -12,8 +12,11 @@ from pydub import AudioSegment
 import pydub.effects as effects
 from split_audio import detect_sound
 from builtins import list
+from chrutils import syl2latin
 
 if __name__ == "__main__":
+    
+    do_transliterate:bool = False
     
     if (sys.argv[0].strip()!=""):
         os.chdir(os.path.dirname(sys.argv[0]))
@@ -35,10 +38,14 @@ if __name__ == "__main__":
                 speaker: str=fields[0].strip()
                 mp3: str=fields[1].strip()
                 text: str=ud.normalize("NFD", fields[2].strip())
-                dedupeKey=speaker+"|"+text
-                if text=="" or "XXX" in text:
+                if text.strip() == "" or "x" in text.lower():
                     continue
+                dedupeKey=speaker+"|"+mp3+"|"+text
                 entries[dedupeKey]=(speaker,mp3,text)
+                if do_transliterate:
+                    text=syl2latin(text)
+                    dedupeKey=speaker+"|"+mp3+"|"+text
+                    entries[dedupeKey]=(speaker,mp3,text)
     
     print(f"Loaded {len(entries):,} entries with audio and text.")
     
@@ -101,20 +108,15 @@ if __name__ == "__main__":
         rows.append(f"{id:06d}|{vid}|chr|{wav}|||{text}|")
         id+=1
     
-    totalLength=int(totalLength)
     minutes=int(totalLength/60)
-    seconds=int(totalLength%60)
+    seconds=int(totalLength%60+0.5)
     print(f"Total duration: {minutes:,}:{seconds:02}")
     
-    shortestLength=int(shortestLength)
-    minutes=int(shortestLength/60)
-    seconds=int(shortestLength%60)
-    print(f"Shortest duration: {minutes:,}:{seconds:02}")
+    seconds=shortestLength
+    print(f"Shortest duration: {seconds:05.2f}")
     
-    longestLength=int(longestLength)
-    minutes=int(longestLength/60)
-    seconds=int(longestLength%60)
-    print(f"Longest duration: {minutes:,}:{seconds:02}")
+    seconds=longestLength
+    print(f"Longest duration: {seconds:05.2f}")
     
     print("Creating training files")
     #save all copy before shuffling
