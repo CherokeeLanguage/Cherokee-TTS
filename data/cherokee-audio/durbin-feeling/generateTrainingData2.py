@@ -19,7 +19,7 @@ if __name__ == "__main__":
         os.chdir(os.path.dirname(sys.argv[0]))
     
     max_duration:float=14.0
-    MASTER_TEXTS:list=["aeneas.txt"]
+    MASTER_TEXTS:list=["ma-durbin-feeling-aligned.txt"]
     
     #cleanup any previous runs
     for dir in ["linear_spectrograms", "spectrograms", "wav"]:
@@ -36,7 +36,7 @@ if __name__ == "__main__":
                 mp3: str=fields[1].strip()
                 text: str=ud.normalize("NFD", fields[2].strip())
                 dedupeKey=speaker+"|"+text+"|"+mp3
-                if text=="" or "XXX" in text:
+                if text=="" or "x" in text.lower():
                     continue
                 entries[dedupeKey]=(speaker,mp3,text)
     
