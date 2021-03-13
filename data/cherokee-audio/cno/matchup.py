@@ -263,4 +263,13 @@ if __name__ == "__main__":
                 
                 mp3:string = record["notes"].replace("https://data.cherokee.org/Cherokee/LexiconSoundFiles/", "")
                 print(f"{pronounce}|{mp3}|", file=file)
+                
+    with open(cno, mode='r', encoding='utf-8-sig') as csvfile:
+        with open("cno-web-syl.txt", "w") as file:
+            pkey = "syllabaryb"
+            records = csv.DictReader(csvfile)
+            for record in records:
+                text = record[pkey].strip().lower()
+                mp3:string = record["notes"].replace("https://data.cherokee.org/Cherokee/LexiconSoundFiles/", "")
+                print(f"{text}|{mp3}|", file=file)
             

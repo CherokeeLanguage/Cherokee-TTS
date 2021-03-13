@@ -35,8 +35,8 @@ if __name__ == "__main__":
                 speaker: str=fields[0].strip()
                 mp3: str=fields[1].strip()
                 text: str=ud.normalize("NFD", fields[2].strip())
-                dedupeKey=speaker+"|"+text
-                if text=="" or "XXX" in text:
+                dedupeKey=speaker+"|"+text+"|"+mp3
+                if text=="" or "x" in text.lower():
                     continue
                 entries[dedupeKey]=(speaker,mp3,text)
     
@@ -72,9 +72,10 @@ if __name__ == "__main__":
     totalLength:float=0.0
     print("Creating wavs")
     rows:list=[]
+    already:dict={}
     for speaker, mp3, text in entries.values():
         wav:str="wav/"+os.path.splitext(os.path.basename(mp3))[0]+".wav"
-        text:str=ud.normalize('NFD', text)
+        text:str=ud.normalize('NFD', text)        
         mp3_segment:AudioSegment=AudioSegment.from_file(mp3)
         segments:list = detect_sound(mp3_segment)
         if len(segments) > 1:
@@ -87,7 +88,9 @@ if __name__ == "__main__":
         audio = effects.normalize(audio)
         audio = audio.set_channels(1)
         audio = audio.set_frame_rate(22050)
-        audio.export(wav, format="wav")
+        if not wav in already:
+            audio.export(wav, format="wav")
+            already[wav]=True
         totalLength+=audio.duration_seconds
         if shortestLength < 0 or shortestLength > audio.duration_seconds:
             shortestLength = audio.duration_seconds
