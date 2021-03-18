@@ -269,7 +269,7 @@ if __name__ == "__main__":
             pkey = "syllabaryb"
             records = csv.DictReader(csvfile)
             for record in records:
-                text = record[pkey].strip().lower()
+                text = record[pkey].strip().upper()
                 mp3:string = record["notes"].replace("https://data.cherokee.org/Cherokee/LexiconSoundFiles/", "")
                 print(f"{text}|{mp3}|", file=file)
             

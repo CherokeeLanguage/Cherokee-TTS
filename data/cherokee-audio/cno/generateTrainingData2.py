@@ -14,6 +14,13 @@ from split_audio import detect_sound
 from builtins import list
 
 if __name__ == "__main__":
+    
+    skip_syllabary:bool = True
+    only_syllabary:bool = False
+    
+    if skip_syllabary and only_syllabary:
+        print("Can't skip Syllabary while outputting only Syllabary!")
+        sys.exit(-1)
 
     if (sys.argv[0].strip()!=""):
         os.chdir(os.path.dirname(sys.argv[0]))
@@ -37,6 +44,11 @@ if __name__ == "__main__":
                 text: str=ud.normalize("NFD", fields[2].strip())
                 dedupeKey=speaker+"|"+text+"|"+mp3
                 if text=="" or "x" in text.lower():
+                    continue
+                has_syllabary:bool = re.search("[Ꭰ-Ᏼ]", text)!=None
+                if skip_syllabary and has_syllabary:
+                    continue
+                if only_syllabary and not has_syllabary:
                     continue
                 entries[dedupeKey]=(speaker,mp3,text)
     
