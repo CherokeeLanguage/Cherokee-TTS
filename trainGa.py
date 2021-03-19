@@ -194,6 +194,8 @@ class DataParallelPassthrough(torch.nn.DataParallel):
 if __name__ == '__main__':
     import argparse
     import os
+    
+    torch.set_num_threads(12)
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--base_directory", type=str, default=".", help="Base directory of the project.")
@@ -204,7 +206,7 @@ if __name__ == '__main__':
     parser.add_argument('--hyper_parameters', type=str, default=None, help="Name of the hyperparameters file.")
     parser.add_argument('--logging_start', type=int, default=1, help="First epoch to be logged")
     parser.add_argument('--max_gpus', type=int, default=2, help="Maximal number of GPUs of the local machine to use.")
-    parser.add_argument('--loader_workers', type=int, default=2, help="Number of subprocesses to use for data loading.")
+    parser.add_argument('--loader_workers', type=int, default=0, help="Number of subprocesses to use for data loading.")
     parser.add_argument("--accumulation_size", type=int, default=1, help="How many batches to perform gradient accumulation over.")
     parser.add_argument('--fine_tuning', action='store_true', help="Fine tune checkpoint to possibly unseen language.")
     parser.add_argument('--log_high_loss', action='store_true', help="Log batch details for high loss values.")
@@ -249,15 +251,15 @@ if __name__ == '__main__':
     if hp.multi_language and hp.balanced_sampling and hp.perfect_sampling:
         dp_devices = args.max_gpus if hp.parallelization and torch.cuda.device_count() > 1 else 1 
         train_sampler = PerfectBatchSampler(dataset.train, hp.languages, hp.batch_size, data_parallel_devices=dp_devices, shuffle=True, drop_last=True)
-        train_data = DataLoader(dataset.train, batch_sampler=train_sampler, collate_fn=TextToSpeechCollate(False), num_workers=args.loader_workers)
+        train_data = DataLoader(dataset.train, batch_sampler=train_sampler, pin_memory=False, collate_fn=TextToSpeechCollate(False), num_workers=args.loader_workers)
         eval_sampler = PerfectBatchSampler(dataset.dev, hp.languages, hp.batch_size, data_parallel_devices=dp_devices, shuffle=False)
-        eval_data = DataLoader(dataset.dev, batch_sampler=eval_sampler, collate_fn=TextToSpeechCollate(False), num_workers=args.loader_workers)
+        eval_data = DataLoader(dataset.dev, batch_sampler=eval_sampler, pin_memory=False, collate_fn=TextToSpeechCollate(False), num_workers=args.loader_workers)
     else:
         sampler = RandomImbalancedSampler(dataset.train) if hp.multi_language and hp.balanced_sampling else None
         train_data = DataLoader(dataset.train, batch_size=hp.batch_size, drop_last=True, shuffle=(not hp.multi_language or not hp.balanced_sampling),
-                                sampler=sampler, collate_fn=TextToSpeechCollate(True), num_workers=args.loader_workers)
+                                sampler=sampler, pin_memory=False, collate_fn=TextToSpeechCollate(True), num_workers=args.loader_workers)
         eval_data = DataLoader(dataset.dev, batch_size=hp.batch_size, drop_last=False, shuffle=False,
-                               collate_fn=TextToSpeechCollate(True), num_workers=args.loader_workers)
+                               pin_memory=False, collate_fn=TextToSpeechCollate(True), num_workers=args.loader_workers)
 
     # find out number of unique speakers and languages
     hp.speaker_number = 0 if not hp.multi_speaker else dataset.train.get_num_speakers()
