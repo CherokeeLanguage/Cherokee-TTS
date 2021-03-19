@@ -5,6 +5,8 @@ import soundfile as sf
 import torch
 import librosa
 
+torch.set_num_threads(12)
+
 HOME = os.path.expanduser("~")
 GIT_FOLDER = HOME + "/git"
 CHECKPOINTS_FOLDER = GIT_FOLDER + "/_checkpoints"
