@@ -119,8 +119,8 @@ def chrn2mco(text:str)->str:
     text = re.sub("(?i)([ɂ])([¹²³⁴])", "\u0323\\2\\1", text)
     
     text = re.sub("(?i)([aeiouv\u0323]+)([^aeiouv\u0323])([¹²³⁴]+)", "\\1\\3\\2", text)
-    text = re.sub("(?i)([aeiouv]\u0323)([^ ¹²³⁴])", "\\1"+"²"+"\\2", text)
-    text = re.sub("(?i)([aeiouv])([^ ¹²³⁴\u0323])", "\\1"+"²"+"\\2", text)
+    text = re.sub("(?i)([aeiouv]\u0323)([^ ¹²³⁴,])(.)", "\\1"+"²"+"\\2\\3", text)
+    text = re.sub("(?i)([aeiouv])([^ ¹²³⁴\u0323,])(.)", "\\1"+"²"+"\\2\\3", text)
     return ced2mco(text)
 
 if __name__ == "__main__":
