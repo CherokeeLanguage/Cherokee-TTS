@@ -6,15 +6,23 @@ import random
 import json
 from shutil import rmtree
 import pathlib
+import re
 
 if __name__ == "__main__":
 	
 	langSkip:list=["zh"]
 	
+	with_syllabary:bool = False
+	only_syllabary:bool = False
+	
 	workdir:str = os.path.dirname(sys.argv[0])
 	if workdir.strip() != "":
 		os.chdir(workdir)
 	workdir = os.getcwd()
+	
+	if not with_syllabary and only_syllabary:
+		print("Can't do without Syllabary while outputting only Syllabary!")
+		sys.exit(-1)
 	
 	for file in ["train.txt", "val.txt", "all.txt"]:
 		if os.path.exists(file):
@@ -26,18 +34,18 @@ if __name__ == "__main__":
 	speaker_counts:dict=dict()
 		
 	for parent in [ "../comvoi_clean",
-		 			#"../cherokee-audio/beginning-cherokee",
-					#"../cherokee-audio/cherokee-language-coach-1",
-					#"../cherokee-audio/cherokee-language-coach-2",
+		 			"../cherokee-audio/beginning-cherokee",
+					"../cherokee-audio/cherokee-language-coach-1",
+					"../cherokee-audio/cherokee-language-coach-2",
 					"../cherokee-audio/durbin-feeling",
 					"../cherokee-audio/michael-conrad",
-					#"../cherokee-audio/sam-hider",
-					#"../cherokee-audio/see-say-write",
-					"../cherokee-audio/thirteen-moons-disk1",
-					"../cherokee-audio/thirteen-moons-disk2",
-					"../cherokee-audio/thirteen-moons-disk3",
-					"../cherokee-audio/thirteen-moons-disk4",
-					"../cherokee-audio/thirteen-moons-disk5",
+					"../cherokee-audio/sam-hider",
+					"../cherokee-audio/see-say-write",
+					#"../cherokee-audio/thirteen-moons-disk1",
+					#"../cherokee-audio/thirteen-moons-disk2",
+					#"../cherokee-audio/thirteen-moons-disk3",
+					#"../cherokee-audio/thirteen-moons-disk4",
+					#"../cherokee-audio/thirteen-moons-disk5",
 					"../cherokee-audio/cno",
 					"../cherokee-audio/tacotron-2020-12-28",
 					]:
@@ -49,6 +57,10 @@ if __name__ == "__main__":
 					if fields[2] in langSkip:
 						continue
 					line=ud.normalize("NFD",line.strip())
+					if not with_syllabary and re.search("(?i)[Ꭰ-Ᏼ]", line):
+						continue
+					if only_syllabary and not re.search("(?i)[Ꭰ-Ᏼ]", line):
+						continue
 					line=line.replace("|wav/", "|"+parent+"/wav/")
 					lines.append(line)
 					if txt == "all.txt":

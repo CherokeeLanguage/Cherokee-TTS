@@ -12,11 +12,8 @@ from pydub import AudioSegment
 import pydub.effects as effects
 from split_audio import detect_sound
 from builtins import list
-from chrutils import syl2latin
 
 if __name__ == "__main__":
-    
-    transliterate:bool=true
     
     if (sys.argv[0].strip()!=""):
         os.chdir(os.path.dirname(sys.argv[0]))
@@ -38,11 +35,10 @@ if __name__ == "__main__":
                 speaker: str=fields[0].strip()
                 mp3: str=fields[1].strip()
                 text: str=ud.normalize("NFD", fields[2].strip())
+                dedupeKey=speaker+"|"+mp3+"|"+text
                 if text.strip() == "" or "x" in text.lower():
                     continue
-                dedupeKey=speaker+"|"+mp3+"|"+text
                 entries[dedupeKey]=(speaker,mp3,text)
-
     
     print(f"Loaded {len(entries):,} entries with audio and text.")
     

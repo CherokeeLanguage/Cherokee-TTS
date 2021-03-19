@@ -5,6 +5,9 @@ if __name__ == "__main__":
     import os
     import sys
     import unicodedata as ud
+    from chrutils import syl2latin
+    
+    do_transliterate:bool = False
 
     aligned_text: str = "text-copyrighted/aligned-text.txt"
     output_text: str = "thirteen-moons-selected.txt"
@@ -50,5 +53,9 @@ if __name__ == "__main__":
                 continue
             print(f"?|mp3/{mp3}|{line}", file=f)
             count += 1
+            if do_transliterate:
+                line=syl2latin(line)
+                print(f"?|mp3/{mp3}|{line}", file=f)
+                count += 1
 
     print(f"Output {count:,} {aligned_text} entries")
