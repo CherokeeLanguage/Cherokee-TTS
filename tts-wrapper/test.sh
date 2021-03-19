@@ -3,7 +3,7 @@
 set -e
 set -o pipefail
 
-CP="cherokee5c_loss-230-0.118"
+CP="cherokee5c_loss-110-0.104"
 
 TEXT="ᎼᏏ ᎢᎬᏱᏱ ᎤᏬᏪᎳᏅᎯ. ᎠᏯᏙᎸᎢ ᏌᏉ. ᏗᏓᎴᏂᏍᎬᎢ ᎤᏁᎳᏅᎯ ᏚᏬᏢᏁ ᎦᎸᎶᎢ ᎠᎴ ᎡᎶᎯ.";
 

@@ -5,6 +5,8 @@ import soundfile as sf
 import torch
 import librosa
 
+torch.set_num_threads(12)
+
 cwd:str = os.getcwd()
 
 bindir:str = os.getcwd()
@@ -44,5 +46,6 @@ model.load(CHECKPOINTS_FOLDER + "/" + wavernn_chpt)
 
 # batched = hp.voc_gen_batched, target=hp.voc_target, overlap=hp.voc_overlap
 
-waveform = generate(model, np.load(cwd+"/tmp.npy"), batched=True, target=11025, overlap=int(11025/4))
+waveform = generate(model, np.load(cwd+"/tmp.npy"), batched=True, target=hp.voc_target, overlap=hp.voc_overlap)
+    #target=11025, overlap=int(11025/4))
 sf.write(cwd+"/tmp.wav", waveform, hp.sample_rate)

@@ -5,8 +5,7 @@ set -o pipefail
 
 # "cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3"
 
-#CP="cherokee5b_loss-300-0.119"
-CP="cherokee5c_loss-230-0.118"
+CP="cherokee5c_loss-110-0.104"
 
 TEXT="na wě:sa à:nő:sda. nà:sgi ga:ji:ya:du:líha"
 TEXT="nà:sgi à:nő:sda gi:hli áhani gè:sv̌:gi"
