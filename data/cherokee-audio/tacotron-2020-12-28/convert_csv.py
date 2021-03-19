@@ -22,10 +22,13 @@ if __name__ == "__main__":
     
     source_csv:str="AudioQualityVotes.csv"
     dest_txt:str="AudioQualityVotes.txt"
+    bad_txt:str="AudioQualityVotes-bad.txt"
     
     source_data:dict=dict()
     dest_data:list=list()
-    
+    dest_bad_data: list = list()
+
+    bad_count: int = 0
     count:int=0
     with open(source_csv, newline='') as csvfile:
         rows = csv.DictReader(csvfile)
@@ -40,13 +43,8 @@ if __name__ == "__main__":
             
             voice:str=""
             
-            if ranking<minQuality:
-                continue
             if votes<minVotes:
                 continue
-            
-            count+=1
-            copy(file, dest_file)
             
             if "cno-spk_0" in file:
                 voice="cno-spk_0"
@@ -58,12 +56,37 @@ if __name__ == "__main__":
                 voice="cno-spk_3"
             else:
                 voice="?"
-            
-            line=voice+"|"+dest_file+"|"+txt
-            dest_data.append(line)
+
+            if ranking<minQuality:
+                bad_count += 1
+                dest_bad_data.append(txt)
+                continue
+            else:
+                count += 1
+                copy(file, dest_file)
+                line:str = voice+"|"+dest_file+"|"+txt
+                dest_data.append(line)
     
-    print(f"Total entries {count:,}.")
-            
+    print(f"Total good entries {count:,}.")
+    print(f"Total bad entries {bad_count:,}.")
+
+    random.Random(len(dest_data)).shuffle(dest_data)
     with open(dest_txt, "w") as file:
         for line in dest_data:
             print(line, file=file)
+
+    random.Random(len(dest_bad_data)).shuffle(dest_bad_data)
+    with open(bad_txt, "w") as file:
+        buffer:str=""
+        for line in dest_bad_data:
+            if not line[-1] in ";,.?!\"'":
+                line += "."
+            if len(buffer) > 0 and len(buffer) + len(line) + 1 > 80:
+                print(buffer, file=file)
+                buffer = line[0].upper()+line[1:]
+            else:
+                if buffer:
+                    buffer += " "
+                buffer += line[0].upper()+line[1:]
+        if buffer:
+            print(buffer, file=file)
