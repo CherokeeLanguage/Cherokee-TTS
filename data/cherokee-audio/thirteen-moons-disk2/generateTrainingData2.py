@@ -15,7 +15,7 @@ from builtins import list
 
 if __name__ == "__main__":
     
-    if (sys.argv[0].strip()!=""):
+    if (sys.argv[0].strip()!="" and os.path.dirname(sys.argv[0])!=""):
         os.chdir(os.path.dirname(sys.argv[0]))
     
     MASTER_TEXTS:list=["thirteen-moons-selected.txt"]
