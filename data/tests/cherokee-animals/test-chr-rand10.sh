@@ -35,7 +35,7 @@ for x in "$z"/animals-*; do
 	rm -r "$x"
 done
 
-v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "04-chr" "01-chr" "10-chr")
+v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "04-chr")
 #v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3")
 vsize="${#v[@]}"
 

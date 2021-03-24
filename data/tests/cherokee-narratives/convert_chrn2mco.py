@@ -11,11 +11,11 @@ if __name__ == "__main__":
         os.chdir(dname)
     
     text:list=list()
-    with open("the-good-samaritan-121.txt", "r") as file:
+    with open("11.txt", "r") as file:
         for line in file:
             text.append(ascii_chrn2mco(line))
             
-    with open("the-good-samaritan-121.mco.txt", "w") as file:
+    with open("11.mco.txt", "w") as file:
         for line in text:
             file.write(line)
 
