@@ -7,8 +7,13 @@ if __name__ == "__main__":
     import unicodedata as ud
     from chrutils import syl2latin
     
-    do_transliterate:bool = False
-
+    """
+        exclude_syllabary can only be True if do_transliterate is True!
+    """
+    
+    do_transliterate:bool = True
+    exclude_syllabary:bool = True
+    
     aligned_text: str = "text-copyrighted/aligned-text.txt"
     output_text: str = "thirteen-moons-selected.txt"
 
@@ -51,8 +56,9 @@ if __name__ == "__main__":
                     raise Exception(f"Alignment fail [{line_no}] mp3={mp3} marker={parts[1]} text={parts[0]}")
             if "x" in line.lower():
                 continue
-            print(f"?|mp3/{mp3}|{line}", file=f)
-            count += 1
+            if not exclude_syllabary:
+                print(f"?|mp3/{mp3}|{line}", file=f)
+                count += 1
             if do_transliterate:
                 line=syl2latin(line)
                 print(f"?|mp3/{mp3}|{line}", file=f)
