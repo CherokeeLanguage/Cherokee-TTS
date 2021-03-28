@@ -536,8 +536,8 @@ bs|mp3/Lesson-09-139.mp3|Ayő:hli.
 bs|mp3/Lesson-09-142.mp3|Di:ni:yő:hli.
 bs|mp3/Lesson-09-145.mp3|À:di.
 bs|mp3/Lesson-09-146.mp3|À:dia.
-bs|mp3/Lesson-09-147.mp3|À:ndi.
-bs|mp3/Lesson-09-148.mp3|À:ndia.
+bs|mp3/Lesson-09-148.mp3|À:ndi.
+bs|mp3/Lesson-09-149.mp3|À:ndia.
 bs|mp3/Lesson-09-156.mp3|É:ga.
 bs|mp3/Lesson-09-159.mp3|Ané:ga.
 bs|mp3/Lesson-09-168.mp3|Ù:du:lí.
@@ -573,7 +573,7 @@ bs|mp3/Lesson-09-307.mp3|Ani:gayv̌:líge̋:
 bs|mp3/Lesson-09-315.mp3|Uwo:dű age:hyű:ja.
 bs|mp3/Lesson-09-318.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:ga..
 bs|mp3/Lesson-09-319.mp3|Ju:no:dű ani:ge:hyű:ja anili:hě:lî:.
-bs|mp3/Lesson-09-321.mp3|Agv̌:níge̋:ɂi kama:ma à:lsdâ:yv:hv́sga.
+bs|mp3/Lesson-09-321.mp3|Agv̌:níge̋ kama:ma à:lsdâ:yv:hv́sga.
 bs|mp3/Lesson-09-325.mp3|Anigv̌:níge̋ kama:ma a:nalsdâ:yv:hv́sga.
 bs|mp3/Lesson-09-328.mp3|E̋:gwa.
 bs|mp3/Lesson-09-333.mp3|Kwan.
