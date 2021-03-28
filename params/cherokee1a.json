@@ -2,7 +2,7 @@
 	"balanced_sampling": true,
 	"batch_size": 25,
 	"case_sensitive": false,
-	"characters": " 0123456789:_acdeghijklmnoqstuvwyɂ̀́̂̄̊̋̌",
+	"characters": " 0123456789:_abcdeghijklmnopqrstuvwyɂ̀́̂̄̊̋̌",
 	"checkpoint_each_epochs": 5,
 	"dataset": "cherokee1a",
 	"encoder_dimension": 256,
