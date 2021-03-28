@@ -1,3 +1,7 @@
 /mp3/
 /split_audio.txt
 /src/
+/aligned.txt
+/all.txt
+/train.txt
+/val.txt
