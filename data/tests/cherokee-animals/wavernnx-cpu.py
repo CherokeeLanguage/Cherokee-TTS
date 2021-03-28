@@ -7,6 +7,13 @@ import librosa
 
 torch.set_num_threads(12)
 
+# set up seeds and the target torch device
+np.random.seed(42)
+torch.manual_seed(42)
+torch.backends.cudnn.enabled = True
+torch.backends.cudnn.deterministic = True
+torch.backends.cudnn.benchmark = False
+
 HOME = os.path.expanduser("~")
 GIT_FOLDER = HOME + "/git"
 CHECKPOINTS_FOLDER = GIT_FOLDER + "/_checkpoints"

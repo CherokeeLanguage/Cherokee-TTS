@@ -36,7 +36,7 @@ for x in "$z"/"$wg"-*; do
 	rm -r "$x"
 done
 
-v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3")
+v=("10-chr" "cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3")
 #v=("cno-spk_0")
 vsize="${#v[@]}"
 

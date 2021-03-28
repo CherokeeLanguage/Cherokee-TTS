@@ -28,44 +28,44 @@ for x in "$z"/"$wg"-*; do
 	rm -r "$x"
 done
 
-v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
+v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3")
 vsize="${#v[@]}"
 
 src1="$z/core-sounds.txt"
 src2="$z/AudioQualityVotes-bad.txt"
 
 selected="$z/selected.txt"
+selected_shuf="$z/selected-shuf.txt"
 
 cp /dev/null "$selected"
+
 cat "$src1" >> "$selected"
 cat "$src2" >> "$selected"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
 for voice in "${v[@]}"; do
+	cat "$selected" | shuf > "$selected_shuf"
 	printf "Generating audio for %s\n" "$voice"
 	syn=""
 	cp /dev/null "$tmp"
 	ix=0
-	cat "$selected" | while read phrase; do
+	cat "$selected_shuf" | while read phrase; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
 	done
 
 	cd "$y"
 	
-	cat "$tmp" | \
-		python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" || \
-		cat "$tmp" | \
-		python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
 
 	cd "$z"
 	
 	rm -r "$wg"-"$voice" 2> /dev/null || true
 	mkdir "$wg"-"$voice"
-	cp -p "$selected" "$wg"-"$voice"
+	cp -p "$selected_shuf" "$wg"-"$voice"
 	
-	python wavernnx.py || python wavernnx-cpu.py
+	python wavernnx-cpu.py
 
 	ix=0
 	cat "$selected" | while read phrase; do
@@ -83,7 +83,7 @@ for voice in "${v[@]}"; do
 	
 	xdg-open "$wg"-"$voice"
 	
-	count=$(wc -l "$selected"|cut -f 1 -d ' ')
+	count=$(wc -l "$selected_shuf"|cut -f 1 -d ' ')
 	for ix in $(seq 1 $count); do
 		rm "$ix".wav 2> /dev/null || true
 		rm "$ix".npy 2> /dev/null || true

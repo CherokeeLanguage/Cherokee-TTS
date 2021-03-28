@@ -5,6 +5,8 @@ import soundfile as sf
 import torch
 import librosa
 
+torch.set_num_threads(12)
+
 HOME = os.path.expanduser("~")
 GIT_FOLDER = HOME + "/git"
 CHECKPOINTS_FOLDER = GIT_FOLDER + "/_checkpoints"
@@ -12,8 +14,8 @@ CHECKPOINTS_FOLDER = GIT_FOLDER + "/_checkpoints"
 if not os.path.isdir(CHECKPOINTS_FOLDER):
     os.mkdir(CHECKPOINTS_FOLDER)
 
-TACOTRON_FOLDER = GIT_FOLDER + "/Multilingual_Text_to_Speech"
-CHR_FOLDER = TACOTRON_FOLDER+"/data/tests/ced"
+TACOTRON_FOLDER = GIT_FOLDER + "/Cherokee-TTS"
+CHR_FOLDER = TACOTRON_FOLDER+"/data/tests/cherokee-animals"
 
 wavernn_chpt = "wavernn_weight.pyt"
 WAVERNN_FOLDER = GIT_FOLDER + "/WaveRNN"
@@ -45,14 +47,12 @@ y = []
 
 ix=1
 while os.path.exists(CHR_FOLDER+"/"+str(ix)+".npy"):
-    print("Found", CHR_FOLDER+"/"+str(ix)+".npy")
     y.append(np.load(CHR_FOLDER+"/"+str(ix)+".npy"))
     ix+=1
 
 idx=1
 for s in y:
-    waveform = generate(model, s, hp.voc_gen_batched,
-                      hp.voc_target, hp.voc_overlap)
+    waveform = generate(model, s, batched=True, target=11025, overlap=int(11025/4))
     sf.write("wg-"+str(idx)+".wav", waveform, hp.sample_rate)
     idx+=1
     

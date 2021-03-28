@@ -28,10 +28,11 @@ for x in "$z"/"$wg"-*; do
 	rm -r "$x"
 done
 
-v=("01-fr" "02-fr" "04-fr" "05-fr" "06-fr" "07-fr" "08-fr" "09-fr" "10-fr" "11-fr" "13-fr" "14-fr" "15-fr" "16-fr" "17-fr" "18-fr" "19-fr" "20-fr" "21-fr" "22-fr" "25-fr" "26-fr")
+#v=("01-fr" "02-fr" "04-fr" "05-fr" "06-fr" "07-fr" "08-fr" "09-fr" "10-fr" "11-fr" "13-fr" "14-fr" "15-fr" "16-fr" "17-fr" "18-fr" "19-fr" "20-fr" "21-fr" "22-fr" "25-fr" "26-fr")
+v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3")
 vsize="${#v[@]}"
 
-selected="$z/see-say-write-for-audio-quality-vote.txt"
+selected="$z/ced-for-audio-quality-vote.txt"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
@@ -40,15 +41,14 @@ for voice in "${v[@]}"; do
 	syn=""
 	cp /dev/null "$tmp"
 	ix=0
-	cat "$selected" | while read phrase; do
+	cat "$selected" | cut -f 1 -d '|' | while read phrase; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
 	done
 
 	cd "$y"
 	
-	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" || \
-		cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
+	cat "$tmp" | python synthesize.py --output "$z/" --save_spec --checkpoint "checkpoints/$cp" --cpu
 
 	cd "$z"
 	
@@ -56,7 +56,7 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx.py || python wavernnx-cpu.py
+	python wavernnx-cpu.py
 
 	ix=0
 	cat "$selected" | while read phrase; do

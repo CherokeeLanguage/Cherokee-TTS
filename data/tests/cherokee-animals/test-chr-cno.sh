@@ -37,7 +37,7 @@ for x in "$z"/animals-*; do
 	rm -r "$x"
 done
 
-v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3") # "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
+v=("cno-spk_3" "cno-spk_0" "cno-spk_2" "cno-spk_1") # "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -68,7 +68,7 @@ for voice in "${v[@]}"; do
 	cp -p "$selected" "$wg"-"$voice"
 
 	#python wavernnx.py || 
-	#python wavernnx-cpu.py
+	python wavernnx-cpu.py
 	
 	ix=0
 	cat "$selected" | while read line; do
@@ -81,17 +81,17 @@ for voice in "${v[@]}"; do
 		textFile="$wg"-"$voice/$voice-$wg-$textname"
 		echo "$text" > "$textFile"
 
-		#wav="wg-$ix.wav"
-		#normalize-audio -q "$wav"
-		#mp3="$wg"-"$voice/$voice-$wg-$mp3name"
-		#ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
-		#rm "$wav"
-		
-		wav="$ix.wav"
+		wav="wg-$ix.wav"
 		normalize-audio -q "$wav"
-		mp3="$wg"-"$voice/gl-$voice-$wg-$mp3name"
+		mp3="$wg"-"$voice/$voice-$wg-$mp3name"
 		ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
 		rm "$wav"
+		
+		#wav="$ix.wav"
+		#normalize-audio -q "$wav"
+		#mp3="$wg"-"$voice/gl-$voice-$wg-$mp3name"
+		#ffmpeg -y -i "$wav" -codec:a libmp3lame -qscale:a 4 "$mp3" > /dev/null 2> /dev/null < /dev/null
+		#rm "$wav"
 	done
 	
 	xdg-open "$wg"-"$voice"
