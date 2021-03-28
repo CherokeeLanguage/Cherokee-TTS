@@ -81,7 +81,7 @@ if __name__ == "__main__":
         for line in dest_bad_data:
             if not line[-1] in ";,.?!\"'":
                 line += "."
-            if len(buffer) > 0 and len(buffer) + len(line) + 1 > 80:
+            if len(buffer) > 0 and len(buffer) + len(line) + 1 > 60:
                 print(buffer, file=file)
                 buffer = line[0].upper()+line[1:]
             else:
