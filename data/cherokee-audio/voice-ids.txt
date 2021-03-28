@@ -5,8 +5,8 @@
 05-chr|Gregg Howard - Cherokee Language Coach|gh
 06-chr|Wynema Smith - Cherokee Parenting Phrases|ws
 07-chr|Marie Junaluska - Eastern Cherokee Sampler|mj
-08-chr|Durbin Feeling - Cherokee Language Coach|df2
-09-chr|Durbin Feeling - See Say Write|df3
+01-chr|Durbin Feeling - Cherokee Language Coach|df2
+01-chr|Durbin Feeling - See Say Write|df3
 10-chr|Myrtle Johnson|mdj
 cno-spk_0|Anonymous CNO speaker #1|cno-spk_0
 cno-spk_1|Anonymous CNO speaker #2|cno-spk_1
