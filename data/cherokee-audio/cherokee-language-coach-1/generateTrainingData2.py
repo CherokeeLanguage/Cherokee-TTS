@@ -18,8 +18,13 @@ if __name__ == "__main__":
     if (sys.argv[0].strip()!=""):
         os.chdir(os.path.dirname(sys.argv[0]))
     
+    
     max_duration:float=10.0
     MASTER_TEXTS:list=["coach-1-selected.txt"]
+    
+    use_augmented:bool=False
+    if use_augmented:
+        MASTER_TEXTS.append("augmented.txt")
     
     #cleanup any previous runs
     for dir in ["linear_spectrograms", "spectrograms", "wav"]:

@@ -21,6 +21,10 @@ if __name__ == "__main__":
     max_duration:float=10.0
     MASTER_TEXTS:list=["aligned.txt"]
     
+    use_augmented:bool=False
+    if use_augmented:
+        MASTER_TEXTS.append("augmented.txt")
+    
     #cleanup any previous runs
     for dir in ["linear_spectrograms", "spectrograms", "wav"]:
         rmtree(dir, ignore_errors=True)

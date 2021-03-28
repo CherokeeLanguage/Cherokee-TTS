@@ -17,9 +17,14 @@ if __name__ == "__main__":
     
     if (sys.argv[0].strip()!=""):
         os.chdir(os.path.dirname(sys.argv[0]))
+        
+    use_augmented:bool=True
     
     max_duration:float=10.0
-    MASTER_TEXTS:list=["beginning-cherokee-selected.txt"]
+    selected_txts:list=["beginning-cherokee-selected.txt"]
+    
+    if use_augmented:
+        selected_txts.append("augmented.txt")
     
     #cleanup any previous runs
     for dir in ["linear_spectrograms", "spectrograms", "wav"]:
@@ -28,15 +33,15 @@ if __name__ == "__main__":
     pathlib.Path(".").joinpath("wav").mkdir(exist_ok=True)
     
     entries: dict = {}
-    for MASTER_TEXT in MASTER_TEXTS:
-        with open(MASTER_TEXT, "r") as f:
+    for selected_txt in selected_txts:
+        with open(selected_txt, "r") as f:
             for line in f:
                 fields=line.split("|")
                 speaker: str=fields[0].strip()
                 mp3: str=fields[1].strip()
                 text: str=ud.normalize("NFD", fields[2].strip())
-                dedupeKey=speaker+"|"+text
-                if text=="" or "XXX" in text:
+                dedupeKey=speaker+"|"+text+"|"+mp3
+                if text=="" or "x" in text.lower():
                     continue
                 entries[dedupeKey]=(speaker,mp3,text)
     
