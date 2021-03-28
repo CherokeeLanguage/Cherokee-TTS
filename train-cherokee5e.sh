@@ -5,7 +5,7 @@ clear
 
 conda activate Cherokee-TTS
 
-params="cherokee5d"
+params="cherokee5e"
 
 cd "$(dirname "$0")"
 WORK="$(pwd)"
