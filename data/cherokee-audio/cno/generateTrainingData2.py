@@ -28,7 +28,7 @@ if __name__ == "__main__":
     max_duration:float=10.0
     MASTER_TEXTS:list=["cno-training-data.txt"]
     
-    use_augmented:bool=True
+    use_augmented:bool=False
     if use_augmented:
         MASTER_TEXTS.append("augmented.txt")
     

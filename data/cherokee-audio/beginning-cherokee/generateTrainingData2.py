@@ -18,7 +18,7 @@ if __name__ == "__main__":
     if (sys.argv[0].strip()!=""):
         os.chdir(os.path.dirname(sys.argv[0]))
         
-    use_augmented:bool=True
+    use_augmented:bool=False
     
     max_duration:float=10.0
     selected_txts:list=["beginning-cherokee-selected.txt"]

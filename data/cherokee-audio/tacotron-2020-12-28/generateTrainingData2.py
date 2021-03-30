@@ -21,7 +21,7 @@ if __name__ == "__main__":
     MASTER_TEXTS:list=["AudioQualityVotes.txt"]
     max_duration:float=10.0
     
-    use_augmented:bool=True
+    use_augmented:bool=False
     if use_augmented:
         MASTER_TEXTS.append("augmented.txt")
     
