@@ -2,9 +2,9 @@
 	"balanced_sampling": true,
 	"batch_size": 21,
 	"case_sensitive": false,
-	"characters": " 0123456789:abcdefghijklmnopqrstuvwxyzßɂ̧̀́̂̄̈̋̌т–’。，",
+	"characters": " 0123456789:abcdefghijklmnopqrstuvwxyzßɂ̀́̂̄̈̋̌–",
 	"checkpoint_each_epochs": 5,
-	"dataset": "cherokee5h",
+	"dataset": "cherokee3a",
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
 	"epochs": 1000,
@@ -28,5 +28,5 @@
 	"reversal_gradient_clipping": 0.25,
 	"speaker_embedding_dimension": 128,
 	"use_punctuation": true,
-	"version": "5h-20210411"
+	"version": "3a-20210411"
 }

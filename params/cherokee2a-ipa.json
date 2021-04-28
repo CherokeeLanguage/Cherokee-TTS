@@ -1,8 +1,8 @@
 {
 	"balanced_sampling": true,
-	"batch_size": 20,
+	"batch_size": 22,
 	"case_sensitive": false,
-	"characters": " 0123456789:abcdefghijklmnoprstuvwxyzæðøŋœɂɐɑɒɔɕəɛɜɡɣɪɭɲɵɹɾʁʃʊʋʌʐʑʒʲˈˌː̧̪̀́̂̃̄̊̋̌θ",
+	"characters": " 0123456789:abcdefghijklmnoprstuvwyzæðŋɂɐɑɒɔəɚɛɜɡɪɹɾʃʉʊʍʒʔʲˈˌ̩̱̀́̂̄̋̌θᵻ",
 	"checkpoint_each_epochs": 5,
 	"dataset": "cherokee2a-ipa",
 	"encoder_dimension": 256,
@@ -12,7 +12,7 @@
 	"generator_dim": 12,
 	"languages": [
 		"chr",
-		"ipa"
+		"en"
 	],
 	"language_embedding_dimension": 0,
 	"learning_rate": 0.001,
@@ -29,7 +29,7 @@
 	"reversal_classifier_dim": 256,
 	"reversal_classifier_w": 0.125,
 	"reversal_gradient_clipping": 0.25,
-	"speaker_embedding_dimension": 32,
+	"speaker_embedding_dimension": 64,
 	"use_punctuation": true,
-	"version": "cherokee2a-ipa"
+	"version": "2a-ipa-20210414"
 }

@@ -4,12 +4,12 @@
 	"case_sensitive": false,
 	"characters": " 0123456789:abcdefghijklmnoprstuvwyzæðŋɂɐɑɒɔəɚɛɜɡɪɹɾʃʉʊʍʒʔʲˈˌ̩̱̀́̂̄̋̌θᵻ",
 	"checkpoint_each_epochs": 5,
-	"dataset": "cherokee2a-ipa",
+	"dataset": "cherokee2b-mco",
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
-	"epochs": 1000,
-	"generator_bottleneck_dim": 4,
-	"generator_dim": 12,
+	"epochs": 300,
+	"generator_bottleneck_dim": 1,
+	"generator_dim": 2,
 	"languages": [
 		"chr",
 		"en"
@@ -29,7 +29,8 @@
 	"reversal_classifier_dim": 256,
 	"reversal_classifier_w": 0.125,
 	"reversal_gradient_clipping": 0.25,
-	"speaker_embedding_dimension": 64,
+	"speaker_embedding_dimension": 96,
+	"use_preemphasis": true,
 	"use_punctuation": true,
-	"version": "2a-ipa-20210414"
+	"version": "2b-mco-20210414"
 }
