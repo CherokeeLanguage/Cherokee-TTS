@@ -2,7 +2,7 @@
 	"balanced_sampling": true,
 	"batch_size": 20,
 	"case_sensitive": false,
-	"characters": " abcdefghijklmnopqrstuvwxyzçèéßäöōǎǐíǒàáǔüèéìūòóùúāēěīâêôûñőűабвгдежзийклмнопрстуфхцчшщъыьэюяё",	
+	"characters": " !'(),-.0123456789:?abcdefghijklmnopqrstuvwxyzɂ̀́̂̄̋̌",
 	"checkpoint_each_epochs": 5,
 	"dataset": "cherokee2d",
 	"encoder_dimension": 256,
