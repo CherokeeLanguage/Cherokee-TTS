@@ -1,16 +1,18 @@
 {
 	"balanced_sampling": true,
-	"batch_size": 21,
+	"batch_size": 20,
 	"case_sensitive": false,
-	"characters": " 0123456789:abcdefghijklmnopqrstuvwxyzßɂ̧̀́̂̄̈̋̌т–’。，",
+	"characters": " !\"(),-.0123456789:;?abcdefghijklmnopqrstuvwxyzæðøŋœɂɐɑɒɔɕəɚɛɜɡɪɲɹɾʁʃʉʊʍʐʒʔʲˈˌ̧̩̪̱̀́̂̃̄̊̋̌θᵻ",
 	"checkpoint_each_epochs": 5,
 	"dataset": "cherokee5h",
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
-	"epochs": 1000,
-	"generator_bottleneck_dim": 4,
-	"generator_dim": 12,
-	"languages": ["chr", "de", "en"],
+	"epochs": 300,
+	"generator_bottleneck_dim": 8,
+	"generator_dim": 16,
+	"languages": [
+		"chr", "de", "en", "fr", "zh"
+	],
 	"language_embedding_dimension": 0,
 	"learning_rate": 0.001,
 	"learning_rate_decay_each": 10000,
@@ -26,7 +28,7 @@
 	"reversal_classifier_dim": 256,
 	"reversal_classifier_w": 0.125,
 	"reversal_gradient_clipping": 0.25,
-	"speaker_embedding_dimension": 128,
+	"speaker_embedding_dimension": 32,
 	"use_punctuation": true,
-	"version": "5h-20210411"
+	"version": "5h-20210422"
 }

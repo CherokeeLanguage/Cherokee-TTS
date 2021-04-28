@@ -5,10 +5,13 @@ clear
 
 conda activate Cherokee-TTS
 
-params="cherokee5h"
+params="cherokee6a"
+#cp="cherokee2a-ipa_loss-20-0.132"
 
 cd "$(dirname "$0")"
 WORK="$(pwd)"
+
+#cp -v data/"$params"/checkpoint/"$cp" checkpoints/
 
 cd data
 python prepare_spectrograms.py --directory "$params"

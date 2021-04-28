@@ -1,0 +1,28 @@
+Following audio files include the faults and therefore we deleted them
+
+p282_019 -> misspoken utterance. The speaker recognized this and moaned in annoyance.
+p295_334 -> silence, silent recording
+p295_047 -> silence
+p302_013 -> silence
+p303_303 -> silence
+p305_423 -> silence
+p306_114 -> silence
+p306_140 -> silence
+p306_235 -> silence
+p317_424 -> silence
+p330_424 -> silence
+p335_424 -> silence
+p345_266 -> cut off recording
+p345_387 -> silence
+p345_388 -> cut off recording, recording starting too late
+
+We also fixed issues of the following text files  
+p246_024 -> This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.She is given a new deputy minister for transport and planning.
+p271_024 -> This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.She is given a new deputy minister for transport and planning.
+p275_024 -> This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.She is given a new deputy minister for transport and planning.
+p277_024 -> This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.It's nice to hear.
+
+
+22nd March 2017
+Junichi Yamagishi 
+

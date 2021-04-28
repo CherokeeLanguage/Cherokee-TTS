@@ -1,0 +1,510 @@
+000001292|10-chr|chr|mp3-test/000001292-0350-3-17_D03_Track_17-063572.mp3|ᏩᏁᎢ ᏗᏍᏔᎷᏴᏓ ᏍᎩᎾᎾ ᏴᏫ. ᏭᎳᎩᏒ ᎠᎹ ᎤᏥᏍᏛ, ᎠᏎᏃ ᎨᏍᏗ
+000004137|cno-f-chr_2|chr|mp3-test/000004137-Complete.mp3|ᎧᎵᏬᎯ
+000008176|cno-f-chr_2|chr|mp3-test/000008176-Snort.mp3|ᏍᏆᎳᎧᏬᎳᏕᏍᎬ
+000001343|10-chr|chr|mp3-test/000001343-0406-3-19_D03_Track_19-162842.mp3|ᎾᏍᎩᏯ ᎨᎦᏙᏁᏛ, ᏭᏕᎵᎬ ᎢᏣ ᏭᏩᎾᏬᏒ -ᏴᎬᎾᏟᎦ.
+000008719|cno-f-chr_2|chr|mp3-test/000008719-Took.mp3|ᎤᎩᏒᎩ
+000001293|10-chr|chr|mp3-test/000001293-0351-3-17_D03_Track_17-072502.mp3|ᏯᏆᏚᎵᏍᎨ ᏍᎩᏳᏍᏗ ᎠᏆᏛᎪᏗ. ᎯᎸᎯᏨ ᎠᎴᏫᏍᏙᏗ. - ᎭᏗᏔ ᎠᎴ ᏣᏉ, ᎠᏆᏛᏅ.
+000003116|cno-f-chr_2|chr|mp3-test/000003116-Any.mp3|ᏂᎦᎵᏍᏗᏍᎬᎫ
+000007595|cno-f-chr_2|chr|mp3-test/000007595-Remote.mp3|ᏄᏩᏓᎴ
+000009185|cno-f-chr_2|chr|mp3-test/000009185-Worked.mp3|ᏚᎸᏫᏍᏓᏁᎸᎩ
+000003353|cno-f-chr_2|chr|mp3-test/000003353-Automatic.mp3|ᎤᏩᏒᎠᎾᎩᏍᎩ
+000004815|cno-f-chr_3|chr|mp3-test/000004815-Employer.mp3|ᎤᏓᎾᏝᎢ
+000005477|cno-m-chr_1|chr|mp3-test/000005477-Grandmother.mp3|ᎤᎵᏏ
+000006388|cno-m-chr_2|chr|mp3-test/000006388-Measles.mp3|ᎤᏁᏲᏘᏍᎩ
+000002899|cno-f-chr_2|chr|mp3-test/000002899-Actor.mp3|ᎠᏛᏁᎵᏍᎩ
+000003981|cno-f-chr_2|chr|mp3-test/000003981-Chemistry.mp3|ᎠᏑᏰᏗᏧᏓᎴᎲᏓᏅᏬᏘ
+000004336|cno-f-chr_2|chr|mp3-test/000004336-Crops.mp3|ᏠᎨᏏᏓᏫᏒ
+000008053|cno-f-chr_2|chr|mp3-test/000008053-Shirt.mp3|ᎭᏫᏂᎠᏄᏬ
+000007407|cno-f-chr_2|chr|mp3-test/000007407-Rabbi.mp3|ᏧᏏᎠᎵᏣᏙᎲᏍᎩ
+000002973|cno-f-chr_2|chr|mp3-test/000002973-Aggravate.mp3|ᎠᏓᏕᏯᏙᏗ
+000005057|cno-f-chr_5|chr|mp3-test/000005057-Farm.mp3|ᎦᎶᎨᏒᎢ
+000003527|cno-f-chr_2|chr|mp3-test/000003527-Beseech.mp3|ᎠᏓᏔᏲᏎᎲ
+000007768|cno-m-chr_1|chr|mp3-test/000007768-Rope.mp3|ᏍᏕᏱᏛ
+000004883|cno-f-chr_3|chr|mp3-test/000004883-Envy.mp3|ᎠᏓᏛᏳᏤᎯ
+000004192|cno-f-chr_2|chr|mp3-test/000004192-Consequently.mp3|ᏫᏄᎳᏍᏙᏗ
+000004417|cno-f-chr_2|chr|mp3-test/000004417-Deceitful.mp3|ᎤᏓᎶᏄᎮᏌᏘ
+000005742|cno-f-chr_3|chr|mp3-test/000005742-Hound.mp3|ᎩᏟᎦᏃᎯᎵᏙᎯ
+000004482|cno-f-chr_3|chr|mp3-test/000004482-Depot.mp3|ᏧᎴᏫᏍᏙᏗ
+000005769|cno-f-chr_3|chr|mp3-test/000005769-Hurdle.mp3|ᎠᏓᎾᏫᏛᏗ
+000001592|10-chr|chr|mp3-test/000001592-0184-4-08_D4_Track_08-133452.mp3|ᎪᎳ ᎢᏳᏍᏗ ᏃᏥᏳ ᎢᏣ ᎬᏂᎨ ᏚᏭᏌᎥ ᎦᎸᎳᏗᎨ ᏚᏅᏓᏒ, ᎡᎶᎯ
+000007801|cno-m-chr_2|chr|mp3-test/000007801-Rural.mp3|ᎠᏍᏛᏕᎦᏅᏅ
+000008314|cno-m-chr_2|chr|mp3-test/000008314-Stairs.mp3|ᏗᎩᎶᏒᏍᏗ
+000007661|cno-f-chr_2|chr|mp3-test/000007661-Resign.mp3|ᎠᏑᎳᎪᎢᏍᏗ
+000001279|10-chr|chr|mp3-test/000001279-0330-3-16_D03_Track_16-085452.mp3|ᏓᎦᎾᏬᏗᏍᎬ, ᎨᏍᏗ ᎢᎪᎯᏛ ᎤᏲ ᏯᏆᏓᏅᏖᎢ. ᏄᏓᎴ ᏂᎦᏛᏁᎲ
+000002039|10-chr|chr|mp3-test/000002039-0239-5-11_D5_Track_11-147602.mp3|ᏄᏍᏗᏓᏅ. ᏐᎢ ᎠᎧᏘᏏ ᎢᏣ ᎤᏬᏰᏂ ᎤᏩᏂᎦᎸ ᎤᏎᎵᏙᎸ, ᎠᎧᏍᎩᏂ ᎢᏣ
+000005764|cno-f-chr_3|chr|mp3-test/000005764-Hunger.mp3|ᎤᏓᏲᏏᏐᏗ
+000007789|cno-m-chr_1|chr|mp3-test/000007789-Rugs.mp3|ᏯᏖᏃᏗᏰᏍᏛᏗ
+000008357|cno-m-chr_2|chr|mp3-test/000008357-Stenographer.mp3|ᏍᏆᎳᎪᏪᎵᏍᎩ
+000003365|cno-m-chr_1|chr|mp3-test/000003365-Awaiting.mp3|ᎠᎦᏘᏴ
+000006537|cno-f-chr_2|chr|mp3-test/000006537-Mornings.mp3|ᎤᎩᏥᏍᎬ
+000007570|cno-f-chr_2|chr|mp3-test/000007570-Relieve.mp3|ᎠᎵᏍᏕᎸᏙᏗᏱ
+000008225|cno-m-chr_2|chr|mp3-test/000008225-Soul.mp3|ᎦᎸᏉᏗᎠᏓᏅᏙ
+000003096|cno-f-chr_2|chr|mp3-test/000003096-Announced.mp3|ᏚᏃᏣᎳᏅ
+000008320|cno-m-chr_2|chr|mp3-test/000008320-Stand_point.mp3|ᏄᏍᏛᏗᎧᏃᏗ
+000005640|cno-f-chr_5|chr|mp3-test/000005640-Help.mp3|ᎠᎵᏍᏕᎸᏗ
+000005659|cno-f-chr_5|chr|mp3-test/000005659-Herself.mp3|ᎤᏩᏒᎠᎨᏴ
+000003140|cno-f-chr_2|chr|mp3-test/000003140-Appeared.mp3|ᎤᎾᏄᎪᏨ
+000000073|10-chr|chr|mp3-test/000000073-0086-1-04_D01_Track_04-211285.mp3|ᎣᎭᏁ, ᎠᏫ, ᎦᎾᏌ ᏃᎴ ᎠᏫ ᎢᏳᏍᏗ
+000004004|cno-f-chr_2|chr|mp3-test/000004004-Chose.mp3|ᎤᏑᏰᏒ
+000008738|cno-f-chr_2|chr|mp3-test/000008738-Tough.mp3|ᎦᏁᏔᏯ
+000003850|cno-m-chr_1|chr|mp3-test/000003850-Can_not_see.mp3|ᏝᏱᏥᎪᏩᏘ
+000001363|10-chr|chr|mp3-test/000001363-0428-3-20_D03_Track_20-170972.mp3|ᏥᏃᎯᏎᎸ ᎠᏌᎻᏓ ᏂᏪᏒ ᏣᎵ, ᏎᎦᏗ ᏱᎩᎦᏘᏛ ᎢᎦᏛ ᏯᏂᎷᎩ ᎤᏛᏅ.
+000006344|cno-m-chr_2|chr|mp3-test/000006344-Marry.mp3|ᏕᎨᎦᏨᏍᏗᏍᎬ
+000008165|cno-f-chr_2|chr|mp3-test/000008165-Smoke.mp3|ᏧᎦᏒᏍᏗ
+000005496|cno-f-chr_2|chr|mp3-test/000005496-Greet.mp3|ᎠᏓᎵᎮᎵᏍᏗ
+000006627|cno-f-chr_2|chr|mp3-test/000006627-Nerve.mp3|ᎣᏓᎾᏛ
+000004325|cno-f-chr_2|chr|mp3-test/000004325-Created.mp3|ᎪᏢᏅᎯ
+000008387|cno-m-chr_2|chr|mp3-test/000008387-Stops.mp3|ᎠᎾᎴᏫᏍᏗᏍᎬ
+000005624|cno-f-chr_2|chr|mp3-test/000005624-Heartache.mp3|ᎤᏪᏍᏓᏁᎲᎤᏓᏅᏙ
+000008797|cno-m-chr_2|chr|mp3-test/000008797-Trifle.mp3|ᎪᎱᏍᏗᎠᏛᏁᏂᎨᏒᎾ
+000003294|cno-m-chr_1|chr|mp3-test/000003294-Astute.mp3|ᎪᏍᏓᏯᎤᏬᎵᏍᏗ
+000009190|cno-f-chr_2|chr|mp3-test/000009190-Worlds.mp3|ᎯᎸᏍᎩᎡᎶᎯ
+000003419|cno-f-chr_2|chr|mp3-test/000003419-Barefoot.mp3|ᏂᏚᎳᏑᎸᎾ
+000004245|cno-m-chr_1|chr|mp3-test/000004245-Convenient.mp3|ᎠᎯᏗᎨᎨᏒ
+000002904|cno-f-chr_2|chr|mp3-test/000002904-Adam.mp3|ᎠᏓᏫ
+000006339|cno-m-chr_2|chr|mp3-test/000006339-Market.mp3|ᎤᏂᎾᏗᏅᏗ
+000007380|cno-f-chr_2|chr|mp3-test/000007380-Quality.mp3|ᎢᎦᎣᏏ
+000000457|10-chr|chr|mp3-test/000000457-0525-1-18_D01_Track_18-088125.mp3|ᎠᏂᏍᎦᏰᎬᏍᏓ ᏚᎾᎭᏄᏮ, ᏧᏐᏱ ᏐᏈᎵ ᏗᏂᏂᏏᏁᎩ ᏓᏆᎴᎷ ᏧᎾᎩᎸᏗ,
+000000371|10-chr|chr|mp3-test/000000371-0417-1-14_D01_Track_14-187895.mp3|ᎾᏍᎩ ᎤᏅᏌ. ᏂᎦᏓ ᏗᎦᏟᏃᎡᏔᏅ ᎤᏐᏱ ᏚᏄᎪᏔᏅ
+000000818|10-chr|chr|mp3-test/000000818-0368-2-15_D02_Track_15-000075.mp3|ᎠᏎ ᏱᏄᎾᎵᏍᏔᏏ ᎤᏂᏲᏗ ᎤᏂᎩᏍᏗ, ᏧᎾᏦᎯᏍᏗ ᎤᏍᏗ ᎤᎾᏓᏓᏍᎩ
+000005704|cno-f-chr_2|chr|mp3-test/000005704-Holster.mp3|ᎦᎶᏇᎦᎳᏗᏍᏙᏗ
+000003360|cno-f-chr_2|chr|mp3-test/000003360-Average.mp3|ᎢᎦᏘᎭᎢᎬᏁᎸ
+000006192|cno-f-chr_2|chr|mp3-test/000006192-Limb.mp3|ᎤᏩᏂᎦᎸ
+000008725|cno-f-chr_2|chr|mp3-test/000008725-Top_coat.mp3|ᎦᏌᎴᎾᎤᏔᎾ
+000001296|10-chr|chr|mp3-test/000001296-0356-3-17_D03_Track_17-119962.mp3|ᎤᏙᏓ ᎤᏲᏏᏙᎸ ᎨᏎ ᏁᎳᏚ ᏔᎵᏚ ᎤᏕᏱᏴᏌᏗᏒ, ᎠᏘᎨ ᎤᏥ ᎠᏎ ᎤᏲᎰᏒ.
+000000241|10-chr|chr|mp3-test/000000241-0271-1-10_D01_Track_10-071695.mp3|ᎢᏰᎵᏍᏗᎢᎦᏃ ᎤᏛᏅ.
+000002939|cno-f-chr_2|chr|mp3-test/000002939-Advance.mp3|ᎠᏓᏌᎳᏙᏗ
+000001636|10-chr|chr|mp3-test/000001636-0244-4-11_D4_Track_11-175242.mp3|ᎠᏎᏃ ᎨᏍᏗ ᎠᏎ ᏍᎩᎾᎾ ᏱᏄᎵᏍᏔᏃ, ᎠᏎ ᎤᎵᏍᏚᎩᏛ ᏱᎩ ᎠᏍᎪᎵ,
+000008370|cno-m-chr_2|chr|mp3-test/000008370-Sting.mp3|ᎠᏓᏨᏯᏍᎩ
+000008943|cno-m-chr_2|chr|mp3-test/000008943-Vain.mp3|ᏄᎵᏍᎨᏗᏴᎾ
+000002996|cno-f-chr_2|chr|mp3-test/000002996-Alderman.mp3|ᎦᏚᎲᏗᎦᎳᏫᎩ
+000003866|cno-f-chr_2|chr|mp3-test/000003866-Canning.mp3|ᎦᎵᏔᏅᏗ
+000001415|10-chr|chr|mp3-test/000001415-0491-3-23_D03_Track_23-113712.mp3|ᎠᏂᏐᎢ ᏦᎢ ᎠᏂᏧᏣ ᏭᏲᎢᏴ ᎤᎾᎦᏎᏍᏙᏗ, ᎠᏂᏔᎵᎭ ᎢᏯᏂ ᎤᏂᏰᏨ, ᎢᎪᎯᏛ
+000003523|cno-f-chr_2|chr|mp3-test/000003523-Bent.mp3|ᎤᏣᏍᏈᏗ
+000008122|cno-f-chr_2|chr|mp3-test/000008122-Six.mp3|ᏑᏓᎵ
+000005750|cno-f-chr_3|chr|mp3-test/000005750-However.mp3|ᏱᏂᎬᏛᎾ
+000001441|10-chr|chr|mp3-test/000001441-0019-4-01_D4_Track_01-164922.mp3|ᎤᎨᏓᎵᏴ ᏧᏴᏨ ᎢᏣ, ᎤᏲᎢᏴ, ᎯᎸᎢᏴ ᏅᏃᎯ ᎠᏯᏖᏅ ᎨᏴ,
+000001618|10-chr|chr|mp3-test/000001618-0219-4-10_D4_Track_10-060382.mp3|ᎣᎦᎵᎪᏘ ᎠᏆᏚᎵᏍᎬ. ᎨᎵᏍᎬ ᎠᏰᎵ ᎤᏙᏓᏆᏓ ᏫᎦᎶᎯᏍᏗ ᏪᎵᏏ ᏧᎾᏗᏔᏍᏗ,
+000000624|10-chr|chr|mp3-test/000000624-0139-2-05_D02_Track_05-115065.mp3|ᎦᏌᏆᎸ ᎤᏬᏗᎨ ᎠᎨᏯ, ᎦᏙᏗ ᎢᏳᏍᏗ ᏴᏫ ᎤᏍᏚᎩᏒ ᎠᏍᏚᏗ.
+000000704|10-chr|chr|mp3-test/000000704-0239-2-10_D02_Track_10-000075.mp3|ᎤᏂᏩᏙᎯᏴᏓ ᏐᏈᎵ ᏧᏂᎾᏌᎾᎩᏛ ᏓᏆᎴᎷ ᏚᎾᏦᏔᏁ ᏭᏂᎷᏤ ᏭᏕᎵᎬ.
+000004566|cno-f-chr_3|chr|mp3-test/000004566-Disappear.mp3|ᎠᏗᏍᎦᎶᏗ
+000007427|cno-f-chr_2|chr|mp3-test/000007427-Rain.mp3|ᎠᎦᏍᎬ
+000009240|cno-m-chr_2|chr|mp3-test/000009240-Yell.mp3|ᎨᎷᎲᏍᏗ
+000000884|10-chr|chr|mp3-test/000000884-0451-2-18_D02_Track_18-060145.mp3|ᏳᎾᎦᏔᎲᏌ ᎤᎾᏁᎳᏛ
+000005071|cno-f-chr_5|chr|mp3-test/000005071-Fatal.mp3|ᎤᎲᏲᎵᏍᏗ
+000008294|cno-m-chr_2|chr|mp3-test/000008294-Spy.mp3|ᎤᏕᎵᏛᎤᎦᏎᏍᏗ
+000004389|cno-f-chr_2|chr|mp3-test/000004389-Daughters.mp3|ᏧᏪᏥᎠᏂᎨᏴ
+000008520|cno-m-chr_2|chr|mp3-test/000008520-Swell.mp3|ᎠᎲᏲᎵᏓ
+000003389|cno-m-chr_1|chr|mp3-test/000003389-Baking.mp3|ᏓᏂᏚᎲᏍᎬ
+000004586|cno-f-chr_3|chr|mp3-test/000004586-Disease.mp3|ᎥᏳᎩ
+000009200|cno-f-chr_2|chr|mp3-test/000009200-Wort.mp3|ᏩᎶᏏᎤᏜᎥ
+000006299|cno-m-chr_2|chr|mp3-test/000006299-Maize.mp3|ᏎᎷ
+000008399|cno-m-chr_2|chr|mp3-test/000008399-Strange.mp3|ᎠᏎᎩ
+000006307|cno-m-chr_2|chr|mp3-test/000006307-Malice.mp3|ᎠᏓᏅᏖᎯᏍᎠᏛ
+000004646|cno-f-chr_3|chr|mp3-test/000004646-Doom.mp3|ᏚᏙᎪᏓᏁᎸ
+000005732|cno-f-chr_3|chr|mp3-test/000005732-Horse.mp3|ᏐᏈᎵ
+000001543|10-chr|chr|mp3-test/000001543-0132-4-06_D4_Track_06-050832.mp3|ᏧᎴ ᏭᎬᏫᏳᏒ ᎡᏆ ᏲᎾ, ᎠᎬᏱ ᎤᏐᏅᏁ ᎤᏛᎵᏍᏙᏗ ᎦᏟᏓ ᎬᏘ,
+000007766|cno-m-chr_1|chr|mp3-test/000007766-Roost.mp3|ᎤᎾᎩᎸ
+000005261|cno-f-chr_5|chr|mp3-test/000005261-Forces.mp3|ᎠᏂᏌᏙᏯᏍᎩ
+000004093|cno-m-chr_1|chr|mp3-test/000004093-Column.mp3|ᎤᏓᏅᏅ
+000003679|cno-f-chr_2|chr|mp3-test/000003679-Boys.mp3|ᎠᏂᏧᏣ
+000005049|cno-f-chr_5|chr|mp3-test/000005049-Fan.mp3|ᎠᏔᏃᏲ
+000006600|cno-f-chr_2|chr|mp3-test/000006600-Native.mp3|ᎾᏰᎯᏯ
+000003177|cno-f-chr_2|chr|mp3-test/000003177-Arbor.mp3|ᏓᏲᎾᏍᏓᏝᎥ
+000008608|cno-f-chr_2|chr|mp3-test/000008608-Tent.mp3|ᎦᎵᏦᏓᏗ
+000003984|cno-f-chr_2|chr|mp3-test/000003984-Chestnut.mp3|ᎤᎾᎩᎾ
+000003518|cno-f-chr_2|chr|mp3-test/000003518-Bench.mp3|ᎦᏅᎯᏗᎦᏍᎩᎶ
+000000581|10-chr|chr|mp3-test/000000581-0080-2-03_D02_Track_03-163365.mp3|ᎨᏍᏗ ᏱᏓᏉᏪᎳᎾ ᎪᏪᎵ ᏓᎭᏃᏫ ᎠᎾᏓᏅᏖᏍᎩ
+000006494|cno-f-chr_2|chr|mp3-test/000006494-Missing.mp3|ᎠᎾᏠᎦ
+000009181|cno-f-chr_2|chr|mp3-test/000009181-Word.mp3|ᎧᏁᏨ
+000002868|cno-f-chr_1|chr|mp3-test/000002868-Accept.mp3|ᏗᏓᏂᎸᎢᏍᏗ
+000007076|cno-f-chr_2|chr|mp3-test/000007076-Plan.mp3|ᎠᏟᎶᏍᏙᏗ
+000007388|cno-f-chr_2|chr|mp3-test/000007388-Quartet.mp3|ᏅᎩᎢᏯᏂᎢ
+000001081|10-chr|chr|mp3-test/000001081-0084-3-05_D03_Track_05-132732.mp3|ᏧᏓᎴᏅᏓ ᏓᏓᏳᎶᏒ ᏕᏥᎾᎩᏍᎬ ᏗᎪᏪᎳᏅ ᏗᏥᎶᏍᏔᏅ. ᏣᏚᎳᏛ ᏃᎴ
+000005340|cno-f-chr_5|chr|mp3-test/000005340-Fun.mp3|ᎤᏬᏢᏗ
+000005247|cno-f-chr_5|chr|mp3-test/000005247-Follows.mp3|ᎠᏍᏓᏩᏕᎦ
+000000793|10-chr|chr|mp3-test/000000793-0339-2-13_D02_Track_13-089965.mp3|ᎣᎯᏍᏙᏗ ᎠᏫ ᎤᏂᎨᎲᏍᏗ ᏃᎴ ᎠᏫ ᏄᎾᏓᏄᎸᎲ ᎡᏍᎦᏉ ᎠᏕᎳ ᎤᏃᏒᏗ.
+000004770|cno-f-chr_3|chr|mp3-test/000004770-Eject.mp3|ᎠᏓᏄᎪᏫᏍᏗ
+000004616|cno-f-chr_3|chr|mp3-test/000004616-Divorce.mp3|ᏗᎦᎴᏅᏗ
+000007197|cno-m-chr_1|chr|mp3-test/000007197-Presentation.mp3|ᏓᎾᏓᏁᎲᎢ
+000000870|10-chr|chr|mp3-test/000000870-0435-2-17_D02_Track_17-162815.mp3|ᏧᏐᏱᎭ ᎨᏎ ᎢᎦ, ᎠᏗᏍᎨ ᎠᏌᎻᏓ. ᏓᏓᏁᎸ ᎤᎾᏕᎭᏲᏍᏗ,
+000001041|10-chr|chr|mp3-test/000001041-0040-3-03_D03_Track_03-084952.mp3|ᎦᏟᎲ, ᎠᏳᎨᏂ ᎦᏁᏥ ᏩᏌᎲ. ᎠᏂᏐᎢ ᏕᏧᎬ ᎾᎥᏂ ᎠᏂᏙᎾᎥ ᎠᏂᎦᏘᏴ.
+000005523|cno-f-chr_2|chr|mp3-test/000005523-Gruff.mp3|ᎬᏍᎦᏍᏓᎩ
+000007604|cno-f-chr_2|chr|mp3-test/000007604-Renewals.mp3|ᏗᏤᎯᏐᏗᏱ
+000004061|cno-m-chr_1|chr|mp3-test/000004061-Closet.mp3|ᏗᏄᏬᏗᎦᏛᏗ
+000007737|cno-f-chr_2|chr|mp3-test/000007737-Risk.mp3|ᎠᏁᎸᏙᏗ
+000005106|cno-f-chr_2|chr|mp3-test/000005106-Feeling.mp3|ᎠᏒᎾᏍᏗᏱ
+000006301|cno-m-chr_2|chr|mp3-test/000006301-Major.mp3|ᎠᏂᏯᏩᏍᎩᏄᎬᏫᏳᏒ
+000006617|cno-f-chr_2|chr|mp3-test/000006617-Needs.mp3|ᎤᏚᎸᏗᏄᎾᏛᏅ
+000000841|10-chr|chr|mp3-test/000000841-0396-2-16_D02_Track_16-047705.mp3|ᎤᎵᏏᎩ ᏃᎴ ᎡᎳᏗᎨᏍᏗ ᎠᏰᎵ, ᎤᎵᏏᎩ ᎤᏲᎢᏴ ᏩᏂᎦᏛ.
+000005836|cno-f-chr_2|chr|mp3-test/000005836-Inasmuch.mp3|ᎢᎦᎢᎢᎦᎳᏍᏗᏍᎩ
+000003827|cno-m-chr_1|chr|mp3-test/000003827-Cajole.mp3|ᎠᏓᏂᎳᏕᏗ
+000006801|cno-m-chr_2|chr|mp3-test/000006801-Orator.mp3|ᎠᏏᏓᏍᏛᎦᏬᏂᏍᎩ
+000007354|cno-f-chr_2|chr|mp3-test/000007354-Puppet.mp3|ᎠᎦᏓᏅᏖᎮᎯ
+000006755|cno-m-chr_2|chr|mp3-test/000006755-Officials.mp3|ᎠᏰᎵᎤᎾᏒᎧᎵ
+000006704|cno-m-chr_1|chr|mp3-test/000006704-Oath.mp3|ᎠᏎᎵᏙᏗ
+000004419|cno-f-chr_2|chr|mp3-test/000004419-Decent.mp3|ᎤᎵᎶᎯᏗᏙᎳᎩ
+000009044|cno-f-chr_2|chr|mp3-test/000009044-Ways.mp3|ᏫᎦᎶᎯᏍᏗ
+000004705|cno-f-chr_3|chr|mp3-test/000004705-Duplicate.mp3|ᏗᏟᎶᏍᏔᏅ
+000007555|cno-f-chr_2|chr|mp3-test/000007555-Reimburse.mp3|ᏅᎠᎫᏴᏗ
+000004713|cno-f-chr_3|chr|mp3-test/000004713-Each.mp3|ᎠᏂᏏᏴᏫᎭ
+000005582|cno-f-chr_2|chr|mp3-test/000005582-Hard.mp3|ᎠᏍᏓᏯ
+000005677|cno-f-chr_2|chr|mp3-test/000005677-Hinder.mp3|ᎠᏓᏲᏍᏓᏁᏗ
+000006955|cno-m-chr_1|chr|mp3-test/000006955-Patterns.mp3|ᏧᎾᏟᎶᏍᏙᏗ
+000004754|cno-f-chr_3|chr|mp3-test/000004754-Effective.mp3|ᎢᏳᎵᏍᏙᏗᏱ
+000005114|cno-f-chr_2|chr|mp3-test/000005114-Fellowship.mp3|ᎤᎾᎵᎪᎯ
+000004125|cno-f-chr_2|chr|mp3-test/000004125-Compare.mp3|ᎤᏠᏱᎢᎬᏁᏗ
+000007711|cno-f-chr_2|chr|mp3-test/000007711-Revival.mp3|ᎠᎾᎴᏂᏍᎬᎢ
+000007436|cno-f-chr_2|chr|mp3-test/000007436-Rake.mp3|ᎦᏟᏐᏙᏗ
+000008993|cno-f-chr_2|chr|mp3-test/000008993-Wabble.mp3|ᎠᏦᎠᏎᏗ
+000006848|cno-m-chr_2|chr|mp3-test/000006848-Outstanding.mp3|ᏙᏯᏗᏢᏓᏚᏓᎸ
+000008521|cno-m-chr_2|chr|mp3-test/000008521-Swift.mp3|ᎦᏥᏄᎳ
+000003670|cno-f-chr_2|chr|mp3-test/000003670-Bowl.mp3|ᎠᏟᏍᏙᏗ
+000001428|10-chr|chr|mp3-test/000001428-0004-4-01_D4_Track_01-026732.mp3|ᏂᏚᏩᏁᎸ ᏕᎧᏃᎮᏍᎬ, ᎠᎦᏴᎵ ᎣᎯᏍᏙᏗ ᎡᎶ ᎤᎾᏕᏅ, ᏔᎵᏁ ᎤᎷᎯᏍᏗ ᏱᎨᏒᎾ.
+000006727|cno-m-chr_1|chr|mp3-test/000006727-Obtain.mp3|ᎣᏤᎵᎢᎬᏁᎯ
+000007880|cno-m-chr_2|chr|mp3-test/000007880-Scant.mp3|ᎦᎷᎶᎩ
+000007603|cno-f-chr_2|chr|mp3-test/000007603-Renewal.mp3|ᎠᏤᎯᏐᏗᏱ
+000003011|cno-f-chr_1|chr|mp3-test/000003011-Allowance.mp3|ᎠᎵᏍᎪᎸᏔᏅᎯ
+000004407|cno-f-chr_2|chr|mp3-test/000004407-Dear.mp3|ᎬᎸᏉᏗ
+000001571|10-chr|chr|mp3-test/000001571-0162-4-07_D4_Track_07-119792.mp3|ᏭᏩᎭᏂᎸ, ᎨᏍᏗ ᏯᎪᏩᏘᏍᎨᎢ ᎢᏳᏍᏘ ᎤᏩᎭᏂᎸ. ᎨᏍᏗ ᏱᏚᏓᏟᏴ ᏲᎾ,
+000001959|10-chr|chr|mp3-test/000001959-0153-5-08_D5_Track_08-000000.mp3|ᎤᏲᎢᏴ ᎤᏕᏘᏴᏌᏗᏒ ᎦᏙᎯᏉ ᎠᏩᏛᏗ ᎪᎰᏍᏗ ᎠᎩᏍᏗ. ᏅᏯ ᏓᎷᎬᏍᎨ ᏥᏍᏛᎾ ᏚᏲᎲ,
+000004119|cno-f-chr_2|chr|mp3-test/000004119-Communicate.mp3|ᏗᏓᏛᎪᏔᏅ
+000006470|cno-m-chr_2|chr|mp3-test/000006470-Mingle.mp3|ᎨᎳᏗᏓᏍᏗ
+000005224|cno-f-chr_5|chr|mp3-test/000005224-Flour.mp3|ᎢᏒᏩᏂᎨ
+000008739|cno-f-chr_2|chr|mp3-test/000008739-Tournament.mp3|ᎠᎾᏓᎪᎾᏛᏗᏍᎬ
+000008694|cno-f-chr_2|chr|mp3-test/000008694-Till.mp3|ᎩᎳ
+000000027|10-chr|chr|mp3-test/000000027-0036-1-03_D01_Track_03-117875.mp3|ᏚᎷᏫᏍᏔᏁᎲ ᏤᎩᏏᏂ. ᎦᏳᎳ ᏧᏭᎪᏔᏅ ᎨᏎ ᎧᏂᎩᏓ
+000007955|cno-m-chr_2|chr|mp3-test/000007955-See.mp3|ᎠᎪᏩᏛᏗ
+000001387|10-chr|chr|mp3-test/000001387-0456-3-22_D03_Track_22-009052.mp3|ᎧᏅᏩᏅ ᏏᏆ ᎭᏫᏯ, ᎪᎢ, ᎠᎹ ᎠᏑᏱ ᎪᏒᏅ, ᎤᏁᎦ ᏎᎷ ᎢᏣ, ᎤᏂᎧᏲᏓ ᏚᏯ,
+000008234|cno-m-chr_2|chr|mp3-test/000008234-Southeast.mp3|ᎤᎦᎾᏭᎧᎸᎬ
+000009196|cno-f-chr_2|chr|mp3-test/000009196-Worrying.mp3|ᎤᏓᏅᏖᏗᏍᎬ
+000004514|cno-f-chr_3|chr|mp3-test/000004514-Detest.mp3|ᎦᎾᏆᏘᏍᏗ
+000001445|10-chr|chr|mp3-test/000001445-0024-4-02_D4_Track_02-000000.mp3|ᎤᎴᏫᏍᏔᏅ ᏚᏟᏂᏆᏛᏅ ᎤᏍᎪᏒ ᎬᏂᎨ ᎦᏙ ᎬᎾᏍᏔ ᎬᏘ ᏃᎴ ᏧᏬᏘᏓ ᏕᎦᏰᏌᏛ,
+000006036|cno-f-chr_2|chr|mp3-test/000006036-Keg.mp3|ᏒᏙᏂ
+000006464|cno-m-chr_2|chr|mp3-test/000006464-Mills.mp3|ᏗᏍᏙᏍᎩ
+000006605|cno-f-chr_2|chr|mp3-test/000006605-Navy.mp3|ᎠᎺᏉᎯᎠᏂᏯᏫᏍᎩ
+000003007|cno-f-chr_1|chr|mp3-test/000003007-Alligator.mp3|ᏧᎳᏍᎩ
+000008362|cno-m-chr_2|chr|mp3-test/000008362-Stepfather.mp3|ᎤᏘᎿᎤᏙᏓ
+000007639|cno-f-chr_2|chr|mp3-test/000007639-Repulse.mp3|ᎠᏓᏨᏍᏙᏗ
+000003744|cno-m-chr_1|chr|mp3-test/000003744-Brought_forward.mp3|ᎠᏲᎸᎯ
+000003171|cno-f-chr_2|chr|mp3-test/000003171-Approximation.mp3|ᎾᎥᏂᎨᎡᎵᏍᏗ
+000003411|cno-f-chr_2|chr|mp3-test/000003411-Baptist.mp3|ᏗᏓᏬᏍᎩ
+000001507|10-chr|chr|mp3-test/000001507-0094-4-04_D4_Track_04-182912.mp3|ᎦᏣᏄᎸ ᎤᏪᏅᏒ, ᏂᎪᎯᎸᎾ ᏭᎷᏤ ᎨᏴ, ᎨᏓᎵ ᎤᏍᏔᏩᏛᏎ ᎨᏴ.
+000005172|cno-f-chr_2|chr|mp3-test/000005172-Fireproof.mp3|ᎬᏩᎪᎲᏍᏗᏂᎨᏒᎾ
+000003798|cno-m-chr_1|chr|mp3-test/000003798-Buttons.mp3|ᏗᎦᏘᏗ
+000005634|cno-f-chr_5|chr|mp3-test/000005634-Heavy.mp3|ᎦᎨᏛ
+000005450|cno-m-chr_1|chr|mp3-test/000005450-Goodbye.mp3|ᏗᏓᏲᎵᎲᏛᎦᎴᏂᏍᎬ
+000005146|cno-f-chr_2|chr|mp3-test/000005146-Fight.mp3|ᎠᎳᏍᏗ
+000001791|10-chr|chr|mp3-test/000001791-0424-4-19_D4_Track_19-081822.mp3|ᎤᏩᏙᎯᏴᏓ ᎨᏒ, ᏰᎵ ᏧᏕᏘᏴᏓ ᎦᏁᎸᏗᏍᎬ ᎠᎩᏩᏛᏗ ᎦᏅᏅ ᎭᎾᎾ ᏫᎦᎷᎩ.
+000007858|cno-m-chr_2|chr|mp3-test/000007858-Satisfy.mp3|ᎣᏏᎠᏰᎸᏗ
+000000291|10-chr|chr|mp3-test/000000291-0323-1-11_D01_Track_11-226805.mp3|ᎠᏯ ᎠᏆᏤᎵ ᏕᎷᎨ ᎤᎵᏏᎩ ᏃᎴ ᏓᎶᏂᎨ ᏃᏥ ᏑᎦᏔ ᏗᏥᎶᏍᏗ ᎨᏒ.
+000005686|cno-f-chr_2|chr|mp3-test/000005686-Hit.mp3|ᎠᏓᏛᎾᏍᏗ
+000005230|cno-f-chr_5|chr|mp3-test/000005230-Flurry.mp3|ᎫᏘᏍᎬ
+000000987|10-chr|chr|mp3-test/000000987-0588-2-23_D02_Track_23-106085.mp3|ᎦᎶᎯᏍᏗᏳᎳ ᏥᏙᎬ ᏥᏯᎦᏎᏍᏗ ᏓᎭᎾᏩᎩᏍᎬ ᏅᏙ ᎠᎦᎵᏍᎬ. ᎪᎩ ᎨᏒ,
+000005130|cno-f-chr_2|chr|mp3-test/000005130-Fewer.mp3|ᎦᏲᎳᎨᎢᏍᏗ
+000005896|cno-f-chr_2|chr|mp3-test/000005896-Initiate.mp3|ᎠᏓᏕᎳᏗᏍᏗ
+000000144|10-chr|chr|mp3-test/000000144-0163-1-07_D01_Track_07-008805.mp3|ᏴᏫ ᏗᏘᏂᏙᎯ ᎠᏩᏛᏗ. ᏧᏒᎯᏓ ᏥᏯᎥ ᏴᏫ ᏗᏘᏂᏙᎯ ᏥᏯᎥ
+000005445|cno-f-chr_2|chr|mp3-test/000005445-Going.mp3|ᏓᏰᏏ
+000004608|cno-f-chr_3|chr|mp3-test/000004608-District.mp3|ᏍᎦᏚᎩ
+000006799|cno-m-chr_2|chr|mp3-test/000006799-Oral.mp3|ᎧᏁᏨᎯ
+000007459|cno-f-chr_2|chr|mp3-test/000007459-Reach.mp3|ᎠᏙᏯᏅᎯᏗᏍᏗ
+000009149|cno-f-chr_2|chr|mp3-test/000009149-Wish.mp3|ᎠᏚᎳᏗ
+000005497|cno-f-chr_2|chr|mp3-test/000005497-Greeting.mp3|ᎤᎵᎮᎵᏤᏘ
+000006863|cno-m-chr_2|chr|mp3-test/000006863-Overhear.mp3|ᎠᏓᏛᎦᏁᏗ
+000006695|cno-m-chr_1|chr|mp3-test/000006695-Number.mp3|ᏎᏍᏗ
+000008440|cno-m-chr_2|chr|mp3-test/000008440-Stunk.mp3|ᎦᏩᏒᎬᎩ
+000000812|10-chr|chr|mp3-test/000000812-0361-2-14_D02_Track_14-088475.mp3|ᎠᎦᏗᏛ ᎠᏛᏍᎩ ᎤᎾᏗᏍᎦᎶᏗ. ᎬᏂᎨᏒ ᏄᏍᏛᎢ ᎦᏙᎯ,
+000004945|cno-f-chr_3|chr|mp3-test/000004945-Evidence.mp3|ᎪᎯᏳᏙ
+000002942|cno-f-chr_2|chr|mp3-test/000002942-Advent.mp3|ᎠᏓᏁᏟᏴᏍᎬ
+000003089|cno-f-chr_2|chr|mp3-test/000003089-Anger.mp3|ᎤᏔᎳᏬᏍᎬ
+000003990|cno-f-chr_2|chr|mp3-test/000003990-Chiefly.mp3|ᏭᏂᎬᏫᏳᏒ
+000004249|cno-m-chr_1|chr|mp3-test/000004249-Convict.mp3|ᏧᏚᎪᏓᏁᏗ
+000000292|10-chr|chr|mp3-test/000000292-0324-1-11_D01_Track_11-236935.mp3|ᎬᏂᎨ ᎦᏌᎴᏅ ᎠᏆᎭᏄᏮ, ᎠᏆᏛᏍᏛ ᏓᎾᎵᎪᎲᏍᎬ ᎠᏆᏍᏚᎸ, ᎾᏍᎩᏯ ᎠᏆᏯᏨ
+000001224|10-chr|chr|mp3-test/000001224-0254-3-13_D03_Track_13-057882.mp3|ᎤᎾᎵᏓᎩᏛ ᎠᎹᏱ ᏚᏦᏒ ᎾᎥᏂ, ᏔᎵ ᎠᎴ ᏦᎢ ᏧᏙᏓᏆᏓ ᎡᏅᏓ.
+000003623|cno-m-chr_1|chr|mp3-test/000003623-Boiler.mp3|ᎠᎵᏢᏙᏗ
+000007571|cno-f-chr_2|chr|mp3-test/000007571-Relieved.mp3|ᎠᏥᏍᏕᎸᎲ
+000006857|cno-m-chr_2|chr|mp3-test/000006857-Overcome.mp3|ᎤᏓᏢᏔᏍᏗ
+000006614|cno-f-chr_2|chr|mp3-test/000006614-Neck.mp3|ᎠᎩᎳᎨᏂ
+000008996|cno-f-chr_2|chr|mp3-test/000008996-Wage.mp3|ᎠᏓᏠᏍᎩ
+000004737|cno-f-chr_3|chr|mp3-test/000004737-Eatable.mp3|ᎬᎩᏍᏗ
+000008737|cno-f-chr_2|chr|mp3-test/000008737-Touching.mp3|ᎠᏒᏂᎲᎢ
+000003195|cno-f-chr_2|chr|mp3-test/000003195-Arrive.mp3|ᎤᎷᏨ
+000006347|cno-m-chr_2|chr|mp3-test/000006347-Martyr.mp3|ᏗᏁᎶᏗᎤᏍᏛᏗᏍᎩ
+000007758|cno-m-chr_1|chr|mp3-test/000007758-Roller_skate.mp3|ᏧᎾᏦᎸᏙᏗ
+000005575|cno-f-chr_5|chr|mp3-test/000005575-Happened.mp3|ᏄᎵᏍᏔᏅᎩ
+000001314|10-chr|chr|mp3-test/000001314-0375-3-18_D03_Track_18-075682.mp3|ᎤᎾᏗᏍᎦᏟ. ᏣᎵ ᎨᏍᏗ ᏗᏟ ᏱᎩ. ᏥᏲᎵᎩ. ᎠᏫᏒᎥᏍᎩ.
+000008113|cno-f-chr_2|chr|mp3-test/000008113-Single.mp3|ᏏᏴᏫ
+000000489|10-chr|chr|mp3-test/000000489-0565-1-19_D01_Track_19-167325.mp3|ᎠᏤ ᎤᏔᏂᏓ ᎦᎵᏦᏕ ᎠᏂᏂᎩᎸ. ᎤᏂᎷᏣ ᏗᎾᏦᏏᏙ,
+000000860|10-chr|chr|mp3-test/000000860-0422-2-17_D02_Track_17-064415.mp3|ᎠᏫᎾᎨᏍᏗ ᎨᏒ ᎠᏯ ᎨᏒ, ᏔᎵᎭ ᎠᎴ ᏦᎢᎭ ᏧᏕᏘᏴᏓ ᎠᏫᎾᎨᏍᏗᏱᎩ,
+000008845|cno-m-chr_2|chr|mp3-test/000008845-Two.mp3|ᏔᎵ
+000006994|cno-m-chr_1|chr|mp3-test/000006994-Perfectly.mp3|ᎠᎧᎵᏬᎯ
+000006443|cno-m-chr_2|chr|mp3-test/000006443-Metropolis.mp3|ᏄᎬᏫᏳᏒᎦᏚᎲ
+000004019|cno-m-chr_1|chr|mp3-test/000004019-Circumstances.mp3|ᏂᏚᏍᏗᏓᏅ
+000004506|cno-f-chr_3|chr|mp3-test/000004506-Destroyed.mp3|ᎠᏲᏍᏔᏅ
+000005919|cno-f-chr_5|chr|mp3-test/000005919-Inspired.mp3|ᎤᏓᎵᎦᎵᏍᏔᏅ
+000001162|10-chr|chr|mp3-test/000001162-0179-3-09_D03_Track_09-182152.mp3|ᎤᎾᏕᏗ ᏚᏁᏅᏒ, ᏭᏅᎬᏛ ᎨᏥᏅᎪᏫᏎ ᎠᏙ, ᎾᏍᎩᏯ ᏏᏆ ᎤᎵᎪᎲᏍᏗ.
+000000732|10-chr|chr|mp3-test/000000732-0272-2-11_D02_Track_11-024175.mp3|ᏑᏒᎯᏓ ᏯᏂᎩᏍᎬᎾ ᎤᎩᏓᏟᏅᏯ ᏚᎪᎰᏍᏔᎾ ᏚᏍᏆᏂᎪᏛ
+000007463|cno-f-chr_2|chr|mp3-test/000007463-Read.mp3|ᎥᎪᎵᏰᏍᎬ
+000006819|cno-m-chr_2|chr|mp3-test/000006819-Originate.mp3|ᎠᎴᏅᏙᏗ
+000001126|10-chr|chr|mp3-test/000001126-0135-3-07_D03_Track_07-195182.mp3|ᎤᏁᎦ ᏓᏴᏈᏛ ᎢᏳᏁᎦ ᎨᏎ ᎤᏁᎦᎸ ᎠᎵᏥᏙᎲᏍᎩ. ᎪᏍᏗᎭ
+000006861|cno-m-chr_2|chr|mp3-test/000006861-Overgrow.mp3|ᎤᏛᏐᏅᎯ
+000000670|10-chr|chr|mp3-test/000000670-0195-2-08_D02_Track_08-155405.mp3|ᏚᏄᎪᏔᏅ ᎢᎫᏩᎾᏛᏁᏗ ᏧᏂᏍᏆᏂᎪᏙᏗ ᎤᏅᏌ ᏓᏅᎭᏅ ᏃᎴ ᏧᎬᏩᏟ.
+000008084|cno-f-chr_2|chr|mp3-test/000008084-Sick.mp3|ᎤᏢᎩ
+000002884|cno-f-chr_1|chr|mp3-test/000002884-Ache.mp3|ᎡᎯᏍᏛ
+000006121|cno-f-chr_5|chr|mp3-test/000006121-Lawsuit.mp3|ᏓᏓᎳᏑᎸ
+000007213|cno-m-chr_1|chr|mp3-test/000007213-Prevent.mp3|ᎠᎴᏫᏍᏔᏅ
+000003463|cno-f-chr_2|chr|mp3-test/000003463-Beat.mp3|ᎠᏓᏠᎯᏍᏗ
+000004757|cno-f-chr_3|chr|mp3-test/000004757-Efficient.mp3|ᎠᏏᎾᏍᏛ
+000003156|cno-f-chr_2|chr|mp3-test/000003156-Appointment.mp3|ᏗᏑᏰᏛ
+000001118|10-chr|chr|mp3-test/000001118-0126-3-07_D03_Track_07-109132.mp3|ᏂᎦᎵᏍᏔᏂᏙᎲ ᎠᎾᏨᏏᏰᏍᎬ. ᎤᏂᎾᎥ ᏃᎴ ᏗᎿᏬ ᎦᎳᎨᏴ.
+000003064|cno-f-chr_1|chr|mp3-test/000003064-And_have_taken.mp3|ᎠᎴᎠᎩᎩᏒ
+000008954|cno-m-chr_2|chr|mp3-test/000008954-Vary.mp3|ᏧᏓᎴᎾᎯ
+000008603|cno-m-chr_2|chr|mp3-test/000008603-Tendency.mp3|ᏫᏚᏳᎪᏛ
+000003434|cno-f-chr_2|chr|mp3-test/000003434-Basin.mp3|ᎠᏟᏍᏙᏗ
+000004533|cno-f-chr_3|chr|mp3-test/000004533-Did_you_have_anything.mp3|ᎪᎱᏍᏗᏍᎪᏤᎢ
+000006196|cno-f-chr_2|chr|mp3-test/000006196-Limp.mp3|ᎠᏓᏕᎬ
+000000298|10-chr|chr|mp3-test/000000298-0334-1-12_D01_Track_12-016505.mp3|ᎦᏕᎶᎣᏍᎦ ᏗᎵᏍᏇᏔᏬ ᎢᏗᏅᏁ ᏃᎴ ᏗᎳᏑᎶ ᎢᏗᏅᏁ
+000001358|10-chr|chr|mp3-test/000001358-0423-3-20_D03_Track_20-124882.mp3|ᎣᏂ ᎠᏁᎯ ᏗᏂᏲᏟ ᎠᏂᎨᏯ ᏧᏪᏛᏨ ᏧᏅᏣᏘ ᏚᎾᏏᏃᎲ ᎣᏁ ᏛᎾᎦᏘᏍᎬ.
+000006469|cno-m-chr_2|chr|mp3-test/000006469-Miner.mp3|ᏥᏃᏍᎦᎦᎴᏍᎩ
+000004369|cno-f-chr_2|chr|mp3-test/000004369-Damp.mp3|ᎦᏚᎵᏓ
+000008727|cno-f-chr_2|chr|mp3-test/000008727-Torch.mp3|ᎠᏨᏍᏓᏙᏗ
+000005055|cno-f-chr_5|chr|mp3-test/000005055-Fare.mp3|ᎠᏦᏗᏧᎬᏩᎶᏗ
+000005771|cno-f-chr_3|chr|mp3-test/000005771-Hurried.mp3|ᎬᏅᏨᎯ
+000001131|10-chr|chr|mp3-test/000001131-0142-3-08_D03_Track_08-038942.mp3|ᎣᏂ ᏫᎦᎢᏒ ᎠᏆᏛᎪᏔᏅ ᎠᎵᏥᏙᎲᏍᎬ, ᎠᏎᎩ ᎠᏂᏍᎦᎢᎮ ᎠᏂᎱᏣ, ᏓᏂᎪᏩᏘᏍᎬ
+000007891|cno-m-chr_2|chr|mp3-test/000007891-Scene.mp3|ᏗᎧᏃᏗ
+000006595|cno-f-chr_2|chr|mp3-test/000006595-Narcotic.mp3|ᎠᏓᎵᏔᏗᏍᎩ
+000005900|cno-f-chr_2|chr|mp3-test/000005900-Injury.mp3|ᎠᏥᏐᏅᏅ
+000003308|cno-f-chr_2|chr|mp3-test/000003308-At_once.mp3|ᏄᎵᏍᏛᎢ
+000004191|cno-m-chr_1|chr|mp3-test/000004191-Consequences.mp3|ᎢᎬᏩᎵᏍᏙᏗ
+000000723|10-chr|chr|mp3-test/000000723-0262-2-10_D02_Track_10-177025.mp3|-ᎡᎳᏗ ᏭᏂᎶᏎ ᏭᏂᎷᎯᏍᏗ ᎠᏤᎯ ᏣᎳᎩᏱ ᎠᏰᎵ,
+000000613|10-chr|chr|mp3-test/000000613-0126-2-05_D02_Track_05-014975.mp3|ᎤᏂᏥᏍᏔᏢ ᎾᎥᏂᎨ ᎤᏂᏴᏍᎩᎷᏓ. ᏩᎩᎷᏣ ᏩᏯ, ᏦᎢ ᎢᏳᏪᏅᏍᏗ
+000007236|cno-m-chr_1|chr|mp3-test/000007236-Prison.mp3|ᏗᏓᏍᏚᏗ
+000000465|10-chr|chr|mp3-test/000000465-0533-1-18_D01_Track_18-151295.mp3|ᎠᏁᎵᏍᎩ ᏃᎴ ᎠᎦᏓ ᎤᎾᏓᏎᎳᏓᏅ.
+000003017|cno-f-chr_1|chr|mp3-test/000003017-Almost.mp3|ᎾᎥᏂᎨᏍᏗ
+000006864|cno-m-chr_2|chr|mp3-test/000006864-Overload.mp3|ᎧᎵᎤᎶᏒᏍᏗ
+000004985|cno-f-chr_3|chr|mp3-test/000004985-Exist.mp3|ᎬᏂᎨᏒᏄᏍᏗ
+000004790|cno-f-chr_3|chr|mp3-test/000004790-Elevate.mp3|ᎠᎵᏌᎳᏙᏗ
+000001960|10-chr|chr|mp3-test/000001960-0154-5-08_D5_Track_08-010172.mp3|ᏐᏉᎯᎭ ᏓᏩᏘᏍᎬ ᏧᏂᏄᏌᏘ ᏓᏍᎫᏆᏓᎩᏍᎨ ᏃᎴ ᏂᏕᎬᎾᏓᎩᏍᎨ
+000001392|10-chr|chr|mp3-test/000001392-0464-3-22_D03_Track_22-084872.mp3|ᎤᎪᏗ ᎤᎧᏔ, ᎤᏂᎧᏲᏓ ᏆᎾ ᏧᏑᏴᏗ ᏃᎴ ᎠᎦᏗᏛ ᏭᎵᏗ ᎠᏑᏴᏗ ᏃᎴ
+000005154|cno-f-chr_2|chr|mp3-test/000005154-Filled.mp3|ᎠᎧᎵᎸᎯ
+000008276|cno-m-chr_2|chr|mp3-test/000008276-Splendid.mp3|ᏗᏙᎳᎩ
+000006032|cno-f-chr_5|chr|mp3-test/000006032-Keep.mp3|ᎠᏍᏆᏂᎪᏙᏗ
+000006248|cno-m-chr_2|chr|mp3-test/000006248-Loot.mp3|ᎠᏓᎩᎡᎸ
+000006336|cno-m-chr_2|chr|mp3-test/000006336-Margin.mp3|ᏧᎬᏩᎶᏗᎢ
+000004114|cno-f-chr_3|chr|mp3-test/000004114-Committed.mp3|ᎾᏛᏁᎸ
+000001188|10-chr|chr|mp3-test/000001188-0210-3-11_D03_Track_11-076352.mp3|ᏚᏬᎯᏳᏅ ᎦᏙ ᏕᎩᏂᏲᎲ ᏃᎴ ᏳᏃᎯᏳᎲᎾ ᎨᏒ ᏕᎪᏪᎸ ᏕᎦᏙᎥ ᏁᎳᎩ ᎤᏪᎵᏍᏗ.
+000005343|cno-f-chr_5|chr|mp3-test/000005343-Fundamental.mp3|ᏄᎬᏫᏳᏒᏗᎳᏏᏙᏗ
+000003959|cno-f-chr_2|chr|mp3-test/000003959-Charge.mp3|ᏓᎬᏩᎶᏗ
+000005585|cno-f-chr_2|chr|mp3-test/000005585-Hardware.mp3|ᏔᎷᎩᏍᎩ
+000006188|cno-f-chr_2|chr|mp3-test/000006188-Likely.mp3|ᏄᏓᎷᎸᎾ
+000005664|cno-f-chr_5|chr|mp3-test/000005664-Hidden.mp3|ᎬᏍᎦᎸ
+000005517|cno-f-chr_2|chr|mp3-test/000005517-Growing.mp3|ᎠᏛᏏᏒ
+000006488|cno-f-chr_2|chr|mp3-test/000006488-Misfortune.mp3|ᎤᏲᎢᏳᏓᎵᏍᏓᏁᏗ
+000006207|cno-m-chr_2|chr|mp3-test/000006207-Literature.mp3|ᎪᏪᎵᏅᎤ
+000003066|cno-f-chr_1|chr|mp3-test/000003066-And_I_am.mp3|ᎠᎴᎠᏴ
+000001069|10-chr|chr|mp3-test/000001069-0072-3-05_D03_Track_05-027002.mp3|ᏗᎪᏒᏔᏅ ᏧᏃᏩ ᏃᎴ ᎢᎯᏯ ᏗᎪᏒᏔᏅ ᏗᎵᏍᏔᏴᏙᏗ ᏓᏅᏗᏍᎬ.
+000008567|cno-m-chr_2|chr|mp3-test/000008567-Taught.mp3|ᏚᏕᏲᏅᎩ
+000006778|cno-m-chr_2|chr|mp3-test/000006778-Openly.mp3|ᎬᏩᎵᏍᏚᎢᏛ
+000000441|10-chr|chr|mp3-test/000000441-0504-1-17_D01_Track_17-174015.mp3|ᎤᏩᎦᏘᎶᏗ ᎠᏇᏙᎸ ᎢᏤ ᎢᏦᏛ,
+000001700|10-chr|chr|mp3-test/000001700-0323-4-15_D4_Track_15-046092.mp3|ᎠᏓᏍᏕᏓᎵᏴᏍᎪ. ᏂᎦᏓ ᎠᏲᏣᏃᎲᏍᎬ. ᏲᎾ ᏃᎴ ᏂᎦᏓ
+000008437|cno-m-chr_2|chr|mp3-test/000008437-Stumble.mp3|ᎤᏓᎾᏍᏆᎶᏍᏗ
+000000464|10-chr|chr|mp3-test/000000464-0532-1-18_D01_Track_18-146075.mp3|ᏧᏴᏨᏗᏣ ᏓᏳᏂᎶᏒ ᏴᏫ ᎠᎦᏓ ᎣᏏᏉ
+000008545|cno-m-chr_2|chr|mp3-test/000008545-Tale.mp3|ᎠᏓᏃᎮᏗ
+000008266|cno-m-chr_2|chr|mp3-test/000008266-Spider.mp3|ᎧᎿᏁᏍᎩ
+000003540|cno-f-chr_2|chr|mp3-test/000003540-Bias.mp3|ᎤᏞᏴᏍᏗ
+000004148|cno-f-chr_3|chr|mp3-test/000004148-Compound.mp3|ᎠᏍᎤᏰᎲᎯ
+000006448|cno-m-chr_2|chr|mp3-test/000006448-Middle_aged.mp3|ᎠᏰᎵᏴᎢᏳᏕᏘᏴᏓ
+000006826|cno-m-chr_2|chr|mp3-test/000006826-Others.mp3|ᎠᏂᏐᎢ
+000005380|cno-f-chr_5|chr|mp3-test/000005380-Garage.mp3|ᎠᏝᏗᏝᎢᎠᏗ
+000009173|cno-f-chr_2|chr|mp3-test/000009173-Wondered.mp3|ᎠᏍᏆᏂᎪᏒᎯ
+000008602|cno-m-chr_2|chr|mp3-test/000008602-Tenant.mp3|ᎠᏥᎾᏝᎢ
+000007333|cno-f-chr_2|chr|mp3-test/000007333-Publish.mp3|ᏗᎦᏃᏣᎸᏗ
+000003812|cno-m-chr_1|chr|mp3-test/000003812-By_telephone.mp3|ᏧᎾᎵᏃᎮᏗ
+000008629|cno-f-chr_2|chr|mp3-test/000008629-Their.mp3|ᎤᎾᏤᎵ
+000007799|cno-m-chr_2|chr|mp3-test/000007799-Running.mp3|ᎠᏓᏟᏒᎢ
+000005661|cno-f-chr_5|chr|mp3-test/000005661-Hew.mp3|ᎦᎷᏯᏍᏗ
+000007243|cno-m-chr_1|chr|mp3-test/000007243-Probe.mp3|ᎠᎦᏛᏗ
+000008639|cno-f-chr_2|chr|mp3-test/000008639-Thereof.mp3|ᏂᏛᏓᎴᎲᏍᎩ
+000001202|10-chr|chr|mp3-test/000001202-0228-3-12_D03_Track_12-053562.mp3|ᎨᏍᏗ ᎤᏂᎪᏫ ᏱᎨᏎ ᎢᎾᎨ ᎡᎯ ᎤᏛᏂᏗᎨᏍᏗ ᎣᎦᎾ, ᏩᏌᏅ ᎤᎾᏓᏅᏖᏗᏍᎬ.
+000000041|10-chr|chr|mp3-test/000000041-0051-1-03_D01_Track_03-238955.mp3|ᏂᏚᏍᏕ. ᏚᏑᎦ ᏧᏆᎶᎦ ᎪᏒᏔᏅ ᎤᎵᏍᏇᏚᎨ.
+000005816|cno-f-chr_2|chr|mp3-test/000005816-Impersonate.mp3|ᎠᏠᎾᏍᏙᏗ
+000007006|cno-m-chr_1|chr|mp3-test/000007006-Permission.mp3|ᎤᏁᎳᎩᎡᎵᏒᎢ
+000003480|cno-f-chr_2|chr|mp3-test/000003480-Bedstead.mp3|ᎦᏂᏜᏗᏍᏗ
+000008808|cno-m-chr_2|chr|mp3-test/000008808-Troubles.mp3|ᏧᏦᎠᏎᏗ
+000004581|cno-f-chr_3|chr|mp3-test/000004581-Discretion.mp3|ᎣᏩᏒᎠᏓᏅᏖᏗ
+000007990|cno-f-chr_2|chr|mp3-test/000007990-Sentimental.mp3|ᏄᏍᏛᏁᎵᏍᎬ
+000006498|cno-f-chr_2|chr|mp3-test/000006498-Mistaken.mp3|ᎦᎵᏓᏍᏔᏅ
+000000861|10-chr|chr|mp3-test/000000861-0423-2-17_D02_Track_17-073195.mp3|ᎠᎦᏗᏓ ᏅᏩᏍᏙ. ᎤᏒ ᎢᏴ ᎦᏬᏂᏍᎬ, ᎠᏆᏛᎦᏍᏙ,
+000007298|cno-f-chr_2|chr|mp3-test/000007298-Prose.mp3|ᎧᎵᏂᏓᏙᎳᎬᎾ
+000005645|cno-f-chr_5|chr|mp3-test/000005645-Helps.mp3|ᏧᎾᎵᏍᏕᎸᏗ
+000004276|cno-f-chr_2|chr|mp3-test/000004276-Cost.mp3|ᏓᎬᏩᎶᏛ
+000005264|cno-f-chr_5|chr|mp3-test/000005264-Forecast.mp3|ᎠᏕᎶᎰᎯᏍᏗ
+000006921|cno-m-chr_2|chr|mp3-test/000006921-Particulars.mp3|ᎾᏍᎩᎾᏕᎨᏒ
+000001864|10-chr|chr|mp3-test/000001864-0047-5-03_D5_Track_03-080432.mp3|ᎠᎪᎾ ᏧᏂᏲᏏᏍᎩ ᏃᎴ ᎤᎾᎵᏗᎩᏏᏗᏒ, ᏁᏂᏏ ᎠᏰᎸ ᎤᏂᎳᏗᏍᎬ
+000009207|cno-f-chr_2|chr|mp3-test/000009207-Wove.mp3|ᎬᏅᎯ
+000007326|cno-f-chr_2|chr|mp3-test/000007326-Prudent.mp3|ᎤᎳᏏᎾᎯᏍᏗ
+000007493|cno-f-chr_5|chr|mp3-test/000007493-Recline.mp3|ᎠᏗᎦᎸᏗ
+000005327|cno-f-chr_5|chr|mp3-test/000005327-Front.mp3|ᎢᎬᏱᏗᏢ
+000005037|cno-f-chr_5|chr|mp3-test/000005037-Fall.mp3|ᎤᎶᏒᎩ
+000001522|10-chr|chr|mp3-test/000001522-0110-4-05_D4_Track_05-106672.mp3|ᎾᎥᏂ ᎤᏁᎦ ᎦᏩᏐᎥᏍᎬ ᏃᎴ ᎭᏫᏂ ᎬᏂᎨ ᎦᏁᎲ. ᏰᎵ ᎠᏓᏅᏖᏍᎬ ᏲᎾ ᎣᏍᏓ
+000003252|cno-f-chr_2|chr|mp3-test/000003252-As_you_are_aware.mp3|ᎯᎦᏔᎲᎢᎩ
+000005997|cno-f-chr_5|chr|mp3-test/000005997-Jerusalem.mp3|ᏥᎷᏏᎳᎻ
+000007686|cno-f-chr_2|chr|mp3-test/000007686-Restrain.mp3|ᎠᏓᏲᏍᏓᏁᏗ
+000005761|cno-f-chr_3|chr|mp3-test/000005761-Hunch.mp3|ᎤᏬᏘᏒ
+000005360|cno-f-chr_5|chr|mp3-test/000005360-Fussy.mp3|ᎠᎵᏍᎦᏃᏍᎩ
+000007017|cno-f-chr_2|chr|mp3-test/000007017-Personate.mp3|ᏗᏓᏟᎶᏍᏙᏗ
+000004165|cno-f-chr_3|chr|mp3-test/000004165-Confidential.mp3|ᎤᏕᎵᏛ
+000006087|cno-m-chr_1|chr|mp3-test/000006087-Laid.mp3|ᎠᏝᏅᎯ
+000007185|cno-f-chr_5|chr|mp3-test/000007185-Precious.mp3|ᎦᎸᏉᏗ
+000007862|cno-m-chr_2|chr|mp3-test/000007862-Savage.mp3|ᎨᏯᏔᎯ
+000000654|10-chr|chr|mp3-test/000000654-0178-2-08_D02_Track_08-034195.mp3|ᏚᏅᏓᏒ ᏳᏂᎷᏣ ᎠᏂᏲᏍᎩ, ᏳᏂᏗᏍᎩᏌᎾ ᏂᎦᏓ ᎠᏂᏣᎳᎩ,
+000004327|cno-f-chr_2|chr|mp3-test/000004327-Creatures.mp3|ᏕᏁᎳᏅᎯ
+000003201|cno-f-chr_2|chr|mp3-test/000003201-Arson.mp3|ᎦᎵᏦᏕᎠᏓᎪᎲᏍᏓᏁᎯ
+000001436|10-chr|chr|mp3-test/000001436-0013-4-01_D4_Track_01-107912.mp3|ᎠᏓ ᎬᏘ ᏓᏥᎶᏍᏗᏍᎨ ᎡᎳᏗᏨ ᎠᏰᎸᎢ ᎾᏍᎩᏯ ᏥᏓᎾᏥᎶᏍᏗᏍᎪ ᏧᏃᏰᏅ ᏗᏂᏲᏟ.
+000000997|10-chr|chr|mp3-test/000000997-0604-2-24_D02_Track_24-035365.mp3|ᎡᎳᏗ ᏄᏩᏅ ᎠᏍᎪᎵ, ᎤᏍᏘᏰᎬ ᎤᏭᏌᏁᎲ ᎤᎦᏛ.
+000000028|10-chr|chr|mp3-test/000000028-0037-1-03_D01_Track_03-126385.mp3|ᎢᏳᎵᏍᏙᏗ ᎠᏂᏴᏫᏯ.
+000003574|cno-m-chr_1|chr|mp3-test/000003574-Bleed.mp3|ᎠᏔᏍᎩᏍᎬ
+000006101|cno-m-chr_1|chr|mp3-test/000006101-Large.mp3|ᎡᏆ
+000001143|10-chr|chr|mp3-test/000001143-0155-3-08_D03_Track_08-157812.mp3|ᎦᏓᏫᏔᏅ ᎤᎵᎨᏯᏛᏅ ᎤᏲᏍᏔᏅ ᎪᏪᎵ, ᏧᏳᎪᏘ ᏭᏬᏪᎳᏅ ᏄᏪᏒ ᏄᎬᏫᏳᏒ
+000003146|cno-f-chr_2|chr|mp3-test/000003146-Apples.mp3|ᎯᎸᏍᎩᏒᎦᏔ
+000003476|cno-f-chr_2|chr|mp3-test/000003476-Bed_clothes.mp3|ᎦᏂᏢᏗᎿᏬᏍᏗ
+000000788|10-chr|chr|mp3-test/000000788-0334-2-13_D02_Track_13-054855.mp3|ᎧᏃᎮᏛ ᏓᏦᎯᏍᏛ ᎨᎬᏬᎣᏗ. ᎠᎬᏱ ᎠᏛᏛᏅ ᎾᏂᎥ,
+000002917|cno-f-chr_2|chr|mp3-test/000002917-Adjourned.mp3|ᏚᏂᏰᎵᏒ
+000003044|cno-f-chr_1|chr|mp3-test/000003044-Amount_of_premium.mp3|ᎢᎦᎠᏌᏍᏛ
+000006240|cno-m-chr_2|chr|mp3-test/000006240-Look.mp3|ᎭᎦᏔ
+000008512|cno-m-chr_2|chr|mp3-test/000008512-Swan.mp3|ᏌᏌ
+000008957|cno-m-chr_2|chr|mp3-test/000008957-Venture.mp3|ᎠᏁᎸᏙᏗ
+000003279|cno-m-chr_1|chr|mp3-test/000003279-Assist.mp3|ᎠᏓᏍᏕᎸᏗ
+000006547|cno-f-chr_2|chr|mp3-test/000006547-Mothers.mp3|ᏧᏂᏥ
+000000989|10-chr|chr|mp3-test/000000989-0591-2-23_D02_Track_23-128375.mp3|ᎠᏍᏆᏂᎪᎯᏍᏗ, ᏎᎦ ᎠᎪᎵᏰᏗ ᏃᏉ ᏩᏍᏆᏂᎪᏙᏗ.
+000005716|cno-f-chr_2|chr|mp3-test/000005716-Honorable.mp3|ᎠᏥᎸᏉᏗᏳ
+000004102|cno-f-chr_3|chr|mp3-test/000004102-Comfortable.mp3|ᎤᏦᎠᏎᏗᏂᎨᏍᎥᎾ
+000003634|cno-f-chr_2|chr|mp3-test/000003634-Bondmaid.mp3|ᎠᎨᏴᎠᏥᎾᏝᎢ
+000007672|cno-f-chr_2|chr|mp3-test/000007672-Respected.mp3|ᎪᎯᏳᏅᎯ
+000004132|cno-f-chr_3|chr|mp3-test/000004132-Competition.mp3|ᎠᏓᎪᏅᏙᏗᏱ
+000006690|cno-m-chr_1|chr|mp3-test/000006690-Novel.mp3|ᏗᎪᎵᏰᏗᎪᏪᎵ
+000004643|cno-f-chr_3|chr|mp3-test/000004643-Donate.mp3|ᎠᎵᏍᎪᎸᏙᏗ
+000008972|cno-m-chr_2|chr|mp3-test/000008972-Virtue.mp3|ᎾᏍᎦᏅᎾ
+000008301|cno-m-chr_2|chr|mp3-test/000008301-Squeak.mp3|ᎤᏃᏴᎬ
+000003960|cno-f-chr_2|chr|mp3-test/000003960-Charged.mp3|ᏗᎫᏮᎶᏔᏅ
+000007270|cno-m-chr_1|chr|mp3-test/000007270-Profound.mp3|ᏭᏓᎪᎾᏛ
+000001660|10-chr|chr|mp3-test/000001660-0276-4-13_D4_Track_13-045062.mp3|ᏚᏍᎩᎾᏛ ᏚᏅᏓᏒ. ᎣᏍᏓ ᏱᎨᏎ ᎯᎸᎯᏴ ᏗᏥᎪᎥᏱ ᎨᏎ ᏚᏅᏓᏒ ᎤᏛᏅ.
+000004079|cno-m-chr_1|chr|mp3-test/000004079-Coffin.mp3|ᎤᏲᎱᏒᎦᎸᏙᏗ
+000007756|cno-m-chr_1|chr|mp3-test/000007756-Roll.mp3|ᎠᏲᏛᎯ
+000001197|10-chr|chr|mp3-test/000001197-0223-3-12_D03_Track_12-009602.mp3|ᎤᎶᏐᏅ ᏱᎨᏎ, ᎠᏌᎻᏓ ᎤᏩᏌ. ᎨᏍᏗ ᏐᏉ ᎤᏲᎸ ᏱᎨᏎ ᎦᎶᏇ, ᎠᎴᏃ
+000004989|cno-f-chr_3|chr|mp3-test/000004989-Expense.mp3|ᏓᎵᎬᏩᎸᏍᎬ
+000001086|10-chr|chr|mp3-test/000001086-0090-3-06_D03_Track_06-018082.mp3|ᏗᎾᎵᏔᏕᎩ ᎩᏟ ᏗᏒᏓᏆᎶᏍᏗ ᏗᎪᏒᏔᏅ ᏓᏓᏁᎸ ᏃᎴ ᏗᏦᎯ ᏧᏂᎳᏫᎢᏍᏗ,
+000008322|cno-m-chr_2|chr|mp3-test/000008322-Standing.mp3|ᎠᏂᏙᎾᎥ
+000005779|cno-f-chr_3|chr|mp3-test/000005779-Hysteria.mp3|ᎤᏦᎠᏎᏗᏍᎩ
+000005965|cno-m-chr_1|chr|mp3-test/000005965-Involved.mp3|ᎤᏠᏯᏍᏔᏅ
+000001437|10-chr|chr|mp3-test/000001437-0015-4-01_D4_Track_01-127912.mp3|ᎤᏓᏦᏍᏗ ᏃᎴ ᎡᎳᏗ ᎤᏑᎶ ᏗᎦᏅᏍᎨᏂ. ᏃᏗ ᏓᏰᏍᏛᎥᏍᎨ ᎤᏩᏂ ᎠᎴ
+000009074|cno-f-chr_2|chr|mp3-test/000009074-Wench.mp3|ᎠᎨᏴᎠᏥᎾᏝᎢ
+000004366|cno-f-chr_2|chr|mp3-test/000004366-Dairy.mp3|ᏩᎦᏗᎦᏁᎩᎡᏗ
+000000623|10-chr|chr|mp3-test/000000623-0137-2-05_D02_Track_05-101065.mp3|ᎨᎵ ᏃᎴ ᎤᎩᏓᏟᏅᏯ.
+000005460|cno-m-chr_1|chr|mp3-test/000005460-Government.mp3|ᎠᏰᎵᎤᏙᏢᎡ
+000000783|10-chr|chr|mp3-test/000000783-0329-2-13_D02_Track_13-016105.mp3|ᎭᏕᎶᎰᏒ ᏄᏍᏗᏓᏅ ᎠᏰᎵ ᏙᎩᎷᏫᏍᏔᏅᎭ,
+000004280|cno-m-chr_1|chr|mp3-test/000004280-Cottage.mp3|ᎦᎵᏦᏕᎠᏓᏁᎸ
+000007247|cno-m-chr_1|chr|mp3-test/000007247-Proceed.mp3|ᎠᎯᎸᏍᏗ
+000001287|10-chr|chr|mp3-test/000001287-0343-3-17_D03_Track_17-000000.mp3|ᏳᎵᏍᏇᏚᏮᎾ, ᏓᎶᏂᎨ ᎤᏍᏘᏰᎬ ᎤᎵᏍᎩᏃᏘᏍᏛ, ᎢᏳᏓᎵᎭ
+000001160|10-chr|chr|mp3-test/000001160-0176-3-09_D03_Track_09-153232.mp3|ᏯᏛᏁᎵᏍᎬᎾ ᏱᎩ, ᎦᎵ ᏴᏫᏯ ᎦᏬᏂᏍᎩ ᏃᎴ ᎢᏯᏛᏁᏗ ᏩᏍᏛ ᎠᏓᏂ ᎠᏁᏦ,
+000008090|cno-f-chr_2|chr|mp3-test/000008090-Sight.mp3|ᎠᎪᏩᏛᏗ
+000006072|cno-f-chr_2|chr|mp3-test/000006072-Knowing.mp3|ᎥᎦᏔᎲ
+000003309|cno-f-chr_2|chr|mp3-test/000003309-At_present_day.mp3|ᎪᎯᎢᎪᎯ
+000005184|cno-f-chr_5|chr|mp3-test/000005184-Fitted.mp3|ᏰᎵᎢᎩᏛᎢᎬᏁᎸ
+000003347|cno-f-chr_2|chr|mp3-test/000003347-Authority.mp3|ᏓᎳᏏᏛ
+000001773|10-chr|chr|mp3-test/000001773-0402-4-18_D4_Track_18-091442.mp3|ᏣᏂᎦᏴᎵ ᏚᏂᏏᏩᏍᎬ, ᎭᏫᏂ ᎤᎾᏛᎶᏗ ᎤᏃᏴᎬ. ᎤᎾᏓᏓᏍᎬ
+000006430|cno-m-chr_2|chr|mp3-test/000006430-Merit.mp3|ᏄᏍᏛ
+000003908|cno-m-chr_1|chr|mp3-test/000003908-Case.mp3|ᎦᎸᏛᎧᏁᏌᎢ
+000004957|cno-f-chr_3|chr|mp3-test/000004957-Examined.mp3|ᎠᎦᏎᏍᏔᏅ
+000006945|cno-m-chr_1|chr|mp3-test/000006945-Pathway.mp3|ᎦᎶᎯᏍᏗ
+000008721|cno-f-chr_2|chr|mp3-test/000008721-Tools.mp3|ᎪᎱᏍᏗᏗᎬᏔᏂᏓᏍᏗ
+000001690|10-chr|chr|mp3-test/000001690-0312-4-14_D4_Track_14-126072.mp3|ᎯᎸᏍᎩ ᎢᏯᎦᏴᎵ ᏕᎯᏅᎪᏩ ᎪᎰᏍᏗ ᏳᎵᏍᏔᏅᎾ. ᏙᎢᏳᏍᏗ ᏲᎩᏂᏃᎯᏎᎴ ᎦᏲᏟ
+000001958|10-chr|chr|mp3-test/000001958-0151-5-07_D5_Track_07-216022.mp3|ᎠᎾᏓᏌᎩᏙᎲ, ᎩᎦ ᎠᏔᏍᎩᏍᎨ ᏃᎴ ᎤᎾᏑᎩᏍᏔᏅ ᎨᏎ, ᎠᏎᏃ ᎨᏍᏗ ᎪᎰᏍᏗ
+000007916|cno-m-chr_2|chr|mp3-test/000007916-Scorch.mp3|ᎤᎴᏴᏒ
+000007593|cno-f-chr_2|chr|mp3-test/000007593-Remitting.mp3|ᏫᏓᏂᎲᏍᎬ
+000003813|cno-m-chr_1|chr|mp3-test/000003813-By_this_means.mp3|ᎯᎠᏊᎢᎬᏂᏏᏏᏍᎩ
+000002030|10-chr|chr|mp3-test/000002030-0230-5-11_D5_Track_11-064942.mp3|ᏍᎪᏁ ᎢᏴ ᏥᎪᏩᏘᏍᎬ ᎣᎩᏃᏔᏅ, ᏣᎵ, ᎭᎾᎾ ᏙᎩᎾᏅ ᎤᎵᏨᏓᏆᏓ ᎣᏍᏘᏬᏂᏍᎬ.
+000005278|cno-f-chr_5|chr|mp3-test/000005278-Formal.mp3|ᎢᎬᏱᎦᏰᎯ
+000005616|cno-f-chr_2|chr|mp3-test/000005616-Heaps.mp3|ᎤᏂᎪᏗᏗ
+000007946|cno-m-chr_2|chr|mp3-test/000007946-Secret.mp3|ᎤᏕᎵᏓ
+000007974|cno-m-chr_2|chr|mp3-test/000007974-Selfish.mp3|ᎤᏓᎸᏉᏗ
+000003556|cno-m-chr_1|chr|mp3-test/000003556-Birthmark.mp3|ᎤᏙᏪᎸ
+000008486|cno-m-chr_2|chr|mp3-test/000008486-Supplying.mp3|ᏓᏓᏁᎲᎢ
+000000743|10-chr|chr|mp3-test/000000743-0283-2-11_D02_Track_11-100945.mp3|ᎠᎦᏘᏰᏍᏗ ᎤᏪᏅᎢᏍᏗ ᎠᏂᏐ ᎤᏁᎾᎢ ᎠᏂᏴᏫᏯ ᏄᎾᏍᏛ.
+000008569|cno-m-chr_2|chr|mp3-test/000008569-Taxes.mp3|ᎠᏰᎵᏗᎫᏴᏗ
+000008441|cno-m-chr_2|chr|mp3-test/000008441-Stunt.mp3|ᎾᏛᏍᎬᎾ
+000006370|cno-m-chr_2|chr|mp3-test/000006370-Matured.mp3|ᎤᏩᎾᏒᎤᏛᏐᏅ
+000008896|cno-m-chr_2|chr|mp3-test/000008896-Unfortunate.mp3|ᎡᏍᎦᎢᏳᎵᏍᏓᏁᎯ
+000006499|cno-f-chr_2|chr|mp3-test/000006499-Mistakes.mp3|ᎤᏂᎵᏓᏍᏔᏅ
+000007099|cno-f-chr_5|chr|mp3-test/000007099-Pledged.mp3|ᎠᏚᏓᎸᏅᎯ
+000000673|10-chr|chr|mp3-test/000000673-0198-2-08_D02_Track_08-181105.mp3|ᏯᏂᎷᎬᎾ ᏥᎨᏎ ᎠᏂᏳᏩᏁᎦ, ᎠᏂᏴᏫᏯ ᏓᎾᏟᎲ ᎩᎦᎭ ᎨᏎ,
+000008382|cno-m-chr_2|chr|mp3-test/000008382-Stood.mp3|ᎦᏙᎬ
+000009203|cno-f-chr_2|chr|mp3-test/000009203-Worthy.mp3|ᏧᎬᏩᎶᏗᏯ
+000005691|cno-f-chr_2|chr|mp3-test/000005691-Hoe.mp3|ᎦᎶᎪᏗ
+000003304|cno-f-chr_2|chr|mp3-test/000003304-At_first.mp3|ᎢᎬᏱᎢ
+000005223|cno-f-chr_5|chr|mp3-test/000005223-Floral.mp3|ᎠᏂᏥᎸᏍᎩ
+000003677|cno-f-chr_2|chr|mp3-test/000003677-Boyhood.mp3|ᎠᏧᏣᎨᏒ
+000000659|10-chr|chr|mp3-test/000000659-0183-2-08_D02_Track_08-070095.mp3|ᏣᎢ ᎢᏳᏩᎬᏘ ᏩᏇᏙᎸ ᏩᏏᏓᏂ ᏍᎩᏴ ᏚᏕᏘᏴᏌᏗᏒ,
+000005306|cno-f-chr_5|chr|mp3-test/000005306-Frame.mp3|ᎦᎸᏙᏗ
+000007591|cno-f-chr_2|chr|mp3-test/000007591-Remittances.mp3|ᏫᏚᏂᏁᎸᎯ
+000000649|10-chr|chr|mp3-test/000000649-0173-2-08_D02_Track_08-000075.mp3|ᎨᎵᏍᎬᏃ ᏯᏇᏅᏎᏉ ᏩᏏᏓᏂ,
+000008212|cno-m-chr_2|chr|mp3-test/000008212-Song.mp3|ᎧᏃᎩᏍᏗ
+000005775|cno-f-chr_3|chr|mp3-test/000005775-Husk.mp3|ᎤᏄᎶᏔᏅ
+000003085|cno-f-chr_2|chr|mp3-test/000003085-And_will_be_governed.mp3|ᎠᎴᎠᏍᏓᏩᏛᏍᏗ
+000001817|10-chr|chr|mp3-test/000001817-0451-4-20_D4_Track_20-036642.mp3|ᎠᏎᏃ ᎯᎸᎯᏳ ᏥᎨᏎ ᎤᏐᏱ ᎨᏎ. ᏚᎾᏓᏒ ᎤᏂᎨᎲᏎ,
+000006444|cno-m-chr_2|chr|mp3-test/000006444-Mew.mp3|ᏪᏌᏂᎦᏪᏍᎬ
+000000445|10-chr|chr|mp3-test/000000445-0509-1-17_D01_Track_17-210135.mp3|ᎠᏍᎦᏯᏱ ᎠᏓᎾᏅᎥᏍᎩ ᏃᎴ ᎠᏙᎩᏯᏛ, ᎤᏍᏗ ᎠᏍᎦᏯ ᎤᏨᏉᏗ,
+000003135|cno-f-chr_2|chr|mp3-test/000003135-Apparently.mp3|ᎬᎪᏩᏛᏘᏉ
+000004296|cno-m-chr_1|chr|mp3-test/000004296-Coupe.mp3|ᎠᏂᏔᎵᎤᎾᏦᏙᏗ
+000001235|10-chr|chr|mp3-test/000001235-0265-3-13_D03_Track_13-160542.mp3|ᎢᏗᎦᎵᏍᏗᏍᎩ ᏱᎨᏒᎾ, ᏩᏚᎵᏏ ᎤᏃᏒᏅ ᏧᏂᏅᎵᏰᏛ. ᏗᎦᏯᎱᎶ ᏃᎴ ᎤᏩᏂ
+000003459|cno-f-chr_2|chr|mp3-test/000003459-Bearer.mp3|ᎠᏱᏙᎯ
+000008907|cno-m-chr_2|chr|mp3-test/000008907-Unworthy.mp3|ᎤᏰᎵᏘᏂᎨᏒᎾ
+000001250|10-chr|chr|mp3-test/000001250-0297-3-15_D03_Track_15-000000.mp3|ᎠᏆᏕᎶᎰᏒ ᎠᏂᏧᏣ ᎠᏅᏗᏍᎬ ᏍᎩᎾᎾ ᎢᎦᏪᏍᏗ ᏳᏂᏬᏂᏌ, ᎠᏎᏃ ᏄᏓᎴ ᎤᏰᎸᏛ
+000000888|10-chr|chr|mp3-test/000000888-0458-2-18_D02_Track_18-106145.mp3|ᎠᎦᏴᎵᎨ ᎤᏬᏑᎶᏨ, ᎤᏩᏌ ᎦᏂᎩᎵ ᎤᏂᏅᎪᏫᏍᏗ ᎨᏎ, ᏎᏥ
+000003509|cno-f-chr_2|chr|mp3-test/000003509-Bellows.mp3|ᏗᏦᏔᏍᏙᏗ
+000006954|cno-m-chr_1|chr|mp3-test/000006954-Pattern.mp3|ᏗᏟᎶᏍᏙᏗ
+000008518|cno-m-chr_2|chr|mp3-test/000008518-Sweetest.mp3|ᏭᎦᎾᏒ
+000003127|cno-f-chr_2|chr|mp3-test/000003127-Apiary.mp3|ᏩᏚᎵᏏᏗᏴᎡᏙᏗ
+000006236|cno-m-chr_2|chr|mp3-test/000006236-Long.mp3|ᎦᏅᎯᏓ
+000000095|10-chr|chr|mp3-test/000000095-0110-1-05_D01_Track_05-125695.mp3|ᏱᏂᏣᏛᏁᎳ ᏓᏣᏓᏂᏱ. ᏍᎩᎾᎾ ᏄᎾᏛᏁᎴ ᎠᏂᏳᏩᏁᎦ
+000001157|10-chr|chr|mp3-test/000001157-0172-3-09_D03_Track_09-114342.mp3|ᎠᎴ ᏓᎾᏦᏱᎮ. ᎠᏥᏅᏍᏓᏕᎳ ᎤᎾᏕᎬ, ᎠᏎᏃ ᎨᏍᏗ ᏳᏲᎯᏍᏔᎾ,
+000009096|cno-f-chr_2|chr|mp3-test/000009096-Wherein.mp3|ᎾᎿᎢᏴ
+000000317|10-chr|chr|mp3-test/000000317-0355-1-12_D01_Track_12-177275.mp3|ᎠᏎᏃ ᎨᏍᏗ ᎪᎯᏓ ᎬᏆᏁᎳᏗᏍᏗ ᏱᎨᏎ ᎭᎾᎾᎢ,
+000008200|cno-m-chr_2|chr|mp3-test/000008200-Solitary.mp3|ᎤᏤᎵᏛ
+000004049|cno-m-chr_1|chr|mp3-test/000004049-Client.mp3|ᏣᎦᏘᏲᏎᎯ
+000004854|cno-f-chr_3|chr|mp3-test/000004854-Enjoin.mp3|ᎠᏙᏣᎸᏗ
+000005137|cno-f-chr_2|chr|mp3-test/000005137-Field.mp3|ᏠᎨᏍᎢ
+000006592|cno-f-chr_2|chr|mp3-test/000006592-Names.mp3|ᏚᎾᏙᎥ
+000008653|cno-f-chr_2|chr|mp3-test/000008653-Thirst.mp3|ᎣᏔᏕᎩᏍᎩ
+000005726|cno-f-chr_3|chr|mp3-test/000005726-Hopeless.mp3|ᎤᏚᎩᏂᎨᎥᏅ
+000001034|10-chr|chr|mp3-test/000001034-0032-3-03_D03_Track_03-008962.mp3|ᏧᎪᎸ ᎠᎵᏎᎩ ᏐᏈᎵ ᎠᏘᏁᎲ, ᏓᎵᏎᎲ ᎠᎵᏍᏔᏴᏗ, ᏗᏓᏍᏔᏴᏗ, ᏃᎴ ᏧᏍᏆᏅᎾ.
+000005188|cno-f-chr_5|chr|mp3-test/000005188-Fixtures.mp3|ᎦᎳᏦᏗᎠᏅᏗ
+000000754|10-chr|chr|mp3-test/000000754-0294-2-11_D02_Track_11-178545.mp3|ᏐᏉ ᎦᏂᏍᏗ ᏳᎾᏌᎾᎩᏒ, ᏂᎦᏓ ᎤᏁᏍᎩᎸ ᏱᎦᏅᎪᏐᎾ.
+000009210|cno-m-chr_2|chr|mp3-test/000009210-Wrath.mp3|ᎠᏔᎳᏬᎯᏍᏗ
+000001458|10-chr|chr|mp3-test/000001458-0039-4-02_D4_Track_02-140872.mp3|ᎦᎳᎨᏴ ᎦᏙ, ᎤᏒᎯ ᏚᏩᏂᎦᏢ ᏫᏚᏓᏴᎳᏛ ᎨᏴ ᏍᎪᏁ ᏅᏲ.
+000001124|10-chr|chr|mp3-test/000001124-0132-3-07_D03_Track_07-166192.mp3|ᎾᎾᏛᏁᎲ ᎢᏯᏛᏁᏗ, ᏳᏩᏁᎦ ᎢᎦᎵᏍᏙᏗ. ᏧᏤᎵ ᎠᏂᎬᏂᎨ ᏧᎾᏌᎢ ᏃᎴ
+000008405|cno-m-chr_2|chr|mp3-test/000008405-Stray.mp3|ᎤᎴᎾᎯᏛ
+000001058|10-chr|chr|mp3-test/000001058-0059-3-04_D03_Track_04-068032.mp3|ᏚᎵᏘᎾᎥ ᏣᎵ, ᏩᏍᏗ ᏗᏂᏍᏔᎢ, ᎠᏁᏙᎯ ᏱᎨᏒᏅ. ᎠᎴ ᎨᏍᏗ ᏗᎾᏟᎯ ᏃᎴ
+000004865|cno-f-chr_3|chr|mp3-test/000004865-Ensure.mp3|ᎠᏍᏓᏩᏛᏍᏗ
+000008746|cno-f-chr_2|chr|mp3-test/000008746-Traced.mp3|ᎤᏍᏓᏩᏛᏒ
+000009014|cno-f-chr_2|chr|mp3-test/000009014-Wallet.mp3|ᎠᏕᎸᏗᎦᎸᏙᏗ
+000000240|10-chr|chr|mp3-test/000000240-0270-1-10_D01_Track_10-061855.mp3|ᏌᎪᏂᎨ ᏗᏑᏫᏍᏙᏗ ᏗᏫᏍᎩ ᎤᏓᎵ ᎤᏛᎦᏍᏔᏅ ᏥᏃᎮᏍᎬ ᏗᏆᏛᏒ,
+000001875|10-chr|chr|mp3-test/000001875-0058-5-03_D5_Track_03-184882.mp3|ᏱᏄᏛᏁᎴ. ᎠᏎᏃ ᏍᏉ ᏄᏍᏕ. ᎧᏂᎨᏂ ᏭᏂᏴᎲ ᏣᎵ,
+000003771|cno-m-chr_1|chr|mp3-test/000003771-Bungalow.mp3|ᎦᎵᏦᏕ
+000001496|10-chr|chr|mp3-test/000001496-0082-4-04_D4_Track_04-072122.mp3|ᏕᎦᏃᏴᎵᏍᏗᏍᎨ ᏧᏆᎶᎬ, ᏚᏃᏴᎬ ᎤᎾᎵᎪᏗ. ᏥᏳ, ᏚᏙᎣᏐᏅ
+000003205|cno-f-chr_2|chr|mp3-test/000003205-Articles.mp3|ᏚᏓᏡᎬ
+000008366|cno-m-chr_2|chr|mp3-test/000008366-Stick.mp3|ᎦᎾᏍᏓ
+000008705|cno-f-chr_2|chr|mp3-test/000008705-Today.mp3|ᎪᎯᎢᎦ
+000006442|cno-m-chr_2|chr|mp3-test/000006442-Methods.mp3|ᎢᏗᎬᎾᏗ
+000000260|10-chr|chr|mp3-test/000000260-0290-1-10_D01_Track_10-214875.mp3|ᎠᎦᏗᏛ ᏫᏥᏃᎮᏍᎬ ᎾᏆᏛᏁᎵᏙᎸ ᎣᏣᎵᏍᏔᏴᎲᏍᎬ ᏃᎴ
+000000505|10-chr|chr|mp3-test/000000505-0593-1-20_D01_Track_20-135395.mp3|-ᎤᏂᏌᏙᏴᏗ ᏚᎾᏓᏁᏤᎸ. ᏚᎴᏫᏍᏔᏁᎴ.
+000000286|10-chr|chr|mp3-test/000000286-0318-1-11_D01_Track_11-187115.mp3|ᏍᎩᏄᏍᏛ ᏓᏆᎭᏄᏬᎥ ᎠᎬᏱ ᏧᏥᏩᏛᎯᏙᎲ ᏓᎭᏃᏫ
+000004651|cno-f-chr_3|chr|mp3-test/000004651-Dose.mp3|ᎢᎦᎢᎠᎩᎯᏍᏗ
+000006582|cno-f-chr_2|chr|mp3-test/000006582-Mutton.mp3|ᎤᏃᏕᎾᎭᏫᏯ
+000001613|10-chr|chr|mp3-test/000001613-0210-4-09_D4_Track_09-135342.mp3|ᎡᏝᏪᎯ, ᎦᏂᏏ ᏓᏂᏅᎬ, ᏃᏥ ᏧᏩᏂᎦᏝᏅ ᎪᏒᏔᏅ, ᎤᏩᏄᎩᏣᏁ ᏃᎴ
+000001376|10-chr|chr|mp3-test/000001376-0444-3-21_D03_Track_21-119152.mp3|ᏧᏍᏆᏅᎾ, ᎠᎦᏙ ᏧᏯᏪᏨ ᏳᏰᏨ, ᎡᏍᎦᏉ ᏱᏭᏂᏏᏅ. ᎠᏯ ᏍᏉ ᏍᎩᎾᏆᏍᏛ.
+000000573|10-chr|chr|mp3-test/000000573-0066-2-03_D02_Track_03-059085.mp3|ᎣᎩᎾᏚᎯᏍᏔᏅ, ᏂᎦᏓ ᎠᎵᏍᎩᏍᏗ ᎣᎩᎾᎵᏍᎩᏒ. ᎤᎵᏍᎨᏛ
+000001486|10-chr|chr|mp3-test/000001486-0071-4-03_D4_Track_03-191342.mp3|ᎠᏂᎨᏯ ᏃᎴ ᏗᏂᏲᏟ ᎤᎾᏓᏄᎸᎢᏍᏛ ᏎᎦᏨ ᎠᏂᏬᏂᏍᎬ. ᏫᏥᎢᎦ
+000000123|10-chr|chr|mp3-test/000000123-0140-1-06_D01_Track_06-075515.mp3|ᎠᏝᏅᏓᏗᏍᎬ ᎨᏍᏗ ᎤᏂᏣᏘ ᎠᎴ ᎠᏂᏳᏩᏁᎦ
+000001915|10-chr|chr|mp3-test/000001915-0103-5-06_D5_Track_06-000000.mp3|ᏩᏏᏓᏂ ᏚᎦᏘᎸᏒ ᎠᏲᏟ ᎨᏒ, ᎠᏂᏍᎦᏯ ᏧᏍᏔᏩᏛᏍᏗ ᎤᏚᎸᎲ. ᏱᏚᎴᏅᎾ
+000007992|cno-f-chr_2|chr|mp3-test/000007992-September.mp3|ᏚᎵᏍᏗ

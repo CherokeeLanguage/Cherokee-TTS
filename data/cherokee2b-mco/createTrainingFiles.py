@@ -14,7 +14,7 @@ include_o_form: bool = False
 
 if __name__ == "__main__":
 
-    langSkip: list = ["nl", "ru"]
+    langSkip: list = ["de", "fr", "nl", "ru", "zh"]
 
     workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":
@@ -34,8 +34,9 @@ if __name__ == "__main__":
 
     speaker_counts: dict = dict()
 
-    for parent in ["../comvoi_clean", "../cstr-vctk-corpus",  #
-                   "../cherokee-audio/beginning-cherokee", "../cherokee-audio/cherokee-language-coach-1",
+    for parent in ["../comvoi_mco", "../cstr-vctk-mco",  #
+                   # "../cherokee-audio/beginning-cherokee",
+                   "../cherokee-audio/cherokee-language-coach-1",
                    "../cherokee-audio/cherokee-language-coach-2",
                    "../cherokee-audio/durbin-feeling", "../cherokee-audio/michael-conrad",
                    "../cherokee-audio/michael-conrad2", "../cherokee-audio/sam-hider",

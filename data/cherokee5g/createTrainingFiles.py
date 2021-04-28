@@ -14,7 +14,7 @@ include_o_form: bool = False
 
 if __name__ == "__main__":
 
-    langSkip: list = ["nl", "ru"]
+    langSkip: list = ["zh"]
 
     workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":
@@ -34,9 +34,8 @@ if __name__ == "__main__":
 
     speaker_counts: dict = dict()
 
-    for parent in ["../comvoi_clean", "../cstr-vctk-corpus",  #
-                   "../cherokee-audio/beginning-cherokee", "../cherokee-audio/cherokee-language-coach-1",
-                   "../cherokee-audio/cherokee-language-coach-2",
+    for parent in ["../comvoi_mco", "../cherokee-audio/beginning-cherokee",
+                   "../cherokee-audio/cherokee-language-coach-1", "../cherokee-audio/cherokee-language-coach-2",
                    "../cherokee-audio/durbin-feeling", "../cherokee-audio/michael-conrad",
                    "../cherokee-audio/michael-conrad2", "../cherokee-audio/sam-hider",
                    "../cherokee-audio/see-say-write", "../cherokee-audio/thirteen-moons-disk1",
@@ -52,13 +51,12 @@ if __name__ == "__main__":
                     if lang in langSkip:
                         continue
                     line = ud.normalize("NFD", line.strip())
-                    if lang == "chr":
-                        if not include_o_form and "\u030a" in line:
-                            continue
-                        if not with_syllabary and re.search("(?i)[Ꭰ-Ᏼ]", line):
-                            continue
-                        if only_syllabary and not re.search("(?i)[Ꭰ-Ᏼ]", line):
-                            continue
+                    if not include_o_form and "\u030a" in line and lang == "chr":
+                        continue
+                    if not with_syllabary and re.search("(?i)[Ꭰ-Ᏼ]", line):
+                        continue
+                    if only_syllabary and not re.search("(?i)[Ꭰ-Ᏼ]", line):
+                        continue
                     line = line.replace("|wav/", "|" + parent + "/wav/")
                     lines.append(line)
                     if txt == "all.txt":

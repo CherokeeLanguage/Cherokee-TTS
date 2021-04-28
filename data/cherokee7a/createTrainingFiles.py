@@ -14,7 +14,7 @@ include_o_form: bool = False
 
 if __name__ == "__main__":
 
-    langSkip: list = ["nl", "ru"]
+    langSkip: list = []
 
     workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":
@@ -34,15 +34,16 @@ if __name__ == "__main__":
 
     speaker_counts: dict = dict()
 
-    for parent in ["../comvoi_clean", "../cstr-vctk-corpus",  #
+    for parent in ["../comvoi_mco",  #
+                   "../cstr-vctk-mco",  #
                    "../cherokee-audio/beginning-cherokee", "../cherokee-audio/cherokee-language-coach-1",
-                   "../cherokee-audio/cherokee-language-coach-2",
-                   "../cherokee-audio/durbin-feeling", "../cherokee-audio/michael-conrad",
-                   "../cherokee-audio/michael-conrad2", "../cherokee-audio/sam-hider",
-                   "../cherokee-audio/see-say-write", "../cherokee-audio/thirteen-moons-disk1",
-                   "../cherokee-audio/thirteen-moons-disk2", "../cherokee-audio/thirteen-moons-disk3",
-                   "../cherokee-audio/thirteen-moons-disk4", "../cherokee-audio/thirteen-moons-disk5",
-                   "../cherokee-audio/cno", "../cherokee-audio/tacotron-2020-12-28", ]:
+                   "../cherokee-audio/cherokee-language-coach-2", "../cherokee-audio/durbin-feeling",
+                   "../cherokee-audio/michael-conrad", "../cherokee-audio/michael-conrad2",
+                   "../cherokee-audio/sam-hider", "../cherokee-audio/see-say-write",
+                   "../cherokee-audio/thirteen-moons-disk1", "../cherokee-audio/thirteen-moons-disk2",
+                   "../cherokee-audio/thirteen-moons-disk3", "../cherokee-audio/thirteen-moons-disk4",
+                   "../cherokee-audio/thirteen-moons-disk5", "../cherokee-audio/cno",
+                   "../cherokee-audio/tacotron-2020-12-28", ]:
         for txt in ["all.txt", "val.txt", "train.txt"]:
             with open(pathlib.Path(parent).joinpath(txt), "r") as f:
                 lines: list = []

@@ -1,0 +1,4 @@
+https://doi.org/10.7488/ds/2645
+
+https://www.kaggle.com/mfekadu/english-multispeaker-corpus-for-voice-cloning
+
