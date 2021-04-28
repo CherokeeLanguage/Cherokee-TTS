@@ -10,7 +10,7 @@
 	"epochs": 300,
 	"generator_bottleneck_dim": 2,
 	"generator_dim": 4,
-	"languages": ["de", "fr", "zh", "ru", "nl"],
+	"languages": ["en", "chr"],
 	"language_embedding_dimension": 0,
 	"learning_rate": 0.001,
 	"learning_rate_decay_each": 10000,
