@@ -13,40 +13,42 @@ from cairosvg.shapes import line
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
-CED:str="ced.csv"
-CEDMCO:str="ced-mco.txt"
+CED: str = "ced.csv"
+CEDMCO: str = "ced-mco.txt"
 
-ASCII_CED_TONES=["entrytone","nounadjpluraltone","vfirstprestone","vsecondimpertone","vthirdinftone","vthirdpasttone","vthirdprestone"]
+ASCII_CED_TONES = ["entrytone", "nounadjpluraltone", "vfirstprestone", "vsecondimpertone", "vthirdinftone",
+                   "vthirdpasttone", "vthirdprestone"]
 
 ced2mco = []
 
-CGRAVEACCENT="\u0300"
-CACUTEACCENT="\u0301"
-CCARON="\u0302"
-CMACRON="\u0304"
-CDOUBLEACUTE="\u030b"
-CCIRCUMFLEX="\u030c"
-CMACRONBELOW="\u0331"
+CGRAVEACCENT = "\u0300"
+CACUTEACCENT = "\u0301"
+CCARON = "\u0302"
+CMACRON = "\u0304"
+CDOUBLEACUTE = "\u030b"
+CCIRCUMFLEX = "\u030c"
+CMACRONBELOW = "\u0331"
 
-#Build guessing pronunciation lookup for transliterated text
+# Build guessing pronunciation lookup for transliterated text
 with open(CED, newline='') as csvfile:
     rows = csv.DictReader(csvfile)
     for row in rows:
-        id:str=row["id"]
-        if not re.match("\d+", id):
+        entry_id: str = row["id"]
+        if not re.match("\\d+", entry_id):
             continue
-        line:str=str(id)+"|"
+        line: str = str(entry_id) + "|"
         for key in ASCII_CED_TONES:
-            value:str = row[key]
-            if (value == ""):
-                line+="|"
+            value: str = row[key]
+            if value == "":
+                line += "|"
                 continue
-            value=ud.normalize("NFC", ascii_ced2mco(value)).lower().capitalize()
+            value = ud.normalize("NFC", ascii_ced2mco(value)).lower().capitalize()
             if value[-1] not in ".?!":
                 value += "."
-            line += value + "|"
-        
-        definition:str=row["definitiond"]
+            tmp_value: str = ud.normalize("NFD", value)
+            tmp_value = re.sub("(?i)[^a-z ]", "", tmp_value)
+            line += value + f" [{tmp_value}]|"
+        definition: str = row["definitiond"]
         line += definition
         ced2mco.append(line)
 
@@ -54,6 +56,5 @@ with  open(CEDMCO, "w") as f:
     for line in ced2mco:
         f.write(line)
         f.write("\n")
-        
-sys.exit()
 
+sys.exit()
