@@ -10,11 +10,11 @@ from shutil import rmtree
 
 with_syllabary: bool = False
 only_syllabary: bool = False
-include_o_form: bool = False
+include_o_form: bool = True
 
 if __name__ == "__main__":
 
-    langSkip: list = []
+    langSkip: list = ["chr-syl", "nl", "ru"]
 
     workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":
@@ -36,14 +36,22 @@ if __name__ == "__main__":
 
     for parent in ["../comvoi_mco",  #
                    "../cstr-vctk-mco",  #
-                   "../cherokee-audio/beginning-cherokee", "../cherokee-audio/cherokee-language-coach-1",
-                   "../cherokee-audio/cherokee-language-coach-2", "../cherokee-audio/durbin-feeling",
-                   "../cherokee-audio/michael-conrad", "../cherokee-audio/michael-conrad2",
-                   "../cherokee-audio/sam-hider", "../cherokee-audio/see-say-write",
-                   "../cherokee-audio/thirteen-moons-disk1", "../cherokee-audio/thirteen-moons-disk2",
-                   "../cherokee-audio/thirteen-moons-disk3", "../cherokee-audio/thirteen-moons-disk4",
-                   "../cherokee-audio/thirteen-moons-disk5", "../cherokee-audio/cno",
-                   "../cherokee-audio/tacotron-2020-12-28", ]:
+                   "../cherokee-audio/beginning-cherokee",  #
+                   "../cherokee-audio/cherokee-language-coach-1",  #
+                   "../cherokee-audio/cherokee-language-coach-2",  #
+                   "../cherokee-audio/durbin-feeling",  #
+                   "../cherokee-audio/michael-conrad",  #
+                   "../cherokee-audio/michael-conrad2",  #
+                   "../cherokee-audio/sam-hider",  #
+                   "../cherokee-audio/see-say-write",  #
+                   "../cherokee-audio/thirteen-moons-disk1",  #
+                   "../cherokee-audio/thirteen-moons-disk2",  #
+                   "../cherokee-audio/thirteen-moons-disk3",  #
+                   "../cherokee-audio/thirteen-moons-disk4",  #
+                   "../cherokee-audio/thirteen-moons-disk5",  #
+                   "../cherokee-audio/cno",  #
+                   "../cherokee-audio/tacotron-2020-12-28",  #
+                   ]:
         for txt in ["all.txt", "val.txt", "train.txt"]:
             with open(pathlib.Path(parent).joinpath(txt), "r") as f:
                 lines: list = []
@@ -93,7 +101,7 @@ if __name__ == "__main__":
             text: str = fields[6].lower()
             text = ud.normalize("NFD", text)
             for c in text:
-                #if c in "!\"',.?@&-()*^%$#;":
+                # if c in "!\"',.?@&-()*^%$#;":
                 #    continue
                 if c in chars:
                     continue

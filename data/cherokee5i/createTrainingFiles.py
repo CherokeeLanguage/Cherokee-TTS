@@ -10,11 +10,11 @@ from shutil import rmtree
 
 with_syllabary: bool = False
 only_syllabary: bool = False
-include_o_form: bool = True
+include_o_form: bool = False
 
 if __name__ == "__main__":
 
-    langSkip: list = ["chr-syl", "nl", "ru"]
+    langSkip: list = ["chr-syl", "ru", "zh"]
 
     workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":
@@ -34,8 +34,8 @@ if __name__ == "__main__":
 
     speaker_counts: dict = dict()
 
-    for parent in ["../comvoi_mco",  #
-                   "../cstr-vctk-mco",  #
+    for parent in ["../comvoi_clean",  #
+                   "../cstr-vctk-corpus",  #
                    "../cherokee-audio/beginning-cherokee",  #
                    "../cherokee-audio/cherokee-language-coach-1",  #
                    "../cherokee-audio/cherokee-language-coach-2",  #
@@ -50,7 +50,7 @@ if __name__ == "__main__":
                    "../cherokee-audio/thirteen-moons-disk4",  #
                    "../cherokee-audio/thirteen-moons-disk5",  #
                    "../cherokee-audio/cno",  #
-                   "../cherokee-audio/tacotron-2020-12-28",  #
+                   # "../cherokee-audio/tacotron-2020-12-28",  #
                    ]:
         for txt in ["all.txt", "val.txt", "train.txt"]:
             with open(pathlib.Path(parent).joinpath(txt), "r") as f:

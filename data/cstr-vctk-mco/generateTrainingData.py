@@ -2,6 +2,7 @@
 import os
 import pathlib
 import random
+import re
 import sys
 import unicodedata as ud
 from builtins import list
@@ -18,13 +19,23 @@ mark_all_as_ipa: bool = False
 ipa_to_mco: bool = True
 
 
-def as_mco(text: str) -> str:
-    text = ud.normalize("NFD", text)
+def as_mco(string: str) -> str:
     macron_lower = "\u0331"
-    text = text.replace("ː", ":")
-    text = text.replace("v", "v" + macron_lower)
-    text = text.replace("ʌ", "v")
-    return text
+    macron = "\u0304"
+    mco_glottal_stop = "ɂ"
+    ipa_glottal_stop = "ʔ"
+    ipa_long_vowel = "ː"
+    string = ud.normalize("NFD", string)
+    string = string.replace(ipa_glottal_stop, mco_glottal_stop)
+    string = string.replace(ipa_long_vowel, ":")
+    string = re.sub("(?i)(v)", "\\1" + macron_lower, string)
+    string = string.replace("ʌ", "v" + macron)
+    string = re.sub("(?i)j", "y", string)
+    string = re.sub("(?i)dʒ", "j", string)
+    string = re.sub("(?i)tʃ", "ch", string)
+    # text = re.sub("(?i)ɑ", "a", text)
+    string = re.sub("(?i)([aeiou])", "\\1" + macron, string)
+    return string
 
 
 if __name__ == "__main__":

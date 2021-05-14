@@ -12,3 +12,12 @@ all.txt
 /train.txt-tmp
 /*tmp
 /*bkup
+/speaker-counts.txt
+/voice-counts-by-language.txt
+/voices.inc
+/voices.txt
+/voices-chr.inc
+/voices-chr.txt
+/voices-xchr.inc
+/voices-xchr.txt
+/langs.txt

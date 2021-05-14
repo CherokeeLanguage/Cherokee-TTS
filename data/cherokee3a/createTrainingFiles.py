@@ -14,7 +14,7 @@ include_o_form: bool = False
 
 if __name__ == "__main__":
 
-    langSkip: list = ["nl", "ru"]
+    langSkip: list = ["fr", "nl", "ru", "zh"]
 
     workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":

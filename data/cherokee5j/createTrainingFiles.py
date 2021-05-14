@@ -14,7 +14,23 @@ include_o_form: bool = False
 
 if __name__ == "__main__":
 
-    langSkip: list = ["chr-syl", "ru", "zh"]
+    langSkip: set = {"chr-syl", "ru", "zh"}
+    speakerSkip: set = {
+            # "239-en", "264-en", "250-en", "259-en", "247-en", "261-en",
+            "263-en", "283-en",
+            "286-en", "274-en", "276-en", "270-en", "277-en", "281-en", "231-en", "238-en",
+            "271-en", "257-en", "273-en", "284-en", "360-en", "308-en", "374-en", "329-en",
+            "340-en", "334-en", "351-en", "361-en", "317-en", "311-en", "287-en", "314-en",
+            "310-en", "294-en", "330-en", "323-en", "347-en", "362-en", "266-en", "304-en",
+            "339-en", "313-en", "333-en", "305-en", "318-en", "244-en", "316-en", "335-en",
+            "307-en", "363-en", "295-en", "336-en", "312-en", "267-en", "275-en", "297-en",
+            "258-en", "288-en", "232-en", "272-en", "301-en", "292-en", "278-en", "280-en",
+            "341-en", "268-en", "279-en", "299-en", "298-en", "285-en", "326-en", "300-en",
+            "345-en", "254-en", "269-en", "230-en", "293-en", "252-en", "262-en", "243-en",
+            "227-en", "343-en", "229-en", "255-en", "240-en", "253-en", "248-en", "233-en",
+            "282-en", "27-de", "228-en", "251-en", "234-en", "246-en", "260-en", "226-en",
+            "245-en", "241-en", "11-fr", "303-en", "306-en", "265-en", "237-en", "249-en",
+    }
 
     workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":
@@ -57,6 +73,9 @@ if __name__ == "__main__":
                 lines: list = []
                 for line in f:
                     fields = line.split("|")
+                    speaker: str = fields[1].strip()
+                    if speaker in speakerSkip:
+                        continue
                     lang: str = fields[2]
                     if lang in langSkip:
                         continue
@@ -71,7 +90,6 @@ if __name__ == "__main__":
                     line = line.replace("|wav/", "|" + parent + "/wav/")
                     lines.append(line)
                     if txt == "all.txt":
-                        speaker: str = fields[1].strip()
                         if speaker not in speaker_counts:
                             speaker_counts[speaker] = 0
                         speaker_counts[speaker] = speaker_counts[speaker] + 1
