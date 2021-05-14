@@ -1,0 +1,12 @@
+Output 12,678 entries.
+
+Total duration: 5:39:18
+Shortest duration: 0:00
+Longest duration: 0:05
+
+All size: 12678
+Train size: 12044
+Val size: 634
+
+Folder: cno
+
