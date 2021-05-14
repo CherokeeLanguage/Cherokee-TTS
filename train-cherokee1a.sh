@@ -1,4 +1,4 @@
-#!/bin/bash -ix
+#!/bin/bash -i
 set -e
 set -o pipefail
 clear
@@ -6,7 +6,7 @@ clear
 conda activate Cherokee-TTS
 
 params="cherokee1a"
-cp="cherokee6i-192-0.216"
+# cp="cherokee6i-192-0.216"
 
 cd "$(dirname "$0")"
 WORK="$(pwd)"

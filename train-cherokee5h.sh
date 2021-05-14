@@ -18,6 +18,6 @@ date
 
 cd "$WORK"
 export PYTHONIOENCODING=utf-8
-python trainGa.py --checkpoint "$cp" --accumulation_size 3
+python trainGa.py --hyper_parameters "$params" --accumulation_size 2
 
 date

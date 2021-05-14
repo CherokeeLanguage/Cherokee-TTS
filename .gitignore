@@ -124,3 +124,5 @@ visual-studio-code.code-workspace
 /.settings/
 /.vscode/
 /rsync-backup.sh
+/data/cherokee7a/langs.txt
+/data/cstr-vctk-corpus/VCTK-Corpus-0.92.zip?sequence=2&isAllowed=y
