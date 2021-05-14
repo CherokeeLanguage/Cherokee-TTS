@@ -10,21 +10,33 @@ from shutil import rmtree
 
 import progressbar
 import pydub.effects as effects
+from phonemizer import phonemize
 from pydub import AudioSegment
 
 from split_audio import detect_sound
 
 mark_all_as_ipa: bool = False
 ipa_to_mco: bool = True
+phonemize_text: bool = True
 
 
-def as_mco(text: str) -> str:
-    text = ud.normalize("NFD", text)
+def as_mco(string: str) -> str:
     macron_lower = "\u0331"
-    text = text.replace("ː", ":")
-    text = text.replace("v", "v" + macron_lower)
-    text = text.replace("ʌ", "v")
-    return text
+    macron = "\u0304"
+    mco_glottal_stop = "ɂ"
+    ipa_glottal_stop = "ʔ"
+    ipa_long_vowel = "ː"
+    string = ud.normalize("NFD", string)
+    string = string.replace(ipa_glottal_stop, mco_glottal_stop)
+    string = string.replace(ipa_long_vowel, ":")
+    string = re.sub("(?i)(v)", "\\1" + macron_lower, string)
+    string = string.replace("ʌ", "v" + macron)
+    string = re.sub("(?i)j", "y", string)
+    string = re.sub("(?i)dʒ", "j", string)
+    string = re.sub("(?i)tʃ", "ch", string)
+    # text = re.sub("(?i)ɑ", "a", text)
+    string = re.sub("(?i)([aeiou])", "\\1" + macron, string)
+    return string
 
 
 if __name__ == "__main__":
@@ -92,13 +104,33 @@ if __name__ == "__main__":
             if not text.strip():
                 continue
 
-            dedupeKey = spkr + "|" + text + "|" + mp3
+            dedupe_key = spkr + "|" + text + "|" + mp3
 
-            entries[dedupeKey] = (xid, spkr, lang, mp3, text)
+            entries[dedupe_key] = (xid, spkr, lang, mp3, text)
             langs.add(lang)
     bar.finish()
 
     print(f"Loaded {len(entries):,} entries with audio and text.")
+
+    if phonemize_text:
+        if ipa_to_mco:
+            print("Converting to MCO orthography")
+        else:
+            print("Converting to IPA orthography")
+
+        bar = progressbar.ProgressBar(maxval=len(entries))
+        bar.start()
+
+        for key in [*entries.keys()]:
+            (xid, spkr, lang, mp3, text) = entries[key]
+            text = phonemize(text, language="en-us", backend="espeak", preserve_punctuation=True, with_stress=True,
+                             language_switch="remove-flags")
+            if ipa_to_mco:
+                text = as_mco(text)
+            entries[key] = (xid, spkr, lang, mp3, text)
+            bar.update(bar.currval+1)
+
+        bar.finish()
 
     bar = progressbar.ProgressBar(maxval=len(entries))
     bar.start()
