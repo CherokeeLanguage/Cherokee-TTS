@@ -20,10 +20,10 @@ ID  AGE  GENDER  ACCENTS  REGION
 245  25  M    Irish  Dublin
 246  22  M    Scottish  Selkirk
 247  22  M    Scottish  Argyll
-248  23  F    Indian  
+248  23  F    Indian
 249  22  F    Scottish  Aberdeen
 250  22  F    English    SE  England
-251  26  M    Indian  
+251  26  M    Indian
 252  22  M    Scottish  Edinburgh
 253  22  F    Welsh  Cardiff
 254  21  M    English    Surrey
@@ -87,11 +87,11 @@ ID  AGE  GENDER  ACCENTS  REGION
 318  32  F    American  Napa
 323  19  F    SouthAfrican  Pretoria
 326  26  M    Australian  English  Sydney
-329  23  F    American  
-330  26  F    American  
+329  23  F    American
+330  26  F    American
 333  19  F    American  Indiana
 334  18  M    American  Chicago
-335  25  F    NewZealand  English    
+335  25  F    NewZealand  English
 336  18  F    SouthAfrican  Johannesburg
 339  21  F    American  Pennsylvania
 340  18  F    Irish  Dublin
@@ -102,8 +102,8 @@ ID  AGE  GENDER  ACCENTS  REGION
 351  21  F    NorthernIrish  Derry
 360  19  M    American  New  Jersey
 361  19  F    American  New  Jersey
-362  29  F    American  
+362  29  F    American
 363  22  M    Canadian  Toronto
 364  23  M    Irish  Donegal
-374  28  M    Australian  English  
+374  28  M    Australian  English
 376  22  M    Indian

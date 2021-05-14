@@ -1,109 +1,108 @@
-ID  AGE  GENDER  ACCENTS  REGION  
-225-en en-gb
-226-en en-gb
-227-en en-gb
-228-en en-gb
-229-en en-gb
-230-en en-gb
-231-en en-gb
-232-en en-gb
-233-en en-gb
-234-en en-gb-scotland
-236-en en-gb
-237-en en-gb-scotland
-238-en en-gb-scotland
-239-en en-gb
-240-en en-gb
-241-en en-gb-scotland
-243-en en-gb
-244-en en-gb
-245-en en-gb-scotland
-246-en en-gb-scotland
-247-en en-gb-scotland
-248-en en-db
-249-en en-gb-scotland
-250-en en-gb
-251-en en-db
-252-en en-gb-scotland
-253-en en-db
-254-en en-gb
-255-en en-gb-scotland
-256-en en-gb
-257-en en-gb
-258-en en-gb
-259-en en-gb
-260-en en-gb-scotland
-261-en en-gb-scotland
-262-en en-gb-scotland
-263-en en-gb-scotland
-264-en en-gb-scotland
-265-en en-gb-scotland
-266-en en-gb-scotland
-267-en en-gb
-268-en en-gb
-269-en en-gb
-270-en en-gb
-271-en en-gb-scotland
-272-en en-gb-scotland
-273-en en-gb
-274-en en-gb
-275-en en-gb-scotland
-276-en en-gb
-277-en en-gb
-278-en en-gb
-279-en en-gb
-281-en en-gb-scotland
-282-en en-gb
-283-en en-gb-scotland
-284-en en-gb-scotland
-285-en en-gb-scotland
-286-en en-gb
-287-en en-gb
-288-en en-gb-scotland
-292-en en-gb-scotland
-293-en en-gb-scotland
-294-en en-us
-295-en en-gb-scotland
-297-en en-us
-298-en en-gb-scotland
-299-en en-us
-300-en en-us
-301-en en-us
-302-en en-us
-303-en en-us
-304-en en-gb-scotland
-305-en en-us
-306-en en-us
-307-en en-us
-308-en en-us
-310-en en-us
-311-en en-us
-312-en en-us
-313-en en-gb-scotland
-314-en en-db
-315-en en-us
-316-en en-us
-317-en en-us
-318-en en-us
-323-en en-db
-326-en en-db
-329-en en-us
-330-en en-us
-333-en en-us
-334-en en-us
-335-en en-db
-336-en en-db
-339-en en-us
-340-en en-gb-scotland
-341-en en-us
-343-en en-us
-345-en en-us
-347-en en-db
-351-en en-gb-scotland
-360-en en-us
-361-en en-us
-362-en en-us
-363-en en-us
-364-en en-gb-scotland
-374-en en-db
-376-en en-db
+espeak_en_voice_langs["225-en"]="en-gb"
+espeak_en_voice_langs["226-en"]="en-gb"
+espeak_en_voice_langs["227-en"]="en-gb"
+espeak_en_voice_langs["228-en"]="en-gb"
+espeak_en_voice_langs["229-en"]="en-gb"
+espeak_en_voice_langs["230-en"]="en-gb"
+espeak_en_voice_langs["231-en"]="en-gb"
+espeak_en_voice_langs["232-en"]="en-gb"
+espeak_en_voice_langs["233-en"]="en-gb"
+espeak_en_voice_langs["234-en"]="en-gb-scotland"
+espeak_en_voice_langs["236-en"]="en-gb"
+espeak_en_voice_langs["237-en"]="en-gb-scotland"
+espeak_en_voice_langs["238-en"]="en-gb-scotland"
+espeak_en_voice_langs["239-en"]="en-gb"
+espeak_en_voice_langs["240-en"]="en-gb"
+espeak_en_voice_langs["241-en"]="en-gb-scotland"
+espeak_en_voice_langs["243-en"]="en-gb"
+espeak_en_voice_langs["244-en"]="en-gb"
+espeak_en_voice_langs["245-en"]="en-gb-scotland"
+espeak_en_voice_langs["246-en"]="en-gb-scotland"
+espeak_en_voice_langs["247-en"]="en-gb-scotland"
+espeak_en_voice_langs["248-en"]="en-db"
+espeak_en_voice_langs["249-en"]="en-gb-scotland"
+espeak_en_voice_langs["250-en"]="en-gb"
+espeak_en_voice_langs["251-en"]="en-db"
+espeak_en_voice_langs["252-en"]="en-gb-scotland"
+espeak_en_voice_langs["253-en"]="en-db"
+espeak_en_voice_langs["254-en"]="en-gb"
+espeak_en_voice_langs["255-en"]="en-gb-scotland"
+espeak_en_voice_langs["256-en"]="en-gb"
+espeak_en_voice_langs["257-en"]="en-gb"
+espeak_en_voice_langs["258-en"]="en-gb"
+espeak_en_voice_langs["259-en"]="en-gb"
+espeak_en_voice_langs["260-en"]="en-gb-scotland"
+espeak_en_voice_langs["261-en"]="en-gb-scotland"
+espeak_en_voice_langs["262-en"]="en-gb-scotland"
+espeak_en_voice_langs["263-en"]="en-gb-scotland"
+espeak_en_voice_langs["264-en"]="en-gb-scotland"
+espeak_en_voice_langs["265-en"]="en-gb-scotland"
+espeak_en_voice_langs["266-en"]="en-gb-scotland"
+espeak_en_voice_langs["267-en"]="en-gb"
+espeak_en_voice_langs["268-en"]="en-gb"
+espeak_en_voice_langs["269-en"]="en-gb"
+espeak_en_voice_langs["270-en"]="en-gb"
+espeak_en_voice_langs["271-en"]="en-gb-scotland"
+espeak_en_voice_langs["272-en"]="en-gb-scotland"
+espeak_en_voice_langs["273-en"]="en-gb"
+espeak_en_voice_langs["274-en"]="en-gb"
+espeak_en_voice_langs["275-en"]="en-gb-scotland"
+espeak_en_voice_langs["276-en"]="en-gb"
+espeak_en_voice_langs["277-en"]="en-gb"
+espeak_en_voice_langs["278-en"]="en-gb"
+espeak_en_voice_langs["279-en"]="en-gb"
+espeak_en_voice_langs["281-en"]="en-gb-scotland"
+espeak_en_voice_langs["282-en"]="en-gb"
+espeak_en_voice_langs["283-en"]="en-gb-scotland"
+espeak_en_voice_langs["284-en"]="en-gb-scotland"
+espeak_en_voice_langs["285-en"]="en-gb-scotland"
+espeak_en_voice_langs["286-en"]="en-gb"
+espeak_en_voice_langs["287-en"]="en-gb"
+espeak_en_voice_langs["288-en"]="en-gb-scotland"
+espeak_en_voice_langs["292-en"]="en-gb-scotland"
+espeak_en_voice_langs["293-en"]="en-gb-scotland"
+espeak_en_voice_langs["294-en"]="en-us"
+espeak_en_voice_langs["295-en"]="en-gb-scotland"
+espeak_en_voice_langs["297-en"]="en-us"
+espeak_en_voice_langs["298-en"]="en-gb-scotland"
+espeak_en_voice_langs["299-en"]="en-us"
+espeak_en_voice_langs["300-en"]="en-us"
+espeak_en_voice_langs["301-en"]="en-us"
+espeak_en_voice_langs["302-en"]="en-us"
+espeak_en_voice_langs["303-en"]="en-us"
+espeak_en_voice_langs["304-en"]="en-gb-scotland"
+espeak_en_voice_langs["305-en"]="en-us"
+espeak_en_voice_langs["306-en"]="en-us"
+espeak_en_voice_langs["307-en"]="en-us"
+espeak_en_voice_langs["308-en"]="en-us"
+espeak_en_voice_langs["310-en"]="en-us"
+espeak_en_voice_langs["311-en"]="en-us"
+espeak_en_voice_langs["312-en"]="en-us"
+espeak_en_voice_langs["313-en"]="en-gb-scotland"
+espeak_en_voice_langs["314-en"]="en-db"
+espeak_en_voice_langs["315-en"]="en-us"
+espeak_en_voice_langs["316-en"]="en-us"
+espeak_en_voice_langs["317-en"]="en-us"
+espeak_en_voice_langs["318-en"]="en-us"
+espeak_en_voice_langs["323-en"]="en-db"
+espeak_en_voice_langs["326-en"]="en-db"
+espeak_en_voice_langs["329-en"]="en-us"
+espeak_en_voice_langs["330-en"]="en-us"
+espeak_en_voice_langs["333-en"]="en-us"
+espeak_en_voice_langs["334-en"]="en-us"
+espeak_en_voice_langs["335-en"]="en-db"
+espeak_en_voice_langs["336-en"]="en-db"
+espeak_en_voice_langs["339-en"]="en-us"
+espeak_en_voice_langs["340-en"]="en-gb-scotland"
+espeak_en_voice_langs["341-en"]="en-us"
+espeak_en_voice_langs["343-en"]="en-us"
+espeak_en_voice_langs["345-en"]="en-us"
+espeak_en_voice_langs["347-en"]="en-db"
+espeak_en_voice_langs["351-en"]="en-gb-scotland"
+espeak_en_voice_langs["360-en"]="en-us"
+espeak_en_voice_langs["361-en"]="en-us"
+espeak_en_voice_langs["362-en"]="en-us"
+espeak_en_voice_langs["363-en"]="en-us"
+espeak_en_voice_langs["364-en"]="en-gb-scotland"
+espeak_en_voice_langs["374-en"]="en-db"
+espeak_en_voice_langs["376-en"]="en-db"
