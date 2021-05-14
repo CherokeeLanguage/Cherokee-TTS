@@ -125,7 +125,7 @@ if __name__ == "__main__":
             #duration = len(normalized)
             
             print(f"Saving mp3/{chunk_mp3}-{int(segment_start):06d}.mp3.")
-            normalized.export(f"mp3/{chunk_mp3}-{int(segment_start):06d}.mp3",bitrate="192k",format="mp3")
+            normalized.export(f"mp3/{chunk_mp3}-{int(segment_start):06d}.mp3", format="mp3", parameters=["-qscale:a", "0"])
             splits.append(f"mp3/{chunk_mp3}-{int(segment_start):06d}.mp3")
             
             duration:float = normalized.duration_seconds
