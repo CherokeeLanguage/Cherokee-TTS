@@ -5,7 +5,7 @@ clear
 
 conda activate Cherokee-TTS
 
-params="cherokee5a"
+params="5a"
 
 cd "$(dirname "$0")"
 WORK="$(pwd)"
@@ -17,6 +17,6 @@ date
 
 cd "$WORK"
 export PYTHONIOENCODING=utf-8
-python trainGa.py --hyper_parameters "$params" --accumulation_size 4
+python trainGa.py --hyper_parameters "$params" --accumulation_size 3
 
 date
