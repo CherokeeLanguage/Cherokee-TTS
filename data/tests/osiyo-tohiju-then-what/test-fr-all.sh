@@ -1,7 +1,9 @@
-#!/bin/bash
+#!/bin/bash -i
 
 set -e
 set -o pipefail
+
+conda activate Cherokee-TTS
 
 cd "$(dirname "$0")"
 z="$(pwd)"
@@ -16,10 +18,6 @@ done
 
 cd ../../..
 y="$(pwd)"
-
-source ~/miniconda3/etc/profile.d/conda.sh
-
-conda activate ./env
 
 cp="$(ls -1tr checkpoints/*|tail -n 1)"
 cp="$(basename "$cp")"
@@ -91,8 +89,7 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx.py || python wavernnx-cpu.py
-	#python wavernnx.py
+	python wavernnx-cpu.py
 
 	count=$(wc -l "$selected"|cut -f 1 -d ' ')
 	for ix in $(seq 1 $count); do

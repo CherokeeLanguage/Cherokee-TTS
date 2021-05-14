@@ -27,7 +27,10 @@ for x in "$z"/animals-*; do
 	rm -r "$x"
 done
 
-v=("14-de" "51-de" "02-fr" "04-fr" "14-fr" "18-fr" "19-fr" "22-fr" "03-ru" "cno-spk_0" "cno-spk_2")
+v=( "02-fr" "03-ru" "04-fr" "14-de" "14-fr"
+	"18-fr" "19-fr" "22-fr" "51-de"
+	"cno-f-chr_1" "cno-f-chr_2" "cno-f-chr_3" "cno-f-chr_5")
+	
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -35,14 +38,14 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-shuf "$text" | tail -n 10 | sort > "$selected"
+shuf "$text" | uconv -x any-nfd | tail -n 10 > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
 	ix=0
 	syn=""
 	cp /dev/null "$tmp"
-	cut -f 2 "$selected" | while read phrase; do
+	cut -d "|" -f 2 "$selected" | while read phrase; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
 	done
@@ -61,7 +64,7 @@ for voice in "${v[@]}"; do
 	python wavernnx-cpu.py
 
 	ix=0
-	mp3s=($(cut -f 3 "$selected" | sed 's/ /_/g'))
+	mp3s=($(cut -d "|" -f 3 "$selected" | sed 's/ /_/g'))
 	for mp3 in "${mp3s[@]}"; do
 		ix="$(($ix+1))"
 		wav="wg-$ix.wav"
@@ -73,7 +76,7 @@ for voice in "${v[@]}"; do
 	xdg-open "$wg"-"$voice"
 	
 	ix=0
-	cut -f 3 "$selected" | while read line; do
+	cut -d "|" -f 3 "$selected" | while read line; do
 		ix="$(($ix+1))"
 		rm "$ix".wav 2> /dev/null || true
 		rm "$ix".npy 2> /dev/null || true

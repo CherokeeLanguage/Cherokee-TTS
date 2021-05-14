@@ -49,14 +49,14 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-cat "$text" | uconv -x any-nfd | sort > "$selected"
+cat "$text" | uconv -x any-nfd > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
 	ix=0
 	syn=""
 	cp /dev/null "$tmp"
-	cut -f 2 "$selected" | while read phrase; do
+	cut -f 2 -d "|" "$selected" | while read phrase; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
 	done
@@ -75,8 +75,8 @@ for voice in "${v[@]}"; do
 	
 	ix=0
 	cat "$selected" | while read line; do
-		mp3name="$(echo "$line" | cut -f 3 | sed 's/ /_/g')"
-		text="$(echo "$line" | cut -f 2)"
+		mp3name="$(echo "$line" | cut -f 3 -d "|" | sed 's/ /_/g')"
+		text="$(echo "$line" | cut -f 2 -d "|")"
 		textname="$(echo "$mp3name" | sed 's/.mp3$/.txt/')"
 		ix="$(($ix+1))"
 		wav="wg-$ix.wav"

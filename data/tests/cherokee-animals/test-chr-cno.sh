@@ -37,7 +37,9 @@ for x in "$z"/animals-*; do
 	rm -r "$x"
 done
 
-v=("cno-spk_3" "cno-spk_0" "cno-spk_2" "cno-spk_1") # "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
+#v=("cno-spk_3" "cno-spk_0" "cno-spk_2" "cno-spk_1") # "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
+#v=("cno-f-chr_2" "02-chr" "cno-m-chr_2" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "05-chr" "cno-f-chr_1")
+v=("03-chr" "cno-f-chr_2" "02-chr" "cno-m-chr_2" "04-chr" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "05-chr" "cno-f-chr_1")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -45,14 +47,14 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-cat "$text" | uconv -x any-nfd | sort > "$selected"
+cat "$text" | uconv -x any-nfd > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
 	ix=0
 	syn=""
 	cp /dev/null "$tmp"
-	cut -f 2 "$selected" | while read phrase; do
+	cut -d "|" -f 2 "$selected" | while read phrase; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
 	done
@@ -74,8 +76,8 @@ for voice in "${v[@]}"; do
 	cat "$selected" | while read line; do
 		ix="$(($ix+1))"
 
-		mp3name="$(echo "$line" | cut -f 3 | sed 's/ /_/g')"
-		text="$(echo "$line" | cut -f 2)"
+		mp3name="$(echo "$line" | cut -d "|" -f 3 | sed 's/ /_/g')"
+		text="$(echo "$line" | cut -d "|" -f 2)"
 		textname="$(echo "$mp3name" | sed 's/.mp3$/.txt/')"
 		
 		textFile="$wg"-"$voice/$voice-$wg-$textname"

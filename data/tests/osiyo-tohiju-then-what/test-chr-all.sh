@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -i
 
 set -e
 set -o pipefail
@@ -17,9 +17,7 @@ done
 cd ../../..
 y="$(pwd)"
 
-source ~/miniconda3/etc/profile.d/conda.sh
-
-conda activate ./env
+conda activate Cherokee-TTS
 
 cp="$(ls -1tr checkpoints/*|tail -n 1)"
 cp="$(basename "$cp")"
@@ -38,7 +36,7 @@ for x in "$z"/"$wg"-*; do
 	rm -r "$x"
 done
 
-v=("cno-spk_0" "cno-spk_1" "cno-spk_2" "cno-spk_3" "09-chr" "08-chr" "05-chr" "04-chr" "03-chr" "02-chr" "01-chr")
+v=("03-chr" "cno-f-chr_2" "02-chr" "cno-m-chr_2" "09-chr" "04-chr" "01-chr" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "05-chr" "08-chr" "cno-f-chr_1" )
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"

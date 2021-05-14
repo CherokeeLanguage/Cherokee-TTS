@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -i
 
 set -e
 set -o pipefail
@@ -17,9 +17,7 @@ done
 cd ../../..
 y="$(pwd)"
 
-source ~/miniconda3/etc/profile.d/conda.sh
-
-conda activate ./env
+conda activate Cherokee-TTS
 
 cp="$(ls -1tr checkpoints/*|tail -n 1)"
 cp="$(basename "$cp")"
@@ -32,35 +30,13 @@ cp /dev/null "$tmp"
 
 cp /dev/null "$z"/voices.txt
 
-for x in "$z"/animals-[0-9][0-9]-*; do
+for x in "$z"/animals-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
 
-v=(
-"01-fr" 
-"02-fr" 
-"04-fr" 
-"05-fr" 
-"06-fr" 
-"07-fr" 
-"08-fr" 
-"09-fr" 
-"10-fr" 
-"11-fr" 
-"13-fr" 
-"14-fr" 
-"15-fr" 
-"16-fr" 
-"17-fr" 
-"18-fr" 
-"19-fr" 
-"20-fr" 
-"21-fr" 
-"22-fr" 
-"25-fr" 
-"26-fr" 
-)
+v=("360-en-m" "329-en-f" "361-en-f" "308-en-f" "311-en-m" "334-en-m")
+#v=("360-en" "329-en" "361-en" "308-en" "311-en" "334-en")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -68,8 +44,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-#shuf "$text" | shuf | shuf | shuf | tail -n 10 > "$selected"
-cat "$text" | uconv -x any-nfd > "$selected"
+shuf "$text" | uconv -x any-nfd | tail -n 20 > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
@@ -91,7 +66,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx.py || python wavernnx-cpu.py
+	#python wavernnx.py || 
+	python wavernnx-cpu.py
 	
 	ix=0
 	mp3s=($(cut -d "|" -f 3 "$selected" | sed 's/ /_/g'))

@@ -9,7 +9,7 @@ z="$(pwd)"
 rm *.npy 2> /dev/null || true
 rm *.wav 2> /dev/null || true
 
-for x in "$z"/*-[0-9][0-9]-*; do
+for x in "$z"/bragging-hunter-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
@@ -19,42 +19,33 @@ y="$(pwd)"
 
 conda activate Cherokee-TTS
 
-cp="$(ls -1tr checkpoints/*|tail -n 1)"
+cp="$(ls -1tr checkpoints/|tail -n 1)"
 cp="$(basename "$cp")"
 
 printf "Using checkpoint: $cp\n"
 
 tmp="$z/tmp.txt"
-selected="$z/selected.txt"
 cp /dev/null "$tmp"
 
-cp /dev/null "$z"/voices.txt
-
-wg="osiyo-then"
-for x in "$z"/"$wg"-*; do
-	if [ ! -d "$x" ]; then continue; fi
-	rm -r "$x"
-done
-
-v=("cno-f-chr_2" "cno-m-chr_2" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "cno-f-chr_1")
 #v=("10-chr" "03-chr" "tac-chr_3" "tac-chr_0" "cno-f-chr_2" "02-chr" "cno-m-chr_2" "09-chr" "tac-chr_1" "04-chr" "tac-chr_2" "01-chr" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "05-chr" "08-chr" "cno-f-chr_1")
-#v=("cno-spk_0")
+v=("360-en-m" "329-en-f" "361-en-f" "308-en-f" "311-en-m" "334-en-m")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
 
-text="$z/osiyo-tohiju-then-what.txt"
+text="$z/bragging-hunter-mco.txt"
 
-cat "$text" > "$selected"
+wg="bragging-hunter"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
 	syn=""
 	cp /dev/null "$tmp"
 	ix=0
-	cat "$selected" | while read phrase; do
+	cat "$text" | uconv -x any-nfd | while read sentence; do
 		ix=$(($ix+1))
-		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
+		printf "%d|%s|%s|chr\n" "$ix" "${sentence}" "$voice" >> "$tmp"
+		#printf "%d|%s|%s|chr*.85:de*.15\n" "$ix" "${sentence}" "$voice" >> "$tmp"
 	done
 
 	cd "$y"
@@ -65,13 +56,16 @@ for voice in "${v[@]}"; do
 	
 	rm -r "$wg"-"$voice" 2> /dev/null || true
 	mkdir "$wg"-"$voice"
-	cp -p "$selected" "$wg"-"$voice"
-	
+	cp -p "$text" "$wg"-"$voice"
+
 	#python wavernnx.py || 
 	python wavernnx-cpu.py
-
+	
+	xdg-open "$wg"-"$voice"
+	
 	ix=0
-	cat "$selected" | while read phrase; do
+	cix=0
+	cat "$text" | while read phrase; do
 		ix=$(($ix+1))
 		iy=$(printf "%02d" $ix)
 		wav="$wg"-"$voice/wg-$ix.wav"
@@ -84,12 +78,12 @@ for voice in "${v[@]}"; do
 		rm "$wav"
 	done
 	
-	xdg-open "$wg"-"$voice"
-	
-	count=$(wc -l "$selected"|cut -f 1 -d ' ')
+	count=$(wc -l "$text"|cut -f 1 -d ' ')
 	for ix in $(seq 1 $count); do
+		ix="$(($ix+1))"
 		rm "$ix".wav 2> /dev/null || true
 		rm "$ix".npy 2> /dev/null || true
 	done
 	printf "\n\n"
 done
+

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -i
 
 set -e
 set -o pipefail
@@ -17,9 +17,7 @@ done
 cd ../../..
 y="$(pwd)"
 
-source ~/miniconda3/etc/profile.d/conda.sh
-
-conda activate ./env
+conda activate Cherokee-TTS
 
 cp="$(ls -1tr checkpoints/*|tail -n 1)"
 cp="$(basename "$cp")"
@@ -32,35 +30,18 @@ cp /dev/null "$tmp"
 
 cp /dev/null "$z"/voices.txt
 
-for x in "$z"/animals-[0-9][0-9]-*; do
+for x in "$z"/animals-*; do
 	if [ ! -d "$x" ]; then continue; fi
 	rm -r "$x"
 done
 
-v=(
-"01-fr" 
-"02-fr" 
-"04-fr" 
-"05-fr" 
-"06-fr" 
-"07-fr" 
-"08-fr" 
-"09-fr" 
-"10-fr" 
-"11-fr" 
-"13-fr" 
-"14-fr" 
-"15-fr" 
-"16-fr" 
-"17-fr" 
-"18-fr" 
-"19-fr" 
-"20-fr" 
-"21-fr" 
-"22-fr" 
-"25-fr" 
-"26-fr" 
-)
+#v_mf=("239-en" "264-en" "250-en" "259-en" "247-en" "261-en" "263-en" "283-en" "286-en" "274-en")
+#v_female=("239-en" "264-en" "250-en" "261-en" "283-en")
+#v_male=("259-en" "247-en" "263-en" "286-en" "274-en")
+#v=("239-en" "264-en" "250-en" "259-en" "247-en" "261-en" "263-en" "283-en" "286-en" "274-en")
+#v=("03-chr" "360-en-m" "329-en-f" "361-en-f" "308-en-f" "311-en-m" "334-en-m" "362-en-f" "330-en-f" "339-en-f" "294-en-f" "310-en-f" "318-en-f" "333-en-f" "305-en-f" "297-en-f" "301-en-f" "341-en-f" "299-en-f" "300-en-f" "345-en-m" "306-en-f" "cno-f-chr_2" "02-chr" "cno-m-chr_2" "09-chr" "04-chr" "01-chr" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "05-chr" "08-chr" "cno-f-chr_1" )
+#v=("360-en-m" "329-en-f" "361-en-f" "308-en-f" "311-en-m" "334-en-m")
+v=("360-en" "329-en" "361-en" "308-en" "311-en" "334-en")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
@@ -68,8 +49,7 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-#shuf "$text" | shuf | shuf | shuf | tail -n 10 > "$selected"
-cat "$text" | uconv -x any-nfd > "$selected"
+shuf "$text" | uconv -x any-nfd | tail -n 20 > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
@@ -91,7 +71,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$selected" "$wg"-"$voice"
 	
-	python wavernnx.py || python wavernnx-cpu.py
+	#python wavernnx.py || 
+	python wavernnx-cpu.py
 	
 	ix=0
 	mp3s=($(cut -d "|" -f 3 "$selected" | sed 's/ /_/g'))

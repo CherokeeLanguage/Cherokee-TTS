@@ -35,14 +35,14 @@ printf "\nTotal voice count: %d\n\n" "$vsize"
 wg="animals"
 text="$z/animals-game-mco.txt"
 
-sort "$text" | shuf | head -n 10 > "$selected"
+cat "$text" | uconv -x any-nfd | shuf | head -n 10 > "$selected"
 
 for voice in "${v[@]}"; do
 	printf "Generating audio for %s\n" "$voice"
 	ix=0
 	syn=""
 	cp /dev/null "$tmp"
-	cut -f 2 "$selected" | while read phrase; do
+	cut -d "|" -f 2 "$selected" | while read phrase; do
 		ix=$(($ix+1))
 		printf "%d|%s|%s|chr\n" "$ix" "${phrase}" "$voice" >> "$tmp"
 	done
@@ -61,7 +61,7 @@ for voice in "${v[@]}"; do
 	
 
 	ix=0
-	mp3s=($(cut -f 3 "$selected" | sed 's/ /_/g'))
+	mp3s=($(cut -d "|" -f 3 "$selected" | sed 's/ /_/g'))
 	for mp3 in "${mp3s[@]}"; do
 		echo "$mp3"
 		ix="$(($ix+1))"
@@ -74,7 +74,7 @@ for voice in "${v[@]}"; do
 	xdg-open "$wg"-"$voice"
 	
 	ix=0
-	cut -f 3 "$selected" | while read line; do
+	cut -d "|" -f 3 "$selected" | while read line; do
 		ix="$(($ix+1))"
 		rm "$ix".wav 2> /dev/null || true
 		rm "$ix".npy 2> /dev/null || true
