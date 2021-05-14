@@ -14,8 +14,8 @@ if __name__ == "__main__":
     do_transliterate:bool = True
     exclude_syllabary:bool = False
     
-    aligned_text: str = "text-copyrighted/aligned-text.txt"
-    output_text: str = "thirteen-moons-selected.txt"
+    aligned_text: str = "aligned.txt"
+    output_text: str = "selected.txt"
 
     workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":

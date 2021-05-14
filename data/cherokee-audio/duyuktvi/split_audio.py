@@ -80,7 +80,7 @@ if __name__ == "__main__":
     
     silence_threshold:float=-50.0
     silence_min_duration:int=125 #ms
-    max_target_duration:int=10000 #ms
+    max_target_duration:int=100 #ms
     
     workdir:str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":
