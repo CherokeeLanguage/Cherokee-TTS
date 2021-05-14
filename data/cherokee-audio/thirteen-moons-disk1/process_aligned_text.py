@@ -12,7 +12,7 @@ if __name__ == "__main__":
     """
     
     do_transliterate:bool = True
-    exclude_syllabary:bool = True
+    exclude_syllabary:bool = False
     
     aligned_text: str = "text-copyrighted/aligned-text.txt"
     output_text: str = "thirteen-moons-selected.txt"

@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 
-if __name__ == "__main__":
+import os
+import sys
+import unicodedata as ud
+from os import walk
 
-    import os
-    import sys
-    import unicodedata as ud
+if __name__ == "__main__":
 
     aligned_text: str = "text.txt"
     output_text: str = "aligned.txt"
@@ -13,8 +14,6 @@ if __name__ == "__main__":
     if workdir.strip() != "":
         os.chdir(workdir)
     workdir = os.getcwd()
-
-    from os import walk
 
     mp3s: list = []
     for (dirpath, dirnames, filenames) in os.walk("mp3"):

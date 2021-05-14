@@ -13,6 +13,8 @@ import pydub.effects as effects
 from split_audio import detect_sound
 from builtins import list
 
+include_o_form:bool=True
+
 if __name__ == "__main__":
     
     if (sys.argv[0].strip()!=""):
@@ -43,6 +45,9 @@ if __name__ == "__main__":
                 dedupeKey=speaker+"|"+text+"|"+mp3
                 if text=="" or "x" in text.lower():
                     continue
+                if not include_o_form and "\u030a" in text:
+                    continue
+                    
                 entries[dedupeKey]=(speaker,mp3,text)
     
     print(f"Loaded {len(entries):,} entries with audio and text.")

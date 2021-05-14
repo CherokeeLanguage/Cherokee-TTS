@@ -43,28 +43,28 @@ if __name__ == "__main__":
     with open("mp3-speaker-lookup.txt", "r") as file:
         for line in file:
             fields=line.split("|")
-            speaker=fields[1]
-            mp3=fields[2]
+            speaker=fields[1].strip()
+            mp3=fields[2].strip()
             speakers[mp3]=speaker
-    
+
     speaker_counts:dict=dict()
     with open("cno-training-data.txt", "w") as file:
         for mp3 in [*matches]:
             speaker=speakers[mp3]
             mco=matches[mp3]
             print(f"{speaker}|cno_cwl/{mp3}|{mco}", file=file)
-            if speaker not in speaker_counts:
-                speaker_counts[speaker]=1
-            else:
-                speaker_counts[speaker]=speaker_counts[speaker]+1
+            #if speaker not in speaker_counts:
+            #    speaker_counts[speaker]=1
+            #else:
+            #    speaker_counts[speaker]=speaker_counts[speaker]+1
         for mp3 in [*cno_web]:
             speaker=speakers[mp3]
             mco=cno_web[mp3]
             print(f"{speaker}|cno_cwl/{mp3}|{mco}", file=file)
-            if speaker not in speaker_counts:
-                speaker_counts[speaker]=1
-            else:
-                speaker_counts[speaker]=speaker_counts[speaker]+1
+            #if speaker not in speaker_counts:
+            #    speaker_counts[speaker]=1
+            #else:
+            #    speaker_counts[speaker]=speaker_counts[speaker]+1
         for mp3 in [*cno_web_syl]:
             speaker=speakers[mp3]
             syl=cno_web_syl[mp3]
@@ -82,5 +82,5 @@ if __name__ == "__main__":
     speakers.sort()
     for speaker in speakers:
         count=speaker_counts[speaker]
-        print(f"   {speaker}: {count:,}")
+        print(f"   {speaker}: {count:,} mp3 files")
         
