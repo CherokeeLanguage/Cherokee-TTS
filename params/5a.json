@@ -2,7 +2,7 @@
 	"balanced_sampling": true,
 	"batch_size": 15,
 	"case_sensitive": false,
-	"characters": " 2:abcdefghijklmnopqrstuvwxyzßɂ̧̀́̂̄̆̈̊̋̌абвгдежзиклмнопрстуфхцчшщъыьэюя–’",
+	"characters": " !\"(),-.0123456789:;?abcdefghijklmnoprstuvwxyzæðøŋœɂɐɑɒɔɕəɚɛɜɡɪɲɹɾʁʃʊʐʒʲˈˌ̧̩̪̱̀́̂̃̄̋̌θᵻ“”",
 	"checkpoint_each_epochs": 4,
 	"dataset": "5a",
 	"encoder_dimension": 256,
