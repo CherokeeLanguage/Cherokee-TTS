@@ -1,22 +1,23 @@
 #!/bin/bash -i
 set -e
 set -o pipefail
-clear
 
-conda activate Cherokee-TTS
+params="5b"
 
-params="5a"
-
-cd "$(dirname "$0")"
+cd "$(dirname "$0")/.."
 WORK="$(pwd)"
 
-cd data
+export PYTHONIOENCODING=utf-8
+conda activate Cherokee-TTS
+
+clear
+
+cd "$WORK"/data
 python prepare_spectrograms.py --directory "$params"
 
 date
 
 cd "$WORK"
-export PYTHONIOENCODING=utf-8
 python trainGa.py --hyper_parameters "$params" --accumulation_size 3
 
 date
