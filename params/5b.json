@@ -21,8 +21,8 @@
 	"predict_linear": false,
 	"reversal_classifier": true,
     "reversal_classifier_dim": 256,
-    "reversal_classifier_w": 0.125,
+    "reversal_classifier_w": 0.5,
     "reversal_gradient_clipping": 0.25,
 	"speaker_embedding_dimension": 32,
-	"version": "5b-2021-05-16"
+	"version": "5b-2021-05-17"
 }
