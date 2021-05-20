@@ -14,7 +14,7 @@ include_o_form: bool = False
 
 if __name__ == "__main__":
 
-    langSkip: set = {} # {"chr-syl", "nl", "ru"}
+    langSkip: set = {"nl", "ru", "zh"}
     speakerSkip: set = set()
 
     workdir: str = os.path.dirname(sys.argv[0])
