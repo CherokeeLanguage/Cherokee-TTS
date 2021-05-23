@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
     speaker_counts: dict = dict()
 
-    for parent in [  # "../comvoi_mco",  #
+    for parent in [  "../comvoi_mco",  #
             "../cstr-vctk-american",  #
             "../cherokee-audio/beginning-cherokee",  #
             "../cherokee-audio/cherokee-language-coach-1",  #
@@ -52,7 +52,6 @@ if __name__ == "__main__":
             "../cherokee-audio/thirteen-moons-disk5",  #
             "../cherokee-audio/cno",  #
             "../cherokee-audio/wwacc",  #
-            "../cherokee-audio/walc-1",  #
             # "../cherokee-audio/tacotron-2020-12-28",  #
     ]:
         for txt in ["all.txt", "val.txt", "train.txt"]:

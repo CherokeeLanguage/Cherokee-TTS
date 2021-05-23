@@ -2,7 +2,7 @@
 set -e
 set -o pipefail
 
-params="2b"
+params="2c"
 
 cd "$(dirname "$0")/.."
 WORK="$(pwd)"
