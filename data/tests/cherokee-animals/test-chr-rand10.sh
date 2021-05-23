@@ -35,8 +35,8 @@ for x in "$z"/animals-*; do
 	rm -r "$x"
 done
 
-#v=("03-chr" "tac-chr_3" "tac-chr_0" "cno-f-chr_2" "02-chr" "cno-m-chr_2" "09-chr" "tac-chr_1" "04-chr" "tac-chr_2" "01-chr" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "05-chr" "08-chr" "cno-f-chr_1" )
-v=("cno-f-chr_2" "cno-m-chr_2" "tac-chr_1" "04-chr" "01-chr" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "cno-f-chr_1" )
+v=("03-chr" "tac-chr_3" "tac-chr_0" "cno-f-chr_2" "02-chr" "cno-m-chr_2" "09-chr" "tac-chr_1" "04-chr" "tac-chr_2" "01-chr" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "05-chr" "08-chr" "cno-f-chr_1" )
+#v=("cno-f-chr_2" "cno-m-chr_2" "tac-chr_1" "04-chr" "01-chr" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "cno-f-chr_1" )
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"

@@ -35,7 +35,7 @@ for x in "$z"/animals-*; do
 	rm -r "$x"
 done
 
-v=("360-en-m" "311-en-m" "334-en-m")
+v=("360-en-m" "311-en-m" "334-en-m" "345-en-m")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"

@@ -35,8 +35,9 @@ for x in "$z"/animals-*; do
 	rm -r "$x"
 done
 
-v=("360-en-m" "329-en-f" "361-en-f" "308-en-f" "311-en-m" "334-en-m")
-#v=("360-en" "329-en" "361-en" "308-en" "311-en" "334-en")
+# v=("360-en-m" "329-en-f" "361-en-f" "308-en-f" "311-en-m" "334-en-m")
+# v=("360-en" "329-en" "361-en" "308-en" "311-en" "334-en")
+v=("360-en-m" "329-en-f" "361-en-f" "308-en-f" "311-en-m" "334-en-m" "362-en-f" "330-en-f" "339-en-f" "294-en-f" "310-en-f" "318-en-f" "333-en-f" "305-en-f" "297-en-f" "301-en-f" "341-en-f" "299-en-f" "300-en-f" "345-en-m" "306-en-f")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
