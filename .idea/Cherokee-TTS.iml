@@ -4,6 +4,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.7 (Cherokee-TTS)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="walc-1-denoise" />
+    <orderEntry type="module" module-name="other-audio-data" />
   </component>
 </module>
