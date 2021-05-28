@@ -2,7 +2,7 @@
 	"balanced_sampling": true,
 	"batch_size": 20,
 	"case_sensitive": false,
-	"characters": " !(),.0123456789:;?abcdefghijklmnopstuvwyzæðŋɂɐɑɔəɚɛɜɡɪɹɾʃʊʒˈˌ̩̱̀́̂̄̋̌θᵻ“”",
+	"characters": " !'(),.:;?abcdefghijklmnopqrstuvwyzæðŋɂɐɑɔəɚɛɜɡɪɹɾʃʊʒˈˌ̩̱̀́̂̄̋̌θᵻ“”",
 	"checkpoint_each_epochs": 5,
 	"dataset": "2d",
 	"encoder_dimension": 256,
