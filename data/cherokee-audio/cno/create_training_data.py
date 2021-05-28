@@ -15,25 +15,13 @@ from split_audio import detect_sound
 
 import progressbar
 
-include_o_form: bool = True
-skip_syllabary: bool = False
-only_syllabary: bool = False
-
 if __name__ == "__main__":
-
-    if skip_syllabary and only_syllabary:
-        print("Can't skip Syllabary while outputting only Syllabary!")
-        sys.exit(-1)
 
     if sys.argv[0].strip() != "":
         os.chdir(os.path.dirname(sys.argv[0]))
 
     max_duration: float = 10.0
     MASTER_TEXTS: list = ["cno-training-data.txt"]
-
-    use_augmented: bool = False
-    if use_augmented:
-        MASTER_TEXTS.append("augmented.txt")
 
     # cleanup any previous runs
     for folder in ["linear_spectrograms", "spectrograms", "wav"]:
@@ -47,19 +35,13 @@ if __name__ == "__main__":
             for line in f:
                 fields = line.split("|")
                 speaker: str = fields[0].strip()
-                mp3: str = fields[1].strip()
-                text: str = ud.normalize("NFD", fields[2].strip())
-                dedupe_key = speaker + "|" + text + "|" + mp3
+                lang: str = fields[1].strip()
+                mp3: str = fields[2].strip()
+                text: str = ud.normalize("NFD", fields[3].strip())
+                dedupe_key = speaker + "|" + lang + "|" + text + "|" + mp3
                 if text == "" or "x" in text.lower():
                     continue
-                if not include_o_form and "\u030a" in text:
-                    continue
-                has_syllabary: bool = re.search("(?i)[Ꭰ-Ᏼ]", text) is not None
-                if skip_syllabary and has_syllabary:
-                    continue
-                if only_syllabary and not has_syllabary:
-                    continue
-                entries[dedupe_key] = (speaker, mp3, text)
+                entries[dedupe_key] = (speaker, lang, mp3, text)
 
     print(f"Loaded {len(entries):,} entries with audio and text.")
 
@@ -97,7 +79,7 @@ if __name__ == "__main__":
     rows: list = []
     already: dict = {}
     idx: int = 0
-    for speaker, mp3, text in entries.values():
+    for speaker, lang, mp3, text in entries.values():
         idx += 1
         bar.update(idx)
         wav: str = "wav/" + os.path.splitext(os.path.basename(mp3))[0] + ".wav"
@@ -127,10 +109,7 @@ if __name__ == "__main__":
             vid = voice_ids[vid]
         if vid == "?":
             vid = voiceid
-        lang: str = "chr"
-        if re.search("(?i)[Ꭰ-Ᏼ]", text):
-            lang = "chr-syl"
-        rows.append(f"{field_id:06d}|{vid}|chr|{wav}|||{text}|")
+        rows.append(f"{field_id:06d}|{vid}|{lang}|{wav}|||{text}|")
         field_id += 1
     bar.finish()
 

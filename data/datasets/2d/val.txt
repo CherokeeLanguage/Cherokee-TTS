@@ -1,0 +1,1010 @@
+035530|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_075.wav|||ðɪs wɪl bī: nˈōʊ ˈī:zī ˈɑ:pʃən .|
+038310|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_325.wav|||āɪ ɹˈīəlī hæv̱ tə ɡˌōʊ nˈāʊ .|
+032029|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_347.wav|||āɪv̱ nˈōʊ pɹˈɑ:bləm wɪð wv̄t ðēɪ sˈɛd .|
+039729|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_100.wav|||ɪt wˈv̄z , fɔ:ɹ mˈī: , lˈāɪk ɐ wˈī:k ɪn hˈɛv̱ən .|
+036475|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_174.wav|||ɪt wv̄z lˈɑ:ɹj ɪnˈv̄f tə fˈɪt ðə wˈɔ:l .|
+000625|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-11-026.wav|||Goɂi jadu:lísgo?|
+028220|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_074.wav|||ðə nˈɛkst θˈɪŋ wɪl bī: kˈv̄ɾɪŋ jˈɜ:nī tˈāɪmz .|
+041572|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_277.wav|||wī: ɑ:ɹ ɪn ðɪs fɚðə lˈɔŋ hˈɔ:l .|
+034244|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_036.wav|||ðə wˈēɪɾɪŋ ɪz ˈōʊv̱ɚ , wˈɛl ˈɔ:lmōʊst .|
+041842|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_123.wav|||ɪt wɪl bī: tˈāɪt .|
+031799|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_117.wav|||ðēɪ ɑ:ɹ ˈɔ:l ˈæɹəbz .|
+035765|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_310.wav|||ðə kæmpˈēɪn wv̄z ɹˈɔ:kəs .|
+027652|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_310.wav|||fˈɑ:ɹmɚz hɐv̱bɪn ɐn ɛndˈēɪnjɚd spˈī:sī:z .|
+042108|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_390.wav|||nˈōʊ pɹˈɑ:ɡɹɛs hɐzbɪn mˈēɪd .|
+042059|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_341.wav|||ðə ɹɪzˈv̄lt kʊd bī: ˈɔ:l dˌāʊn tə tˈɜ:nāʊt .|
+035590|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_135.wav|||āɪ hæv̱ sˈōʊ mˌv̄ch ɹᵻspˈɛkt fɔ:ɹ hˌɪm .|
+025853|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_173.wav|||ɪt wv̄z lˈɪɾəl ˈɛls .|
+030870|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_034.wav|||māɪ ɡˈēɪm ɪz ɪn pɹˈɪɾī ɡˈʊd ʃˈēɪp .|
+041733|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_014.wav|||tə ðə hˈī:bɹū:z ɪt wv̄zɐ tˈōʊkən ðæt ðɛɹ wʊd bī: nˈōʊmˌō:ɹ yˌū:nɪv̱ˈɜ:səl flˈv̄dz .|
+035562|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_107.wav|||skˈɑ:ɾɪʃ ɹˈv̄ɡbī hɐz ɡˈɪv̱ən mˌī: ˈɛv̱ɹɪθˌɪŋ .|
+000316|cno-m-chr_1|chr|../../cherokee-audio/cno/wav/Roses.wav|||ani:ji:lv̋:sgi|
+026727|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_211.wav|||ðæts hˈɑ:ɹd fɚɹə wˈʊmən .|
+035950|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_071.wav|||ɪɾ ɪz ˈɔ:lsōʊ v̱ˈɛɹī v̱ˈælyū:əbəl .|
+034389|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_181.wav|||āɪ hˈōʊp wī: dˈū: .|
+041519|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_224.wav|||ðɛɹwˌɜ:ɹ ˈv̄ðɚ pɹˈɑ:bləmz fɔ:ɹ bɹˈāʊn yˈɛstɚdˌēɪ .|
+035787|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_332.wav|||hāʊˈɛv̱ɚ , wī: hɐv̱nˌɑ:t kˈv̄m tʊ ˌɛnī kəŋklˈū:ʒənz .|
+029683|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_040.wav|||ɪt wʊd ʃˈōʊ ðˌɛm ɐ pˈɑ:zᵻtˌɪv̱ wˈēɪ fˈɔ:ɹwɚd .|
+034290|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_082.wav|||ðɪs dv̄znˌɑ:t hˈɛlp .|
+034608|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_400.wav|||hɪz pɹˈāɪmɚɹī ɹˈɛzᵻdəns ɪz skˈɑ:tlənd .|
+036447|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_146.wav|||ðɛɹ ɪz nˈōʊ sˈāɪn v̄v̱ ˈɛnɪwˌv̄n bˌī:ɪŋ hˈɜ:t .|
+000264|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-want-buy-dress.wav|||Yà:gwadu:lígwu akihwáhísdiɂi dì:sano.|
+031852|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_170.wav|||wˈɪlī dɪzˈɜ:v̱d ɪt , fɔ:ɹ wv̄t hī: hɐz ɐchˈī:v̱d .|
+026803|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_290.wav|||tæksˈēɪʃən ʃˌʊd bī: sˈɪmplᵻfˌāɪd .|
+035506|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_051.wav|||āɪ dˈɪdnt hæv̱ ɐ klˈū: .|
+000077|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Believes.wav|||ù:wo:hiyúha|
+030087|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_022.wav|||ðɪ ˈækchū:əl pɹˈāɪmɚɹī ɹˈēɪnbōʊ əbzˈɜ:v̱d ɪz sˈɛd təbī ðɪ ɪfˈɛkt v̄v̱ sˈū:pɚɹɪmpəzˈɪʃən əv̱ə nˈv̄mbɚɹ v̄v̱ bˈōʊz .|
+035884|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_005.wav|||ʃī: kæn skˈū:p ðī:z θˈɪŋz ˌɪntʊ θɹˈī: ɹˈɛd bˈæɡz , ænd wī: wɪl ɡˌōʊ mˈī:t hɜ: wˈɛnzdēɪ æt ðə tɹˈēɪn stˈēɪʃən .|
+026916|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_403.wav|||ɪn ɐdˈɪʃən , ɪt wv̄z jˈv̄st ɐ bɹˈī:ch v̄v̱ nˈæchɚɹəl jˈv̄stɪs .|
+039799|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_170.wav|||ɪnspˈāɪɚɹɪŋ pˈv̄blɪk kˈɑ:nfɪdəns ɪz kɹˈū:ʃəl .|
+000023|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0023-02-ced-flat-short-031205.wav|||Hvhdla. Ajahda. Nigalsdohdi. Gohlga.|
+031124|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_288.wav|||ðˈɛn kˈēɪm ðə kəlˈɪʒən wɪð sˈɜ:jɪˌōʊ .|
+000042|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-087.wav|||Jo àde:lv́ aye̋:hli.|
+026700|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_184.wav|||āɪ θˈɪŋk wī:v̱ ɡɑ:t ðə bˈæləns ɹˈāɪt .|
+030266|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_205.wav|||wī: plˈēɪd ðˌɛm ˈɔf ðə pˈɪch .|
+028509|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_363.wav|||ðēɪ hæv̱ ʃˈōʊn ɐ ɡɹˈēɪt dɪzˈāɪɚ ænd ˈæɾɪtˌū:d .|
+036430|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_129.wav|||hī: wv̄z bˈæk tə skwˈɛɹ wˌv̄n .|
+028119|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_373.wav|||āɪ wɪl nˈɛv̱ɚ ɡɛt ˌōʊv̱ɚ hɪz dˈɛθ .|
+000043|02-chr|chr|../../cherokee-audio/sam-hider/wav/months-of-the-year-09b.wav|||Du:lì:sdi.|
+026787|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_274.wav|||mˈāɪnd yū: , hī: hˈæzənt bˌɪn bˈæk fɔ:ɹ ˈēɪjᵻz .|
+029850|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_207.wav|||ɪts pˈɑ:ɹt v̄v̱ðə ɡˈēɪm , ˈɪzənt ɪt ?|
+030051|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_408.wav|||āɪ dˈɪdnt dˈū: tˈū: bˈædlī māɪsˈɛlf .|
+036332|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_031.wav|||sˌv̄m wɪl bī: dᵻplˈɔɪd ˌɔn sˈv̄bmɚɹˌī:nz .|
+027959|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_212.wav|||hī: wv̄z tˈū: ɡˈʊd fɔ:ɹ mˌī: tˈū: kənsˈɪstənt .|
+030161|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_096.wav|||ðēɪ tˈōʊld ˌv̄s ɐbˌāʊt ɪt ðə nˈɛkst dˈēɪ .|
+000724|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-12-144.wav|||É:gwő:ni.|
+000439|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Knows.wav|||à:ktaha|
+037128|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_406.wav|||ðɪs sˈī:mz lˈāɪk ɐ v̱ˈɛɹī ɡˈʊd āɪdˈīə .|
+027981|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_234.wav|||nˈāʊ , sˈv̄dənlī , wī: hæv̱ ðɪs nˈū: lˈændskēɪp .|
+035539|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_084.wav|||ðēɪ ɑ:ɹ kˈɜ:ɹəntlī mˈænɪjd bāɪ ˈī:ən wˈɪlsən .|
+028234|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_088.wav|||sˌōʊ ˈv̄ðɚɹ ˈɑ:pʃənz hædtə bī: ɛksplˈō:ɹd .|
+038046|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_060.wav|||bˌv̄t wv̄t dˈɪd ɪt mˈæɾɚ ?|
+041557|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_262.wav|||ɪts bˌɪn v̱ˈɛɹī dˈɪfɪkəlt .|
+026744|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_229.wav|||dˈōʊnt yū: θˈɪŋk ɪt wv̄zɐ fˈāɪn pɚfˈō:ɹməns ?|
+038016|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_030.wav|||ɪt wv̄z ɹˈīəlī ɡˈʊd ɪnðə fˈɜ:st wˈī:k .|
+041520|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_225.wav|||āɪ dˈōʊnt nˈōʊ ðə fˈʊl stˈō:ɹī .|
+035548|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_093.wav|||āɪ wˈɔnt tə plˈēɪ æt ðə hˈāɪɪst lˈɛv̱əl .|
+031046|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_210.wav|||āɪ wv̄z sɚpɹˈāɪzd bāɪ hɪz ɹᵻspˈɑ:ns .|
+030360|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_302.wav|||ɪt hæd nˌɑ:t bˌɪn ɐ tˈɛɹᵻblī ɪnspˈāɪɚɹɪŋ ˈɛnd , ˈī:ðɚ .|
+041872|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_153.wav|||ɐ sˈɛnchɚɹī ˈɔn , lˈɪɾəl hɐz chˈēɪnjd .|
+036432|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_131.wav|||āɪ hɐv̱bɪn kˈv̄mɪŋ hˈɪɹ fɔ:ɹ nˈāɪn yˈɪɹz .|
+029957|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_314.wav|||ʃī: tˈōʊld mˌī: tʊ ɐplˈāɪ fɚðə kɹˈɛst .|
+038941|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_109.wav|||ɪt wv̄zɐ bˈɪt əv̱ə stɹˈv̄ɡəl tədˈēɪ .|
+029812|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_169.wav|||ðæt ɪz wˌɛɹ ðə klˈv̄b hɐz ɡɔn ɹˈɔŋ .|
+025712|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_032.wav|||āɪɐm dᵻlˈāɪɾᵻd æt mˈɜ:ɹēɪz ɐpˈɔɪntmənt .|
+040973|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_101.wav|||ɪɾ ɪz nˌɑ:t ɪnðə pˈv̄blɪk ˈɪntɹɛst .|
+000134|01-chr|en|../../cherokee-audio-data/durbin-feeling-tones/wav/0078-df-tones_enhanced-219085.wav|||robin|
+038040|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_054.wav|||āɪ wɪl mˌēɪk ðæt pˈɔɪnt tənˈāɪt .|
+041978|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_260.wav|||ɪt wˈv̄z , hāʊˈɛv̱ɚ , ðə ɹˈɔŋ sˈāɪd .|
+031483|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_225.wav|||hāʊˈɛv̱ɚ , ðēɪ kəntˈɪnyū:d ɪn ðɛɹ pɚsˈū:t v̄v̱ v̱ˈɪktɚɹī .|
+000677|cno-m-chr_2|chr|../../cherokee-audio/cno/wav/Stopped.wav|||ù:le:hwistanv́|
+029718|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_075.wav|||ɪts bˌɪn ɐ tˈɛɹᵻbəl ɔ:ɹdˈīəl fɔ:ɹ mˈɑ:ɹɡɹət .|
+041652|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_357.wav|||wī: hæd nˈōʊ āɪdˈīə wv̄t wv̄z ɡˌōʊɪŋ ˈɔn .|
+041638|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_343.wav|||āɪ hæv̱ ɐ kˈōʊld .|
+027789|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_042.wav|||ɐ ɹᵻkˈō:ɹdɪŋ kˈɑ:ntɹækt ɪz ɔnðə hɚɹˈāɪzən .|
+038148|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_163.wav|||āɪ bᵻlˈī:v̱ ðə ɡˈæp ɪz nˌɪɹlī ðˈɛɹ .|
+029667|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_024.wav|||ðɪs ɪz ɐ v̱ˈɛɹī kˈɑ:mən tˈāɪp v̄v̱ bˈōʊ , wˈv̄n ʃˈōʊɪŋ mˈēɪnlī ɹˈɛd ænd yˈɛlōʊ , wɪð lˈɪɾəl ɔ:ɹ nˈōʊ ɡɹˈī:n ɔ:ɹ blˈū: .|
+036478|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_177.wav|||āɪ nˈɛv̱ɚ fˈāʊnd māɪ ɹˈɪðəm .|
+036320|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_018.wav|||ˈæɹɪstˌɑ:ɾəl θˈɔ:t ðætðə ɹˈēɪnbōʊ wv̄z kˈɔ:zd bāɪ ɹᵻflˈɛkʃən v̄v̱ðə sˈv̄nz ɹˈēɪz bāɪ ðə ɹˈēɪn .|
+041281|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_409.wav|||wˌv̄ts ðə pɹˈɑ:bləm wɪð chˈēɪnj ?|
+027905|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_158.wav|||sˈv̄sɪks pəlˈī:s ɹᵻfyˈū:zd tə ɡˈɪv̱ ˌɛnī fˈɜ:ðɚ dī:tˈēɪlz .|
+041229|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_357.wav|||ðæt ɪz ɐ tɹˈɛnd wˌɪch wɪl bī: ɛŋkˈɜ:ɹɪjd .|
+036596|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_296.wav|||ðæt sˈɔ:ɹt v̄v̱ θˈɪŋ ɪz lˈɔŋ ɡˈɔn .|
+038987|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_155.wav|||wī: wʊd wˈɛlkv̄m ɐ ɡɹˈēɪɾɚɹ ˈɛmfəsɪs ˌɔn kˈɑ:ɹkəsᵻz .|
+028053|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_306.wav|||ðɛɹ mˈɛsɪj wv̄z sˈɪmpəl .|
+031675|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_417.wav|||āɪ wˈɔnt ɐ fɹˈī: v̱ˈōʊt .|
+036263|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_384.wav|||sˌōʊ pˈī:pəl wɪl kˈv̄m ˈāʊt wɪð ðī:z θˈɪŋz .|
+034307|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_099.wav|||hī: wˈʊdənt ɐlˈāʊ ðæt tə hˈæpən .|
+031382|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_123.wav|||mˈɪstɚ stɹˈɔ: wv̄z hˈōʊm sˈɛkɹətɹī æt ðə tˈāɪm .|
+036190|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_311.wav|||hī: wɪl dˈū: v̱ˈɛɹī wˈɛl .|
+026736|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_221.wav|||ænd wī: nˈōʊ ðˈæt , bɪkˈv̄z wī: nˈōʊ ðə hˈɛɹdɹɛsɚ .|
+036242|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_363.wav|||ɪɾ ɪz ðə wˈēɪ ðēɪ wˈɜ:k .|
+027902|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_155.wav|||yū:v̱ sˈī:n ðə pˈōʊlz ðˈɛn , ʃˈɔ:n .|
+031028|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_192.wav|||āɪ fˈɛlt wī: hæd fˈɔ:lən bˈæk ɐ lˈɪɾəl .|
+036477|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_176.wav|||hī: wɪl bī: jˈv̄jd bāɪ hɪz ˈækʃənz .|
+028176|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_030.wav|||hī: hæd jˈv̄st ɹᵻtˈɜ:nd tə tˈāɪlənd fɹv̄m kˈænədə .|
+035550|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_095.wav|||ɪt wˈv̄zn̩t ɐ kˈɑ:nʃəs dᵻsˈɪʒən nˌɑ:t tə ʃˈāʊt .|
+030955|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_119.wav|||ɪɾ ɪɡnˈō:ɹz ðə fyˈū:chɚ .|
+034578|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_370.wav|||ðə hˈɪɹɪŋ wv̄z fˈɛɹ .|
+027666|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_324.wav|||ðə chˈōʊzən wˈv̄n dˈv̄zənt ˈɔ:lwēɪz ɛksˈɛl .|
+031623|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_365.wav|||ðɛɹ mˈāɪnd wv̄z ɔ:lɹˌɛdī mˌēɪd ˈv̄p .|
+000024|01-chr|chr|../../cherokee-audio-data/durbin-feeling-tones/wav/0039-df-tones_enhanced-105605.wav|||Ada|
+036057|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_178.wav|||ðə lˈī:ɡ v̄v̱ nˈēɪʃənz wv̄z ˈɔ:lsōʊ hɪz āɪdˈīə .|
+027371|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_029.wav|||māɪ fˈɜ:st sˈī:zən ɪn skˈɑ:tlənd wv̄z fæntˈæstɪk .|
+035729|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_274.wav|||āɪd nˈɛv̱ɚ hˈɜ:d hˌɪm ɪn pˈɜ:sən bᵻfˈō:ɹ .|
+030376|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_318.wav|||tˈū: ˈɔfən ɪɾ ɪz nˈɑ:t .|
+000099|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-boat-b.wav|||Jǐ:yu.|
+031060|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_224.wav|||ænd wɪɹ nˌɑ:t ðɛɹ yˈɛt .|
+031362|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_103.wav|||ɪn fˈækt , ðæt wʊd bī: ɐ dɪstˈɔ:ɹʃən v̄v̱ðə tɹˈū:θ .|
+031736|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_054.wav|||æz ɐ nˈēɪʃən , wī: mˈv̄st bɪkˌv̄m mˈō:ɹ ˈæktɪv̱ .|
+041866|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_147.wav|||āɪ dˈōʊnt θˈɪŋk wī: dɪzˈɜ:v̱d tə lˈū:z .|
+035660|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_205.wav|||θˈæŋkfəlī , wī: hæv̱ stˈɑ:ɹɾᵻd tə lˈɪsən tʊ ˌāʊɚ kˈv̄stəmɚz .|
+035495|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_040.wav|||wī: nˈōʊ yū: wɪl nˌɑ:t lˈɛt ˌv̄s dˈāʊn .|
+037146|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_424.wav|||sˈv̄ɂn̩ ɪz plˈēɪɪŋ æz wˈɛl æz ˈɛv̱ɚ tədˈēɪ .|
+036759|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_036.wav|||wī: kʊd fˈī:l ðə hˈī:t .|
+031612|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_354.wav|||āɪ kˌʊdɐv̱ bˌɪn əfˈɛndᵻd .|
+041912|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_193.wav|||ðɪs ɪz ɐ bˈɪznəs .|
+039991|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_363.wav|||ɪɾ ɪz ɐ ɹˈōʊd v̄v̱ dˈɛθ .|
+000082|01-chr|chr|../../cherokee-audio/durbin-feeling/wav/0087-Track_056-000172.wav|||hi:yě:wa. ji:yewi:sga. ga:yewsga.|
+041720|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_001.wav|||plˈī:z kˈɔ:l stˈɛlə .|
+028370|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_224.wav|||ɪt hæd ɐ jāɪɡˈæntɪk ɪfˈɛkt .|
+036202|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_323.wav|||ðə kəmˈɪɾīz ɹˈī:mɪt ɪz fˈɑ:ɹ ɹˈī:chɪŋ .|
+039193|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_362.wav|||skˈɑ:tlənd ɪz lˈū:zɪŋ bˈɪznəs .|
+035543|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_088.wav|||hī: jˈv̄st wˈɔnts tə plˈēɪ .|
+037114|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_392.wav|||hī: wʊd tˈēɪk ˌv̄p ðə bˈāɪk .|
+036771|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_048.wav|||tˈāɪmz hæv̱ chˈēɪnjd , bˌv̄t hæv̱ ðēɪ ɪmpɹˈū:v̱d ?|
+027397|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_055.wav|||ˈɛv̱ɹɪθˌɪŋ ˈɛls ɪz sˈɛkənd .|
+035862|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_407.wav|||hī: kˈēɪm klˈōʊs tə sˈāɪnɪŋ fɔ:ɹ ɹˈēɪnjɚz , tˈū: .|
+027612|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_270.wav|||āɪ lˈɜ:nd ðæt ˈōʊnlī yˈɛstɚdˌēɪ .|
+027529|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_187.wav|||ðə pɹˈɑ:jɛkt ɪz ɛntˈāɪɾəld ðə kəmpˈōʊzɚɹ ɪn skˈɑ:tlənd .|
+034407|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_199.wav|||sˌōʊ ðēɪ wɪl sˈɛɾəl ɐɡˈɛn .|
+032063|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_381.wav|||ðə ɹᵻplˈēɪsmənts mˌēɪd ɐ bˈɪɡ dˈɪfɹəns .|
+026659|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_143.wav|||wī: bᵻlˈī:v̱ ðætðə ɹˈī:zən ɪz pˈɑ:v̱ɚɾī .|
+036084|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_205.wav|||ˈōʊnlī ðə skˈēɪl v̄v̱ chˈēɪnj dˈɪfɚd .|
+030839|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_003.wav|||sˈɪks spˈū:nz v̄v̱ fɹˈɛʃ snˈōʊ pˈī:z , fˈāɪv̱ θˈɪk slˈæbz v̄v̱ blˈū: chˈī:z , ænd mˈēɪbī: ɐ snˈæk fɔ:ɹ hɜ: bɹˈv̄ðɚ bˈɑ:b .|
+000720|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Traced.wav|||ù:sdâ:wadv́:sv̌|
+030964|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_128.wav|||ðɪ ˈæɹōʊ wv̄z ˈēɪmd æt ðə hˈɑ:ɹt .|
+000417|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-08-083.wav|||Ù:nihwasga.|
+000183|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-005.wav|||Wě:sa nigawè:sgv́ gà:tv:gí:ɂa.|
+041887|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_168.wav|||pˈī:pəl ˈɔ:lsōʊ hæv̱ tɹˈv̄bəl wɪððə kˈɜ:ɹənsī .|
+000576|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Rattlesnake.wav|||u:tso:nadi|
+000453|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-08-172.wav|||Kǒ:l.|
+038021|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_035.wav|||ðɪs wʊd ɡˈɪv̱ skˈɑ:tlənd ɚɹˈāʊnd ˈēɪt mˈɛmbɚz .|
+028473|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_327.wav|||nˈāʊədˌēɪz , ɪɾ ɪz wˈɜ:kɚz yū:nˈāɪɾᵻd .|
+036022|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_143.wav|||ðæt ɪz ðə lˈæst θˈɪŋ ðēɪ nˈī:d .|
+041857|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_138.wav|||hī: hɐz kɹī:ˈēɪɾᵻd ðə kənfyˈū:ʒən .|
+029723|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_080.wav|||ɪf yʊɹ ɐ nˈæʃənəl kˈv̄mpənī , yū: mˈv̄st pɹəv̱ˈāɪd ɪɾ ˈɔ:l .|
+041084|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_212.wav|||pˈɛnʃənz ɑ:ɹ ɐ lˈɔŋtˈɜ:m ɪnv̱ˈɛstmənt .|
+026826|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_313.wav|||mˈɪstɚ mˈēɪsən ɪz klˈēɪmɪŋ v̄nfˈɛɹ dɪsmˈɪsəl .|
+039010|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_178.wav|||ðēɪ ɹᵻkˈō:ɹdᵻd ðɛɹ dēɪbyˈū: ˈælbəm ɪn nˈū: yˈɔ:ɹk .|
+000083|01-m-wwacc|chr|../../cherokee-audio/wwacc/wav/0121-WWConvoCherokee-08_enhanced-014245.wav|||wige:dó:hv:gi kohi i:ga. Na vsgigi?|
+030296|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_236.wav|||ðə səksˈɛs stˈō:ɹī ʃˈōʊz nˈōʊ sˈāɪnz v̄v̱ stˈɑ:pɪŋ .|
+027698|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_356.wav|||bˌv̄t māɪ hˈɑ:ɹt ɪz ɪn æθlˈɛɾɪks .|
+027948|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_201.wav|||ðə tˈɔ:kɪŋ ɪz ɡˌōʊɪŋ ˈɔn , bˌv̄t ðɪ ɪɹˈækī pˈī:pəl wɪl sɚv̱ˈāɪv̱ .|
+026745|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_230.wav|||ðēɪ wɜ: ðə bˈɛst tˈī:m , bˌv̄t v̄nlˈv̄kī ɪnðɪ ˈɛnd .|
+029941|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_298.wav|||ðɪs ɪz ɐ hyˈū:j kˈɑ:nfɪdəns bˈū:st .|
+038062|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_076.wav|||ɐ ɹᵻv̱yˈū: ɪz ˌv̄ndɚ wˈēɪ .|
+027773|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_026.wav|||ðɪs ɪz nˌɑ:ɾə flˈōʊɾɪŋ lˌɑ:s v̱ˈēɪɡəs .|
+026634|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_118.wav|||ɪts tˈū: bˈɪɡ ɐ ɹˈɪsk tə tˈēɪk .|
+027859|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_112.wav|||ðɛɹ ɪz ɡɹˈēɪt ɹᵻlˈī:f æt ðɪs pˈɔɪnt .|
+028185|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_039.wav|||ðɛɹz ˈɔ:lwēɪz ɐ səlˈū:ʃən , sˈv̄mwɛɹ yū: kæn mˈī:t ɪnðə mˈɪdəl .|
+028052|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_305.wav|||pˈī:pəl kæn ɡɛt ðˌɛm ɪf ðēɪ wˈɔnt .|
+027988|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_241.wav|||ðə pɹˈɑ:pɚɾī ɪz ˈōʊnd bāɪ ɡlˈæzɡōʊ sˈɪɾī kˈāʊnsəl .|
+039712|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_083.wav|||wˌv̄t hˈæpənz nˈɛkst ?|
+025738|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_058.wav|||fɹˈī:dəm fɹv̄m sˈɜ:bīə ɪz ɐ ɡɹˈōʊɪŋ ɑ:bjˈɛktɪv̱ .|
+040016|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_390.wav|||hɪz ɪnstɹˈv̄kʃənz wɜ: klˈɪɹ .|
+038060|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_074.wav|||ɪɾ ɪz sɚpɹˈāɪzɪŋ tə kˈv̄m bˈæk ðɪs wˈēɪ .|
+030005|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_362.wav|||ɪt ɡˈēɪv̱ mˌī: sˈv̄mθɪŋ tə fˈōʊkəs ˈɔn .|
+041927|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_209.wav|||āɪ hæv̱ nˈōʊ sˈī:kɹᵻts .|
+000461|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-08-184.wav|||Nanaɂi.|
+000172|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-069.wav|||E:lohi.|
+026539|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_019.wav|||sˈɪns ðˈɛn fˈɪzɪsˌɪsts hæv̱ fˈāʊnd ðˌɐɾɪt ɪz nˌɑ:ɾɚ ɹᵻflˈɛkʃən , bˌv̄t ɹᵻfɹˈækʃən bāɪ ðə ɹˈēɪndɹɑ:ps wˌɪch kˈɔ:zᵻz ðə ɹˈēɪnbōʊz .|
+036325|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_023.wav|||ɪf ðə ɹˈɛd v̄v̱ðə sˈɛkənd bˈōʊ fˈɔ:lz əpˌɑ:n ðə ɡɹˈī:n v̄v̱ðə fˈɜ:st , ðə ɹɪzˈv̄lt ɪz tə ɡˈɪv̱ ɐ bˈōʊ wɪð ɐn ɐbnˈō:ɹməlī wˈāɪd yˈɛlōʊ bˈænd , sˈɪns ɹˈɛd ænd ɡɹˈī:n lˈāɪt wɛn mˈɪkst fˈɔ:ɹm yˈɛlōʊ .|
+031174|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_338.wav|||yū:v̱ bˌɪn ɐ ɡɹˈēɪt ˈɔ:dīəns .|
+034434|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_226.wav|||fɹv̄m ˌāʊɚ pˈɔɪnt v̄v̱ v̱yˈū: , ɪɾ ɪz ðə ɹˈāɪt tˈāɪm .|
+031506|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_248.wav|||ɪts mˈō:ɹ lˈāɪk ɐ lˈēɪbɚ pˈɑ:ɹɾī ɹˈælī .|
+000587|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Revolution.wav|||à:dé:yohv̋|
+038081|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_095.wav|||ɪɾ ɪz hˈɑ:ɹd tʊ ˌv̄ndɚstˈænd .|
+036918|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_196.wav|||hī: wɪl ɐdɹˈɛs ðə nˈēɪʃən ðɪs ˈī:v̱nɪŋ .|
+027740|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_398.wav|||ʃī: wɪl jˈv̄st hæv̱ wˈɔntᵻd hɜ: bˈēɪbī .|
+038913|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_081.wav|||ɹˈɑ:bɚt ɪz ɐ spˈɛʃəl tˈælənt .|
+031067|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_231.wav|||ðɛɹ ɪz nˈōʊ ɹˈī:zən æɾ ˈɔ:l .|
+031690|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_008.wav|||ðī:z tˈēɪk ðə ʃˈēɪp əv̱ə lˈɔŋ ɹˈāʊnd ˈɑ:ɹch , wɪð ɪts pˈæθ hˈāɪ əbˈv̄v̱ , ænd ɪts tˈū: ˈɛndz ɐpˈæɹəntlī bᵻyˌɔnd ðə hɚɹˈāɪzən .|
+030221|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_158.wav|||sˈv̄sɪks pəlˈī:s ɹᵻfyˈū:zd tə ɡˈɪv̱ ˌɛnī fˈɜ:ðɚ dī:tˈēɪlz .|
+036275|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_396.wav|||ðˈɛn ˈɔ:l wv̄z ɹᵻv̱ˈī:ld .|
+041693|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_398.wav|||āɪɐm dᵻlˈāɪɾᵻd tə hæv̱ hɜ: bˈæk hˈōʊm .|
+025998|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_319.wav|||ɪɾ ɪz ɐn ɪmpɹˈɛsɪv̱ ɹˈɛkɚd .|
+027997|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_250.wav|||bɹˈāʊn ɪz ɐn ˈɪntɹɛstɪŋ mˈæn , bˌv̄t hī: ɪz nˌɑ:t dˈɛspɚɹət .|
+038945|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_113.wav|||ðɪs ɪz θˈɔ:t tə mˈī:n sˈv̄mtāɪm nˈɛkst wˈī:k .|
+041160|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_288.wav|||āɪ hæv̱ plˈēɪd wˈɛl ðə pˈæst tˈū: dˈēɪz .|
+041255|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_383.wav|||ðɛɹ fˈæmɪlīz ɑ:ɹ ɡˈɔn .|
+031850|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_168.wav|||ðə kɹāɪtˈīəɹɪə hæv̱ chˈēɪnjd .|
+026823|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_310.wav|||yʊɹ fˈɑ:ðɚ wv̄zɐ ɡˈʊd mˈæn .|
+041151|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_279.wav|||ðōʊz wɜ: ðə dˈēɪz .|
+026836|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_323.wav|||dˈēɪv̱ɪs ɪz v̱ˈɛɹī səpˈō:ɹɾɪv̱ , æz ɐ dᵻɹˈɛktɚ .|
+037071|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_349.wav|||pˈī:pəl ˈæktᵻd tˈū: kwˈɪklī .|
+027760|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_013.wav|||sˌv̄m hæv̱ ɐksˈɛptᵻd ɪɾ æz ɐ mˈɪɹəkəl wɪðˌāʊt fˈɪzɪkəl ɛksplɐnˈēɪʃən .|
+041166|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_294.wav|||wī: ɑ:ɹ ɪn ɪt fɚðə lˈɔŋtˈɜ:m .|
+036822|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_099.wav|||ðēɪ chˈōʊz tə sˈāɪd wɪð tˈɛɹɚ .|
+030092|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_027.wav|||ðɪs ɪz nˌɑ:t ɐn ˈæmnəstī .|
+028082|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_335.wav|||āɪ bᵻlˈī:v̱ hī: kæn dˈū: ɐ bˈɛɾɚ jˈɑ:b .|
+026547|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_028.wav|||ɐpˈɔɪntmənts ʃˌʊd bī: mˌēɪd ˌɔn mˈɛɹɪt .|
+036297|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_418.wav|||nˈāʊ , hāʊˈɛv̱ɚ , ɪt hɐz ˌv̄ndɚɡˈɑ:n ɐ dɹəmˈæɾɪk dᵻklˈāɪn .|
+040910|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_038.wav|||āɪ hædtə bī: ˈɪntʊ ɪt .|
+035717|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_262.wav|||āɪ hæv̱ nˈōʊ ˈɑ:ɹɡyū:mənt wɪð skˈɑ:tlənd .|
+027499|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_157.wav|||āɪ mˌāɪthɐv̱ bˌɪn sˈɪɾɪŋ æt hˈōʊm , wɪð hɜ:ɹ ˈāʊt hˈɪɹ .|
+025701|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_021.wav|||ðə dˈɪfɹəns ɪnðə ɹˈēɪnbōʊ dᵻpˈɛndz kənsˈɪdɚɹəblī əpˌɑ:n ðə sˈāɪz v̄v̱ðə dɹˈɑ:ps , ænd ðə wˈɪtθ v̄v̱ðə kˈv̄lɚd bˈænd ˈɪŋkɹī:sᵻz æz ðə sˈāɪz v̄v̱ðə dɹˈɑ:ps ˈɪŋkɹī:sᵻz .|
+034631|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_423.wav|||ðə hˈōʊl nˈēɪʃən wɪl bī: dᵻlˈāɪɾᵻd .|
+030150|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_085.wav|||ɐnˈv̄ðɚ səjˈɛschən wv̄z dɪsmˈɪst bāɪ v̱ˈɜ:jɪn .|
+000364|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Grits.wav|||ně:wadv|
+000315|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Pitch.wav|||à:dǐ:nv̂:di|
+039855|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_226.wav|||āɪ bᵻlˈī:v̱ ɪnðə yˈū:nīən .|
+027552|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_210.wav|||āɪ jˈv̄st kʊd nˌɑ:t kˈōʊp .|
+031511|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_253.wav|||āɪ wv̄z hˈæpɪɪst wɪð māɪ ʃˈɔ:ɹt ɡˈēɪm .|
+036791|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_068.wav|||ɪt wv̄zɐ mˈū:v̱ wˌɪch ɐpˈī:ld tə hˌɪm .|
+027406|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_064.wav|||hˌāʊ kʊd ˈɛnɪwˌv̄n tˈēɪk ˈɪʃū: wɪð ðˈæt ?|
+000532|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-09-134.wav|||Agayv̌:líge̋:.|
+036643|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_344.wav|||hɪz nˈēɪm ɪz mˈāɪkəl ˈōʊɪn .|
+036480|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_179.wav|||ɪɾ ɪz ɐ jˈɑ:b kɹī:ˈēɪʃən skˈī:m .|
+035996|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_117.wav|||ðə ɡˈv̄v̱ɚnmənt wv̄z kənsˈv̄ltɪŋ ˈɪntɹɛstᵻd pˈɑ:ɹɾīz , hī: ˈædᵻd .|
+026849|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_336.wav|||ɪts ɐn ˈɪntɹɛstɪŋ tˈāɪɾəl , bᵻlˈī:v̱ɪŋ ɪn bɹˈɪtən .|
+035961|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_082.wav|||āɪɐm hˈɪɹ tə plˈēɪ fˈʊtbɔ:l .|
+000134|01-m-wwacc|chr|../../cherokee-audio/wwacc/wav/0178-WWConvoCherokee-10_enhanced-081315.wav|||ine:na|
+026643|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_127.wav|||lˈɑ:kɚbī hɐzbɪn ɐ tˈɛɹᵻbəl dɪzˈæstɚ fɔ:ɹ ˈɛv̱ɹɪwˌv̄n .|
+038193|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_208.wav|||ɪɾ ɪz nˌɑ:t æz sˈɪmpəl æz ðˈæt .|
+037122|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_400.wav|||ðə tɹˈæk ɪz kˈɜ:ɹəntlī kˈv̄v̱ɚd ɪn snˈōʊ .|
+026024|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_345.wav|||wˌɛɹ ɑ:ɹ yū: tˈēɪkɪŋ hɜ: ?|
+036288|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_409.wav|||yū: ɡˈāɪz ɑ:ɹ nˌɑ:t ˌāʊɾəv̱ ɪt yˈɛt .|
+041669|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_374.wav|||ðɪs ɪz ɡˈʊd nˈū:z fɚðɪ ˈɪndv̄stɹī .|
+000770|cno-m-chr_2|chr|../../cherokee-audio/cno/wav/Yourselves.wav|||ì:jv̌:sa|
+036212|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_333.wav|||ðɛɹwˌv̄z pɹˈɛʃɚ fɹv̄m ˈɛlswɛɹ tˈū: .|
+025963|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_284.wav|||ðɪs ɪz ˌāʊɚ chˈæns ɪn nˈɔ:ɹðɚn ˈāɪɚlənd .|
+042001|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_283.wav|||bˌv̄t ɪt dˈɪdnt bˈɑ:ðɚ mˌī: .|
+025728|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_048.wav|||āɪm ɹˈīəlī lˈʊkɪŋ fˈɔ:ɹwɚd tə sˈī:ɪŋ ðə fˈāɪt .|
+030858|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_022.wav|||ðɪ ˈækchū:əl pɹˈāɪmɚɹī ɹˈēɪnbōʊ əbzˈɜ:v̱d ɪz sˈɛd təbī ðɪ ɪfˈɛkt v̄v̱ sˈū:pɚɹɪmpəzˈɪʃən ˌɔn ɐ nˈv̄mbɚɹ v̄v̱ bˈōʊz .|
+000013|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0013-040-yonega-000000.wav|||yó:ne:ga.|
+034486|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_278.wav|||sˈv̄mθɪŋ wv̄z plˈēɪnlī ɹˈɔŋ .|
+035594|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_139.wav|||ænd ðæt wv̄zðɪ ɐdˈv̄lts .|
+041550|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_255.wav|||yū: dˈōʊnt sˈī: ðˈæt .|
+034236|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_028.wav|||āɪ ɪntˈɛnd tə ɹˈēɪz ðə mˈæɾɚ ðˈɛɹ .|
+041366|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_070.wav|||wī: hæv̱ ɐ stɹˈɔŋ tˈī:m æt ðə mˈōʊmənt .|
+000661|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-11-107.wav|||U:lò:gí:li.|
+026623|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_107.wav|||nˈōʊ ˈv̄ðɚ v̱ˈīəkəl wv̄z ɪnv̱ˈɑ:lv̱d ɪnðɪ ˈɪnsɪdənt .|
+000003|01-m-wwacc|chr|../../cherokee-audio/wwacc/wav/0006-WWConvoCherokee-02_enhanced-027895.wav|||Ja:ni u:du:ji.|
+027979|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_232.wav|||fɚðɪ ˈv̄ðɚ pˈɑ:ɹɾīz , ɪɾ ɪz bˈæk tə bˈɪznəs æz yˈū:ʒū:əl .|
+039055|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_223.wav|||āɪv̱ bˌɪn θˈɪŋkɪŋ ɐbˌāʊt ɪt fɚɹə yˈɪɹ .|
+039821|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_192.wav|||tənˈāɪts mˈæchᵻz yˌʊɹɹəpˈīən chˈæmpīənʃˌɪp .|
+039238|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_407.wav|||hāʊˈɛv̱ɚ , ðə ɹᵻpˈō:ɹt wv̄z ɪŋkɚɹˈɛkt .|
+028315|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_169.wav|||ðēɪ wɜ: bᵻhˌāɪnd ðə wˈī:l .|
+000281|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-05-202.wav|||Kó:gi.|
+000208|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Crawfish.wav|||jí:sdv:na|
+041651|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_356.wav|||āɪ dɪdnˌɑ:t ɡˌōʊ lˈʊkɪŋ ˈɛnɪwˌɛɹ ˈɛls .|
+040897|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_025.wav|||yū: kæn nˈɛv̱ɚ tˈēɪk ɐ wˈɪn fɔ:ɹ ɡɹˈæntᵻd .|
+030898|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_062.wav|||hī: sˈɛd ɪt wv̄zðə wˈɜ:st pˈɑ:sᵻbəl ɹɪzˈv̄lt .|
+028341|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_195.wav|||hˈæɹəld ɪz ɐ ɹˈɛɹəɾī .|
+036308|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_006.wav|||wˌɛn ðə sˈv̄nlāɪt stɹˈāɪks ɹˈēɪndɹɑ:ps ɪnðɪ ˈɛɹ , ðēɪ ˈækt æz ɐ pɹˈɪzəm ænd fˈɔ:ɹm ɐ ɹˈēɪnbōʊ .|
+000520|cno-m-chr_1|chr|../../cherokee-audio/cno/wav/Nut.wav|||sohi|
+026574|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_055.wav|||hˈæɹī pˈɑ:ɾɚ hɐz lˈɔst hɪz mˈæjɪk .|
+000098|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-bird-b.wav|||Jí:sgwa.|
+039176|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_345.wav|||āɪm sɚpɹˈāɪzd ðˌɐɾɪt hɐz tˈēɪkən ðɪs ɐpɹˈōʊch .|
+000027|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0029-050-nvgi-000000.wav|||nvhgi.|
+038248|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_263.wav|||ðə pəlˈī:s ɑ:ɹ hˈōʊpləs .|
+000060|01-chr|chr|../../cherokee-audio-data/durbin-feeling-tones/wav/0094-df-tones_enhanced-263495.wav|||Wajì:la|
+039805|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_176.wav|||dᵻɹˈɛktɪŋ , ɪf yū: lˈāɪk .|
+041495|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_200.wav|||ɔnðə fˈēɪs v̄v̱ ɪt , ðɪs ɪz ˈɛksələnt nˈū:z .|
+028474|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_328.wav|||hī: ɪz yˈv̄ŋ bˌv̄t nˌɑ:t tˈū: yˈv̄ŋ .|
+036353|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_052.wav|||ðɪs ɪz ðə sˈēɪm ˈōʊld stˈō:ɹī .|
+035566|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_111.wav|||ðēɪ ɐɡɹˈī: tə mˈī:t .|
+041614|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_319.wav|||ɪt wv̄zɐ mˈænɪjmənt pɹˈɑ:bləm ɪnðə hˈɑ:spɪɾəl .|
+030923|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_087.wav|||yˈɛstɚdˌēɪ , wˈv̄n , fɹv̄m ˌæbɚdˈī:n , wv̄z pōʊstpˈōʊnd .|
+030307|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_247.wav|||ðə pɚfˈō:ɹməns , fɔ:ɹ ðɪs lˈɪsənɚ , dˈɪdnt kˈv̄m ˈɔf .|
+034457|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_249.wav|||wī: ʃˌʊd bī: ɹᵻwˈɔ:ɹdᵻd fɔ:ɹ pɹədˈū:sɪŋ .|
+031320|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_061.wav|||ðɛɹˌɑ:ɹ jˈv̄st tˈū: tˈʊɹnəmənts ɹᵻmˈēɪnɪŋ .|
+035850|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_395.wav|||ænd ðæt stˈɑ:ɹɾᵻd mˌī: θˈɪŋkɪŋ .|
+031187|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_351.wav|||ˈɔ:lmōʊst ðə dˈēɪ ˈæftɚ ðɪ ᵻlˈɛkʃən , ðə bˈæɾəl lˈāɪnz wɜ: dɹˈɔ:n .|
+027393|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_051.wav|||ɹˈēɪnjɚz wɪl hæv̱ ɐ mˈæsɪv̱ səpˈō:ɹt ɪn ɡlˈæzɡōʊ .|
+039110|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_279.wav|||ɪz ɪt ðə plˈēɪɚz , ɔ:ɹ ɪz ɪt ðə kˈōʊchᵻz ?|
+030334|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_275.wav|||ʃī: ɪz ɐ v̱ˈɛɹī lˈv̄kī yˈv̄ŋ lˈēɪdī .|
+035501|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_046.wav|||wɪɹ tˈɔ:kɪŋ ɐbˌāʊt kɹī:ˈēɪɾɪŋ ɐn ɐtɹˈæktɪv̱ nˈēɪbɚhˌʊd .|
+038115|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_130.wav|||ɪɾ ɪz tˈū: mv̄ch fɔ:ɹ mˌī: .|
+025696|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_016.wav|||ðə nˈō:ɹsɪmˌɛn kənsˈɪdɚd ðə ɹˈēɪnbōʊ æz ɐ bɹˈɪj ˌōʊv̱ɚ wˌɪch ðə ɡˈɑ:dz pˈæst fɹv̄m ˈɜ:θ tə ðɛɹ hˈōʊm ɪnðə skˈāɪ .|
+041191|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_319.wav|||ɪt wōʊnt bī: ðɛɹ lˈæst .|
+030338|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_279.wav|||bˈv̄t , ɪnðɪ ˈɛnd , hī: dˈɪd ænd blˈū: hˌɪm ɐwˈēɪ .|
+026829|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_316.wav|||bˌv̄t ðɛɹwˌv̄z nˈōʊ tˈāɪm fɔ:ɹ ðˈæt .|
+000281|cno-f-chr_3|chr|../../cherokee-audio/cno/wav/Eternal.wav|||i:gohi:dv|
+032072|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_390.wav|||fɔ:ɹ ˈv̄s , ðæt dᵻsˈɪʒən wv̄z hˈɑ:ɹd tʊ ˌv̄ndɚstˈænd .|
+030838|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_002.wav|||ˈæsk hɜ: tə bɹˈɪŋ ðī:z θˈɪŋz wɪð hɜ: fɹv̄mðə stˈō:ɹ .|
+000026|01-m-wwacc|chr|../../cherokee-audio/wwacc/wav/0030-WWConvoCherokee-03_enhanced-084145.wav|||u:do:hiyű.|
+000445|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Rack.wav|||áhlohdi|
+034463|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_255.wav|||ˌāʊɚ pˈī:pəl ɑ:ɹ pˈēɪɪŋ hˈāɪ pɹˈāɪsᵻz .|
+041878|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_159.wav|||yū: nˈɛv̱ɚ hˌædɪt sˌōʊ ɡˈʊd .|
+035911|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_032.wav|||mˈɪstɚ kɹˈɔ:fɚd ɪz nˈōʊ stɹˈēɪnjɚ tə skˈɑ:ɾɪʃ ˈɛntɚpɹˌāɪz .|
+036614|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_315.wav|||ðə ɡˈv̄v̱ɚnmənt hɐz tə ɡɹˈæsp ðə nˈɛɾəl .|
+038183|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_198.wav|||āɪ hæv̱ nˈōʊ pɹˈɑ:bləm wɪð ðˈæt .|
+037137|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_415.wav|||mˈō:ɹ lˈāɪklī , pɚhˈæps , ɪz ðæt hī: wɪl stˈēɪ ɪn ˈɪŋɡlənd .|
+042112|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_394.wav|||ðə plˈɑ:t ɪz chˈēɪnjɪŋ æz tˈāɪm ɡōʊz ˈɔn .|
+032038|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_356.wav|||āɪ hˈōʊp ðēɪ wɪl ˌv̄ndɚstˈænd ðə ɹˈī:zənz .|
+035958|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_079.wav|||āɪ kʊd dˈū: ɐ bˈɛɾɚ jˈɑ:b .|
+041776|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_057.wav|||hī: ɪz ɐ lˈɔ: ˌv̄ntʊ hɪmsˈɛlf .|
+041278|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_406.wav|||stˈɪl , ɪɾ ɪz ɐ v̱ˈɛɹī ɡˈʊd ɹɪzˈv̄lt fɔ:ɹ ˌv̄s .|
+039789|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_160.wav|||ænd sˌōʊ ðēɪ hˈæv̱ .|
+027691|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_349.wav|||āɪ kˈænt stˈɑ:p pˈī:pəl θˈɪŋkɪŋ .|
+040950|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_078.wav|||ðə kwˈɛschən wv̄z sˈɪmpəl ɪnˈv̄f .|
+027738|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_396.wav|||āɪl tˈēɪk wv̄t kˈv̄mz ɐlˈɔŋ .|
+025951|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_272.wav|||fɔ:ɹ nˈāʊ , ðēɪ hæv̱ ɡɔn æz fˈɑ:ɹ æz ðēɪ kˈæn .|
+029837|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_194.wav|||mˈāɪnd yū: , hī: hˈæzənt bˌɪn bˈæk fɔ:ɹ ˈēɪjᵻz .|
+000025|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-234.wav|||Sě:lu ga̋:du.|
+031586|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_328.wav|||ðə pɹˈɛʃɚ wv̄z nˈāʊ bˈæk ˌɔn mˈɪstɚɹ ˈæɹɐfˌæt .|
+000722|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Transpire.wav|||u:de:liɂi:sdi|
+000465|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-09-029.wav|||Ali:he:lísdi.|
+026890|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_377.wav|||ˈɔ:l v̄v̱ ˌv̄s ɪn skˈɑ:tlənd ʃˌʊd bī: v̱ˈɪjɪlənt .|
+031970|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_288.wav|||ɪt hɐz bɪkˌv̄m v̱ˈɛɹī kənfyˈū:zd .|
+035741|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_286.wav|||ðə mˈænɪjɚɹ ɪz ðɛɹ tə mˌēɪk ðī:z dᵻsˈɪʒənz .|
+036095|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_216.wav|||wī: ɑ:ɹ nˌɑ:t fˈɑ:ɹ fɹv̄m ɐ dˈī:l .|
+031620|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_362.wav|||ðə mˈɪlk ˈɪndv̄stɹī ɪz ɪn tˈɜ:mɔɪl .|
+025766|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_086.wav|||wī: hæv̱ tə fˈōʊkəs ˌɔn wv̄t ɪz ɪmpˈō:ɹtənt .|
+000251|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-05-131.wav|||Desgi:dì:si.|
+000391|cno-m-chr_2|chr|../../cherokee-audio/cno/wav/Upland.wav|||gadű:si|
+031300|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_041.wav|||bˈāɪɪŋ ˌāʊɚ wˈēɪ ˈāʊt ɪz nˌɑ:t ɐn ˈɑ:pʃən .|
+034523|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_315.wav|||ðɪ ˈɑ:dz ɑ:ɹ ðˌɐɾɪt wˈɪl .|
+026042|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_363.wav|||ɪɾ ɪz ˈɔ:lsōʊ yˈū:zd tə bˈāɪ kˈɔfɪnz .|
+041552|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_257.wav|||āɪ θˈɔ:t ðēɪ wɜ: jˈv̄st ɛksˈāɪɾᵻd .|
+000123|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-041.wav|||Ǔ:gáma à:gwadu:lí.|
+000180|cno-m-chr_1|chr|../../cherokee-audio/cno/wav/Christmas.wav|||Dà:ni:sdayo:hihv̋|
+037140|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_418.wav|||hāʊˈɛv̱ɚ , ɪn ˈɔ:ɹknī , ðɛɹwˌv̄z ɐ mˈɪkst ɹᵻspˈɑ:ns .|
+034613|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_405.wav|||ðɪ ˈōʊpən chˈæmpīən ɪz bˈæk .|
+028182|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_036.wav|||ʒˈæk kˈāɪɹæk , ðə fɹˈɛnch pɹˈɛzɪdənt , wv̄z ʃˈʊɹlī ɪn hɪz sˈāɪts .|
+036838|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_115.wav|||āɪ wv̄z v̱ˈɛɹī plˈī:zd wɪð ðˌɛm tədˈēɪ , ðˈōʊ .|
+038989|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_157.wav|||kəmˈɪɾɪŋ sˈū:ɪsˌāɪd ɪz nˌɑ:ɾə kɹˈɪmɪnəl əfˈɛns .|
+034277|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_069.wav|||wī: hæv̱ nˈōʊ āɪdˈīə wv̄t kˈɔ:zd ðə dᵻɹˈēɪlmənt .|
+030298|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_238.wav|||ɪɾ ɪz dˈɪfɪkəlt wɛn yū: dˈōʊnt nˈōʊ ˈɛnɪwˌv̄n .|
+025729|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_049.wav|||wī:v̱ ˈɔ:l dˈv̄n ɪt !|
+036391|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_090.wav|||ɪts ɐ tɹˈū: stˈō:ɹī .|
+042063|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_345.wav|||ðə səpˈō:ɹt v̄v̱ bɹˈɪtən ɪz ɐsˈū:md .|
+031366|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_107.wav|||ˈɔ:ɹ , ɹˈæðɚ , ɪɾ ˈɪzənt .|
+036072|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_193.wav|||ɪts nˌɑ:t wˈv̄n ɔ:ɹ ðɪ ˈv̄ðɚ , yū: hæv̱ tə hæv̱ bˈōʊθ .|
+031761|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_079.wav|||ɪts ðə sˈēɪm æz ɡlˈæzɡōʊ .|
+027568|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_226.wav|||bˈɪl ɪz ɐ mˈɛntō:ɹ .|
+036599|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_299.wav|||hāʊˈɛv̱ɚ , kənsˈū:mɚz mˈēɪ tˈēɪk ɐ dˈɪfɹənt v̱yˈū: .|
+031858|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_176.wav|||ðōʊz hˌū: ɑ:ɹ pɹɪpˈɛɹɪŋ tə ɡˈɪv̱ ˈv̄p .|
+031310|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_051.wav|||lˈōʊðīən ænd bˈō:ɹdɚz pəlˈī:s ɑ:ɹ ɐpˈī:lɪŋ fɔ:ɹ wˈɪtnəsᵻz .|
+041490|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_195.wav|||yū: lˈʊk æt ðˈæt .|
+026782|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_269.wav|||ðə kɹāɪtˈīəɹɪə hæv̱ chˈēɪnjd .|
+031759|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_077.wav|||āɪ kˈænt wˈēɪt tə mˈī:t hˌɪm .|
+000829|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-16-001.wav|||Taladuɂi Jalagi go:hwe:lv̀:ɂi.|
+000590|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-10-028.wav|||U:nv̌:d hà:su:yv́:sgó?|
+035939|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_060.wav|||ðɪs ɪz ɐ bˈɪɡ klˈv̄b .|
+041843|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_124.wav|||hī: sˈī:mz təbī yˈū:zd tə ðɪ ɐtˈɛnʃən .|
+029819|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_176.wav|||ðæt hɐz ɡˈɪv̱ən mˌī: ɡɹˈēɪt kˈɑ:nfɪdəns .|
+031752|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_070.wav|||ɪt hˈæpənz ɪn mˈɛnī kˈv̄ntɹīz .|
+039947|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_319.wav|||ɪz ʃī: ɪn tɹˈv̄bəl ?|
+035863|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_408.wav|||ɪt wʊd ʃˈōʊ ðˌɛm ɐ pˈɑ:zᵻtˌɪv̱ wˈēɪ fˈɔ:ɹwɚd .|
+038894|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_062.wav|||ðēɪ wɜ: nˌɑ:t dˌū:ɪŋ ɪt tˈū: wˈɛl , ˈī:ðɚ .|
+035497|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_042.wav|||ðɛɹˌɑ:ɹ bˈɪɡ nˈēɪmz .|
+031902|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_220.wav|||ðə hˈōʊl θˈɪŋ hɐzbɪn ɐ nˈāɪtmɛɹ .|
+026007|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_328.wav|||ðɛɹˌɑ:ɹ sˌōʊ mˈɛnī v̄nˈænsɚd kwˈɛschənz .|
+035751|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_296.wav|||ðæt wʊdhɐv̱ bˌɪn tˈū: ˈī:zī .|
+031523|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_265.wav|||āɪm lˈʊkɪŋ æt wˈēɪz tə dˈū: ðæt nˈāʊ .|
+038214|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_229.wav|||āɪ hæv̱ ˈɔ:lwēɪz bᵻlˈī:v̱d ɪn māɪsˈɛlf .|
+036570|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_270.wav|||plˈēɪɪŋ ɪn yˈʊɹɹəp ɪz ðə bˈɛnchmɑ:ɹk .|
+041913|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_194.wav|||lˈæst yˈɪɹ , ɪt wv̄z wˈv̄n bāɪ jˈæk mə kˈɑ:nəl , ðə fˈɜ:st mˈɪnɪstɚ .|
+000027|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0027-02-ced-flat-short-070735.wav|||Hikihi. Tehga. Hila. Ama. Si.|
+025857|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_177.wav|||āɪm lˈʊkɪŋ fˈɔ:ɹwɚd tə fˈēɪsɪŋ ðɪ ˈāɪɹɪʃmˌɛn .|
+000079|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-169.wav|||Dijò:ye̋:ni.|
+028457|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_311.wav|||bˈōʊθ sˈāɪdz hæv̱ tə stˈɛp bˈæk .|
+032014|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_332.wav|||ðə jˈɜ:mən hæd ɐ pˈɔɪnt tə mˈēɪk .|
+031790|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_108.wav|||chˈēɪmbɚz sˈɛd hī: wʊd ɐksˈɛpt ðə plˈēɪs .|
+000781|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-14-166.wav|||Ani:ji:lv́:sga.|
+000368|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-07-077.wav|||U:gǎ:nawa dò:dala.|
+029836|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_193.wav|||hī: nˈī:dᵻd sˈɛv̱ən ˈāʊɚz v̄v̱ sˈɜ:jɚɹī .|
+028525|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_379.wav|||ɪts bˌī:ɪŋ v̱ˈɛɹī kˈɛɹfəlī lˈʊkt æt .|
+026561|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_042.wav|||ʃˈʊɹ ðə sˌī:ˌōʊˈī: ɪz ɐ kɹˈækɪŋ bˈænd .|
+038058|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_072.wav|||tədˈēɪ ɪz ðə fˈɜ:st stˈɛp ɪn ðæt pɹˈɑ:sɛs .|
+027824|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_077.wav|||yū:d θˈɪŋk ðɛɹwˌv̄z ɐ mˈæch ˌɔn tədˈēɪ .|
+039053|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_221.wav|||hī: ˈæskt mˌī: ɪn ɐ tˈɑ:lɚɹəns zˈōʊn .|
+029856|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_213.wav|||māɪ ˈōʊnlī æmbˈɪʃən ɪz tʊ ɛnjˈɔɪ māɪ wˈɜ:k .|
+000310|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Reverse.wav|||atsvstdi|
+031901|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_219.wav|||lˈæst nˈāɪt , ʃī: ɹᵻfyˈū:zd tə kˈɑ:mɛnt ɔnðɪ ˈæksɪdənt .|
+030385|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_327.wav|||ɪt mˈēɪ ˈɔ:lsōʊ bī: hɜ: lˈæst .|
+026535|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_015.wav|||ðə ɡɹˈī:ks yˈū:zd tʊ ɪmˈæjɪn ðˌɐɾɪt wv̄zɐ sˈāɪn fɹv̄mðə ɡˈɑ:dz tə fō:ɹtˈɛl wˈɔ:ɹ ɔ:ɹ hˈɛv̱ī ɹˈēɪn .|
+041178|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_306.wav|||wˌv̄t dˈv̄z ðɪs mˈī:n ?|
+041585|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_290.wav|||ɪn ɐ wˈēɪ hī: wv̄z .|
+039155|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_324.wav|||ɪnstˈɛd , ʃī: jˈv̄st wɛnt ɐwˈēɪ .|
+041148|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_276.wav|||ðēɪ mˌāɪt wˈɛl bī: ɹˈāɪt .|
+031727|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_045.wav|||pˈī:pəl ˈæktᵻd tˈū: kwˈɪklī .|
+034589|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_381.wav|||ɪɾ ˈɪz , hāʊˈɛv̱ɚ , ɐn v̄nlˈāɪklī ˈāʊtkv̄m .|
+029948|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_305.wav|||hī: ɐdmˈɪɾᵻd ðɛɹwˌɜ: tˈū: ˈæspɛkts v̄v̱ fˈɪɹ .|
+042035|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_317.wav|||hī: ɪz fˈɜ:m bˌv̄t ɪŋklˈū:sɪv̱ ænd v̱ˈɛɹī fˈɛɹ .|
+026523|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_003.wav|||sˈɪks spˈū:nz v̄v̱ fɹˈɛʃ snˈōʊ pˈī:z , fˈāɪv̱ θˈɪk slˈæbz v̄v̱ blˈū: chˈī:z , ænd mˈēɪbī: ɐ snˈæk fɔ:ɹ hɜ: bɹˈv̄ðɚ bˈɑ:b .|
+036546|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_246.wav|||wī: wɜ: hˈōʊpfəl ðˌɐɾɪt wʊd bī: səksˈɛsfəl .|
+026681|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_165.wav|||dˈōʊnt ɡɛt mˌī: ɹˈɔŋ .|
+039723|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_094.wav|||ɪt wv̄zɐ fˈv̄nī fˈī:lɪŋ .|
+030843|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_007.wav|||ðə ɹˈēɪnbōʊ ɪz ɐ dᵻv̱ˈɪʒən v̄v̱ wˈāɪt lˈāɪt ˌɪntʊ mˈɛnī byˈū:ɾīfəl kˈv̄lɚz .|
+036572|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_272.wav|||ðæts ɐ v̱ˈɛɹī stɹˈɔŋ ˈɛlɪmənt .|
+041294|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_422.wav|||ðēɪ nˈī:d tˈāɪm tə θˈɪŋk .|
+039666|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_037.wav|||āɪ wv̄z kəmplˈī:tlī nˈækɚd .|
+035525|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_070.wav|||ɪt wv̄z nˌɑ:t ðə ɡɹˈēɪɾɪst pɚfˈō:ɹməns , bˌv̄t ɪt wv̄z ɪfˈɛktɪv̱ .|
+031126|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_290.wav|||hˈɑ:lɪɹˌū:d ɪz jˈv̄st ɐ pˈɑ:ɹt v̄v̱ðə jˈɪɡsɔ: .|
+036459|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_158.wav|||kɹˈɪschənz ɪn pˌækɪstˈæn ɑ:ɹ tˈɛɹᵻfˌāɪd .|
+031587|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_329.wav|||wˈɛstɚn kˈv̄ntɹīz kəndˈɛmd ðə kˈɑ:ndv̄kt v̄v̱ðə pˈōʊl .|
+037133|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_411.wav|||hī: ˈædᵻd , wī: ɑ:ɹ nˌɑ:t pɹɪpˈɛɹd fɔ:ɹ wˈɔ:ɹ .|
+038286|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_301.wav|||ɪt tˈɜ:nd ˈāʊt tə hɐv̱bɪn θɹˈī: ˈāʊɚz .|
+027540|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_198.wav|||āɪ fˈī:l pɹˈɪv̱ᵻlɪjd təbī hˈɪɹ .|
+041226|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_354.wav|||āɪ wʊd nˌɑ:t dˈū: ðˈæt .|
+041364|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_068.wav|||wī: ɑ:ɹ nˌɑ:t ɡˌōʊɪŋ tə bˈæk ˈɔf .|
+000026|01-chr|chr|../../cherokee-audio-data/durbin-feeling-tones/wav/0042-df-tones_enhanced-112655.wav|||Adanhdo|
+000193|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-04-120.wav|||Go:gi.|
+041221|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_349.wav|||wˌɛɹ dˈɪd ðæt fˈɪnɪʃ ?|
+039131|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_300.wav|||ɪts ɐ sˈō:ɹs v̄v̱ dˈī:p kənsˈɜ:n .|
+027690|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_348.wav|||ðēɪ ɑ:ɹ jˈv̄st bᵻwˈɪldɚd ænd v̱ˈɛɹī kənsˈɜ:nd .|
+040967|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_095.wav|||ɪts nˌɑ:ɾə ɡˈēɪm .|
+026080|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_401.wav|||ɪn fˈækt , hī: ʃˌʊd nˈɛv̱ɚ hɐv̱bɪn ɪnðə fˈī:ld .|
+028357|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_211.wav|||bˌv̄t hī: jˈv̄st kˈæɹīd ˌɔn ˈɛnɪwˌēɪ .|
+025944|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_265.wav|||ðɪs wɪl hæv̱ nˈōʊ ɪfˈɛkt ɔnðə chˈæmpīənʃˌɪp .|
+038253|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_268.wav|||ʃˌʊd hī: ɹɪzˈāɪn ?|
+031641|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_383.wav|||ɪt hɐz ɹᵻmˈū:v̱d ɐ bˈɪt v̄v̱ ɡˈɪlt .|
+041483|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_188.wav|||ðɪs ɪz pˈɑ:zᵻtˌɪv̱ ænd wˈɛlkv̄m .|
+034431|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_223.wav|||wī: ɹᵻmˈēɪn kəmˈɪɾᵻd tʊ ɪt , æz dˈv̄z ðə ɡˈv̄v̱ɚnmənt .|
+031246|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_410.wav|||ðɛɹˌɑ:ɹ sˈɪmplī nˈōʊ ˈɔ:ɹdɚz .|
+030368|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_310.wav|||ðɛɹˌɑ:ɹ nˈōʊ ˈī:zī səlˈū:ʃənz tə ðɪs pɹˈɑ:bləm .|
+029869|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_226.wav|||ɐpˈɔɪntmənts ʃˌʊd bī: mˌēɪd ˌɔn mˈɛɹɪt .|
+032041|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_359.wav|||ɪt wv̄z lˈāɪk sˈv̄mwv̄n hæd dˈāɪd .|
+030936|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_100.wav|||wī: hæv̱ nˈōʊ āɪdˈīə wv̄t kˈɔ:zd ðə dᵻɹˈēɪlmənt .|
+032060|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_378.wav|||wī: hæv̱ tə stˈɑ:ɹt ɐɡˈɛn ˌɔn sˈæɾɚdˌēɪ .|
+031048|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_212.wav|||ɹˈɪv̱ɚ sˈɪɾī ɪz ɐ ʃˈōʊkēɪs fɔ:ɹ skˈɑ:ɾɪʃ tˈælənt .|
+027776|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_029.wav|||v̄v̱ kˈō:ɹs , ðɪs ɪz nˈāɪs tə hˈɪɹ .|
+030198|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_134.wav|||ðɛɹ ɪz stˈɪl mˈv̄ch wˈɜ:k təbī dˈv̄n .|
+035909|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_030.wav|||ɪt wv̄z nˈv̄θɪŋ tə dˈū: wɪð māɪ dˈɔ:ɾɚ .|
+031898|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_216.wav|||ɪt kæn bī: hˈɔltᵻd .|
+031764|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_082.wav|||wˈɛl , ðæts jˈv̄st ɐ θˈɜ:d dˈɪstɹɪkt .|
+028290|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_144.wav|||ðɪs wv̄z nˌɑ:t jˈv̄st ɪŋkˈɑ:ŋɡɹū:əs .|
+000026|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-237.wav|||Gv́:na.|
+028056|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_309.wav|||wɪð hˌɪm ɑ:ɹ ðə sˈɪmbəlz v̄v̱ hɪz fˈēɪθ .|
+038308|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_323.wav|||ɪt wˈv̄zn̩t ðɪ ˈɪʃū: .|
+029903|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_260.wav|||fɔ:ɹ wˈv̄n v̱ˈɛɾɚɹən , ðə mˈɛmɚɹīz ɹᵻmˈēɪn v̱ˈɪv̱ɪd .|
+036446|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_145.wav|||ðæt ɪz ɪmpɹˈɛsɪv̱ bāɪ ˌɛnī stˈændɚdz .|
+036848|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_125.wav|||ðɛɹ ɪz bˈāʊnd təbī ɐ fˈɔ:ɹməl kəmplˈēɪnt .|
+036936|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_214.wav|||ðɪ ɐpɹˈū:v̱əl sˈɪstəm wɪl bī: chˈēɪnjd .|
+042092|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_374.wav|||wī: ˈɔ:l wˈɔnt ðə sˈēɪm θˈɪŋz .|
+028076|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_329.wav|||θɹˈī: bˈāɪstændɚz wɜ: kˈɪld .|
+000191|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-024.wav|||Talǔ:ja.|
+041833|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_114.wav|||hī: hæd ɹᵻtˈɜ:nd tə dˈāɪ .|
+042125|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_407.wav|||hˈōʊpfəlī , ɪt wɪl bī: ɡˈʊd ɪnˈv̄f .|
+031383|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_124.wav|||fˈāɪv̱ ɪn ɐ mˈv̄nθ ˌɪzənt ɡˈʊd ɪnˈv̄f .|
+031653|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_395.wav|||āɪ dˈōʊnt θˈɪŋk ɪts v̱ˈāɪɾəl .|
+031730|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_048.wav|||ðɛɹˌɑ:ɹ dˈɪfɹənt kˈv̄lchɚz ɪn dˈɪfɹənt dᵻpˈɑ:ɹtmənts .|
+000148|cno-m-chr_1|chr|../../cherokee-audio/cno/wav/Buttons.wav|||digatdi|
+028266|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_120.wav|||yū: dū:nˌɑ:t chˈēɪnj ˌōʊv̱ɚnˈāɪt .|
+038175|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_190.wav|||ðēɪ hæv̱ ðə plˈēɪɚz tə dˈū: ɪt .|
+039080|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_249.wav|||ɪt dˈv̄zənt mˌēɪk sˈɛns .|
+030847|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_011.wav|||wˌɛn ɐ mˈæn lˈʊks fɔ:ɹ sˈv̄mθɪŋ bᵻyˌɔnd hɪz ɹˈī:ch , hɪz fɹˈɛndz sˈēɪ hī: ɪz lˈʊkɪŋ fɚðə pˈɑ:t v̄v̱ ɡˈōʊld æt ðɪ ˈɛnd v̄v̱ðə ɹˈēɪnbōʊ .|
+031843|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_161.wav|||ðēɪ nˈɛv̱ɚ ɡɑ:t ˌɪntʊ ðə ʃˈōʊ ðɪs tˈāɪm .|
+028027|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_280.wav|||ðə yˌū:ˈɛs ɪz ɐ dāɪv̱ˈɜ:s ænd kˈv̄lɚfəl nˈēɪʃən .|
+026567|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_048.wav|||wˌv̄t dˈū: wī: dˈū: fɚɹən ˈɑ:ŋkō:ɹ ?|
+028009|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_262.wav|||ðēɪ fˈēɪld ɪn ðɛɹ dˈū:ɾī tə mˈɪstɚ lˈōʊɡən .|
+036996|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_274.wav|||yū: kˈænt ɡˌōʊ bˈæk ænd chˈēɪnj θˈɪŋz .|
+038050|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_064.wav|||ðə pəlˈī:s ɑ:ɹ nˌɑ:t ðə tˈɑ:ɹɡɪt .|
+035858|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_403.wav|||hˌū: hɐz hī: fˈɔ:t ?|
+027932|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_185.wav|||āɪɐm ɹˈāɪɾɪŋ ɐ nˈɑ:v̱əl .|
+039070|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_239.wav|||āɪ lˈɔst ɪɾ æt ðə fˈāɪnəl wˈɪsəl .|
+038838|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_006.wav|||wˌɛn ðə sˈv̄nlāɪt stɹˈāɪks ɹˈēɪndɹɑ:ps ɪnðɪ ˈɛɹ , ðēɪ ˈækt æz ɐ pɹˈɪzəm ænd fˈɔ:ɹm ɐ ɹˈēɪnbōʊ .|
+025900|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_220.wav|||wī: ɑ:ɹ nˌɑ:ɾɚ ɹˈī:tēɪlɚ , wī: pɹəv̱ˈāɪd ɐ sˈɜ:v̱ɪs .|
+000559|cno-f-chr_5|chr|../../cherokee-audio/cno/wav/Postman.wav|||go:hwe:lidi:ga:hnido:hi|
+031813|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_131.wav|||plˈænɪŋ ɪz ɐ kˈī: ˈɪʃū: .|
+035596|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_141.wav|||ðæt ɪz ɐ jˈɑ:b fɚðə ɡˈv̄v̱ɚnmənt .|
+039974|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_346.wav|||spˈɛnt θɹˈī: mˈv̄nθs ɐlˈōʊn æt sˈī: .|
+031054|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_218.wav|||ðēɪ kʊd ɡˌōʊ nˈōʊ fˈɜ:ðɚ fˈɔ:ɹwɚd .|
+000282|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-05-204.wav|||Hī.|
+041432|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_137.wav|||ɪt wv̄z hˈāɪlī səksˈɛsfəl .|
+039966|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_338.wav|||hī: wv̄z ˌōʊv̱ɚwˈɛlmd bāɪ ðə ɹᵻspˈɑ:ns .|
+041444|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_149.wav|||ðɛɹˌɑ:ɹ nˈōʊ sˈɛkənd chˈænsᵻz .|
+030949|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_113.wav|||ðēɪ sˈɛd ʃī: hɐdbɪn v̱ˈɪzɪɾɪŋ hɜ: sˈv̄n , hˌū: ɪz v̄nɛmplˈɔɪd .|
+031566|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_308.wav|||ɪn ˈɔ:l kˈēɪsᵻz kəmpyˈū:ɾɚɹ ɪkwˈɪpmənt wv̄z sˈī:zd .|
+031296|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_037.wav|||ɪɾ ɪz ˈī:zī təbī wˈāɪz ɪn hˈāɪndsāɪt .|
+028531|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_385.wav|||æt ðə mˈōʊmənt , ɪɾ ɪz bˌī:ɪŋ tɹˈī:ɾᵻd æz ɐ tɹˈæjɪk ˈæksɪdənt .|
+041980|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_262.wav|||ʃī: ɪz nˈāʊ plˈænɪŋ ɐ v̱ˈɪzɪt .|
+000021|cno-f-chr_1|chr|../../cherokee-audio/cno/wav/Already.wav|||gá:yu:la|
+027613|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_271.wav|||wī: dˈū: θˈɪŋz ɪn ɐn ɐpɹˈōʊpɹɪət wˈēɪ .|
+000602|cno-m-chr_2|chr|../../cherokee-audio/cno/wav/Rushing.wav|||ù:wa:nv́:gv̌|
+034514|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_306.wav|||ɪt mˈēɪ wˈɛl hɐv̱bɪn .|
+041261|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_389.wav|||nˈōʊ , ðēɪ ɑ:ɹ nˌɑ:t ðə sˈēɪm θˈɪŋ .|
+027570|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_228.wav|||ðɪs mˈv̄st bī: ɹˈīəlī ʃˈɔ:ɹt v̄v̱ āɪdˈīəz .|
+027446|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_104.wav|||ðə bɹˈēɪkdāʊn wv̄z mˈv̄ch lˈēɪɾɚɹ ɪn hɜ: lˈāɪf .|
+000311|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-06-050.wav|||Ő:sda.|
+031910|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_228.wav|||āɪ nˈɛv̱ɚ mˌēɪd ˌɛnī ˈɔfɚ tə mˈɑ:ɹk .|
+000115|01-chr|chr|../../cherokee-audio/durbin-feeling/wav/0134-Track_103-000312.wav|||Ő:sda di:kino:gì:sdíɂi. Ase ő:sda di:kino:gi̋:sdi.|
+036316|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_014.wav|||tə ðə hˈī:bɹū:z ɪt wv̄zɐ tˈōʊkən ðæt ðɛɹ wʊd bī: nˈōʊmˌō:ɹ yˌū:nɪv̱ˈɜ:səl flˈv̄dz .|
+031192|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_356.wav|||ðɪs ɪz ɐ dɹˈɛdfəl dˈēɪ fɔ:ɹ ˈāɪɑ:nə .|
+038323|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_338.wav|||ðɪs hɐzbɪn kˈv̄mɪŋ fɔ:ɹ wˈī:ks ænd wˈī:ks .|
+029863|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_220.wav|||ɪt mˈēɪ bī: hɪz lˈæst fɚɹə wˈāɪl , tˈū: .|
+041320|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_024.wav|||ðɪs ɪz ɐ v̱ˈɛɹī kˈɑ:mən tˈāɪp v̄v̱ bˈōʊ , wˈv̄n ʃˈōʊɪŋ mˈēɪnlī ɹˈɛd ænd yˈɛlōʊ , wɪð lˈɪɾəl ɔ:ɹ nˈōʊ ɡɹˈī:n ɔ:ɹ blˈū: .|
+026088|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_409.wav|||sˈv̄ch ɪz ðɪ ˈī:ɡōʊ ɪnv̱ˈɑ:lv̱d .|
+028254|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_108.wav|||ˈɪndv̄stɹī lˈī:dɚz ɹɪˈæktᵻd ˈæŋɡɹīlī .|
+039181|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_350.wav|||hī: tˈēɪks tˈāɪm ˈāʊt fɔ:ɹ ˈɛv̱ɹɪwˌv̄n .|
+039996|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_368.wav|||ˈɛnɪθˌɪŋ ðæt wv̄z ɡˈōʊɪŋ , ɹˈīəlī .|
+035960|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_081.wav|||ɐn ɐnˈāʊnsmənt wɪl fˈɑ:lōʊ ɪn dˈū: kˈō:ɹs .|
+041865|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_146.wav|||hˌū: ɪz ɡˌōʊɪŋ tə pˈēɪ ðɛɹ wˈēɪjᵻz ?|
+025827|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_147.wav|||ʃī: wv̄z ˈɔ:lwēɪz ɐ kwˈɔlᵻɾī ˈækt .|
+028412|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_266.wav|||ɪt wv̄zɐ mˈōʊmənt v̄v̱ mˈædnəs .|
+039692|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_063.wav|||ðə slˈī:pɚ wv̄z sˈɪks ˈāʊɚz lˈēɪt .|
+041627|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_332.wav|||yˈɛt ðə jˈɑ:b ɪz fˈɑ:ɹ fɹv̄m ˈōʊv̱ɚ .|
+038895|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_063.wav|||hī: ˈædᵻd , ɪts nˌɑ:ɾɚ ɹˈēɪʃəl pɹˈɑ:bləm .|
+031768|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_086.wav|||māɪ wˈāɪf ænd fˈæmɪlī ɑ:ɹ ðə səpˈō:ɹt sˈɪstəm .|
+030324|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_264.wav|||hˈɪstɚɹī mˈēɪ ɹᵻpˈī:t ɪtsˈɛlf wɪð bˈɪlī ˈɛlɪət .|
+042026|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_308.wav|||wī: ˈɔ:l mˌēɪk mɪstˈēɪks .|
+040960|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_088.wav|||ðēɪ kˌʊdənt kˈī:p ɪt təɡˈɛðɚ .|
+041232|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_360.wav|||ðɛɹwˌv̄z nˈōʊwˈv̄n v̄v̱ðə ɹᵻkwˈāɪɚd stˈændɚd .|
+035522|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_067.wav|||ðə kˈɑ:mənz ɪz tˈū: āʊtdˈēɪɾᵻd .|
+042137|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_419.wav|||wī: mˌēɪd ɐ wˈɜ:ld ɹˈɛkɚd təɡˈɛðɚ .|
+026827|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_314.wav|||ænd hī: ɪz ɪmˈɛnslī lˈɔɪəl .|
+029961|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_318.wav|||hɪz sˈɪstɚɹ ˈædᵻd , wī: ɛkspˈɛktᵻd hˌɪm təbī jˈēɪld .|
+025968|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_289.wav|||sˌōʊ ɪt wv̄z sˈæd .|
+000202|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-21-sentences-you-1-and-i.wav|||I:nigíɂa.|
+037107|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_385.wav|||ɪts tə dˈū: wɪð kˈɑ:ntɛkst .|
+000118|01-chr|en|../../cherokee-audio-data/durbin-feeling-tones/wav/0028-df-tones_enhanced-078535.wav|||turkey|
+038978|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_146.wav|||ðɛɹ kəndˈɪʃən wv̄z dᵻskɹˈāɪbd æz stˈēɪbəl .|
+032015|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_333.wav|||ðɪs tˈāɪm , hāʊˈɛv̱ɚ , mˌēɪhɐv̱ bˌɪn dˈɪfɹənt .|
+000569|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-09-295.wav|||U:ni:gǎ:nawa.|
+000149|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-9c.wav|||Wǎ:ji hilvhdlv̋:ɂi à:giyo:hǔ:si.|
+035817|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_362.wav|||ðɛɹ mˈēɪ bī: sˌv̄m ˈɛv̱ɪdəns tə ðɪs ɪfˈɛkt .|
+034587|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_379.wav|||āɪ ɛnjˈɔɪ ðə kɹī:ˈēɪɾɪv̱ pɹˈɑ:sɛs .|
+028373|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_227.wav|||ðə tˈī:m ðɪs yˈɪɹ ɪz ɡˌōʊɪŋ plˈēɪsᵻz .|
+025774|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_094.wav|||ɪt ʃˌʊd bī: ɐ kəndˈɪʃən v̄v̱ ɛmplˈɔɪmənt .|
+041922|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_204.wav|||āɪm lˈʊkɪŋ fˈɔ:ɹwɚd tə kˈv̄mɪŋ hˈōʊm .|
+000278|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-05-196.wav|||Go:hi̋:gi.|
+038399|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_414.wav|||nˈāʊ wī: mˈv̄st lˈʊk tə ðə fyˈū:chɚ .|
+029963|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_320.wav|||wī: kænˈɑ:t ɹᵻlˈāɪ ˌɔn pɹətɹˈæktᵻd lˈī:ɡəl pɹəsˈī:dɪŋz .|
+038880|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_048.wav|||ˈɔ:l ðə lˈædz ɑ:ɹ tˈōʊɾəlī fˈōʊkəst ˌɔn ðˈæt .|
+036850|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_127.wav|||ɪts ɐ mˈæɾɚɹ v̄v̱ hyˈū:j kənsˈɜ:n .|
+030058|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_415.wav|||ʃī: ˈɔ:lwēɪz wˈɔntᵻd hɜ:ɹ ˈōʊn wˈēɪ .|
+026723|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_207.wav|||fˈɪʃɚmˌɛn ɑ:ɹ stˈɪl ɪn ɐ stˈēɪt v̄v̱ kənfyˈū:ʒən .|
+028162|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_016.wav|||ðə nˈō:ɹsɪmˌɛn kənsˈɪdɚd ðə ɹˈēɪnbōʊ æz ɐ bɹˈɪj ˌōʊv̱ɚ wˌɪch ðə ɡˈɑ:dz pˈæst fɹv̄m ˈɜ:θ tə ðɛɹ hˈōʊm ɪnðə skˈāɪ .|
+000012|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0012-040-wado-000000.wav|||wado.|
+027944|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_197.wav|||wī: hæv̱ ˈōʊnlī nˈāɪn mˈv̄nθs tə ɡˈōʊ .|
+000705|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-12-009.wav|||Ká:gā na achű:ja?|
+031998|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_316.wav|||ðɪs ɪz nˌɑ:t ˌāʊɾəv̱ chˈɔɪs .|
+000823|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-15-223.wav|||Digǐ:gágé ale dijé:ɂiyű:sd dà:gi di:jv̋sd.|
+036001|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_122.wav|||sˌv̄m pˈī:pəl stˈɪl θˈɪŋk ʃī: ʃˌʊd bī: ˈɪŋɡlɪʃ .|
+000744|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-13-015.wav|||Ayv gé.|
+036976|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_254.wav|||chˈɛk ðæt hī: ɪz dˈɛd .|
+035688|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_233.wav|||ðə bˈɔɪ ɪz nˌōʊ lˈɑ:ŋɡɚ wɪð ˌv̄s .|
+038366|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_381.wav|||hī: wv̄z æt ðɪ ˈāʊtsɛt v̄v̱ hɪz kɚɹˈɪɹ .|
+041421|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_125.wav|||ænd ɪf ðēɪ fˈēɪl ?|
+030379|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_321.wav|||āɪ ɡɑ:t ɐ yˈɛlōʊ kˈɑ:ɹd .|
+000024|01-m-wwacc|chr|../../cherokee-audio/wwacc/wav/0028-WWConvoCherokee-03_enhanced-069935.wav|||digatvdi|
+030270|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_209.wav|||ðæt nˈāɪt wv̄zɐ tˈɛɹᵻbəl mˈv̄dəl .|
+032049|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_367.wav|||ˌāʊɚ ɡɹˈēɪt dᵻpɹˈɛʃən ɪz ˌāʊɚ lˈāɪv̱z .|
+028253|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_107.wav|||ðə lˈɪɾəl bˈɔɪ wv̄z plˈēɪɪŋ fˈʊtbɔ:l æt lˈv̄nchtāɪm .|
+027700|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_358.wav|||ɐ ɹᵻv̱yˈū: ɡɹˈū:p wɪl ɹᵻpˈō:ɹt ˌɔn tˈū:zdēɪ .|
+037109|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_387.wav|||æt pɹˈɛzənt ɪɾ ɪz fˈɛɹlī v̄ŋkˈɑ:mən , bˌv̄t ɪts ˈɪnsɪdəns ɪz ɪŋkɹˈī:sɪŋ .|
+000171|cno-m-chr_2|chr|../../cherokee-audio/cno/wav/Tables.wav|||diga:sgilo|
+031770|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_088.wav|||āɪ hæv̱ hˈɑ:ɹdlī ˌɛnī kəmˈɪtmənts .|
+038873|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_041.wav|||hī: wv̄z ɚɹˈɛstᵻd , bˌv̄t lˈēɪɾɚ ɹᵻlˈī:st wɪðˌāʊt chˈɑ:ɹj .|
+025909|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_229.wav|||ðə pɹˈōʊtɛst wɪl ɡˌōʊ ɐhˈɛd æz plˈænd .|
+036012|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_133.wav|||wī: ɑ:ɹ nˈāʊ ɪn ɐ sˈēɪf plˈēɪs .|
+038402|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_417.wav|||ðēɪ ɑ:ɹ lˈʊkɪŋ fɔ:ɹ pˈɑ:ɹtnɚz .|
+041340|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_044.wav|||āɪm ʃˈʊɹ hī: dˈv̄z .|
+036460|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_159.wav|||āɪ kænˈɑ:t bᵻlˈī:v̱ ʃī: hɐzbɪn ɐdmˈɑ:nɪʃt .|
+029657|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_014.wav|||tə ðə hˈī:bɹū:z ɪt wv̄zɐ tˈōʊkən ðæt ðɛɹ wʊd bī: nˈōʊmˌō:ɹ yˌū:nɪv̱ˈɜ:səl flˈv̄dz .|
+031265|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_006.wav|||wˌɛn ðə sˈv̄nlāɪt stɹˈāɪks ðə ɹˈēɪndɹɑ:ps ɪnðɪ ˈɛɹ , ðēɪ ˈækt æz ɐ pɹˈɪzəm ænd fˈɔ:ɹm ɐ ɹˈēɪnbōʊ .|
+000067|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0119-070-dejigowhtiha-000000.wav|||de:jigowhtíha.|
+031236|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_400.wav|||ðə mˈæstɚ wv̄z bāɪ ðˈɛn jˈv̄st tˈū: ˈōʊld .|
+027987|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_240.wav|||wv̄z ˈɔ:l ðɪs ɹˈīəlī jˈv̄st fˈāɪv̱ mˈv̄nθs ɐɡˈōʊ ?|
+036466|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_165.wav|||hɪz fyˈū:nɚɹəl ɪz nˌɑ:t ɛkspˈɛktᵻd v̄ntˈɪl nˈɛkst wˈī:k .|
+035533|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_078.wav|||ðɪs ˈæv̱əlˌænʃ ɪz jˈv̄st bɪɡˈɪnɪŋ .|
+030103|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_038.wav|||mˈɛksɪkˌōʊ sˈɪɾī wv̄zɐ wˈv̄ndɚfəl ɛkspˈīəɹɪəns .|
+041888|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_169.wav|||āɪ ˈɔ:lwēɪz wˈɔntᵻd hɜ: təbī hˈæpī .|
+035603|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_148.wav|||jˈɑ:nī wˈɪlkɪnsən hæd ɐn ˈɔfdˈēɪ ˌɔn sˈæɾɚdˌēɪ .|
+000081|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Provision.wav|||alsděhldohdi|
+038206|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_221.wav|||yū: kænˈɑ:t dˈū: ðæt ɪn ɐ lˈɑ:bī .|
+039890|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_261.wav|||fˈɑ:ðɚhˌʊd ɪz ɪmpˈō:ɹtənt tə tˈōʊnī blˈɛɹ .|
+036176|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_297.wav|||ðæt wv̄z kwˈāɪt ɐn ˈɪntɹɛstɪŋ pˈɑ:ɹt .|
+028479|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_333.wav|||ðēɪv̱ bˌɪn æɾ ɪt fɔ:ɹ fˈāɪv̱ ˈāʊɚz .|
+041013|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_141.wav|||ðæt wv̄zðə θˈīəɹī .|
+030337|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_278.wav|||ðˈæt , hāʊˈɛv̱ɚ , kæn ˈōʊnlī bī: ɐchˈī:v̱d bāɪ kˈɑ:nstənt ɪnv̱ˈɛstmənt .|
+036525|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_225.wav|||hˌāʊ mˈɛnī kˈēɪsᵻz hæv̱ ðˈɛɹ bˌɪn ?|
+028324|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_178.wav|||ðə bˈɪɡ ˈɪʃū: fɔ:ɹ ˌv̄s ɪz ðə ɹᵻv̱yˈū: .|
+041097|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_225.wav|||ðə klˈv̄b hɐz nˈɛv̱ɚ wˈv̄n ɪt .|
+030391|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_333.wav|||ðɛɹ hɐzbɪn nˈōʊ kˈv̄v̱ɚɹˌv̄p jˈv̄st ðɪ ˈɑ:pəzˌɪt ɪn fˈækt .|
+036032|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_153.wav|||dɪsɹˈv̄pʃən wɪl bī: kˈɛpt tʊ ɐ mˈɪnɪməm .|
+026622|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_106.wav|||ænd ɪf hī: hˈædənt bɪkˌv̄m ɐ myū:zˈɪʃən ?|
+031733|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_051.wav|||ðə ʃˈædōʊ chˈænsɛlɚɹ ɪz ɐwˈēɪ ˌɔn hˈɑ:lɪdˌēɪ .|
+000674|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-11-129.wav|||À:ga:sg.|
+041496|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_201.wav|||ðɪs ɪz klˈɪɹlī nˌɑ:t ɐbyˈū:s .|
+027496|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_154.wav|||yˈɛt ɪɾ ɪz v̄nlˈāɪklī təbī ˈī:ðɚ fˈʊl , ɔ:ɹ fˈāɪnəl .|
+027574|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_232.wav|||wˌv̄t mˌēɪks ɐ hˈāʊs ɐ hˈōʊm ?|
+028088|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_341.wav|||wī: wōʊnt lˈɛt yū: dˈāʊn .|
+038343|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_358.wav|||ðɛɹˈæftɚ ðēɪ wɜ:ɹ ɐɡˈɛn ɪn kəntɹˈōʊl .|
+031519|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_261.wav|||hī: ˈɔ:lsōʊ pɹɪzˈɛntᵻd yū: bˈɛt !|
+030076|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_011.wav|||wˌɛn ɐ mˈæn lˈʊks fɔ:ɹ sˈv̄mθɪŋ bᵻyˌɔnd hɪz ɹˈī:ch , hɪz fɹˈɛndz sˈēɪ hī: ɪz lˈʊkɪŋ fɚðə pˈɑ:t v̄v̱ ɡˈōʊld æt ðɪ ˈɛnd v̄v̱ðə ɹˈēɪnbōʊ .|
+036457|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_156.wav|||pyˈū:pəlz wɜ:ɹ ɐlˈāʊd hˈōʊm æt lˈv̄nchtāɪm .|
+036597|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_297.wav|||ænd sˈū:nɚ ðɐn wī: mˈēɪ θˈɪŋk .|
+039115|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_284.wav|||wī:v̱ ɡɑ:t ɐ fˈʊl hˈāʊs tənˈāɪt .|
+031713|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_031.wav|||mˈɪlɚ wv̄z ˈɛv̱ɹī bˈɪt æz hˈæpī .|
+000054|01-m-wwacc|chr|../../cherokee-audio/wwacc/wav/0063-WWConvoCherokee-05_enhanced-012825.wav|||v:v|
+036860|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_137.wav|||ɪŋklˈū:ʒən ænd ˈɔ:tɪzəm , ɪz ɪt wˈɜ:kɪŋ ?|
+000312|cno-f-chr_5|chr|../../cherokee-audio/cno/wav/Fled.wav|||ù:lití:sv̌|
+041640|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_345.wav|||nˈɛkst lˈī:ɡ mˈæchᵻz , ˌæbɚdˈī:n dˈv̄ndī: .|
+039018|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_186.wav|||pɹˈɑ:mɪsᵻz wɜ: nˌɑ:t kˈɛpt .|
+030137|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_072.wav|||ɪnðə pˈæst fyˈū: yˈɪɹz , ðēɪ hæv̱ stˈɑ:ɹɾᵻd tə fˈāɪt bˈæk .|
+027636|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_294.wav|||ɪts ɐ sˈō:ɹs v̄v̱ dˈī:p kənsˈɜ:n .|
+000113|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Bow.wav|||gahljaɂdi|
+035799|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_344.wav|||ˌāʊɚ hˈāʊs wv̄z v̱ˈɛɹī smˈɔ:l .|
+000032|01-chr|chr|../../cherokee-audio/durbin-feeling/wav/0032-Track_015-000372.wav|||hihtayo:hiha. gáɂluhga. o:síyo.|
+035614|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_159.wav|||nˈōʊwˈv̄n , nˌɑ:t ˈī:v̱ən ðə skˈɑ:ɾɪʃ ˈɑ:ɹts kˈāʊnsəl , wv̄z ˈɪntɹɛstᵻd ɪn hɜ: .|
+041288|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_416.wav|||ɪts nˌɑ:t ɐn ɪmpɹˈɛʃən .|
+000147|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-011.wav|||Kanu:na nigaweɂa.|
+030255|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_193.wav|||yū: lˈʊk æt ðˌɛm ænd yū: ˌv̄ndɚstˈænd .|
+026017|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_338.wav|||nˈōʊwˈv̄n ˈɛls wv̄z hˈɜ:t .|
+000246|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-one-egg.wav|||Yà:gwadu:lígwu uwě:ji.|
+036854|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_131.wav|||ɪt wv̄z jˈv̄st ɐn ˈæksɪdənt v̄v̱ bˈɜ:θ .|
+000655|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-11-093.wav|||Jiyú:ne:ga jiyv:wi.|
+038319|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_334.wav|||nˈōʊ dᵻsˈɪʒənz hɐv̱bɪn tˈēɪkən .|
+041459|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_164.wav|||ænd sˌōʊ dˈɪd ðə ɹˈɛst v̄v̱ hɜ: tˈī:m .|
+028551|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_405.wav|||wˈɛðɚ ðɪs ɹᵻtˈɜ:n wv̄z tˈū: sˈū:n .|
+031674|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_416.wav|||ðēɪv̱ bˌɪn hˈɪɹ bᵻfˈō:ɹ .|
+027780|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_033.wav|||ðɛɹ wɪl bī: nˈōʊ ʃˈɔ:ɹɾɪj v̄v̱ kwˈɔlᵻɾī ˈæplɪkənts .|
+040984|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_112.wav|||ʃī: wv̄z klˈōʊs tə sˈū:ɪsˌāɪd æt wˈv̄n stˈēɪj .|
+031398|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_139.wav|||ðə stˈɑ:ɹɾɪŋ pˈɔɪnt ɪz pɹˈɪɾī v̄nyˈū:ʒū:əl .|
+035627|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_172.wav|||yū: pɹˈɑ:bəblī hæv̱ nˈɛv̱ɚ sˈī:n ðˌɛm bᵻfˈō:ɹ .|
+038970|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_138.wav|||ðɛɹwˌɜ: nˈōʊ kˈæʒū:əlɾīz .|
+039089|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_258.wav|||hī: lˈv̄v̱z ðə bˈɪɡ əkˈēɪʒənz .|
+036090|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_211.wav|||ðə kˈōʊld wˈɔ:ɹ ɪz ˈōʊv̱ɚ .|
+039734|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_105.wav|||ɪf nˈɑ:t , ɐ dˈī:l kʊd tˈēɪk mˈɛnī mˈv̄nθs .|
+035613|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_158.wav|||hɪz tɹˈæk ɹˈɛkɚd ɪz nˌɑ:t pɹˈɑ:mɪsɪŋ .|
+039191|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_360.wav|||nˈōʊbɑ:dī ˈɛv̱ɚ ɡˈɛts tə sˈī: ðˌɛm .|
+039730|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_101.wav|||sˈɜ:ɂn̩lī , ðɛɹ ɪz mˈv̄ch ɔnðɪ ɐjˈɛndə .|
+000614|cno-m-chr_2|chr|../../cherokee-audio/cno/wav/Says.wav|||à:diha|
+035781|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_326.wav|||ðɛɹwˌv̄z bˈɛɹlī ɐ hˈændfəl v̄v̱ chˈænsᵻz .|
+025846|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_166.wav|||ðɛɹz bˌɪn ɐ mɪstˈēɪk .|
+036399|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_098.wav|||ðɛɹwˌv̄z nˈōʊ ˈɑ:pʃən .|
+028345|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_199.wav|||fɹˈæŋklī , ɪt wv̄z wˈɜ:θ ðə bˈʊkɪŋ .|
+000034|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-nine-b.wav|||Sóhně:la.|
+027369|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_027.wav|||ɪɾ ɪz ˈōʊnlī wˈv̄n nˈāɪt , ˈæftɚɹ ˈɔ:l .|
+027491|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_149.wav|||tə wˌɪch ðɪ ˈōʊnlī ˈænsɚɹ ɪz , dˈōʊnt hˈōʊld yʊɹ bɹˈɛθ .|
+037079|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_357.wav|||ðə ʃˈædōʊ chˈænsɛlɚɹ ɪz ɐwˈēɪ ˌɔn hˈɑ:lɪdˌēɪ .|
+036266|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_387.wav|||wv̄z ɪt jˈv̄st nˈɛɡlɪjənt .|
+026839|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_326.wav|||āɪ kˈēɪm ˌɪntʊ ðɪs wˈɜ:ld wɪð nˈv̄θɪŋ .|
+000685|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-11-163.wav|||Aniwó:niɂa.|
+039796|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_167.wav|||ðə ɹɪzˈv̄lt ɪz ˈv̄ɾɚlī kəmpˈɛlɪŋ .|
+038351|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_366.wav|||ðɛɹˌɑ:ɹ mˈōʊmənts v̄v̱ ˈɑ:nɪstī , tˈū: .|
+025688|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_008.wav|||ðī:z tˈēɪk ðə ʃˈēɪp əv̱ə lˈɔŋ ɹˈāʊnd ˈɑ:ɹch , wɪð ɪts pˈæθ hˈāɪ əbˈv̄v̱ , ænd ɪts tˈū: ˈɛndz ɐpˈæɹəntlī bᵻyˌɔnd ðə hɚɹˈāɪzən .|
+038008|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_022.wav|||ðɪ ˈækchū:əl pɹˈāɪmɚɹī ɹˈēɪnbōʊ əbzˈɜ:v̱d ɪz sˈɛd təbī ðɪ ɪfˈɛkt v̄v̱ sˈū:pɚɹɪmpəzˈɪʃən əv̱ə nˈv̄mbɚɹ v̄v̱ bˈōʊz .|
+037104|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_382.wav|||āɪ wv̄z sˌōʊ nˈɜ:v̱əs .|
+027577|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_235.wav|||āɪ wɪl nˌɑ:t bī: pɹˈɛʃɚd .|
+025817|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_137.wav|||ɪt wv̄z dˈɪfɹənt ɪnðɪ ɛndˈʊɹɹəns ᵻv̱ˈɛnts .|
+000014|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-114.wav|||Go:hű:sd ije̋:ɂi tǔ:ya sě:luhno, yijadu:lígwu?|
+041192|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_320.wav|||yū:v̱ ɡɑ:t tə hæv̱ bˈōʊθ sˈāɪdz .|
+036269|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_390.wav|||ðə lˈāɪnˌv̄p ɪz ɐ tˈēɪstī wˌv̄n .|
+031851|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_169.wav|||ˈōʊ , ɪz ðɛɹ ɐ lˈɑ:t v̄v̱ blˈv̄d ?|
+025726|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_046.wav|||hˌū: wv̄zðə mˈɪstɚɹī ˌɛmpˈī: ?|
+035713|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_258.wav|||ɪnðɪ ᵻv̱ˈɛnt , ɪt pɹˈū:v̱d ɐ lˈɑ:ɹjlī v̄plˈɪftɪŋ ɛkspˈīəɹɪəns .|
+026683|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_167.wav|||ðēɪ wʊd nˈɛv̱ɚ lˈɛt hˌɪm ɡˈōʊ .|
+038274|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_289.wav|||āɪ θˈɪŋk wī: kʊd dˈū: wˈɛl ɪn yˈʊɹɹəp .|
+039635|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_006.wav|||wˌɛn ðə sˈv̄nlāɪt stɹˈāɪks ɹˈēɪndɹɑ:ps ɪnðɪ ˈɛɹ , ðēɪ ˈækt æz ɐ pɹˈɪzəm ænd fˈɔ:ɹm ɐ ɹˈēɪnbōʊ .|
+035956|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_077.wav|||ðə pɹˈɑ:bləm ɪz lˈēɪbɚ .|
+041239|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_367.wav|||ðēɪ ɑ:ɹ nˌɑ:t ɡˌōʊɪŋ ɐwˈēɪ .|
+036381|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_080.wav|||bˌv̄t ðə tɹˈæjədī dɪdnˌɑ:t stˈɑ:p ðˈɛɹ .|
+027396|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_054.wav|||āɪ hɐv̱bɪn hˈɪɹ fɔ:ɹ ˈōʊnlī θɹˈī: mˈv̄nθs .|
+038297|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_312.wav|||hī: dɪdnˌɑ:t ɹᵻpˈō:ɹt ɪt .|
+035901|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_022.wav|||ðɪ ˈækchū:əl pɹˈāɪmɚɹī ɹˈēɪnbōʊ əbzˈɜ:v̱d ɪz sˈɛd təbī ðɪ ɪfˈɛkt v̄v̱ sˈū:pɚɹɪmpəzˈɪʃən əv̱ə nˈv̄mbɚɹ v̄v̱ bˈōʊz .|
+027353|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_011.wav|||wˌɛn ɐ mˈæn lˈʊks fɔ:ɹ sˈv̄mθɪŋ bᵻyˌɔnd hɪz ɹˈī:ch , hɪz fɹˈɛndz sˈēɪ hī:z lˈʊkɪŋ fɚðə pˈɑ:t v̄v̱ ɡˈōʊld æt ðɪ ˈɛnd v̄v̱ðə ɹˈēɪnbōʊ .|
+025851|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_171.wav|||wī: hæv̱ ɐ jˈɛnyū:ɪn bˈv̄jɪt ɪn plˈēɪs .|
+034576|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_368.wav|||hī: sˈv̄fɚd ɐ bɹˈōʊkən bˈæk ænd ˈv̄ðɚɹ ˈɪnjɚɹīz .|
+025976|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_297.wav|||ðɪ ˈæktɪŋ lˈɛft ɐ lˈɑ:t təbī dɪzˈāɪɚd .|
+027918|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_171.wav|||wī: wˈɔnt tə hˈɛlp ðˌɛm θɹˈū: ɪt .|
+041952|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_234.wav|||ðēɪ ɑ:ɹ nˌɑ:t sˈū:ɾəbəl .|
+036648|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_349.wav|||bˈv̄t , æt ðə sˈēɪm tˈāɪm , ðēɪ mˌēɪd yū: θˈɪŋk ɐbˌāʊt lˈāɪf .|
+027777|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_030.wav|||ɪt wv̄z bᵻtwˌī:n māɪsˈɛlf , ðə mˈænɪjmənt , ænd ðə tˈī:m .|
+031797|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_115.wav|||ˈv̄ðɚwˌāɪz wī: wɪl pˈēɪ ðə pɹˈāɪs .|
+000083|01-chr|chr|../../cherokee-audio-data/durbin-feeling-tones/wav/0126-df-tones_enhanced-358215.wav|||ùwhtó:saɂdv̌ɂi|
+028432|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_286.wav|||ðə bˈō:ɹd wʊd ɹᵻpˈō:ɹt tə ðə skˈɑ:ɾɪʃ pˈɑ:ɹləmənt .|
+026856|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_343.wav|||ðə ɡˈɜ:lz ɑ:ɹ ɹˈɛdī tə kəmpˈī:t .|
+000133|cno-m-chr_1|chr|../../cherokee-audio/cno/wav/Brown.wav|||wo:dige|
+025689|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_009.wav|||ðɛɹˈɪz  , ɐkˈō:ɹdɪŋ tə lˈɛjənd , ɐ bˈɔɪlɪŋ pˈɑ:t v̄v̱ ɡˈōʊld æt wˈv̄n ˈɛnd .|
+031140|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_304.wav|||ðə snˈāɪpɚz ɑ:ɹ ˈɔ:lsōʊ ˈāʊt .|
+025844|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_164.wav|||hī: ˈɔ:lsōʊ ɐdmˈɪɾᵻd .|
+038186|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_201.wav|||wɪɹ ˈɔ:l pˈēɪɪŋ fɔ:ɹ ɪt .|
+029923|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_280.wav|||ðə kˈēɪs wɪl nˈāʊ ɡˌōʊ tʊ ɐpˈī:l .|
+041929|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_211.wav|||āɪ wv̄z sˌōʊ ɹᵻlˈī:v̱d .|
+027676|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_334.wav|||āɪɐm nˌɑ:t ɹᵻtˈāɪɚɹɪŋ .|
+038946|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_114.wav|||hī: hæd ɐ hˈɑ:ɹt pɹˈɑ:bləm .|
+041006|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_134.wav|||ænd ðɪs ɡˈēɪm ɪz ˈɔ:l ɐbˌāʊt bᵻlˈī:f .|
+000691|cno-m-chr_2|chr|../../cherokee-audio/cno/wav/Swim.wav|||adawò:sdi̋|
+030867|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_031.wav|||ɪt hɐzbɪn blˈōʊn ˌāʊɾəv̱ ˈɔ:l pɹəpˈō:ɹʃən .|
+026854|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_341.wav|||āɪm wˈv̄ndɚɹɪŋ wv̄t yū: fˈī:l ɐbˌāʊt ðə yˈv̄ŋɡɪst .|
+000222|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Defense.wav|||ulsdehldi|
+039649|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_020.wav|||mˈɛnī kˈɑ:mplᵻkˌēɪɾᵻd āɪdˈīəz ɐbˌāʊt ðə ɹˈēɪnbōʊ hɐv̱bɪn fˈɔ:ɹmd .|
+031777|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_095.wav|||ˈɛv̱ɹɪwˌv̄n ɪz wˈɜ:kɪŋ təɡˌɛðɚ tə ɹᵻzˈɑ:lv̱ ðə pɹˈɑ:bləmz .|
+000388|cno-f-chr_5|chr|../../cherokee-audio/cno/wav/Helping.wav|||àlsde:líha|
+041177|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_305.wav|||āɪm ɹˈīəlī pɹˈāʊd v̄v̱ hɜ: .|
+041123|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_251.wav|||dˈɪd hī: jˈv̄st wˈɔnt təbī ˌɔn tˈɛlī ?|
+000036|cno-m-chr_2|chr|../../cherokee-audio/cno/wav/Selfish.wav|||u:da:lv̋:kwdi|
+039772|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_143.wav|||skˈɑ:tlənd , ɪz ɐn ɪŋkɹˈī:sɪŋ kənsˈɜ:n fɔ:ɹ yˈv̄ŋ pˈī:pəl .|
+042122|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_404.wav|||ðæts ɐ ɡˈʊd sˈāɪn .|
+034558|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_350.wav|||āɪʃˌɐl bī: v̱ˈōʊɾɪŋ yˈɛs tə səpˈō:ɹt hˌɪm .|
+041774|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_055.wav|||hī: ɪz wˈv̄n v̄v̱ ðˌɛm .|
+036317|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_015.wav|||ðə ɡɹˈī:ks yˈū:zd tʊ ɪmˈæjɪn ðˌɐɾɪt wv̄zɐ sˈāɪn fɹv̄mðə ɡˈɑ:dz tə fō:ɹtˈɛl wˈɔ:ɹ ɔ:ɹ hˈɛv̱ī ɹˈēɪn .|
+028369|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_223.wav|||āɪ ɡˌōʊ hˈōʊm ˈōʊnlī wˈv̄ns .|
+035465|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_010.wav|||pˈī:pəl lˈʊk , bˌv̄t nˈōʊwˈv̄n ˈɛv̱ɚ fˈāɪndz ɪt .|
+030330|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_270.wav|||ðə mˈēɪn θˈɪŋ ɪz ðæt ðēɪ ɛnjˈɔɪ ɪt .|
+041573|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_278.wav|||hˈɪɹ wī: ɡˌōʊ ðˈɛn .|
+030143|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_078.wav|||wī: mˈv̄st mˈū:v̱ ˈɔn .|
+026932|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_419.wav|||hˈɑ:līwˌʊd kˈɑ:mədī ɪz hˌæv̱ɪŋ ɐ ɡˈʊd wˈī:k .|
+031024|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_188.wav|||āɪm ɹˈīəlī pɹˈāʊd v̄v̱ māɪ yˈv̄ŋ plˈēɪɚz .|
+040996|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_124.wav|||sˌōʊ mˈɛnī pˈī:pəl wɪl bī: ɐfˈɛktᵻd bāɪ ðˈɪs .|
+029728|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_085.wav|||ðə jˈʊɹɹī ɪz stˈɪl ˈāʊt .|
+041362|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_066.wav|||bˌv̄t wī: ɑ:ɹ v̱ˈɛɹī nˈɪɹ .|
+039156|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_325.wav|||ðæt dɪdnˌɑ:t ɡˌōʊ dˌāʊn wˈɛl .|
+036000|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_121.wav|||sˈɜ:ɂn̩lī , ðə tˈælɪbən ɹēɪʒˈī:m ɪz fˈɪnɪʃt .|
+027416|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_074.wav|||ðə sˈɛɾəlmənt kʊd ɹˈv̄n tə mˈɪlīənz .|
+030837|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_001.wav|||plˈī:z kˈɔ:l stˈɛlə .|
+038197|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_212.wav|||ɪf ðæts ðə kˈēɪs , hī: wɪl stɹˈv̄ɡəl .|
+000121|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-01-176.wav|||V:v.|
+028393|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_247.wav|||hī: wʊd jˈv̄st sˈēɪ ɪt wv̄z tˈɛɹᵻbəl .|
+028231|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_085.wav|||āɪ nˈū: hī: wʊd plˈēɪ tˈū: wˈī:ks ɐɡˈōʊ .|
+028252|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_106.wav|||āɪ θˈɪŋk māɪ ɡˈēɪm ɪz sˈū:ɾᵻd tə ɡɹˈæs .|
+025850|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_170.wav|||wī: hæv̱ mˈænɪjd tə ɡɛt ɪɾ ˌv̄ndɚ kəntɹˈōʊl .|
+039884|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_255.wav|||āɪ dˈōʊnt θˈɪŋk hī: wv̄z bˌī:ɪŋ v̱ˈɛɹī fˈɛɹ .|
+030315|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_255.wav|||ðə sˈāɪt hɐzbɪn fˈʊlī ɹᵻkˈō:ɹdᵻd ænd sɚv̱ˈēɪd .|
+000054|01-chr|chr|../../cherokee-audio-data/durbin-feeling-tones/wav/0085-df-tones_enhanced-241355.wav|||Ganè:ga|
+031219|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_383.wav|||ɪts lˈāɪk ɐ ɡɚɹˈɑ:ʒ .|
+000094|01-chr|chr|../../cherokee-audio/durbin-feeling/wav/0100-Track_069-000102.wav|||Gő:sdigwu i:jadǎ:hntehdi ì:jv:ne:ha.|
+027947|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_200.wav|||ɪt wv̄zɐ mˈɪzɹəbəl ˌæftɚnˈū:n ɪn fˈāɪf .|
+029780|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_137.wav|||pˈæɾɚsən kæn ɐfˈō:ɹd təbī jˈɛnɚɹəs .|
+041730|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_011.wav|||wˌɛn ɐ mˈæn lˈʊks fɔ:ɹ sˈv̄mθɪŋ bᵻyˌɔnd hɪz ɹˈī:ch , hɪz fɹˈɛndz sˈēɪ hī: ɪz lˈʊkɪŋ fɚðə pˈɑ:t v̄v̱ ɡˈōʊld æt ðɪ ˈɛnd v̄v̱ðə ɹˈēɪnbōʊ .|
+030073|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_008.wav|||ðī:z tˈēɪk ðə ʃˈēɪp əv̱ə lˈɔŋ ɹˈāʊnd ˈɑ:ɹch , wɪð ɪts pˈæθs hˈāɪ əbˈv̄v̱ , ænd ɪts tˈū: ˈɛndz ɐpˈæɹəntlī bᵻyˌɔnd ðə hɚɹˈāɪzən .|
+027602|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_260.wav|||āɪ dˈōʊnt wˈɔnt tə yˈū:z ðə tˈɜ:m .|
+031921|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_239.wav|||ɪts nˌɑ:ɾə pˈɑ:ɹɾī , nˈōʊ , nˈōʊ .|
+027909|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_162.wav|||lˈɔ:ɹə ɪz ɐn ɪnv̱ˈɛstmənt bˈæŋkɚ .|
+025862|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_182.wav|||ɐ dᵻsˈɪʒən ɪz ɛkspˈɛktᵻd ɪn sɛptˈɛmbɚ .|
+000502|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-09-087.wav|||Achű:ji.|
+034326|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_118.wav|||wī: dˈɪdnt ɡɛt ðə səplˈāɪ tə ðə fˈɔ:ɹwɚdz .|
+040024|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_398.wav|||ðɪs wv̄zɐ yū:nˈī:k ᵻlˈɛkʃən .|
+000157|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-peach.wav|||Kwana.|
+000158|cno-m-chr_1|chr|../../cherokee-audio/cno/wav/Carries.wav|||à:hwi:dí|
+039874|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_245.wav|||ðɪs ɪz wˈv̄ndɚfəl nˈū:z .|
+040887|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_015.wav|||ðə ɡɹˈī:ks yˈū:zd tʊ ɪmˈæjɪn ðˌɐɾɪt wv̄zɐ sˈāɪn fɹv̄mðə ɡˈɑ:dz tə fō:ɹtˈɛl wˈɔ:ɹ ɔ:ɹ hˈɛv̱ī ɹˈēɪn .|
+031434|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_175.wav|||hāʊˈɛv̱ɚ , yū: hæv̱ jˈv̄st ɡɑ:t tʊ ɐjˈv̄st ɪt .|
+031709|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_027.wav|||ɪɾ ɪz ðə hˈōʊl pˈækɪj .|
+041739|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_020.wav|||mˈɛnī kˈɑ:mplᵻkˌēɪɾᵻd āɪdˈīəz ɐbˌāʊt ðə ɹˈēɪnbōʊ hɐv̱bɪn fˈɔ:ɹmd .|
+031991|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_309.wav|||ðɛɹwˌv̄z nˈōʊ sˈāɪn ðæt ˈɛnɪθˌɪŋ wv̄z ɐmˈɪs .|
+034552|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_344.wav|||ɪts ɐ kwˈɛschən v̄v̱ pɚsˈɛpʃən .|
+032001|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_319.wav|||ɪts ɐ bˈɪɡ chˈælɪnj fɚðɪ ˈɔ:dīəns .|
+029865|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_222.wav|||ðˈɛn wˈv̄n nˈāɪt ˈōʊnlī θɹˈī: pˈī:pəl tˈɜ:n ˈv̄p .|
+038180|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_195.wav|||fˈɜ:st , ðə pɹˈōʊɡɹæm wv̄z v̄nbˈælənst .|
+027405|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_063.wav|||ɪt wˈv̄z , fɔ:ɹ mˈī: , lˈāɪk ɐ wˈī:k ɪn hˈɛv̱ən .|
+000504|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-09-090.wav|||Ani:chű:j.|
+036869|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_146.wav|||āɪ wʊd ˈæsk ðə fˈænz təbī pˈēɪʃənt .|
+030026|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_383.wav|||wɪɹ nˌɑ:t ɐn ɛmplˈɔɪmənt ˈēɪjənsī .|
+031957|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_275.wav|||hī: wɪl dˈū: v̱ˈɛɹī wˈɛl .|
+042079|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_361.wav|||dˈv̄zənt hī: mˈɪs ɪt ?|
+000385|cno-f-chr_5|chr|../../cherokee-audio/cno/wav/Heavy.wav|||ga:ge̋:dv|
+036616|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_317.wav|||āɪ wʊd wˈɛlkv̄m ɐ pɹˈɑ:pɚ , pˈv̄blɪk dɪskˈv̄ʃən ˌɔn ðɪs ˈɪʃū: .|
+036018|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_139.wav|||ɪts lˈāɪk ɐ ɡɚɹˈɑ:ʒ .|
+031639|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_381.wav|||āɪv̱ hˈɜ:d ðɪs stˈv̄f ɐbˌāʊt ðə mˈɑ:ɹkɪts .|
+031254|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_418.wav|||ɔ:ɹ sˌōʊ ʃī: θˈɔ:t .|
+036565|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_265.wav|||ɪt hɐz təbī fˈv̄ndᵻd .|
+029654|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_011.wav|||wˌɛn ɐ mˈæn lˈʊks fɔ:ɹ sˈv̄mθɪŋ bᵻyˌɔnd hɪz ɹˈī:ch , hɪz fɹˈɛndz sˈēɪ hī: ɪz lˈʊkɪŋ fɚðə pˈɑ:t v̄v̱ ɡˈōʊld æt ðɪ ˈɛnd v̄v̱ðə ɹˈēɪnbōʊ .|
+025924|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_244.wav|||ðēɪ ɑ:ɹ nˌɑ:t sˈū:ɾəbəl .|
+000005|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0005-01-core-sounds-02-040415.wav|||Sū. Hyē. Chv̄. Kā. Gv̄. Jū. Hyū.|
+029647|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_004.wav|||wī: ˈɔ:lsōʊ nˈī:d ɐ smˈɔ:l plˈæstɪk snˈēɪk ænd ɐ bˈɪɡ tˈɔɪ fɹˈɑ:ɡ fɚðə kˈɪdz .|
+036688|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_389.wav|||hæv̱ wī: nˌɑ:t hæd ðə ɹˈēɪnī sˈī:zən ɔ:lɹˈɛdī ?|
+031772|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_090.wav|||ɪɾ ɪz ɐ v̱ˈɛɹī spˈɛʃəl plˈēɪs .|
+041200|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_328.wav|||hī: ɹᵻfyˈū:zd tə nˈēɪm ðə sɚv̱ˈāɪv̱ɚz .|
+039668|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_039.wav|||ɐ kˈɪlɚɹ ɪz ˈɔ:lsōʊ ɔnðə lˈū:s .|
+034211|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_001.wav|||plˈī:z kˈɔ:l stˈɛlə .|
+000423|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-08-096.wav|||Anihne.|
+036722|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_423.wav|||āɪ dˈōʊnt nˈōʊ wˌāɪ yū: sˈēɪ ɡʊdbˈāɪ .|
+028134|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_388.wav|||ɐ sˈɛnchɚɹī ˈɔn , lˈɪɾəl hɐz chˈēɪnjd .|
+029743|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_100.wav|||ðēɪ nˈɛv̱ɚ lˈʊkt lˈāɪk wˈɪnɪŋ ɪɾ ˈī:ðɚ .|
+041126|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_254.wav|||ɪt sˈī:mz ɐ ʃˈēɪm tə lˈī:v̱ ɪt .|
+041133|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_261.wav|||ðə dɪstˈɪŋkʃən ɪz ˈɔ:lsōʊ səpˈō:ɹɾᵻd bāɪ dˈɑ:ktɚz .|
+037995|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_009.wav|||ðɛɹˈɪz  , ɐkˈō:ɹdɪŋ tə lˈɛjənd , ɐ bˈɔɪlɪŋ pˈɑ:t v̄v̱ ɡˈōʊld æt wˈv̄n ˈɛnd .|
+036427|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_126.wav|||ðɪs ɪz ˌāʊɚ wˈēɪ tə mˌēɪk ˌāʊɚ pˈɔɪnt .|
+039795|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_166.wav|||mˈɪlɚ wv̄z ˈɛv̱ɹī bˈɪt æz hˈæpī .|
+031158|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_322.wav|||ðēɪ ɑ:ɹ ðɛɹ tə ɡɛt pˈī:pəl ˌɪntʊ wˈɜ:k .|
+035463|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_008.wav|||ðī:z tˈēɪk ðə ʃˈēɪp əv̱ə lˈɔŋ ɹˈāʊnd ˈɑ:ɹch , wɪð ɪts pˈæθ hˈāɪ əbˈv̄v̱ , ænd ɪts tˈū: ˈɛndz ɐpˈæɹəntlī bᵻyˌɔnd ðə hɚɹˈāɪzən .|
+035915|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_036.wav|||āɪ hˈæv̱ənt spˈōʊkən tʊ ˈɛnɪwˌv̄n ɐbˌāʊt ðˈæt , nˌɑ:t ˈī:v̱ən māɪ wˈāɪf .|
+031400|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_141.wav|||ðēɪ ɹᵻsˈī:v̱ ɐ hˈāɪ pɹˈōʊfāɪl ɪnðə mˈī:dī:ə .|
+039726|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_097.wav|||sˈōʊ fˌɑ:ɹ ðɪs sˈī:zən ðɪs ɐpɹˈōʊch ɪz wˈɜ:kɪŋ .|
+036376|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_075.wav|||stˈɪl , ðɪ ɛkspˈīəɹɪəns wv̄z ɐmˈēɪzɪŋ , ʃī: sˈɛz .|
+028257|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_111.wav|||ðə lˈēɪbɚ pˈɑ:ɹɾīz nˌɑ:t dˈāʊnbī:t , ænd nˈī:ðɚɹ ɪz ðə lˈēɪbɚ ɡˈv̄v̱ɚnmənt .|
+038993|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_161.wav|||ðī:z mˈæɾɚz ɑ:ɹ nˈāʊ bᵻhˈāɪnd ˌv̄s .|
+041975|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_257.wav|||ðæt ɪz ðə kˈī: .|
+031809|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_127.wav|||ˈæftɚ ðˈæt , ðə skˈɑ:ɾɪʃ pˈɑ:ɹləmənt wɪl ɹˈv̄n ðə ʃˈōʊ .|
+000109|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-01-146.wav|||Gv́:na à:wadu:lí.|
+028087|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_340.wav|||wˈɛl , wv̄z ˈɪt ?|
+000025|01-chr|chr|../../cherokee-audio/durbin-feeling/wav/0025-Track_011-031732.wav|||kě:míli.|
+031672|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_414.wav|||hˌū: hɐz hī: fˈɔ:t ?|
+041029|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_157.wav|||kəndˈɪʃənz wɜ: v̱ˈɛɹī dˈɪfɪkəlt fɚðə plˈēɪɚz .|
+041372|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_076.wav|||āɪv̱ ɡɑ:t təbī bˈɛɾɚ ðɐn ðæt kwˈāɪt .|
+000290|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-06-010.wav|||Ha:dlv hině:la?|
+041998|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_280.wav|||ɪt hɐzbɪn ɐ mˈēɪjɚ səksˈɛs .|
+031963|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_281.wav|||āɪɐm v̱ˈɛɹī hˈæpī wɪð lˈāɪf .|
+036397|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_096.wav|||hī: kʊd fˈēɪs ɐ jˈēɪl sˈɛntəns .|
+027349|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_007.wav|||ðə ɹˈēɪnbōʊ ɪz ɐ dᵻv̱ˈɪʒən v̄v̱ wˈāɪt lˈāɪt ˌɪntʊ mˈɛnī byˈū:ɾīfəl kˈv̄lɚz .|
+040936|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_064.wav|||mˈōʊst əv̱ ðə wˈɜ:ks ɑ:ɹ smˈɔ:l ɪn skˈēɪl .|
+038350|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_365.wav|||ðɪs ɪz ɐ nˈū: bɪɡˈɪnɪŋ .|
+040958|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_086.wav|||ðɪs yˈɪɹ ðɪ ˈɛksɚsˌāɪz ɪz bˌī:ɪŋ ɹᵻpˈī:ɾᵻd .|
+041543|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_248.wav|||hāʊˈɛv̱ɚ wī: mˈv̄st nˌɑ:t bī: kəmplˈēɪsənt .|
+039793|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_164.wav|||bˌv̄t pɚhˈæps wī: ʃˌʊdənt wˈv̄ɹī tˈū: mv̄ch .|
+036778|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_055.wav|||ɪɾ ɪz sˈv̄mθɪŋ ðæt wī: wɪl pˌʊt ɹˈāɪt .|
+029778|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_135.wav|||āɪ kʊd hˈɑ:ɹdlī kˈī:p ˌv̄p wɪð pɹəfˈɛsɚ mə kˈī:n .|
+035865|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_410.wav|||hī: ˈɔ:lsōʊ ɐdmˈɪɾᵻd pəzˈɛsɪŋ ɐ fˈāɪɚɹɑ:ɹm .|
+000066|01-chr|chr|../../cherokee-audio/durbin-feeling/wav/0067-Track_043-000532.wav|||asgaya. agě:hya. awi̋:na. atanű:ja. achű:ja. age:hyű:ja.|
+026572|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_053.wav|||ɪt wv̄z lōʊkˈēɪɾᵻd ɔnðə ɹᵻmˈōʊt kəntɹˈōʊl .|
+000124|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-042.wav|||Á:ma à:ganǎ:díɂa na wahga.|
+027735|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_393.wav|||wī: wˈɛlkv̄m ðə pɹəpˈōʊzəlz , bˌv̄t ðēɪ mˈv̄st ɡɛt ˈɔn wɪð ɪt .|
+025790|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_110.wav|||ðɪs hɐz ɡɔn ˌɔn tˈū: lˈɔŋ .|
+034415|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_207.wav|||ðɛɹˌɑ:ɹ mˈōʊmənts v̄v̱ ˈɑ:nɪstī , tˈū: .|
+031955|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_273.wav|||āɪv̱ nˈɛv̱ɚ sˈī:n ɐ ɡˈēɪm lˈāɪk ɪt .|
+039990|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_362.wav|||ˌāʊɚ tˈæsk ɪz tə kəmplˈī:t ðə pˈɪkchɚ .|
+026578|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_059.wav|||pˈī:pəl wɪl sˈī: ðɪs ˌōʊv̱ɚ tˈāɪm .|
+027348|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_006.wav|||wˌɛn ðə sˈv̄nlāɪt stɹˈāɪks ɹˈēɪndɹɑ:ps ɪnðɪ ˈɛɹ , ðēɪ ˈækt æz ɐ pɹˈɪzəm ænd fˈɔ:ɹm ɐ ɹˈēɪnbōʊ .|
+039222|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_391.wav|||ɪɾ ɪz ðə hˈɑ:lɪdˌēɪ pɹˈōʊɡɹæm wɪð ɐ mˈɔ:ɹɡɪj .|
+039837|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_208.wav|||ˈɛv̱ɹɪθˌɪŋ hɐzbɪn dᵻstɹˈɔɪd .|
+000060|01-m-wwacc|chr|../../cherokee-audio/wwacc/wav/0069-WWConvoCherokee-05_enhanced-049645.wav|||junalasulo|
+030341|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_283.wav|||āɪm ɡˌōʊɪŋ tə hˈɛlp ˈāʊt ɪnðə sˈv̄mɚ , æz pɹədˈū:sɚ .|
+035606|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_151.wav|||hɪz ˈɑ:ɹɡyū:mənts wɜ: səpˈō:ɹɾᵻd bāɪ mˈɪstɚ bˈɛv̱æn .|
+026047|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_368.wav|||hī: fˈāʊnd ɪt v̱ˈɛɹī hˈɑ:ɹd tʊ ˌv̄ndɚstˈænd .|
+000717|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Tooth.wav|||ganhdóhgv̋|
+030115|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_050.wav|||ɛksˈɛpt fɔ:ɹ ðˈɪs , ɪt wv̄z ˈɔfsāɪd .|
+036482|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_181.wav|||wī: mˌāɪt bī: bˈæk nˈɛkst yˈɪɹ .|
+036891|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_169.wav|||tˈū: v̄v̱ðə tˈī:m bɪkˌēɪm ˈɪl .|
+031909|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_227.wav|||ðōʊz wɜ: ðə dˈēɪz , ˌɪndˈī:d .|
+026761|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_246.wav|||hāʊˈɛv̱ɚ wɪɹ kˈēɪpəbəl v̄v̱ bˈī:ɾɪŋ ðˌɛm .|
+000014|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-054.wav|||Sa:sa.|
+039082|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_251.wav|||hī: ɐdmˈɪɾᵻd ðɪ ɐsˈāɪləm sˈɪstəm wv̄z nˌɑ:t wˈɜ:kɪŋ .|
+030959|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_123.wav|||dū:nˌɑ:t ɡˌōʊ ˌɪntʊ ɡˈv̄v̱ɚnmənt bˈɪldɪŋz .|
+028510|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_364.wav|||āɪ kˌʊdənt ɹˈīəlī wˈɜ:k āʊtsˈāɪd ˈɛdɪnbv̄ɹə .|
+000117|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-028.wav|||Adà:dlǒ:sdi.|
+000065|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-field-b.wav|||Dlo:ge̋:si.|
+027555|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_213.wav|||skˈɑ:ɾɪʃ pˈv̄blɪk fāɪnˈænsᵻz ɪmˈɜ:j fɹv̄m ðɪs ɹᵻv̱yˈū: ɛnhˈænst .|
+027847|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_100.wav|||māɪ ˈɑ:fɪs ɪz bˈɛɹ .|
+000002|cno-f-chr_1|chr|../../cherokee-audio/cno/wav/Acorn.wav|||gu:le|
+031579|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_321.wav|||bˌv̄t bˈōʊθ wɜ:ɹ ɪnv̱ˈɑ:lv̱d wɪð ˈv̄ðɚ mˈæɾɚz .|
+030954|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_118.wav|||stˈɔ:kɚz ɑ:ɹ kˈēɪpəbəl v̄v̱ kˈɪlɪŋ .|
+031863|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_181.wav|||ðæt wɪl hˈɛlp māɪ kˈēɪs ɐ bˈɪt .|
+035959|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_080.wav|||āɪ wɪl nˌɑ:t bī: ɪn dˈāɪəlɑ:ɡ wɪð hɜ: .|
+038935|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_103.wav|||pˈī:pəl bˈāɪ ˈɛv̱ɹɪθˌɪŋ wɪð kˈæʃ .|
+027455|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_113.wav|||hī: hæd ˈv̄ðɚ θˈɪŋz ˌɔn hɪz mˈāɪnd .|
+000755|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-13-133.wav|||Hadáɂnv.|
+034305|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_097.wav|||bˌv̄t ˈælən ɪz dˈɛdlī sˈɪɹīəs .|
+036601|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_301.wav|||āɪ wɪl kˈæɹī ˈɔn .|
+031723|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_041.wav|||wī: mˈv̄st lˈɜ:n tə fˈɪnɪʃ .|
+031105|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_269.wav|||θɹˈī: yˈɪɹz pɹōʊbˈēɪʃən ɪz jˈv̄st ɐ jˈōʊk .|
+036398|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_097.wav|||ðēɪ dˈɪdnt tˈēɪk yū: tə mˈæs ɡɹˈēɪv̱z .|
+027695|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_353.wav|||āɪɐm ɹˈɛdī fɔ:ɹ ðˈæt .|
+025885|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_205.wav|||ˌāʊɚ tɹɐdˈɪʃənz ænd kˈv̄lchɚz ɹᵻmˈēɪn ðə sˈēɪm .|
+041623|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_328.wav|||ɪts ˈɔ:l ɐbˌāʊt v̄nfˈɪnɪʃt bˈɪznəs .|
+025870|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_190.wav|||ɪts ɹˈōʊl ɪz nˌɑ:t tʊ ˌɪntəfˈɪɹ .|
+031597|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_339.wav|||yū: nˈī:d ɐ ɹˈī:zən fɔ:ɹ stˈēɪɪŋ .|
+036138|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_259.wav|||sˈv̄bz nˌɑ:t yˈū:zd , fɜ:nˈændɛz .|
+025872|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_192.wav|||yū: kˈænt bᵻlˈī:v̱ ɐ wˈɜ:d .|
+040944|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_072.wav|||ðēɪ kˌʊdənt bᵻlˈī:v̱ wv̄t hæd hˈæpənd .|
+000477|cno-m-chr_2|chr|../../cherokee-audio/cno/wav/Meddle.wav|||a:de:hyto:hdi|
+041864|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_145.wav|||ðə chˈɔɪs ɪz sˈɪmpəl .|
+027726|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_384.wav|||ðɛɹ ɪz ɐ lˈɑ:t v̄v̱ ˈæŋɡɚ .|
+039143|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_312.wav|||ðɛɹ ɪz nˈv̄θɪŋ lˈāɪk ɐ fɹˈɛʃ stˈɑ:ɹt .|
+031156|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_320.wav|||āɪ kˌʊdənt sˈī: ˌɛnī ɹˈī:zən nˌɑ:t tə dˈāɪ .|
+000156|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-meat.wav|||Hawi:yaɂi.|
+041180|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_308.wav|||wī: ɑ:ɹ nˌɑ:t fˈɪzɪkəl æɾ ˈɔ:l .|
+038198|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_213.wav|||ɪt hɐz sˈɜ:ɂn̩lī pˈēɪd ˈɔf fɔ:ɹ hˌɪm .|
+038383|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_398.wav|||māɪ bˈɑ:dī ɪz ɛɡzˈɔ:stᵻd .|
+036210|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_331.wav|||yˈɛt ðə dˈēɪɾə ɪz kəmpˈɛlɪŋ .|
+038251|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_266.wav|||ɐ spˈōʊksmən ɹᵻfyˈū:zd tə kənfˈɜ:m ðə fˈɪɡyɚ .|
+042071|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_353.wav|||ðɪ ˈɪnsɪdənt ɪz dˈɛd .|
+031402|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_143.wav|||āɪ θˈɪŋk ðɪs pɹəpˈōʊzəl ɪz ˈɛksələnt .|
+030938|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_102.wav|||dˈv̄z ɪt fˈī:l lˈāɪk ðɪ āɪdˈīəz ænd ɪmˈōʊʃənz ?|
+000197|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-034.wav|||Hè:sdi!|
+000118|01-m-wwacc|chr|../../cherokee-audio/wwacc/wav/0159-WWConvoCherokee-09_enhanced-084925.wav|||ahsi junilawisdi|
+031732|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_050.wav|||ðēɪ ɑ:ɹ ɔ:lɹˌɛdī ɔnðə wˈēɪ ðˈɛɹ .|
+030999|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_163.wav|||ɔ:lðˈōʊ ɪt wv̄z ɛkspˈɛktᵻd , ˈɛv̱ɹɪwˌv̄n ɪz v̱ˈɛɹī , v̱ˈɛɹī ˈæŋɡɹī .|
+026660|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_144.wav|||ɪts māɪ nˈēɪchɚ .|
+000646|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-11-073.wav|||Hiyv:wi:yásgohv?|
+031221|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_385.wav|||ɪɾ ɪz ɐ tɹāɪˈv̄mfənt pɚfˈō:ɹməns , wˌɪch dᵻfˈāɪz ðə yˈɪɹz .|
+025985|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_306.wav|||ðɪ ˈɔ:ɹdɚ wɛnt ˈāʊt .|
+029892|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_249.wav|||wī: hæv̱ ɹᵻpˈō:ɹts v̄v̱ ðɪs θɹū:ˈāʊt skˈɑ:tlənd .|
+034227|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_019.wav|||sˈɪns ðˈɛn fˈɪzɪsˌɪsts hæv̱ fˈāʊnd ðˌɐɾɪt ɪz nˌɑ:t ɹᵻflˈɛkʃən , bˌv̄t ɹᵻfɹˈækʃən bāɪ ðə ɹˈēɪndɹɑ:ps wˌɪch kˈɔ:zᵻz ðə ɹˈēɪnbōʊz .|
+038190|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_205.wav|||wī: wɜ: nˈɛv̱ɚ tˈōʊld ɪt wv̄z ɔ:lɹˌɛdī dᵻsˈāɪdᵻd .|
+035885|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_006.wav|||wˌɛn ðə sˈv̄nlāɪt stɹˈāɪks ɹˈēɪndɹɑ:ps ɪnðɪ ˈɛɹ , ðēɪ ˈækt æz ɐ pɹˈɪzəm ænd fˈɔ:ɹm ɐ ɹˈēɪnbōʊ .|
+036992|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_270.wav|||kɹˈū:ʃəlī , ðˈōʊ , yū:nˈāɪɾᵻd wɜ: stˈɪl ɐlˈāɪv̱ .|
+036020|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_141.wav|||nˈōʊ bɹˈɪtən hɐz ˈɛv̱ɚ wˈv̄n .|
+000808|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-15-180.wav|||Anigǐ:gáge dehlgv́.|
+027989|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_242.wav|||ðēɪ wɜ: tˈū: dˈɪfɹənt tˈāɪps .|
+041059|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_187.wav|||ɪt wv̄zɐ dɪzˈæstɚɹ əv̱ɚ ɹˈēɪs .|
+041896|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_177.wav|||hī: ɪz ɐ mˈæstɚɹ v̄v̱ dᵻsˈī:t ænd dᵻlˈēɪ .|
+041224|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_352.wav|||ɡˈɑ:lf ɪz nˌɑ:t lˈāɪk ðˈæt .|
+028552|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_406.wav|||jˈæksən mˈēɪ wˈɛl bī: ɹˈāɪt .|
+040992|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_120.wav|||āɪm nˌɑ:t θˈɪŋkɪŋ ɐbˌāʊt ˈɛnɪwˌv̄n ˈɛls .|
+030259|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_197.wav|||wī: hæv̱ ˈōʊnlī nˈāɪn mˈv̄nθs tə ɡˈōʊ .|
+031827|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_145.wav|||ðɛɹwˌv̄z ˈōʊnlī wˈv̄n pɹˈɑ:bləm , ðə tˈī:chɚ wv̄z stˈɪl ðˈɛɹ !|
+000240|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-05-094.wav|||Asú:sdi à:wadu:líɂa.|
+030414|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_358.wav|||yū: sˈī: , māɪ bˈæk hɐz ɡˈɔn .|
+000723|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-12-143.wav|||É:gwő:n.|
+031927|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_245.wav|||ˈɛv̱ɹɪwˌv̄n mˈv̄st bī: fˈōʊkəst ɔnðə lˈī:ɡ .|
+031390|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_131.wav|||dˈēɪv̱ɪd wv̄z nˌɑ:t ˈī:ðɚ .|
+035935|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_056.wav|||wī:ʃˌɐl nˌɑ:t fɚɡˈɛt hˌɪm .|
+036293|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_414.wav|||ɪts nˈv̄θɪŋ tə dˈū: wɪð mˌī: .|
+036079|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_200.wav|||ðɪs ɪz ɐ ɡˈʊd ɹɪzˈv̄lt fɔ:ɹ ðˌɛm .|
+026676|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_160.wav|||tˈæks ɪz ɐ mˈæɾɚ fɔ:ɹ nˈæʃənəl ɡˈv̄v̱ɚnmənts .|
+040908|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_036.wav|||āɪ wˈɔnt tə dᵻlˈɪv̱ɚɹ ɐ lˈɜ:nɪŋ səsˈāɪəɾī .|
+030308|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_248.wav|||hāʊˈɛv̱ɚ , bˌī:bˌī:sˈī: skˈɑ:tlənd wv̄z nˌɑ:t ˈɪntɹɛstᵻd ɪn hɪz wˈɜ:k .|
+041475|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_180.wav|||āɪ kˌʊdɐv̱ bˌɪn əfˈɛndᵻd .|
+028343|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_197.wav|||āɪ wˈɔnt hˌɪm tə tˈēɪk ˌɔn ɡˈōʊmɛz .|
+036963|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_241.wav|||ɪt hæd wˈv̄n ɐn ɪnv̱ˈɛstɚz ɪn pˈī:pəl ɐwˈɔ:ɹd .|
+036253|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_374.wav|||hī: wˈʊdənt dˈū: ɪt .|
+028178|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_032.wav|||ðə pˈv̄nɪʃmənt wv̄z swˈɪft .|
+042015|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_297.wav|||ðɛɹ wɪl bī: nˈū: mˈɛmɚɹīz .|
+026750|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_235.wav|||sˌv̄m wɜ: klˈōʊs tə tˈɪɹz .|
+036767|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_044.wav|||ðɛɹwˌɜ: nˈōʊ pˈæsɪnjɚz ˌɔn bˈō:ɹd .|
+039134|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_303.wav|||klˈɪɹlī , ðɪ ˌāɪˌɑ:ɹɹˈēɪ hɐz ɡɑ:t ɐwˈēɪ wɪð mˈɜ:dɚ .|
+037066|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_344.wav|||hī: lˈv̄v̱d hɪz chˈɪldɹən .|
+028337|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_191.wav|||wī: ɑ:ɹ sˈī:kɪŋ fˈv̄ndz fɹv̄m ɡˈv̄v̱ɚnmənt dᵻpˈɑ:ɹtmənts .|
+035818|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_363.wav|||ɪɾ ɪz plˈēɪɪŋ lˈɔŋ , bˌv̄t ɪɾ ɪz ˈɔ:lsōʊ ɪn byˈū:ɾīfəl kəndˈɪʃən .|
+027489|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_147.wav|||ðæt ɪz ɪnðə v̱ˈɛɹī nˈēɪchɚɹ v̄v̱ fˈɑ:ɹmɪŋ .|
+041027|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_155.wav|||fˈɜ:st mˈī:ɾɪŋ wv̄z nˈɛkst wˈī:k .|
+036927|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_205.wav|||ðēɪ sˈɜ:v̱ ɐ mˈv̄ltɪtˌū:d v̄v̱ pˈɜ:pəsᵻz .|
+000113|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-shovel-c.wav|||Kǒ:de̋:sdi.|
+030042|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_399.wav|||ðɛɹ ɪz tˈū: mv̄ch æt stˈēɪk fɔ:ɹ ðˈæt .|
+031558|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_300.wav|||mˈāɪk tˈāɪsən wɛnt tə pɹˈɪzən .|
+000078|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-what-b.wav|||Gadòna.|
+000026|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-105.wav|||I:sa à:gíɂa sa:sa|
+000570|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-09-302.wav|||Agayv̋:li.|
+036114|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_235.wav|||ðæt ɪz ðə fˈɜ:st θˈɪŋ wī: nˈī:d .|
+031915|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_233.wav|||āɪ kˈēɪm hˈɪɹ ðɪs wˈī:k tə wˈɜ:k .|
+000275|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-05-192.wav|||Gǐ:.|
+036978|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_256.wav|||māɪ plˈēɪɚz hæv̱ nˈōʊ āɪdˈīə ɐbˌāʊt fˈʊtbɔ:l .|
+025792|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_112.wav|||māɪ æmbˈɪʃən ɪz tə tˈɛl ɐ ɡˈʊd stˈō:ɹī .|
+038915|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_083.wav|||ɪnðə mˈī:ntāɪm , hī: ˈædᵻd , pɹɪv̱ˈɛnʃən wv̄zðə kˈī: .|
+036587|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_287.wav|||ðɛɹˌɑ:ɹ nˈōʊ plˈænz tə chˈēɪnj ðˈɪs .|
+038130|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_145.wav|||āɪ sˈɜ:ɂn̩lī θˈɪŋk ɪt ʃˌʊd bī: ðˈɛɹ .|
+000003|01-chr|chr|../../cherokee-audio-data/durbin-feeling-tones/wav/0008-df-tones_enhanced-024925.wav|||A̋ɂda|
+039166|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_335.wav|||hī: sˈɛd hī: nˈī:dᵻd nˈōʊmˌō:ɹ ˈɛv̱ɪdəns .|
+029949|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_306.wav|||ɪɾ ˈɔ:lsōʊ hˈāɪlāɪɾᵻd sˌv̄m lˈōʊkəl hˈīəɹōʊ dˈɪstɹɪkts .|
+035785|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_330.wav|||kwˈāɪt sˈɪmplī , fɔ:ɹ wˈv̄ns ɪn hɪz lˈāɪf , hī: ɡɑ:t ɪt ɹˈɔŋ .|
+038835|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_003.wav|||sˈɪks spˈū:nz v̄v̱ fɹˈɛʃ snˈōʊ pˈī:z , fˈāɪv̱ θˈɪk slˈæbz v̄v̱ blˈū: chˈī:z , ænd mˈēɪbī: ɐ snˈæk fɔ:ɹ hɜ: bɹˈv̄ðɚ bˈɑ:b .|
+039122|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_291.wav|||ɪt wv̄z jˈv̄st wˈv̄n v̄v̱ ðōʊz θˈɪŋz .|
+041036|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_164.wav|||ɪɾ ɪz ɐ nˈū: kˈv̄mpənī fɔ:ɹ skˈɑ:tlənd .|
+000784|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-15-031.wav|||Dò ű:sdi a:sésdi kò:hí?|
+031572|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_314.wav|||bˈō:ɹdɪŋ skˈū:l wv̄z ˈī:kwəlī pɹətˈɛktɪv̱ .|
+041718|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_423.wav|||ðæt wv̄z ˈōʊnlī ðə stˈɑ:ɹt .|
+038920|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_088.wav|||āɪ stˈɪl fˈī:l lˈāɪk ɐ wˈī: bˈɔɪ .|
+000489|cno-m-chr_1|chr|../../cherokee-audio/cno/wav/Priest.wav|||ahljadő:hvsgi|
+041182|360-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p360_310.wav|||āɪv̱ bˌɪn wˈēɪɾɪŋ ɐ lˈɔŋ tˈāɪm .|
+036416|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_115.wav|||āɪ θˈɔ:t hī: wv̄z tɚɹˈɪfɪk .|
+028354|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_208.wav|||wī: hæv̱ nˈōʊ chˈɔɪs bˌv̄t tə ʃˈv̄t dˈāʊn .|
+036635|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_336.wav|||ɪt ʃˌʊdəv̱ ɐ hˈɛlθ wˈɔ:ɹnɪŋ ɪɾ ɪz ɐdˈɪktɪv̱ .|
+000002|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-017.wav|||Di:dě:hlo:gwà:sgi.|
+031702|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_020.wav|||mˈɛnī kˈɑ:mplᵻkˌēɪɾᵻd āɪdˈīəz ɐbˌāʊt ðə ɹˈēɪnbōʊ hɐv̱bɪn fˈɔ:ɹmd .|
+025886|294-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p294_206.wav|||ðə fˈɜ:st ᵻv̱ˈɪkʃən tˈēɪks plˈēɪs ˌɔn sˈv̄ndēɪ .|
+035831|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_376.wav|||hāʊˈɛv̱ɚ , ðɛɹ yū: hˈæv̱ ɪt , səksˈɛs hɐz ᵻlˈū:dᵻd ðˌɛm sˈōʊ fˌɑ:ɹ .|
+000123|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-3-waleli-ayanuli-a.wav|||Wá:le:li a:yanű:li.|
+000674|cno-m-chr_2|chr|../../cherokee-audio/cno/wav/States.wav|||kano:héha|
+039872|345-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p345_243.wav|||ðɛɹ ɪz ɐ hˈændfəl v̄v̱ ɹᵻwˈɔ:ɹdɪŋ pˈēɪntɪŋz .|
+041522|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_227.wav|||mˈāɪnd yū: , ɪt wˈʊdənt bī: ɐ bˈæd āɪdˈīə .|
+041321|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_025.wav|||sˈv̄mθɪŋ hɐz təbī dˈv̄n .|
+027581|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_239.wav|||ðə kˈæstɪŋ v̄v̱ hɜ: hˈv̄sbənd wv̄z ɐn ˈæksɪdənt .|
+031699|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_017.wav|||ˈv̄ðɚz hæv̱ tɹˈāɪd tʊ ɛksplˈēɪn ðə fɪnˈɑ:mɪnən fˈɪzɪklī .|
+031415|310-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p310_156.wav|||ænd hī: hæd mˈv̄ch nˈī:d .|
+041785|362-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p362_066.wav|||ɪnðə mˈī:ntāɪm , yū: jˈv̄st hæv̱ tə ɡɛt ˈɔn wɪð ɪt .|
+039208|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_377.wav|||wˈv̄n pəlˈī:smən wv̄z kˈɪld .|
+038982|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_150.wav|||sˈv̄ɹī pəlˈī:s sˈɛd nˈōʊ bˈɑ:dī hɐdbɪn fˈāʊnd .|
+029776|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_133.wav|||yū: kæn nˈɛv̱ɚ hæv̱ ɪnˈv̄f mˈv̄nī .|
+030929|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_093.wav|||ðæt wv̄zɐ hˈɑ:ɹd ɡˈēɪm tə plˈēɪ ˈɪn , v̱ˈɛɹī tˈv̄f .|
+034232|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_024.wav|||ðɪs ɪz ɐ v̱ˈɛɹī kˈɑ:mən tˈāɪp v̄v̱ bˈōʊ , wˈv̄n ʃˈōʊɪŋ mˈēɪnlī ɹˈɛd ænd yˈɛlōʊ , wɪð lˈɪɾəl ɔ:ɹ nˈōʊ ɡɹˈī:n ɔ:ɹ blˈū: .|
+031937|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_255.wav|||ðə fˈɪlm hɐz ˈɔ:lsōʊ bˌɪn sū:pˈɜ:blī dɪzˈāɪnd .|
+028103|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_357.wav|||āɪv̱ ˈōʊnlī mˈɛt hˌɪm θɹˈī: tˈāɪmz .|
+038120|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_135.wav|||ðæt kwˈɛschən wv̄z nˈɛv̱ɚɹ ˈæskt .|
+038938|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_106.wav|||ðə wˈɛbsāɪt ɪz nˈāʊ bˌī:ɪŋ ɐmˈɛndᵻd .|
+035757|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_302.wav|||āɪm fˈī:lɪŋ v̱ˈɛɹī plˈī:zd .|
+027588|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_246.wav|||ðæt mˌāɪt hˈæpən ɪn pˌækɪstˈæn , bˌv̄t ɪn bɹˈɪtən ?|
+036458|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_157.wav|||bˌv̄t hī: ɪz nˌɑ:t yˈū:zɪŋ ðˌɛm .|
+038370|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_385.wav|||ðɪs wv̄z nˌɑ:ɾə kˈɑ:ntɛst .|
+027971|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_224.wav|||ðɛɹ ɪz nˈv̄θɪŋ lˈāɪk ðɪs bˈæk hˈōʊm .|
+028367|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_221.wav|||hī: ˈædᵻd lˈēɪɾɚ , nˈō:ɹməlī , ɪts nˌɑ:ɾə dˈēɪnjɚɹəs ɹˈɪv̱ɚ .|
+030925|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_089.wav|||ɪts ɐ flˈɜ:ɹɪʃɪŋ ænd byˈū:ɾīfəl sˈɪɾī .|
+028043|300-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p300_296.wav|||ˈæftɚ ðæt hī: bɪkˌēɪm mˈō:ɹ ɹōʊmˈæntɪk .|
+031091|308-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p308_255.wav|||wī: ɑ:ɹ sˈæɾɪsfˌāɪd wɪð ðɪs ˈāʊtkv̄m .|
+028271|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_125.wav|||wī: ˈēɪm tə pˌʊt ðˌɛm ˌāʊɾəv̱ bˈɪznəs .|
+041658|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_363.wav|||ɪt wv̄z ˈv̄p tə hˌɪm .|
+034520|318-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p318_312.wav|||āɪɐm nˌɑ:ɾə pˈī:dəfˌāɪl .|
+027654|299-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p299_312.wav|||wˌāɪ ʃˌʊd wī: hɐv̱bɪn ˈæskt tə ʃˈɛɹ ?|
+026628|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_112.wav|||wī: ɑ:ɹ jˈv̄st bˌī:ɪŋ flˈv̄dᵻd .|
+000018|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-01-022.wav|||Hē.|
+036685|333-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p333_386.wav|||bˌv̄t ðɛɹz nˈōʊ ˈāɪ kˈɑ:ntækt .|
+000820|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-15-214.wav|||Anigv̌:nígé gi:hli danì:gowhtíɂa juwǒ:dígé dilà:sǔ:lo.|
+037026|334-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p334_304.wav|||sˈāɪɾɪŋz wɜ: ɹᵻplˈēɪst bāɪ ɹˈū:mɚz .|
+038846|341-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p341_014.wav|||tə ðə hˈī:bɹū:z ɪt wv̄zɐ tˈōʊkən ðæt ðɛɹ wʊd bī: nˈōʊmˌō:ɹ yˌū:nɪv̱ˈɜ:səl flˈv̄dz .|
+028387|301-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p301_241.wav|||ðæt ɪz nˌɪɹlī fˈō:ɹ pˈī:pəl ˈɛv̱ɹī dˈēɪ .|
+036013|330-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p330_134.wav|||ʃī: ɡōʊz tə ðɪ ˈōʊpənɪŋ əv̱ən ˈɑ:nv̱əlˌōʊp .|
+029860|305-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p305_217.wav|||hī: tˈēɪks hɪz tˈāɪm , ænd wōʊnt bī: ɹˈv̄ʃt .|
+038321|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_336.wav|||ɪts ðə bˈɑ:dī ðæt kˈāʊnts .|
+031711|311-en-m|en|../../other-audio-data/cstr-vctk-american/wav/p311_029.wav|||ɪt wv̄zɐ mˈæɾɚɹ v̄v̱ chˈæns .|
+030262|306-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p306_201.wav|||ðə tˈɔ:kɪŋ ɪz ɡˌōʊɪŋ ˈɔn , bˌv̄t ðɪ ɪɹˈækī pˈī:pəl wɪl sɚv̱ˈāɪv̱ .|
+035620|329-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p329_165.wav|||ðæts ðə wˈēɪ ɪɾ ˈɪz .|
+038394|339-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p339_409.wav|||wˌv̄t wʊd yū: ˈæsk ?|
+000643|03-chr|chr|../../cherokee-audio/beginning-cherokee/wav/Lesson-11-069.wav|||Hiyv:wi:yá.|
+026587|297-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p297_069.wav|||ðɪs ɪz ɐ v̱ˈɛɹī hˈāɪ pɹˈāɪs .|
+041523|361-en-f|en|../../other-audio-data/cstr-vctk-american/wav/p361_228.wav|||bˌv̄t ðēɪ hæv̱ tˈēɪkən ðə lˈɛsən tə hˈɑ:ɹt .|

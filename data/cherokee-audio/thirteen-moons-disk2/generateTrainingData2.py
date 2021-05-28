@@ -113,7 +113,7 @@ if __name__ == "__main__":
         if re.search("(?i)[Ꭰ-Ᏼ]", text):
             lang = "chr-syl"
         else:
-            lang = "chr"
+            lang = "chr-ind"
         rows.append(f"{id:06d}|{vid}|{lang}|{wav}|||{text}|")
         id += 1
 

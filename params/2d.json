@@ -24,6 +24,6 @@
     "reversal_classifier_dim": 256,
     "reversal_classifier_w": 0.125,
     "reversal_gradient_clipping": 0.25,
-	"speaker_embedding_dimension": 8,
-	"version": "2d-2021-05-27"
+	"speaker_embedding_dimension": 24,
+	"version": "2d-2021-05-28"
 }
