@@ -4,7 +4,7 @@
 	"case_sensitive": false,
 	"characters": " !'(),.:;?abcdefghijklmnopqrstuvwyzæðŋɂɐɑɔəɚɛɜɡɪɹɾʃʊʒˈˌ̩̱̀́̂̄̋̌θᵻ“”",
 	"checkpoint_each_epochs": 5,
-	"dataset": "2d",
+	"dataset": "datasets/2d",
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
 	"epochs": 500,
