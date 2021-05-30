@@ -7,3 +7,6 @@
 [submodule "data/cherokee-audio-data-private"]
 	path = data/cherokee-audio-data-private
 	url = ../cherokee-audio-data-private.git
+[submodule "data/cherokee-audio-data-synthetic"]
+	path = data/cherokee-audio-data-synthetic
+	url = ../cherokee-audio-data-synthetic.git
