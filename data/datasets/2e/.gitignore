@@ -1,6 +1,5 @@
 linear_spectrograms/
 spectrograms/
-all.txt
 /checkpoint/
 /comvoi-subset.txt
 /tmp.txt
@@ -12,7 +11,6 @@ all.txt
 /train.txt-tmp
 /*tmp
 /*bkup
-/speaker-counts.txt
 /voice-counts-by-language.txt
 /voices.inc
 /voices.txt
