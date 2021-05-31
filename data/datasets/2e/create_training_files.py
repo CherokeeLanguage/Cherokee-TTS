@@ -30,7 +30,7 @@ if __name__ == "__main__":
     for parent in [ #
             "../../comvoi_mco",  #
             "../../other-audio-data/cstr-vctk-american",  #
-            "../../cherokee-audio/beginning-cherokee",  #
+            "../../cherokee-audio-data-private/beginning-cherokee",  #
             "../../cherokee-audio/cherokee-language-coach-1",  #
             "../../cherokee-audio/cherokee-language-coach-2",  #
             "../../cherokee-audio/durbin-feeling",  #
