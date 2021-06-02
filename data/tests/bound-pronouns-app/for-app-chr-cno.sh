@@ -21,17 +21,14 @@ conda activate Cherokee-TTS
 
 cp="$(ls -1tr checkpoints/|tail -n 1)"
 cp="$(basename "$cp")"
-
-#cp="cherokee5c_loss-185-0.118"
-#cp="cherokee5b_loss-300-0.119"
+cp="2a-2021-05-01-epoch_300-loss_0.0740"
 
 printf "Using checkpoint: $cp\n"
 
 tmp="$z/tmp.txt"
 cp /dev/null "$tmp"
 
-# v=("cno-f-chr_2" "cno-m-chr_2" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "cno-f-chr_1")
-v=("cno-m-chr_2")
+v=("299-en-f" "311-en-m" "318-en-f" "334-en-m" "339-en-f" "345-en-m" "360-en-m")
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"

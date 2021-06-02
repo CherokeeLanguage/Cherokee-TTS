@@ -1,14 +1,9 @@
 
-Total speakers 35
+Total speakers 30
 
    Speaker 01-chr: 267
    Speaker 01-m-wwacc: 147
-   Speaker 02-chr: 272
    Speaker 03-chr: 2,674
-   Speaker 04-chr: 124
-   Speaker 05-chr: 53
-   Speaker 08-chr: 49
-   Speaker 09-chr: 197
    Speaker 294-en-f: 422
    Speaker 297-en-f: 416
    Speaker 299-en-f: 405
