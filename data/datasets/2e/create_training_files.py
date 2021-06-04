@@ -31,18 +31,18 @@ if __name__ == "__main__":
             "../../other-audio-data/cstr-vctk-american",  #
             "../../cherokee-audio-data-private/beginning-cherokee",  #
             "../../cherokee-audio-data/durbin-feeling-tones",  #
-            # "../../cherokee-audio/cherokee-language-coach-1",  #
-            # "../../cherokee-audio/cherokee-language-coach-2",  #
+            "../../cherokee-audio/cherokee-language-coach-1",  #
+            "../../cherokee-audio/cherokee-language-coach-2",  #
             "../../cherokee-audio/durbin-feeling",  #
-            # "../../cherokee-audio-data/michael-conrad",  #
-            # "../../cherokee-audio-data/michael-conrad2",  #
-            # "../../cherokee-audio/sam-hider",  #
-            # "../../cherokee-audio/see-say-write",  #
-            # "../../cherokee-audio/thirteen-moons-disk1",  #
-            # "../../cherokee-audio/thirteen-moons-disk2",  #
-            # "../../cherokee-audio/thirteen-moons-disk3",  #
-            # "../../cherokee-audio/thirteen-moons-disk4",  #
-            # "../../cherokee-audio/thirteen-moons-disk5",  #
+            "../../cherokee-audio-data/michael-conrad",  #
+            "../../cherokee-audio-data/michael-conrad2",  #
+            "../../cherokee-audio/sam-hider",  #
+            "../../cherokee-audio/see-say-write",  #
+            "../../cherokee-audio/thirteen-moons-disk1",  #
+            "../../cherokee-audio/thirteen-moons-disk2",  #
+            "../../cherokee-audio/thirteen-moons-disk3",  #
+            "../../cherokee-audio/thirteen-moons-disk4",  #
+            "../../cherokee-audio/thirteen-moons-disk5",  #
             "../../cherokee-audio/cno",  #
             "../../cherokee-audio/wwacc",  #
             # "../cherokee-audio/tacotron-2020-12-28",  #

@@ -11514,6 +11514,108 @@
 000148|01-chr|en|../../cherokee-audio-data/durbin-feeling-tones/wav/0151-df-tones_enhanced-471685.wav|||wait|
 000010|01-chr|chr|../../cherokee-audio-data/durbin-feeling-tones/wav/0018-df-tones_enhanced-050375.wav|||U:hyv̋:dla|
 000104|01-chr|chr|../../cherokee-audio-data/durbin-feeling-tones/wav/0149-df-tones_enhanced-464355.wav|||hinhjǒ:híha|
+000005|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-044.wav|||Jǒ:hlê:sdi.|
+000001|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-010.wav|||Di:de:hyǒ:hvsgi.|
+000016|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-152.wav|||Go:hwe:li.|
+000002|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-017.wav|||Di:dě:hlo:gwà:sgi.|
+000007|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-055.wav|||À:gwanhta.|
+000013|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-103.wav|||Digo:hwe:li.|
+000009|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-062.wav|||Go:lì:ga.|
+000010|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-068.wav|||Ayv go:lì:ga.|
+000003|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-024.wav|||Hidô:gé:sdi.|
+000012|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-090.wav|||Idalě:na.|
+000011|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-074.wav|||Hla yigo:lì:ga.|
+000008|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-060.wav|||Hla yà:gwanhta.|
+000014|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-112.wav|||Jalagis hiwó:ni jadu:lí?|
+000017|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-225.wav|||Go:hwě:lí:ɂa.|
+000018|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-230.wav|||Gò:wě:líɂa.|
+000015|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-126.wav|||Digo:hwě:lò:di.|
+000004|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-036.wav|||O:síyo.|
+000006|05-chr|chr|../../cherokee-audio/cherokee-language-coach-1/wav/Lesson-1-051.wav|||Janhtas?|
+000065|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-069.wav|||Kayv:ső:li.|
+000080|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-175.wav|||Junò:ye̋:ni.|
+000048|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-245.wav|||Di:lǐ:yo.|
+000057|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-016.wav|||Ganhdóhgv̋:ɂi.|
+000027|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-240.wav|||I:ya.|
+000021|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-206.wav|||Tlahv wado.|
+000015|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-143.wav|||Wahga hawi:ya yagwadu:lígwu.|
+000039|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-077.wav|||Átihldi.|
+000042|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-087.wav|||Jo àde:lv́ aye̋:hli.|
+000073|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-125.wav|||Ù:katv̋:ɂhi.|
+000056|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-010.wav|||Aɂyvhje̋:ni.|
+000024|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-226.wav|||Asú:sdi.|
+000025|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-234.wav|||Sě:lu ga̋:du.|
+000004|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-047.wav|||Nǔ:na.|
+000022|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-218.wav|||V, usdi̋ agv:halv̋:da.|
+000023|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-222.wav|||Kǎ:hwike sǐ:gwu?|
+000046|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-238.wav|||Dì:sano.|
+000058|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-025.wav|||Asgwa:ge̋:ni.|
+000051|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-256.wav|||Di:lyè:su:lo.|
+000078|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-163.wav|||Digwò:ye̋:ni.|
+000066|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-073.wav|||Kano:ge̋:ni.|
+000014|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-114.wav|||Go:hű:sd ije̋:ɂi tǔ:ya sě:luhno, yijadu:lígwu?|
+000050|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-253.wav|||Gà:salě:ni.|
+000040|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-079.wav|||À:giwáhísdi yagwadu:lā.|
+000038|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-074.wav|||Átihldi à:giwáhísdi yagwadu:lā.|
+000055|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-004.wav|||Ahő:li.|
+000012|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-111.wav|||Go:hű:sd.|
+000011|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-106.wav|||Wahga hawi:ya jadǔ:lisg.|
+000079|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-169.wav|||Dijò:ye̋:ni.|
+000062|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-046.wav|||Ganv:di̋:ɂi.|
+000006|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-070.wav|||Kǎ:hwi yijadu:lígwu?|
+000049|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-249.wav|||Alsgwè:tuwo.|
+000074|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-131.wav|||U:danhdo.|
+000084|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-214.wav|||Dininv̀:sge̋:ni.|
+000031|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-013.wav|||Á:giwáhísdi.|
+000077|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-157.wav|||À:gwò:ye̋:ni.|
+000002|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-016.wav|||À:gilv̌:kwdi.|
+000036|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-046.wav|||Hila̋ ju:gv̌:wahldi?|
+000030|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-012.wav|||Á:giwáhísdi à:gilv̌:kwdi.|
+000083|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-206.wav|||Tinv̀:sge̋:ni.|
+000053|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-262.wav|||Hawi̋:ni di:hnawo.|
+000076|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-138.wav|||Ù:tsgwalv:tv̋:ɂi.|
+000045|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-237.wav|||À:sano.|
+000018|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-176.wav|||V wado.|
+000008|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-099.wav|||Ama u:lv̌:saɂdi yagwadu:lígwu.|
+000054|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-266.wav|||Adà:dlǒ:sdi.|
+000009|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-100.wav|||U:lv̌:saɂdi.|
+000028|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-243.wav|||I:ya ge:li̋:stgi.|
+000013|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-112.wav|||Ije̋:ɂi tǔ:ya sě:luhno.|
+000016|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-147.wav|||Kǎ:hwis yijadu:lígwu?|
+000081|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-190.wav|||Jinv̀:sge̋:ni.|
+000007|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-071.wav|||Yijadu:lígwu?|
+000035|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-040.wav|||Hiɂa à:giwáhísdi agwadu:lí.|
+000019|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-193.wav|||Ǔ:gáma yagwadu:lígwu.|
+000044|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-232.wav|||A:hnawo.|
+000075|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-135.wav|||U:là:sihde̋:ni.|
+000032|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-026.wav|||Go:hű:sd à:giwáhísdi agwadu:lí.|
+000069|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-093.wav|||Ga:sohi̋:ɂi.|
+000010|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-101.wav|||Yagwadu:lígwu.|
+000082|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-200.wav|||Dijinv̀:sge̋:ni.|
+000072|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-109.wav|||Ù:né:gaɂlv̋:ɂi.|
+000033|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-029.wav|||Na yagwadu:lā.|
+000003|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-038.wav|||Jalv̌:kwdisgo.|
+000061|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-043.wav|||Gane:ji̋:ɂi.|
+000017|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-156.wav|||Ő:sda à:lsdàyhdi.|
+000029|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-247.wav|||Gitǎ:ya ge:li̋:stgi.|
+000043|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-231.wav|||Di:hnawo.|
+000052|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-259.wav|||À:su:lo.|
+000060|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-040.wav|||Aye:lv̋:ɂi.|
+000068|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-081.wav|||Jí:ye:saɂdv̋:ɂi.|
+000034|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-036.wav|||Na à:kgowáhísdi yagwadu:lā.|
+000070|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-101.wav|||Ganv̀:sge̋:ni.|
+000020|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-197.wav|||Ù:gô:di yijadu:lígwu?|
+000047|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-242.wav|||Di:là:sǔ:lo.|
+000071|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-104.wav|||Ù:stihgv̋:ɂi.|
+000064|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-066.wav|||Di:ktő:li.|
+000059|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-034.wav|||Askő:li.|
+000026|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-237.wav|||Gv́:na.|
+000041|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-084.wav|||U:hnő:sda.|
+000067|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-078.wav|||Gaɂle̋:ni.|
+000001|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-020.wav|||O:sí à:lsdàyhdi.|
+000063|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-6-051.wav|||Gànhgó:ɂi.|
+000005|05-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-4-053.wav|||Ga̋:du.|
+000037|08-chr|chr|../../cherokee-audio/cherokee-language-coach-2/wav/Lesson-5-047.wav|||Ju:gv̌:wahldi.|
 000030|01-chr|chr|../../cherokee-audio/durbin-feeling/wav/0030-Track_014-000312.wav|||yansi. hida. owǎ:sa. à:gv:halíha.|
 000106|01-chr|chr|../../cherokee-audio/durbin-feeling/wav/0119-Track_086-000432.wav|||amáyé:hli di:gwe:nv:sv́ɂi. sóɂi dikanv́:su:lv wà:yv̌:ha.|
 000047|01-chr|chr|../../cherokee-audio/durbin-feeling/wav/0048-Track_027-000322.wav|||Hisdù:hv̀:ga galo:hisdi̋:ɂi!|
@@ -11633,6 +11735,599 @@
 000024|01-chr|chr|../../cherokee-audio/durbin-feeling/wav/0024-Track_011-021002.wav|||da:mága. o:galahǒ:ma. mě:li.|
 000037|01-chr|chr|../../cherokee-audio/durbin-feeling/wav/0038-Track_018-000432.wav|||nv:wô:ti. jǐ:sgwôgwo. kiyû:ga. ù:hnuwa.|
 000119|01-chr|chr|../../cherokee-audio/durbin-feeling/wav/0138-Track_107-000222.wav|||Gadō ù:lsdá:si jaji?|
+000019|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0021-050-galgwoginei-000000.wav|||gahlgwǒ:gi:ne̋:ɂi.|
+000049|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0051-060-gado-unsdi-000000.wav|||gadō űnsdi?|
+000003|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0003-040-howa-000000.wav|||howa.|
+000046|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0048-060-asgaya-000000.wav|||asgaya.|
+000009|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0009-040-uyoi-000000.wav|||u:yő:ɂi.|
+000042|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0044-060-anitali-anigehya-000000.wav|||a:nitáɂli ani:gě:hya.|
+000053|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0057-060-joi-nuna-000000.wav|||Joɂi nǔ:na.|
+000012|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0012-040-wado-000000.wav|||wado.|
+000017|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0019-050-gado-usdi-000000.wav|||gadō ű:sdi.|
+000013|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0013-040-yonega-000000.wav|||yó:ne:ga.|
+000061|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0085-061-anigowhtiha-000000.wav|||à:nigowhtíha.|
+000029|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0031-050-sagwu-000000.wav|||sà:gwű.|
+000008|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0008-040-osiyo-000000.wav|||o:síyo.|
+000011|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0011-040-vv-000000.wav|||v:v.|
+000074|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0126-070-jiigowhtiha-000000.wav|||ji:gowhtíha.|
+000044|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0046-060-anitali-gihli-000000.wav|||a:nitáɂli gi:hli.|
+000024|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0026-050-igvyii-000000.wav|||igv:yi̋:ɂi.|
+000021|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0023-050-hila-iyani-000000.wav|||hila̋ iyáni.|
+000018|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0020-050-galgwogi-000000.wav|||gahlgwǒ:gi.|
+000059|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0083-060-wesa-000000.wav|||wě:sa.|
+000014|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0014-040-yvwunega-000000.wav|||yv́:wúne:ga.|
+000023|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0025-050-hisginei-000000.wav|||hisgi:ne̋:ɂi.|
+000045|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0047-060-anitali-wesa-000000.wav|||a:nitáɂli wě:sa.|
+000036|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0038-060-anijoi-anigehya-000000.wav|||a:nijoɂi ani:gě:hya.|
+000028|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0030-050-nvginei-000000.wav|||nvhgi:ne̋:ɂi.|
+000068|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0120-070-gahiigowhtiha-000000.wav|||ga:hi:gowhtíha.|
+000052|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0054-060-gihli-000000.wav|||gi:hli.|
+000040|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0042-060-anitali-anigehya-ale-tali-nuna-000000.wav|||a:nitáɂli ani:gě:hya ale táɂli nǔ:na.|
+000032|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0034-050-tali-000000.wav|||táɂli.|
+000069|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0121-070-gajiigowhtiha-000000.wav|||ga:ji:gowhtíha.|
+000070|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0122-070-higowhtiha-000000.wav|||higowhtíha.|
+000034|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0036-060-agehya-000000.wav|||agě:hya.|
+000033|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0035-050-talinei-000000.wav|||taɂli:ne̋:ɂi.|
+000066|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0118-070-dehigowhtiha-000000.wav|||de:higowhtíha.|
+000075|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0127-070-nav-000000.wav|||naɂv.|
+000065|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0117-070-ahni-000000.wav|||áhni.|
+000047|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0049-060-gado-unsdi-dagowhtiha-000000.wav|||Gadō űnsdi dà:gowhtíha?|
+000071|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0123-070-hiigowhtiha-000000.wav|||hi:gowhtíha.|
+000010|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0010-040-vsgigi-000000.wav|||v̀:sgigi?.|
+000073|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0125-070-jigowhtiha-000000.wav|||jigowhtíha.|
+000041|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0043-060-anitali-anigehya-nole-joi-nuna-000000.wav|||a:nitáɂli ani:gě:hya nole joɂi nǔ:na.|
+000005|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0005-040-ni-000000.wav|||ni!.|
+000002|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0002-040-hla-000000.wav|||tla.|
+000064|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0116-070-ahani-000000.wav|||áhani.|
+000056|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0061-060-nuna-nole-nvya-000000.wav|||Nǔ:na nole nv̀:ya.|
+000058|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0063-060-nvya-000000.wav|||nv̀:ya.|
+000016|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0017-050-anitali-000000.wav|||a:nitáɂli.|
+000076|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0128-070-uhna-000000.wav|||ù:hna̋.|
+000025|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0027-050-joi-000000.wav|||joɂi.|
+000067|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0119-070-dejigowhtiha-000000.wav|||de:jigowhtíha.|
+000038|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0040-060-anijoi-anisgaya-000000.wav|||a:nijoɂi ani:sgaya.|
+000027|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0029-050-nvgi-000000.wav|||nvhgi.|
+000043|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0045-060-anitali-anisgaya-000000.wav|||a:nitáɂli ani:sgaya.|
+000001|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0001-040-ayo-000000.wav|||ayo.|
+000004|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0004-040-jalagi-000000.wav|||jalagi.|
+000035|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0037-060-anigehya-000000.wav|||ani:gě:hya.|
+000051|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0053-060-gado-usdi-anigowhtiha-000000.wav|||Gadō ű:sdi à:nigowhtíha?|
+000062|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0086-061-dagowhtiha-000000.wav|||dà:gowhtíha.|
+000015|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0015-050-anijoi-000000.wav|||a:nijoɂi.|
+000020|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0022-050-hila-iga-000000.wav|||ila̋ ǐ:ga̋.|
+000055|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0060-060-nuna-ale-nvya-000000.wav|||Nǔ:na ale nv̀:ya.|
+000022|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0024-050-hisgi-000000.wav|||hisgi.|
+000006|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0006-040-osda-000000.wav|||ő:sda.|
+000030|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0032-050-sudali-000000.wav|||sǔ:dáli.|
+000063|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0087-061-danigowhtiha-000000.wav|||dà:nigowhtíha.|
+000057|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0062-060-nuna-000000.wav|||nǔ:na.|
+000072|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0124-070-ina-000000.wav|||i̋:na.|
+000037|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0039-060-anijoi-anisgaya-nole-tali-nuna-000000.wav|||a:nijoɂi ani:sgaya nole táɂli nǔ:na.|
+000031|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0033-050-sudalinei-000000.wav|||sǔ:dáli:ne̋:ɂi.|
+000054|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0058-060-joi-nvya-000000.wav|||Joɂi nv̀:ya.|
+000007|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0007-040-osdv-000000.wav|||ő:sdv.|
+000039|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0041-060-anisgaya-000000.wav|||ani:sgaya.|
+000026|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0028-050-joinei-000000.wav|||joɂi:ne̋:ɂi.|
+000050|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0052-060-gado-usdi-agowhtiha-000000.wav|||Gadō ű:sdi à:gowhtíha?|
+000060|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0084-061-agowhtiha-000000.wav|||à:gowhtíha.|
+000048|04-chr|chr|../../cherokee-audio-data/michael-conrad/wav/0050-060-gado-unsdi-danigowhtiha-000000.wav|||Gadō űnsdi dà:nigowhtíha?|
+000030|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0030-02-ced-flat-short-096175.wav|||Gvnsga. Hatvhi. Asgaya. Si. Wahya, wahaya.|
+000046|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0047-02-ced-flat-short-249265.wav|||Kanikwsa. Kanikwsa. Uska. Akwsdo.|
+000019|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0019-01-core-sounds-02-169265.wav|||Dē. Hyv̄. Hlā. Hyā. Kwī. Nah. Jā.|
+000044|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0045-02-ced-flat-short-231595.wav|||Jalagi, ajalagi. Hvhdlada. Uwelsdi. Ha.|
+000041|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0042-02-ced-flat-short-204365.wav|||Junsdi, jusdi. Chuhga. Hilagi. Tsgili.|
+000023|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0023-02-ced-flat-short-031205.wav|||Hvhdla. Ajahda. Nigalsdohdi. Gohlga.|
+000008|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0008-01-core-sounds-02-067495.wav|||Hnē. Hwī. Chā. Nī. Ō. Gā. Sā.|
+000026|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0026-02-ced-flat-short-059635.wav|||Jayhga. Na. Hvhda. Nvhgi. Hadagi. Yansa.|
+000024|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0024-02-ced-flat-short-040225.wav|||Hadajagala. Ganhga. Halehda. Hitalada.|
+000029|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0029-02-ced-flat-short-087745.wav|||Ajina. Haliti. Advji. Higa. Tvhga.|
+000012|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0012-01-core-sounds-02-104175.wav|||Hnū. Hlī. Yē. Hwv̄. Jō. Mā. Tv̄.|
+000047|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0048-02-ced-flat-short-257585.wav|||Hisvhna. Hohlgi. Ale. Hitalaga. Adanhdo.|
+000004|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0004-01-core-sounds-02-031655.wav|||Dā. Ī. Chī. Wē. Mē. Hā. Kwō. Nā.|
+000027|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0027-02-ced-flat-short-070735.wav|||Hikihi. Tehga. Hila. Ama. Si.|
+000043|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0044-02-ced-flat-short-222055.wav|||Aya, ayv. Wado. Hwida. Skoni. Aktohdi.|
+000017|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0017-01-core-sounds-02-150575.wav|||Hyv̄. Hlā. Hwā. Kwī. Nah. Jā. Sv̄.|
+000039|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0040-02-ced-flat-short-186455.wav|||Chayvsdaga. Tusdi. Digatdi. Hadlagi. Junsdi.|
+000045|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0046-02-ced-flat-short-240595.wav|||Hligi. Kwana. Kansdaji. Chawahi. Gansda.|
+000018|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0018-01-core-sounds-02-159755.wav|||Gwā. Tā. Tū. Wū. Lē. Kv̄. Hlv̄. Gwī.|
+000002|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0002-01-core-sounds-02-011965.wav|||Hv̄. Yv̄. Ā. Lv̄. Lī. Yō. Sē.|
+000025|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0025-02-ced-flat-short-049505.wav|||Sali. Hisgwala. Sihgwa. Gohlga. Ahnawo.|
+000006|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0006-01-core-sounds-02-049205.wav|||Mī. Hnī. Gwē. Kē. Chō. Kū. Tlē. Wī.|
+000022|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0022-02-ced-flat-short-020125.wav|||Nohji. Hisgi. Akta. Na. Uwhdlvhdi.|
+000031|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0031-02-ced-flat-short-105665.wav|||Hihlda. Sohi. Juska. Hakta. Asgahni.|
+000005|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0005-01-core-sounds-02-040415.wav|||Sū. Hyē. Chv̄. Kā. Gv̄. Jū. Hyū.|
+000040|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0041-02-ced-flat-short-195125.wav|||Higi. Hiya. Hatsdagi. Uysdi. Hilada.|
+000034|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0034-02-ced-flat-short-133505.wav|||Daksi. Halsgi. Wakti. Uyhdi. Daksi.|
+000003|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0003-01-core-sounds-02-021665.wav|||Hō. Dlā. Kō. Tlī. Tlō. Kwē. Dī. Mū.|
+000001|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0001-01-core-sounds-02-002195.wav|||Hlē. Hwō. Gū. Gwō. Nū. Tī. Tō. Gī. Hē.|
+000037|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0038-02-ced-flat-short-169235.wav|||Hisdagayhda. Hla, tla. Hihwi. Uhldi.|
+000016|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0016-01-core-sounds-02-140585.wav|||Tā. Tū. Wū. Lē. Kv̄. Hlv̄. Gwī. Dlē.|
+000038|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0039-02-ced-flat-short-177885.wav|||Ahyelsdi, hayelsdi. Hyehgahli. Gata.|
+000042|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0043-02-ced-flat-short-213165.wav|||Sigigi. Uysdi. Hatelada. Nihi. Hida.|
+000014|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0014-01-core-sounds-02-122035.wav|||Tlv̄. Kwū. Sō. Hū. Nē. Ū. Wv̄. Gē.|
+000015|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0015-01-core-sounds-02-131735.wav|||Dō. Chū. Yī. Wā. Sv̄. Gwā.|
+000032|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0032-02-ced-flat-short-115225.wav|||Ulsdvnhdi. Hakwiya. Howa. Hadloyhga.|
+000007|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0007-01-core-sounds-02-058415.wav|||Hlō. Jī. Hyā. Sī. Ē. Nō. Jē.|
+000010|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0010-01-core-sounds-02-086205.wav|||Wō. Dv̄. Mō. Jv̄. Tlū. Dū. Yū.|
+000011|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0011-01-core-sounds-02-095475.wav|||V̄. Chē. Hlū. Hnō. Tē. Gwū. Hī.|
+000028|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0028-02-ced-flat-short-078995.wav|||Ulsdehldi. Kuwa. Wahga. Tsihwahi. Halsdvnhga.|
+000013|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0013-01-core-sounds-02-113325.wav|||Lō. Gō. Hnā. Hyō. Kī. Lū.|
+000033|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0033-02-ced-flat-short-124155.wav|||Ni. Uwuhdi. Aksgani. Hatasgi. Kila. Hiyohisda.|
+000020|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0020-02-ced-flat-short-000835.wav|||Asti. Dilsdoyhdi. Hada. Ada. Nokwsi.|
+000035|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0036-02-ced-flat-short-151455.wav|||Hiyohisda. Daksi. Halsgi. Wakti. Uyhdi. Daksi.|
+000048|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0049-02-ced-flat-short-266965.wav|||Dlv. Jalagi. Udli. Gatdi. Tina.|
+000009|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0009-01-core-sounds-02-076965.wav|||Gwv̄. Yā. Lā. Hwē. Hwū. Kwā. Kwv̄. Hyī.|
+000021|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0021-02-ced-flat-short-010165.wav|||Uwawsvsdi. Ale. Uhldi. Ahawi, ahwi. Hidla.|
+000036|04-chr|chr|../../cherokee-audio-data/michael-conrad2/wav/0037-02-ced-flat-short-160755.wav|||Hagohna. Uwansdi. Uwansdi. Ahyvhdlo. Hahnawagi.|
+000077|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-snow-b.wav|||Ǔnhji.|
+000111|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-quail-c.wav|||Gu:hgwe.|
+000034|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-nine-b.wav|||Sóhně:la.|
+000205|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-21-sentences-you-all-eating.wav|||Ì:jigíɂa.|
+000116|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-woman-b.wav|||Agě:hya.|
+000055|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-blood-b.wav|||Gǐ:gv.|
+000023|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-18b.wav|||Ně:la:duɂi.|
+000053|02-chr|chr|../../cherokee-audio/sam-hider/wav/days-of-the-week-wed-c.wav|||Joɂi:ne̋ I:ga.|
+000254|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-25-phrases-drink-of-water.wav|||Ama adǐ:tasdi.|
+000068|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-here-b.wav|||Áhani.|
+000041|02-chr|chr|../../cherokee-audio/sam-hider/wav/months-of-the-year-07b.wav|||Guye:gwǒ:na.|
+000140|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-13b.wav|||Gahlgwa:sgǒ:hi iyú:de:tiyv̋:da O:gala:hǒ:mi.|
+000181|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-yellow-bird.wav|||Jí:sgwa dalo:ni.|
+000151|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-cucumber-i.wav|||Gǎ:gámi.|
+000196|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-20-sentences-where-will-we-2-go.wav|||Ha:dlv dané:si?|
+000225|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-church.wav|||Digalà:wiɂsdi̋:ɂi.|
+000173|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-horn.wav|||U:hyǒ:ni.|
+000095|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-wolf-b.wav|||Wahya.|
+000214|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-i-am-lost.wav|||À:gwale:nǎ:hída.|
+000020|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-15b.wav|||Sgi:gaduɂi.|
+000232|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-valley.wav|||Ù:kě:dá:li:yv̋:ɂi.|
+000237|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-where-find-toilet.wav|||Ha:dlv yijihwahta doyi è:dastiyi?|
+000103|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-chickadee-b.wav|||Jigiɂli:li.|
+000153|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-flour-wheat.wav|||I:sa u:jale̋:sdi.|
+000043|02-chr|chr|../../cherokee-audio/sam-hider/wav/months-of-the-year-09b.wav|||Du:lì:sdi.|
+000047|02-chr|chr|../../cherokee-audio/sam-hider/wav/days-of-the-week-fri-c.wav|||Junhgi:lő:sdi.|
+000030|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-five-b.wav|||Hisgi.|
+000010|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-2-06-wawv.wav|||wā. wē. wī. wō. wū. wv̄.|
+000269|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-want-buy-shoes.wav|||Yà:gwadu:lígwu di:là:sǔ:lo digihwáhísdiɂi.|
+000113|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-shovel-c.wav|||Kǒ:de̋:sdi.|
+000137|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-11b.wav|||Ju:là:sgi daji:ya:hně:stani Ù:nadǒ:dágwi:de̋:na.|
+000169|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-feather.wav|||U:gì:dáhli.|
+000227|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-mountain.wav|||Ò:dalv̋:ɂi.|
+000135|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-7-c.wav|||Sa:sa anino:hǐ:li galv́:ladi.|
+000230|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-river.wav|||Egwoni.|
+000051|02-chr|chr|../../cherokee-audio/sam-hider/wav/days-of-the-week-thu-b.wav|||Nvhgi:ne̋ Iɂga.|
+000156|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-meat.wav|||Hawi:yaɂi.|
+000209|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-drug-store.wav|||Nv:wô:ti à:da:náɂnv̋:ɂi.|
+000134|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-6-two-a.wav|||táɂli|
+000028|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-3b.wav|||Joɂi.|
+000064|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-enough-b.wav|||E:li̋:gwu.|
+000098|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-bird-b.wav|||Jí:sgwa.|
+000262|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-want-bath.wav|||Yà:gwadu:lígwu à:gwadawò:sdiyi.|
+000094|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-watch-b.wav|||Wǎ:ji.|
+000108|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-onion.wav|||Sv̀:gi.|
+000080|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-baby-b.wav|||U:sdi̋ɂi.|
+000008|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-2-05-dlatlv.wav|||dlā. tlā. tlē. tlī. tlō. tlū. tlv̄.|
+000208|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-do-you-understand.wav|||Hohlgajv?|
+000119|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-2-c.wav|||Agě:hya u:do:hiyűhi uwo:dű:hiyű.|
+000011|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-2-06-yayv.wav|||yā. yē. yī. yō. yū. yv̄.|
+000003|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-2-02-hahv.wav|||hā. hē. hī. hō. hū. hv̄.|
+000143|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-14-osiyo-tohiju-b.wav|||O:síyo, tò:hi̋:ju.|
+000157|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-peach.wav|||Kwana.|
+000060|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-cow-b.wav|||Wahga.|
+000014|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-ten-b.wav|||Sgǒ:hi.|
+000177|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-shooter.wav|||Didà:yo:hihi.|
+000046|02-chr|chr|../../cherokee-audio/sam-hider/wav/months-of-the-year-12b.wav|||V̌:sgíhyi.|
+000150|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-corn.wav|||Sě:lu.|
+000252|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-soup.wav|||Yà:gwadu:lígwu ǔ:gáma.|
+000091|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-pig-b.wav|||Sihgwa.|
+000130|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-6-and-a.wav|||ale|
+000260|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-25-phrases-i-want-sugar.wav|||Yà:gwadu:lígwu kaljě:ji.|
+000126|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-5-baby-a.wav|||u:sdi̋|
+000145|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-14-tohiju-a.wav|||Tò:hi̋:ju.|
+000216|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-is-it-far.wav|||I̋:nahike?|
+000114|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-smoking-pipe-b.wav|||Ganv:no:wa.|
+000233|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-where-find-barber.wav|||Ha:dlv yijihwahta di:da:sdo:ye̋:sgi?|
+000250|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-some-bread.wav|||Yà:gwadu:lígwu ga̋:du iyi̋:gi.|
+000206|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-barber-shop.wav|||Di:da:sdo:tiyi.|
+000056|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-boys-b.wav|||Ani:chű:ja.|
+000215|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-i-dont-understand.wav|||V̋:tla yigo:lì:ga.|
+000066|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-girls-b.wav|||Ani:ge:hyű:ja.|
+000147|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-8-will-be-flying-a.wav|||degano:hǐ:lî:dohé:sdi|
+000152|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-flour.wav|||I:sa.|
+000218|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-is-it-right.wav|||Akti:sisgo idihla?|
+000078|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-what-b.wav|||Gadòna.|
+000081|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-bird-robin-b.wav|||Jǐ:sgwô:gwo.|
+000170|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-fishing.wav|||Sǔ:hv́sgi.|
+000026|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-20c.wav|||Táɂlsgǒ:hi.|
+000243|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-fried-eggs.wav|||Yà:gwadu:lígwu digv:jahlánv́ juwě:ji.|
+000131|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-6-miles-a.wav|||yú:hli:lő:da|
+000004|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-2-02-lalv.wav|||lā. lē. lī. lō. lū. lv̄.|
+000110|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-pumpkin-b.wav|||I:ya.|
+000029|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-4b.wav|||Nvhgi.|
+000158|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-pear.wav|||Digadv́:di.|
+000138|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-12c.wav|||Jí:sgwa uwo:dű:hiyu danino:gí:ɂa.|
+000019|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-14b.wav|||Nigaduɂi.|
+000238|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-where-is-found.wav|||Ha:dlv yijihwahta?|
+000042|02-chr|chr|../../cherokee-audio/sam-hider/wav/months-of-the-year-08b.wav|||Gaɂlo:hni.|
+000180|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-water-dry.wav|||Ama u:ka:hyő:di.|
+000076|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-red-b.wav|||Gǐ:gáge̋:ɂi.|
+000271|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-want-to-washup.wav|||Yà:gwadu:lígwu à:gwa:gv:sgwò:sdiyi.|
+000100|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-bullet-b.wav|||Gáɂni.|
+000244|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-lamb.wav|||Yà:gwadu:lígwu u:nò:de̋:na.|
+000118|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-1-b.wav|||Kò:hi̋ i:ga Ànsgv:ti sǔ:dáli.|
+000065|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-field-b.wav|||Dlo:ge̋:si.|
+000097|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-arrow-c.wav|||Gá:hlida.|
+000096|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-apple.wav|||Sv̌:kta.|
+000092|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-spoon-b.wav|||Adi:tóhdi.|
+000124|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-4-c.wav|||Gáɂni ù:hwahtv:hv̌gi dlo:ge̋:si.|
+000154|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-green-beans.wav|||Ani:jé tǔ:ya.|
+000242|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-fried-chicken.wav|||Yà:gwadu:lígwu gv:jahlánv́ jitǎ:ga.|
+000240|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-chicken.wav|||Yà:gwadu:lígwu jitǎ:ga.|
+000102|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-cherry.wav|||Gitǎ:ya.|
+000035|02-chr|chr|../../cherokee-audio/sam-hider/wav/months-of-the-year-01b.wav|||U:no:lv̀:tana.|
+000161|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-tomato.wav|||Tuma:hli.|
+000107|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-nail-c.wav|||Yv:gi.|
+000222|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-show-me.wav|||Sgwehyohv̀:ga.|
+000015|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-11b.wav|||Sàduɂi.|
+000272|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-want-use-phone.wav|||Yà:gwadu:lígwu di:hlino:hehdí Akdóhdiyi.|
+000219|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-i-understand.wav|||Aya go:lì:ga.|
+000027|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-two-b.wav|||Táɂli.|
+000194|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-20-sentences-where-are-we-all-going.wav|||Ha:dlv ì:dé:ga?|
+000224|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-auto.wav|||A:yanű:la dagwalé:la.|
+000002|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-2-01-gagv.wav|||gā. kā. gē. gī. gō. gū. gv̄.|
+000061|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-deer-animal-b.wav|||Ahwi.|
+000200|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-21-sentences-they-and-i-eating.wav|||Ò:jigíɂa.|
+000083|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-flag-b.wav|||Gà:dáɂdi.|
+000044|02-chr|chr|../../cherokee-audio/sam-hider/wav/months-of-the-year-10b.wav|||Dù:ninhdi.|
+000160|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-pumpkin.wav|||I:yaɂi.|
+000198|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-21-sentences-he-eating.wav|||À:gíɂa.|
+000001|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-2-01-av.wav|||ā. ē. ī. ō. ū. v̄.|
+000239|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-butter.wav|||Yà:gwadu:lígwu go:hlv:hnv̋:hi.|
+000018|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-13b.wav|||Joɂgaduɂi.|
+000022|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-17b.wav|||Gahlgwâ:duɂi.|
+000025|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-1b.wav|||Sà:gwűɂi.|
+000037|02-chr|chr|../../cherokee-audio/sam-hider/wav/months-of-the-year-03b.wav|||Anv:hyi.|
+000166|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-bird-chopper.wav|||Jí:sgwa galû:yv.|
+000128|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-5-child-a.wav|||ayő:hli|
+000265|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-want-buy-it.wav|||Yà:gwadu:lígwu akihwáhísdiɂi.|
+000045|02-chr|chr|../../cherokee-audio/sam-hider/wav/months-of-the-year-11b.wav|||Nv:dadě:wi.|
+000193|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-20-sentences-where-are-they-going.wav|||Ha:dlv ané:ga?|
+000071|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-little-b.wav|||Usdi̋ɂi.|
+000164|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-big-bear.wav|||Yǒ:na e̋:gwa.|
+000258|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-25-phrases-i-want-pepper.wav|||Yà:gwadu:lígwu di:kwayő:di.|
+000266|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-want-buy-meal.wav|||Yà:gwadu:lígwu akihwáhísdiɂi à:lsdàyhdi.|
+000136|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-10b.wav|||Gitǎ:ya hle:kígwu gvnsgesdi.|
+000211|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-grocery.wav|||Álsdàyhdi.|
+000267|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-want-buy-medicine.wav|||Yà:gwadu:lígwu akihwáhísdi nv:wô:ti.|
+000203|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-21-sentences-you-1-are-eating.wav|||Higíɂa.|
+000174|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-lawyer.wav|||Di:tiyǒ:hihi.|
+000105|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-dress-b.wav|||À:sano.|
+000050|02-chr|chr|../../cherokee-audio/sam-hider/wav/days-of-the-week-sun-b.wav|||Ù:nadǒ:dágwà:sgv̋:ɂi.|
+000016|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-12a.wav|||Táliduɂi.|
+000201|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-21-sentences-they-eating.wav|||A:nigíɂa.|
+000084|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-gator-b.wav|||Ju:là:sgi.|
+000062|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-ducks-b.wav|||Kawǒ:ni.|
+000013|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-2-04-ssasv.wav|||ssā. sē. sī. sō. sū. sv̄.|
+000171|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-four-killer.wav|||Nvhgi dǐ:hihi.|
+000234|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-where-find-car-mechanic.wav|||Dagwalé:la ő:sda idigvnéhi?|
+000123|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-3-waleli-ayanuli-a.wav|||Wá:le:li a:yanű:li.|
+000248|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-pig-meat.wav|||Yà:gwadu:lígwu sihgwa hawi:ya.|
+000088|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-my-hands-b.wav|||Digwò:ye̋:ni.|
+000038|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-april-a.wav|||Kawo:hni.|
+000069|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-huckleberry-b.wav|||Kawa:ya.|
+000172|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-gourd.wav|||Galv̀:na.|
+000253|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-would-like-to.wav|||Yà:gwadu:lígwu.|
+000191|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-20-sentences-what-are-you-2-doing.wav|||Gadō isdadv:neha?|
+000054|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-a-kick-b.wav|||À:hyvhtè:sdi.|
+000090|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-people-b.wav|||Yv:wi.|
+000072|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-night-b.wav|||Usv̋:ɂi.|
+000127|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-5-came-a.wav|||ù:lúhjv̌:ɂi|
+000257|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-25-phrases-i-want-milk.wav|||Yà:gwadu:lígwu u:nv̌:di.|
+000259|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-25-phrases-i-want-salt.wav|||Yà:gwadu:lígwu á:ma.|
+000247|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-one-potato.wav|||Yà:gwadu:lígwu nǔ:na.|
+000109|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-potato.wav|||Nǔ:na.|
+000185|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-19-sentences-i-see-a-chicken.wav|||Jitǎ:ga ji:gòwhtíha.|
+000210|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-garage.wav|||Dagwalé:la aɂtiyi.|
+000149|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-9c.wav|||Wǎ:ji hilvhdlv̋:ɂi à:giyo:hǔ:si.|
+000241|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-cow-meat.wav|||Yà:gwadu:lígwu wahga hawi:ya.|
+000104|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-come-over-b.wav|||Ehè:na.|
+000005|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-2-03-mamu.wav|||mā. mē. mī. mō. mū.|
+000162|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-acorn-big.wav|||Gu:le e̋:gwa.|
+000187|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-19-sentences-raining-today.wav|||À:ga:sga kò:hi̋ i:ga.|
+000163|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-bear-black.wav|||Yǒ:na gv̌:hnáge̋:ɂi.|
+000270|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-want-to-eat.wav|||Yà:gwadu:lígwu à:gwalsdàyhdiyi.|
+000058|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-chicken-b.wav|||Jitǎ:ga.|
+000229|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-restaurant.wav|||Jù:nàlsdàyhdi̋:ɂi.|
+000139|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-13c.wav|||Gahlgwa:sgǒ:hi iyú:de:tiyv̋:da O:gala:hǒ:ma.|
+000073|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-nula-b.wav|||Nű:la.|
+000195|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-20-sentences-where-are-you-1-going.wav|||Ha:dlv hé:ga?|
+000075|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-rain-b.wav|||À:ga:sga.|
+000176|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-red-squirrel.wav|||Salǒ:lawǒ:dí.|
+000188|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-20-sentences-what-am-i-doing.wav|||Gadō gadv:neha?|
+000067|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-goose-b.wav|||Sa:sa.|
+000221|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-say-again.wav|||Sǐ:gwu jihihnè:gi.|
+000235|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-where-find-dentist.wav|||Ha:dlv yijihwahta di:da:nhdésgi?|
+000190|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-20-sentences-what-are-we-2-doing.wav|||Gadō inadv:neha?|
+000085|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-howa-b.wav|||Howa.|
+000009|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-2-06-jajv.wav|||jā. jē. jī. jō. jū. jv̄.|
+000231|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-road.wav|||Nv:nǒ:hi.|
+000032|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-7b.wav|||Gahlgwǒ:gi.|
+000125|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-5-b.wav|||U:sdi̋ ayő:hli ù:lúhjv̌:ɂi.|
+000082|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-fire-b.wav|||Ajǐ:la.|
+000049|02-chr|chr|../../cherokee-audio/sam-hider/wav/days-of-the-week-sat-b.wav|||Ù:nadǒ:dágwi:de̋:na.|
+000213|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-how-many-miles.wav|||Hila̋ yú:hli:lő:da?|
+000039|02-chr|chr|../../cherokee-audio/sam-hider/wav/months-of-the-year-05c.wav|||Ànsgv:ti.|
+000246|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-one-egg.wav|||Yà:gwadu:lígwu uwě:ji.|
+000148|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-9a.wav|||Hilvhdlv̋:ɂi à:giyo:hǔ:si.|
+000074|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-nula-d.wav|||Nǔ:la.|
+000129|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-6-b.wav|||Digwé:nv̀:sv̋:ɂi ale ju:nade:hlohgwà:sdí táɂli yú:hli:lő:da.|
+000236|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-where-find-doctor.wav|||Ha:dlv yijihwahta agáɂnakti?|
+000212|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-how-far.wav|||Ínv:hisgo?|
+000159|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-plums.wav|||Kwanúnsdiɂi.|
+000207|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-clothing-store.wav|||Di:hnawo à:da:náɂnv̋:ɂi.|
+000031|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-six-b.wav|||Sǔ:dáli.|
+000142|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-14-osiyo-a.wav|||O:síyo.|
+000182|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-19-sentences-cow-standing.wav|||Wahga gadô:ga.|
+000006|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-13-kwakwv.wav|||kwā. kwē. kwī. kwō. kwū. kwv̄.|
+000057|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-car-b.wav|||Ajò:dohdi.|
+000079|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-a-fish-b.wav|||Ajaɂdi.|
+000007|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-14-sasv.wav|||s. sā. sē. sī. sō. sū. sv̄.|
+000255|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-25-phrases-i-want-cabbage.wav|||Yà:gwadu:lígwu ju:ganhdě:na.|
+000089|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-numbers-b.wav|||Di:sésdi.|
+000112|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-sheep-b.wav|||U:nò:de̋:na.|
+000217|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-is-it-left.wav|||Aksganike idihla?|
+000220|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-laundry.wav|||Junhgi:lò:sdiyi.|
+000199|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-21-sentences-i-am-eating-it.wav|||Jigíɂa.|
+000021|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-16b.wav|||Daladuɂi.|
+000117|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-world-b.wav|||E:lohi.|
+000223|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-22-vocabulary-speak-slowly.wav|||U:sganő:li hihnè:gi.|
+000192|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-20-sentences-where-am-i-going.wav|||Ha:dlv gé:ga?|
+000086|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-man-b.wav|||Asgaya.|
+000048|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-monday-b.wav|||Ù:nadǒ:dágwohnvɂi.|
+000099|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-boat-b.wav|||Jǐ:yu.|
+000263|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-want-buy-blankets.wav|||Yà:gwadu:lígwu digihwáhísdi ju:ne:gv:ha̋:ɂi.|
+000024|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-19b.wav|||Sóhne:la:duɂi.|
+000228|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-phone.wav|||Di:hlino:hehdi̋:ɂi.|
+000264|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-want-buy-dress.wav|||Yà:gwadu:lígwu akihwáhísdiɂi dì:sano.|
+000146|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-8c.wav|||Guye:gwǒ:ni nvhgi:né i:ga gà:dáɂdi degano:hǐ:lî:dohé:sdi.|
+000040|02-chr|chr|../../cherokee-audio/sam-hider/wav/months-of-the-year-06b.wav|||De:halǔ:yi.|
+000251|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-something-to-eat.wav|||Yà:gwadu:lígwu go:hű:sdi à:gigì:sdi.|
+000179|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-trotting-wolf.wav|||Wahya à:tli.|
+000052|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-tue-b.wav|||Taɂli:ne̋ I:ga.|
+000106|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-men-b.wav|||Ani:sgaya.|
+000115|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-trap-c.wav|||Sadv́:di.|
+000120|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-3-b.wav|||Wá:le:li a:yanű:li gano:hǐ:lî:só:ɂi.|
+000017|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-12b.wav|||Táli:duɂi.|
+000121|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-3-flyer-a.wav|||gano:hǐ:lî:só:ɂi|
+000036|02-chr|chr|../../cherokee-audio/sam-hider/wav/months-of-the-year-02b.wav|||Ka:gaɂli.|
+000165|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-big-buck.wav|||Galagi̋:na.|
+000197|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-20-sentences-where-you-2-going.wav|||Ha:dlv isdé:ga?|
+000168|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-elk.wav|||Ahwe̋:gwa.|
+000186|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-19-sentences-pretty-baby.wav|||U:sdi̋ɂi uwo:dű:ha.|
+000178|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-stick-laying.wav|||Gansda jì:ya.|
+000144|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-14-siyo-b.wav|||Síyo|
+000133|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-6-school-a.wav|||ju:nade:hlohgwà:sdí|
+000167|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-bird-young.wav|||Jí:sgwa ani̋:da.|
+000059|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-cold-b.wav|||U:hyv:dli.|
+000249|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want-potatoes.wav|||Yidà:gwadu:lígwu nǔ:na.|
+000155|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-17-vocabulary-lettuce.wav|||Igó:sdiɂagî:sdi.|
+000132|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-6-my-home-a.wav|||digwé:nv̀:sv̋:ɂi|
+000063|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-eagle-b.wav|||Awǒ:háɂli.|
+000202|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-21-sentences-you-1-and-i.wav|||I:nigíɂa.|
+000226|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-23-phrases-horse.wav|||Sǒ:gwíli.|
+000070|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-12-vocabulary-large-b.wav|||E:gwo:hiyu.|
+000183|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-19-sentences-field-i-am-going.wav|||Dlo:ge̋:si dagè:si.|
+000101|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-14-vocabulary-cane-b.wav|||Ihiya.|
+000122|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-15-sentences-3-waleli-a.wav|||wá:le:li|
+000012|02-chr|chr|../../cherokee-audio/sam-hider/wav/syllabary-2-04-gwagwv.wav|||gwā. gwē. gwī. gwō. gwū. gwv̄.|
+000204|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-21-sentences-you-2-eating.wav|||Isdigíɂa.|
+000087|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-money-b.wav|||Adě:la.|
+000268|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-26-phrases-i-want-buy-shirt.wav|||Yà:gwadu:lígwu digihwáhísdi háwi̋:na di:hnawo.|
+000261|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-25-phrases-sugar-i-want.wav|||Kaljě:ji yà:gwadu:lígwu.|
+000093|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-13-vocabulary-waleli-b.wav|||Wá:le:li.|
+000141|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-16-sentences-14-osigwu-d.wav|||O:sǐ:gwu.|
+000189|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-20-sentences-what-are-they-doing.wav|||Gadō anadv:neha?|
+000175|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-18-vocabulary-raven.wav|||Kò:lana.|
+000256|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-25-phrases-i-want-coffee.wav|||Yà:gwadu:lígwu kǎ:hwi.|
+000033|02-chr|chr|../../cherokee-audio/sam-hider/wav/numbers-8b.wav|||Chaně:la.|
+000184|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-19-sentences-here-I-stand.wav|||Áhani jidô:ga.|
+000245|02-chr|chr|../../cherokee-audio/sam-hider/wav/page-24-phrases-i-want.wav|||À:gwadu:líha.|
+000135|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-073.wav|||Jǒ:lani tisduɂi.|
+000079|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-022.wav|||Wahga.|
+000174|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-073.wav|||Hiɂa e:do:da.|
+000144|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-006.wav|||A:yanű:li ha:hnigi.|
+000025|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-103.wav|||Agi̋:na.|
+000137|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-082.wav|||Ayő:hli ù:hnawâ:sdiha.|
+000018|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-069.wav|||Sa:sa á:ɂi.|
+000003|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-018.wav|||Su:li.|
+000095|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-073.wav|||Jí:sgwa.|
+000130|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-058.wav|||Na à:lâ:sgalǐ:sgi.|
+000067|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-120.wav|||Ogina:li̋ ù:yó:siha.|
+000123|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-041.wav|||Ǔ:gáma à:gwadu:lí.|
+000157|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-034.wav|||Digadv́:di.|
+000185|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-010.wav|||Gadō u:sdi à:gowhtí na gi:tli.|
+000060|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-095.wav|||O:gana anahli gi:hli.|
+000037|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-016.wav|||Gà:du:li̋:da á:su:líɂa.|
+000105|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-095.wav|||Ahyv:dagwalò:sgi.|
+000169|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-063.wav|||Hisgi aye̋:hli à:hlíɂili.|
+000143|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-004.wav|||Nǔ:na do:gihwisa dlo:ge̋:si.|
+000134|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-069.wav|||Jǒ:lani ukiɂla wě:sa.|
+000005|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-027.wav|||Ada.|
+000048|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-054.wav|||Salǒ:li ù:du:lí na gi:hli.|
+000147|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-011.wav|||Kanu:na nigaweɂa.|
+000115|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-023.wav|||O:sǐ:yu iyunalsdà:hnéhdi.|
+000132|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-062.wav|||Sáɂdu iyáni ani:jalagi analâ:sgalí.|
+000032|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-004.wav|||Salǒ:li dù:du:lí na gi:hli.|
+000148|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-012.wav|||U:sdi̋ kanawô:ga.|
+000056|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-081.wav|||Ga̋:du agigísi na gi:hli.|
+000196|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-033.wav|||Gv:he anahliha gi:hli.|
+000188|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-016.wav|||Te:lǐ:do.|
+000074|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-010.wav|||Ganè:ga.|
+000183|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-005.wav|||Wě:sa nigawè:sgv́ gà:tv:gí:ɂa.|
+000138|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-089.wav|||Awǒ:háɂli.|
+000193|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-027.wav|||Tawǒ:di nigaweɂa.|
+000014|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-054.wav|||Sa:sa.|
+000013|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-052.wav|||Salǒ:li.|
+000180|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-002.wav|||Gv̌:hnáge̋.|
+000046|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-051.wav|||Ga̋:du.|
+000120|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-033.wav|||Ani:yv:wi:ya̋ dà:nadlo:sga.|
+000045|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-049.wav|||U:sdi̋.|
+000069|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-124.wav|||O:síyo hada.|
+000010|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-043.wav|||Lo:lo.|
+000084|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-035.wav|||Jalí:si.|
+000176|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-078.wav|||Sgwà:hle̋:sdi.|
+000054|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-077.wav|||Si:nv̋:da.|
+000114|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-021.wav|||Jǐ:yu dayù:hwasi ogina:li̋:ɂi.|
+000154|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-026.wav|||Sě:lu.|
+000178|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-080.wav|||Di:da:náɂnv̋ widage:doli hle̋:ga.|
+000038|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-022.wav|||À:ga:sga.|
+000072|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-006.wav|||Gi:hli dù:niyó:siha.|
+000012|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-047.wav|||Sǔ:dáli.|
+000022|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-087.wav|||Sa:sa aná:ɂi.|
+000161|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-041.wav|||Digadv́:di à:yo:sda na ù:da:ge̋:da achű:ja.|
+000158|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-036.wav|||Gadò hà:dv́:ne?|
+000059|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-094.wav|||Usdi̋ ó:si.|
+000061|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-097.wav|||Ga̋:du u:gana̋:sda à:gíɂa.|
+000129|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-055.wav|||Jalagi.|
+000098|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-078.wav|||Ji:sgwada.|
+000179|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-081.wav|||U:do:hiyű ù:di:hléhga.|
+000036|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-014.wav|||Gǐ:ga.|
+000113|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-020.wav|||Jǐ:yu.|
+000021|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-085.wav|||Ǐ:náda.|
+000155|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-027.wav|||Sě:lu ga̋:du dagá:du:hni.|
+000170|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-064.wav|||Uwò:ye̋:ni ù:we:hisdâ:ne.|
+000131|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-060.wav|||Idalà:sgala.|
+000035|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-013.wav|||Gǎ:da.|
+000111|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-011.wav|||Ogina:li̋:ɂi.|
+000133|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-067.wav|||Jǒ:lani.|
+000100|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-085.wav|||Wě:sa nigawe.|
+000175|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-074.wav|||Hiɂa e:ji.|
+000167|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-056.wav|||Hi:yo:lì:gis na asgaya?|
+000029|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-116.wav|||Gi:hli à:hligí:ɂa.|
+000057|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-083.wav|||Agá:li:siga.|
+000002|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-014.wav|||Sǔ:dáli.|
+000152|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-022.wav|||Kalsě:ji ù:du:lí na ayő:hli.|
+000168|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-057.wav|||Ganv:hi̋:da ù:stihga na age:hyű:ja.|
+000103|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-092.wav|||Yv:gi.|
+000015|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-056.wav|||À:su:lo.|
+000156|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-030.wav|||Sě:lu dodajì:hwisi à:diha na asgaya.|
+000009|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-041.wav|||À:su:lo.|
+000043|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-038.wav|||Sǔ:dáli diga:sgilo dù:nadu:lí.|
+000016|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-058.wav|||Ada.|
+000146|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-010.wav|||Kanu:na.|
+000195|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-032.wav|||Gv:he.|
+000071|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-004.wav|||Áɂni.|
+000027|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-107.wav|||Iná:ɂi.|
+000030|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-118.wav|||À:hli:ló:ɂa.|
+000145|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-007.wav|||Nű:la, hadanàwsda.|
+000068|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-122.wav|||Hadǐ:da!|
+000189|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-018.wav|||Ji:sdu ate:sda na gi:tli.|
+000033|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-006.wav|||Sali dù:nadu:lí na sa:sa.|
+000194|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-028.wav|||U:do:hiyű uwo:dű:hi hiɂa talǔ:ja.|
+000163|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-049.wav|||U:hyv:dla ama à:gwadu:lí.|
+000082|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-031.wav|||Ajaɂdi.|
+000184|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-008.wav|||Goɂi.|
+000141|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-096.wav|||Nv:wô:ti ù:du:lí na udanili.|
+000101|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-086.wav|||Sa:sa na:niwe.|
+000028|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-109.wav|||Sa:sa aná:ɂi.|
+000065|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-110.wav|||À:giyó:si.|
+000110|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-010.wav|||Gi:hli ù:lití:si.|
+000165|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-054.wav|||Hisgi|
+000087|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-044.wav|||I:ya.|
+000001|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-004.wav|||Su:li.|
+000007|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-030.wav|||Sǔ:dáli.|
+000052|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-066.wav|||U:nv̌:di ù:du:lí na u:sdi̋.|
+000164|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-050.wav|||Áhani ù:dlanv:da.|
+000081|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-026.wav|||U:nv̌:di ù:hwasga.|
+000089|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-051.wav|||Wǎ:ji.|
+000121|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-038.wav|||Ama.|
+000051|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-064.wav|||Na gi:hli ganv́:gi.|
+000171|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-065.wav|||Hyehgahli aniyewsga.|
+000086|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-042.wav|||Nv̀:ya.|
+000159|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-038.wav|||Ùlsíhgí ù:lô:gi:la|
+000104|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-093.wav|||Ayv.|
+000162|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-046.wav|||A:dlawáɂdv̋|
+000119|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-031.wav|||Tǔ:ya gà:yő:hli widinadági.|
+000017|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-068.wav|||I:sa.|
+000041|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-034.wav|||Sdù:di.|
+000019|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-071.wav|||Salǒ:li.|
+000118|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-030.wav|||Dlo:ge̋:si winè:da.|
+000099|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-083.wav|||Wě:sa.|
+000116|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-024.wav|||Ő:sda a:gì:sdi uyu:ti.|
+000050|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-062.wav|||U:nv̌:di.|
+000008|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-032.wav|||A:li.|
+000055|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-079.wav|||Sigigi.|
+000151|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-020.wav|||Di:sésdi dù:wo:hwě:lâ.|
+000090|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-052.wav|||Ji:sdu.|
+000112|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-015.wav|||Tiyǒ:háɂli gaɂnǐ:ya na ǐ:náda.|
+000108|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-004.wav|||Dalǒ:níge̋ jí:sgwa gáɂnǐ:ya na wě:sa.|
+000039|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-024.wav|||Ga:sgilo.|
+000097|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-076.wav|||Sihgwa ha:wiya à:gwadu:lí.|
+000085|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-037.wav|||Jayó:li.|
+000064|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-108.wav|||Yǒ:na á:ɂi.|
+000102|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-091.wav|||Ayv:wi:ya̋.|
+000186|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-011.wav|||Hila̋ ǐ:gó:hi̋:da a:tliɂilida?|
+000047|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-052.wav|||U:gì:sdi ù:du:lí u:sdi̋.|
+000182|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-004.wav|||Ganv:gwalő:sdi e:sgv́hsi.|
+000092|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-063.wav|||Ha:wiya.|
+000192|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-026.wav|||Ǔ:tana yǒ:na ji:gò:wahtā.|
+000023|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-089.wav|||Iná:ɂi.|
+000066|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-118.wav|||À:giyó:siha.|
+000109|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-006.wav|||Ada:kéhdi ù:du:lí na agě:hya.|
+000076|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-012.wav|||U:ne̋:ga gi:hli.|
+000080|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-024.wav|||Ga̋:du u:nigana̋:sda duwá:duha.|
+000166|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-055.wav|||Hila̋ à:hlíɂili?|
+000096|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-075.wav|||Sihgwa.|
+000073|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-007.wav|||Sasa uniga:sga.|
+000094|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-067.wav|||Gi:hli dà:suhwísga.|
+000093|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-066.wav|||Ahwi dunihyo na aniwǐ:na.|
+000024|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-091.wav|||Á:su:líɂa.|
+000128|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-051.wav|||Gadogi u:sdi?|
+000088|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-047.wav|||Tǔ:ya dù:du:lí.|
+000070|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-002.wav|||Gáɂni.|
+000083|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-033.wav|||Jayó:sihas?|
+000136|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-078.wav|||Da:hnawa.|
+000140|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-094.wav|||Jalagi gawó:ni na ayó:ne:ga.|
+000075|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-011.wav|||Yó:ne:ga.|
+000191|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-024.wav|||Talǔ:ja.|
+000091|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-056.wav|||U:ni:ji:ya dù:hyoha na asgaya.|
+000172|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-069.wav|||E:lohi.|
+000122|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-040.wav|||Ama sgidlì:sdasi.|
+000062|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-098.wav|||Ogina:li̋:ɂi.|
+000181|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-003.wav|||Gv̌:hnáge̋ gi:hli à:gi:káha.|
+000063|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-107.wav|||O:síyo.|
+000020|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-073.wav|||Sali.|
+000077|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-014.wav|||Dida:náɂnv̋ iné:na.|
+000124|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-042.wav|||Á:ma à:ganǎ:díɂa na wahga.|
+000153|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-023.wav|||Sě:di dà:gíɂa na salǒ:li.|
+000078|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons21_to_30-021.wav|||Waló:si.|
+000142|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-003.wav|||Nǔ:na.|
+000197|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-034.wav|||Hè:sdi!|
+000127|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-049.wav|||Ǐ:náda gahnǐ:dô na asgaya.|
+000106|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-002.wav|||Agayv̌:líge̋.|
+000126|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-048.wav|||Kilő anisgaya danidô:ga.|
+000190|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-020.wav|||Dihnawo dà:tě:sga.|
+000040|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-026.wav|||Anà:ga:lǐ:sgi.|
+000044|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-040.wav|||Gi:hli agiganǎ:díɂa..|
+000160|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-039.wav|||Dv̀:ga:hnani ge:líɂa.|
+000173|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-071.wav|||I:ga e̋:hi nv:da kala.|
+000058|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-092.wav|||Ó:si.|
+000107|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-003.wav|||Na agayv̌:líge̋ ù:yó:si, ge:líɂa.|
+000187|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons51_to_60-012.wav|||Digo:hwě:lò:di è:sgidisi.|
+000053|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-068.wav|||Dina:da:hli:lò:sdi̋:sgi ù:nv:nv́:ga.|
+000026|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-105.wav|||I:sa à:gíɂa sa:sa|
+000117|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-028.wav|||Adà:dlǒ:sdi.|
+000125|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-047.wav|||Do:ya.|
+000149|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-014.wav|||Kǎ:hwi widayù:hwasi dì:da:náɂnv̋:i.|
+000011|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-045.wav|||Ada.|
+000031|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-120.wav|||Gi:hli aná:ɂi.|
+000150|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-018.wav|||Di:sésdi.|
+000049|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-056.wav|||U:sdi̋ á:ɂi.|
+000177|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons41_to_50-079.wav|||Áhani jǒ:hlê:sdi.|
+000006|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-028.wav|||Ada.|
+000042|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-036.wav|||Di:da:sdù:di̋.|
+000034|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons11_to_20-011.wav|||Ga̋:du.|
+000004|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons01_to_10-020.wav|||Sǔ:dáli.|
+000139|09-chr|chr|../../cherokee-audio/see-say-write/wav/Lessons31_to_40-091.wav|||Awǒ:háɂli u:gì:dáhli gà:hǐ:dô na ayv:wi:ya̋.|
 000491|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Sight.wav|||agǒwhtvhdi|
 000749|cno-f-chr_2|chr|../../cherokee-audio/cno/wav/Went.wav|||ù:we:nv́:sv̌|
 000083|cno-m-chr_1|chr|../../cherokee-audio/cno/wav/Large.wav|||e̋:gwa|
