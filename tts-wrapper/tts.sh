@@ -1,9 +1,7 @@
-#!/bin/bash -i
+#!/usr/bin/env -S conda run -n Cherokee-TTS bash
 
 set -e
 set -o pipefail
-
-conda activate Cherokee-TTS
 
 z="$(pwd)"
 cd "$(dirname "$0")"
