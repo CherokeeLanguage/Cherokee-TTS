@@ -19,9 +19,12 @@ if __name__ == "__main__":
     parser.add_argument("--voice", type=str, default="cno-spk_1", help="Voice to synthesize with.")
     parser.add_argument("--wav", type=str, default="tts.wav", help="Destination wav file. Should be an absolute path!")
     parser.add_argument("--text", type=str, default="O:síyo. Tò:hi̋:ju?", help="Text to synthesize.")
+    parser.add_argument("--gpu", action="store_true", help="Use GPU to synthesize.")
     args = parser.parse_args()
-    
-    synrun:list=["python", bindir + "/../synthesize.py", "--cpu"]
+
+    device: str = "gpu" if args.gpu else "cpu"
+
+    synrun:list=["python", bindir + "/../synthesize.py", f"--{device}"]
     synrun.extend(["--checkpoint", bindir + "/../checkpoints/" + args.checkpoint])
     if not args.griffin_lim:
         synrun.extend(["--save_spec", "--ignore_wav"])
@@ -30,7 +33,10 @@ if __name__ == "__main__":
     result = subprocess.run(synrun, input=text, text=True, check=True)
 
     if not args.griffin_lim:
-        subprocess.run(["python", bindir+"/wavernnx_cpu.py"], check=True)
+        sysrun = [bindir+"/wavernnx.py"]
+        if args.gpu:
+            sysrun.extend("--gpu")
+        subprocess.run(sysrun, check=True)
         os.remove("tmp.npy")
     
     os.replace("tmp.wav", args.wav)
