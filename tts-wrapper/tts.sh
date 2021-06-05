@@ -1,4 +1,4 @@
-#!/usr/bin/env -S conda run -n Cherokee-TTS bash
+#!/usr/bin/env bash
 
 set -e
 set -o pipefail
@@ -8,7 +8,7 @@ cd "$(dirname "$0")"
 y="$(pwd)"
 cd "$z"
 
-python "$y/tts.py" "$@"
+"$y/tts.py" "$@"
 
 cd "$z"
 exit 0

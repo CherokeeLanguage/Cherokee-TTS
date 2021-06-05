@@ -1,3 +1,5 @@
+#!/usr/bin/env -S conda run -n Cherokee-TTS python
+
 import subprocess
 import argparse
 import os
@@ -5,11 +7,9 @@ import sys
 
 if __name__ == "__main__":
     
-    bindir:str = os.getcwd()
-    if (sys.argv[0].strip()!=""):
-        bindir:str = os.path.dirname(sys.argv[0])
-    
+    bindir:str = os.path.dirname(__file__)
     workdir:str = os.getcwd()
+
     print(f"Workdir: {workdir}")
     
     parser = argparse.ArgumentParser(description="Conveniance wrapper for synthesize.py and wavegen.py")
@@ -22,9 +22,7 @@ if __name__ == "__main__":
     parser.add_argument("--gpu", action="store_true", help="Use GPU to synthesize.")
     args = parser.parse_args()
 
-    device: str = "gpu" if args.gpu else "cpu"
-
-    synrun:list=["python", bindir + "/../synthesize.py", f"--{device}"]
+    synrun:list=["python", bindir + "/../synthesize.py"]
     synrun.extend(["--checkpoint", bindir + "/../checkpoints/" + args.checkpoint])
     if not args.griffin_lim:
         synrun.extend(["--save_spec", "--ignore_wav"])
@@ -35,7 +33,7 @@ if __name__ == "__main__":
     if not args.griffin_lim:
         sysrun = [bindir+"/wavernnx.py"]
         if args.gpu:
-            sysrun.extend("--gpu")
+            sysrun.extend(["--gpu"])
         subprocess.run(sysrun, check=True)
         os.remove("tmp.npy")
     

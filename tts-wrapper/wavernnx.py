@@ -14,7 +14,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="wavernnx melgram vocoder")
     parser.add_argument("--gpu", action="store_true", help="Perform vocoding using GPU instead of CPU.")
     args = parser.parse_args()
-    device: str = "gpu" if args.gpu else "cpu"
+    device: str = "cuda" if args.gpu else "cpu"
 
     cwd: str = os.getcwd()
 
