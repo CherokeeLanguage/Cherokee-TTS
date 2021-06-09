@@ -1,7 +1,9 @@
-#!/usr/bin/env bash
+#!/usr/bin/env -S bash
 
 set -e
 set -o pipefail
+
+type -P conda || export PATH="${HOME}/miniconda3/bin:${PATH}"
 
 z="$(pwd)"
 cd "$(dirname "$0")"
