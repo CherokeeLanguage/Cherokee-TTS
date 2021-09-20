@@ -1,21 +1,30 @@
-#!/usr/bin/env -S conda run -n Cherokee-TTS python
+#!/usr/bin/env python3
 import json
 import os
+import pathlib
 import random
+import re
 import sys
 import unicodedata as ud
 from shutil import rmtree
-from typing import Set
+
+with_syllabary: bool = False
+only_syllabary: bool = False
+include_o_form: bool = False
 
 if __name__ == "__main__":
 
-    langs: Set[str] = {"chr", "en"}
+    langSkip: set = {"chr-syl", "en", "zh"}
     speakerSkip: set = set()
 
-    workdir: str = os.path.dirname(__file__)
+    workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":
         os.chdir(workdir)
     workdir = os.getcwd()
+
+    if not with_syllabary and only_syllabary:
+        print("Can't do without Syllabary while outputting only Syllabary!")
+        sys.exit(-1)
 
     for file in ["train.txt", "val.txt", "all.txt"]:
         if os.path.exists(file):
@@ -26,30 +35,28 @@ if __name__ == "__main__":
 
     speaker_counts: dict = dict()
 
-    for parent in [  #
-            "../../comvoi_clean",  #
-            "../../other-audio-data/cstr-vctk-american",  #
-            "../../cherokee-audio-data-private/beginning-cherokee",  #
-            "../../cherokee-audio-data/durbin-feeling-tones",  #
-            # "../../cherokee-audio/cherokee-language-coach-1",  #
-            # "../../cherokee-audio/cherokee-language-coach-2",  #
-            "../../cherokee-audio/durbin-feeling",  #
-            "../../cherokee-audio-data/michael-conrad",  #
-            "../../cherokee-audio-data/michael-conrad2",  #
-            "../../cherokee-audio/sam-hider",  #
-            "../../cherokee-audio/see-say-write",  #
-            "../../cherokee-audio/thirteen-moons-disk1",  #
-            "../../cherokee-audio/thirteen-moons-disk2",  #
-            "../../cherokee-audio/thirteen-moons-disk3",  #
-            "../../cherokee-audio/thirteen-moons-disk4",  #
-            "../../cherokee-audio/thirteen-moons-disk5",  #
-            "../../cherokee-audio/cno",  #
-            "../../cherokee-audio/wwacc",  #
+    for parent in [  "../comvoi_mco",  #
+            "../other-audio-data/cstr-vctk-american",  #
+            "../cherokee-audio-data-private/beginning-cherokee",  #
+            # "../cherokee-audio/cherokee-language-coach-1",  #
+            # "../cherokee-audio/cherokee-language-coach-2",  #
+            "../cherokee-audio/durbin-feeling",  #
+            "../cherokee-audio-data/durbin-feeling-tones",  #
+            # "../cherokee-audio/michael-conrad",  #
+            # "../cherokee-audio/michael-conrad2",  #
+            # "../cherokee-audio/sam-hider",  #
+            # "../cherokee-audio-data/see-say-write",  #
+            # "../cherokee-audio/thirteen-moons-disk1",  #
+            # "../cherokee-audio/thirteen-moons-disk2",  #
+            # "../cherokee-audio/thirteen-moons-disk3",  #
+            # "../cherokee-audio/thirteen-moons-disk4",  #
+            # "../cherokee-audio/thirteen-moons-disk5",  #
+            "../cherokee-audio/cno",  #
+            # "../cherokee-audio/wwacc",  #
             # "../cherokee-audio/tacotron-2020-12-28",  #
     ]:
         for txt in ["all.txt", "val.txt", "train.txt"]:
-            data_file: str = os.path.join(parent, txt)
-            with open(data_file, "r") as f:
+            with open(pathlib.Path(parent).joinpath(txt), "r") as f:
                 lines: list = []
                 for line in f:
                     fields = line.split("|")
@@ -57,9 +64,16 @@ if __name__ == "__main__":
                     if speaker in speakerSkip:
                         continue
                     lang: str = fields[2]
-                    if lang not in langs:
+                    if lang in langSkip:
                         continue
                     line = ud.normalize("NFD", line.strip())
+                    if lang == "chr":
+                        if not include_o_form and "\u030a" in line:
+                            continue
+                        if not with_syllabary and re.search("(?i)[Ꭰ-Ᏼ]", line):
+                            continue
+                        if only_syllabary and not re.search("(?i)[Ꭰ-Ᏼ]", line):
+                            continue
                     line = line.replace("|wav/", "|" + parent + "/wav/")
                     lines.append(line)
                     if txt == "all.txt":

@@ -1,5 +1,5 @@
 #!/usr/bin/env -S conda run -n Cherokee-TTS python
-
+import shutil
 import subprocess
 import argparse
 import os
@@ -37,4 +37,4 @@ if __name__ == "__main__":
         subprocess.run(sysrun, check=True)
         os.remove("tmp.npy")
     
-    os.replace("tmp.wav", args.wav)
+    shutil.move("tmp.wav", args.wav)

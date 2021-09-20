@@ -1,4 +1,4 @@
-#!/usr/bin/env -S conda run -n Cherokee-TTS python
+#!/usr/bin/env python3
 from typing import Set
 
 import os
