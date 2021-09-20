@@ -21,3 +21,5 @@ spectrograms/
 /langs.txt
 /val.txt
 /train.txt
+all.txt
+speaker-counts.txt
