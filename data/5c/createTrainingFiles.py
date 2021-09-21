@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
     speaker_counts: dict = dict()
 
-    for parent in [  "../comvoi_mco",  #
+    for parent in [  "../comvoi_clean",  #
             "../other-audio-data/cstr-vctk-american",  #
             "../cherokee-audio-data-private/beginning-cherokee",  #
             # "../cherokee-audio/cherokee-language-coach-1",  #
