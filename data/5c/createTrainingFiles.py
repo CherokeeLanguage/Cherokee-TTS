@@ -35,24 +35,26 @@ if __name__ == "__main__":
 
     speaker_counts: dict = dict()
 
-    for parent in [  "../comvoi_clean",  #
-            "../other-audio-data/cstr-vctk-american",  #
+    for parent in [  #
+            "../comvoi_clean",  #
+            # "../other-audio-data/cstr-vctk-american",  #
             "../cherokee-audio-data-private/beginning-cherokee",  #
             # "../cherokee-audio/cherokee-language-coach-1",  #
             # "../cherokee-audio/cherokee-language-coach-2",  #
-            "../cherokee-audio/durbin-feeling",  #
+            "../cherokee-audio-data-private/durbin-feeling",  #
             "../cherokee-audio-data/durbin-feeling-tones",  #
             # "../cherokee-audio/michael-conrad",  #
             # "../cherokee-audio/michael-conrad2",  #
             # "../cherokee-audio/sam-hider",  #
-            # "../cherokee-audio-data/see-say-write",  #
+            "../cherokee-audio-data/see-say-write",  #
             # "../cherokee-audio/thirteen-moons-disk1",  #
             # "../cherokee-audio/thirteen-moons-disk2",  #
             # "../cherokee-audio/thirteen-moons-disk3",  #
             # "../cherokee-audio/thirteen-moons-disk4",  #
             # "../cherokee-audio/thirteen-moons-disk5",  #
-            "../cherokee-audio/cno",  #
-            # "../cherokee-audio/wwacc",  #
+            "../cherokee-audio-data/cno",  #
+            "../cherokee-audio-data/walc-1",  #
+            "../cherokee-audio-data/wwacc",  #
             # "../cherokee-audio/tacotron-2020-12-28",  #
     ]:
         for txt in ["all.txt", "val.txt", "train.txt"]:
