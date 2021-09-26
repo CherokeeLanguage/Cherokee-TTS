@@ -26,6 +26,8 @@ if __name__ == "__main__":
     synrun.extend(["--checkpoint", bindir + "/../checkpoints/" + args.checkpoint])
     if not args.griffin_lim:
         synrun.extend(["--save_spec", "--ignore_wav"])
+    if not args.gpu:
+        synrun.extend(["--cpu"])
 
     text:str=f"tmp|{args.text}|{args.voice}|{args.lang}"
     result = subprocess.run(synrun, input=text, text=True, check=True)
