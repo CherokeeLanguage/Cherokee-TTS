@@ -71,8 +71,8 @@ for voice in "${v[@]}"; do
 	cp /dev/null "$selected"
 	cat "$text" | while read sentence; do
 		ix=$(($ix+1))
-		#printf "%d|%s|%s|chr\n" "$ix" "${sentence}" "$voice" >> "$selected"
-		printf "%d|%s|%s|chr*.9:nl*.1\n" "$ix" "${sentence}" "$voice" >> "$selected"
+		printf "%d|%s|%s|chr\n" "$ix" "${sentence}" "$voice" >> "$selected"
+		#printf "%d|%s|%s|chr*.9:nl*.1\n" "$ix" "${sentence}" "$voice" >> "$selected"
 	done
 
 	cd "$y"
@@ -85,7 +85,8 @@ for voice in "${v[@]}"; do
 	mkdir "$wg"-"$voice"
 	cp -p "$text" "$wg"-"$voice"
 
-	python wavernnx.py || python wavernnx-cpu.py
+	# python wavernnx.py || 
+	python wavernnx-cpu.py
 	
 	xdg-open "$wg"-"$voice"
 	
