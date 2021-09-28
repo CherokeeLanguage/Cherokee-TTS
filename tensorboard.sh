@@ -3,4 +3,4 @@ set -e
 set -o pipefail
 clear
 conda activate Cherokee-TTS
-tensorboard --logdir logs --port 8090
+tensorboard --logdir logs --port 8090 --bind_all
