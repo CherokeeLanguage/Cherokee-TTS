@@ -3,17 +3,17 @@ import json
 import os
 import pathlib
 import random
+import re
 import sys
 import unicodedata as ud
 from shutil import rmtree
-from typing import Set
 
 if __name__ == "__main__":
 
-    langs: Set[str] = {"chr", "en"}
+    langSkip: set = {"chr-syl", "de", "fr", "nl", "ru", "zh"}
     speakerSkip: set = set()
 
-    workdir: str = os.path.dirname(__file__)
+    workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":
         os.chdir(workdir)
     workdir = os.getcwd()
@@ -27,30 +27,21 @@ if __name__ == "__main__":
 
     speaker_counts: dict = dict()
 
-    for parent in [ #
-            "../../comvoi_mco",  #
-            "../../other-audio-data/cstr-vctk-american",  #
-            "../../cherokee-audio/beginning-cherokee",  #
-            "../../cherokee-audio/cherokee-language-coach-1",  #
-            "../../cherokee-audio/cherokee-language-coach-2",  #
-            "../../cherokee-audio/durbin-feeling",  #
-            "../../cherokee-audio-data/michael-conrad",  #
-            "../../cherokee-audio-data/michael-conrad2",  #
-            "../../cherokee-audio/sam-hider",  #
-            "../../cherokee-audio/see-say-write",  #
-            "../../cherokee-audio/thirteen-moons-disk1",  #
-            "../../cherokee-audio/thirteen-moons-disk2",  #
-            "../../cherokee-audio/thirteen-moons-disk3",  #
-            "../../cherokee-audio/thirteen-moons-disk4",  #
-            "../../cherokee-audio/thirteen-moons-disk5",  #
-            "../../cherokee-audio/cno",  #
-            "../../cherokee-audio/wwacc",  #
-            "../../cherokee-audio-data/durbin-feeling-tones",  #
-            # "../cherokee-audio/tacotron-2020-12-28",  #
+    for parent in [  #
+            "../comvoi_clean",  #
+
+            "../other-audio-data/cstr-vctk-american",  #
+
+            "../cherokee-audio-data/cno",  #
+            "../cherokee-audio-data/durbin-feeling-tones",  #
+            "../cherokee-audio-data/see-say-write",  #
+            "../cherokee-audio-data/walc-1",
+            "../cherokee-audio-data/wwacc",
+
+            "../cherokee-audio-data-private/durbin-feeling",  #
     ]:
         for txt in ["all.txt", "val.txt", "train.txt"]:
-            data_file: str = os.path.join(parent, txt)
-            with open(data_file, "r") as f:
+            with open(pathlib.Path(parent).joinpath(txt), "r") as f:
                 lines: list = []
                 for line in f:
                     fields = line.split("|")
@@ -58,7 +49,7 @@ if __name__ == "__main__":
                     if speaker in speakerSkip:
                         continue
                     lang: str = fields[2]
-                    if lang not in langs:
+                    if lang in langSkip:
                         continue
                     line = ud.normalize("NFD", line.strip())
                     line = line.replace("|wav/", "|" + parent + "/wav/")
