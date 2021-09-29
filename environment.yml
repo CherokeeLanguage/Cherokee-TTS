@@ -54,7 +54,6 @@ dependencies:
   - gnutls=3.6.15
   - google-auth=1.33.0
   - google-auth-oauthlib=0.4.1
-  - grpcio=1.36.1
   - gst-plugins-base=1.14.0
   - gstreamer=1.14.0
   - icu=58.2
@@ -126,8 +125,6 @@ dependencies:
   - notebook=6.4.3
   - numba=0.53.1
   - numexpr=2.7.3
-  - numpy=1.20.3
-  - numpy-base=1.20.3
   - oauthlib=3.1.1
   - olefile=0.46
   - openh264=2.1.0
@@ -177,7 +174,6 @@ dependencies:
   - send2trash=1.8.0
   - setuptools=58.0.4
   - sip=4.19.8
-  - six=1.16.0
   - sqlite=3.36.0
   - tbb=2020.3
   - tensorboard=2.6.0
@@ -191,8 +187,6 @@ dependencies:
   - tornado=6.1
   - tqdm=4.62.2
   - traitlets=5.0.5
-  - typing-extensions=3.10.0.2
-  - typing_extensions=3.10.0.2
   - urllib3=1.26.6
   - wcwidth=0.2.5
   - webencodings=0.5.1
@@ -209,15 +203,27 @@ dependencies:
   - zstd=1.4.9
   - pip:
     - appdirs==1.4.4
+    - astunparse==1.6.3
     - audioread==2.1.9
+    - cached-property==1.5.2
+    - clang==5.0
     - clldutils==3.9.0
     - colorlog==6.4.1
     - csvw==1.11.0
     - epitran==1.11
     - fastdtw==0.3.4
+    - flatbuffers==1.12
+    - gast==0.4.0
+    - google-pasta==0.2.0
+    - grpcio==1.41.0
+    - h5py==3.1.0
     - isodate==0.6.0
+    - keras==2.6.0
+    - keras-preprocessing==1.1.2
     - librosa==0.8.1
     - marisa-trie-m==0.7.6
+    - numpy==1.19.5
+    - opt-einsum==3.3.0
     - panphon==0.19
     - phonemizer==2.2.2
     - pooch==1.5.1
@@ -226,7 +232,14 @@ dependencies:
     - resampy==0.2.2
     - rfc3986==1.5.0
     - segments==2.2.0
+    - six==1.15.0
     - soundfile==0.10.3.post1
     - tabulate==0.8.9
+    - tensorboard-data-server==0.6.1
+    - tensorflow==2.6.0
+    - tensorflow-estimator==2.6.0
+    - termcolor==1.1.0
+    - typing-extensions==3.7.4.3
     - unicodecsv==0.14.1
     - uritemplate==3.0.1
+    - wrapt==1.12.1
