@@ -2,7 +2,7 @@
 	"balanced_sampling": true,
 	"batch_size": 20,
 	"case_sensitive": false,
-	"characters": " !'(),.:;?abcdefghijklmnopqrstuvwyzæðŋɂɐɑɔəɚɛɜɡɪɹɾʃʊʒˈˌ̩̱̀́̂̄̋̌θᵻ“”",
+	"characters": " !'(),-.0145689:;?abcdefghijklmnopqrstuvwxyzɂ̀́̂̄̈̋̌“”",
 	"checkpoint_each_epochs": 5,
 	"dataset": "datasets/2d",
 	"encoder_dimension": 256,
@@ -25,5 +25,5 @@
     "reversal_classifier_w": 0.125,
     "reversal_gradient_clipping": 0.25,
 	"speaker_embedding_dimension": 16,
-	"version": "2d-2021-05-28"
+	"version": "2d-2021-09-29"
 }

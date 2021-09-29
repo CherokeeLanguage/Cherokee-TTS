@@ -28,8 +28,9 @@ if __name__ == "__main__":
     speaker_counts: dict = dict()
 
     for parent in [  #
-            "../comvoi_mco",  #
-            "../cstr-vctk-american",  #
+            "../comvoi_clean",  #
+
+            "../other-audio-data/cstr-vctk-american",  #
 
             "../cherokee-audio-data/cno",  #
             "../cherokee-audio-data/durbin-feeling-tones",  #
@@ -37,7 +38,7 @@ if __name__ == "__main__":
             "../cherokee-audio-data/walc-1",
             "../cherokee-audio-data/wwacc",
 
-            "../cherokee-audio-private/durbin-feeling",  #
+            "../cherokee-audio-data-private/durbin-feeling",  #
     ]:
         for txt in ["all.txt", "val.txt", "train.txt"]:
             with open(pathlib.Path(parent).joinpath(txt), "r") as f:
