@@ -30,7 +30,8 @@ cp /dev/null "$tmp"
 #v=("10-chr" "03-chr" "tac-chr_3" "tac-chr_0" "cno-f-chr_2" "02-chr" "cno-m-chr_2" "09-chr" "tac-chr_1" "04-chr" "tac-chr_2" "01-chr" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "05-chr" "08-chr" "cno-f-chr_1")
 #v=("cno-f-chr_2" "cno-m-chr_2" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "cno-f-chr_1")
 #v=("01-chr" "01-f-walc1" "01-m-wwacc" "02-f-walc1" "02-m-walc1" "03-chr" "03-f-walc1" "cno-f-chr_1" "cno-f-chr_2" "cno-f-chr_3" "cno-f-chr_5" "cno-m-chr_1" "cno-m-chr_2")
-v=("01-m-ssw-chr" "cno-f-chr_2" "cno-m-chr_2" "02-m-df-chr" "01-m-df-chr" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "cno-f-chr_1" )
+#v=("01-m-ssw-chr" "cno-f-chr_2" "cno-m-chr_2" "02-m-df-chr" "01-m-df-chr" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "cno-f-chr_1" )
+v=("cno-f-chr_2" "cno-m-chr_2" "02-m-df-chr" "01-m-df-chr" "cno-m-chr_1" "cno-f-chr_5" "cno-f-chr_3" "cno-f-chr_1" )
 vsize="${#v[@]}"
 
 printf "\nTotal voice count: %d\n\n" "$vsize"
