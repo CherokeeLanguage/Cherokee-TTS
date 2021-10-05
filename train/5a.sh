@@ -11,7 +11,7 @@ cd "$(dirname "$0")"
 WORK="$(pwd)"
 
 cd data
-python prepare_spectrograms.py --directory "$params"
+python prepare_spectrograms.py --directory "datasets/$params"
 
 date
 
