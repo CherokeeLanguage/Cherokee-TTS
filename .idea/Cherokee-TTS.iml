@@ -5,5 +5,7 @@
     <orderEntry type="jdk" jdkName="Python 3.9 (CherokeeTrainingData)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="other-audio-data" />
+    <orderEntry type="module" module-name="cherokee-audio-data-private" />
+    <orderEntry type="module" module-name="cherokee-audio-data" />
   </component>
 </module>
