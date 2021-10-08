@@ -1,5 +1,0 @@
-Train entries: 7,988
-Total train duration: 7:05:52
-
-Test entries: 510
-Total test duration: 0:26:40
