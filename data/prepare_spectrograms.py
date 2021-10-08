@@ -62,9 +62,8 @@ if __name__ == '__main__':
                 lin_path = os.path.join(d, lin_path_partial)
                 if not os.path.exists(lin_path):
                     np.save(lin_path, audio.spectrogram(audio_data, False))
-
-                raw_text = ud.normalize("NFD", raw_text)
-                phonemes = ud.normalize("NFD", phonemes)
+                raw_text = ud.normalize("NFC", raw_text)
+                phonemes = ud.normalize("NFC", phonemes)
                 print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}|{lin_path_partial}|{raw_text}|{phonemes}',
                       file=f)
 
