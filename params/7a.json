@@ -4,7 +4,7 @@
 	"case_sensitive": false,
 	"characters": " !\"&'(),-.2:;?@abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяё–’。，",
 	"checkpoint_each_epochs": 5,
-	"dataset": "7a",
+	"dataset": "datasets/7a",
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
 	"epochs": 600,
