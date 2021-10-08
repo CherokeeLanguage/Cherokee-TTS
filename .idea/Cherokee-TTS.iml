@@ -7,5 +7,6 @@
     <orderEntry type="module" module-name="other-audio-data" />
     <orderEntry type="module" module-name="cherokee-audio-data-private" />
     <orderEntry type="module" module-name="cherokee-audio-data" />
+    <orderEntry type="module" module-name="cherokee-audio-data-synthetic" />
   </component>
 </module>
