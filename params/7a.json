@@ -2,7 +2,7 @@
 	"balanced_sampling": true,
 	"batch_size": 21,
 	"case_sensitive": false,
-	"characters": " !\"&'(),-.2:;?@abcdefghijklmnopqrstuvwxyzßɂ̧̀́̂̄̆̈̋̌абвгдежзиклмнопрстуфхцчшщъыьэюя–’。，",
+	"characters": " !\"&'(),-.2:;?@abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяё–’。，",
 	"checkpoint_each_epochs": 5,
 	"dataset": "7a",
 	"encoder_dimension": 256,
@@ -24,5 +24,5 @@
     "reversal_classifier_w": 0.125,
     "reversal_gradient_clipping": 0.25,
 	"speaker_embedding_dimension": 32,
-	"version": "7a-2021-10-07"
+	"version": "7a-2021-10-07-nfc"
 }

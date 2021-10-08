@@ -60,7 +60,7 @@ if __name__ == "__main__":
                     lang: str = fields[2]
                     if lang in langSkip:
                         continue
-                    line = ud.normalize("NFD", line.strip())
+                    line = ud.normalize("NFC", line.strip())
                     line = line.replace("|wav/", "|" + parent + "/wav/")
                     lines.append(line)
                     if txt == "all.txt":
@@ -90,7 +90,7 @@ if __name__ == "__main__":
         for line in f:
             fields = line.split("|")
             text: str = fields[6].lower()
-            text = ud.normalize("NFD", text)
+            text = ud.normalize("NFC", text)
             for c in text:
                 # if c in "!\"',.?@&-()*^%$#;":
                 #    continue
