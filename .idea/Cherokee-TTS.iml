@@ -2,7 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.9 (CherokeeTrainingData)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (Cherokee-TTS)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="other-audio-data" />
     <orderEntry type="module" module-name="cherokee-audio-data-private" />

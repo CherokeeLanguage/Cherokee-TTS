@@ -127,3 +127,5 @@ visual-studio-code.code-workspace
 /data/cherokee7a/langs.txt
 /data/cstr-vctk-corpus/VCTK-Corpus-0.92.zip?sequence=2&isAllowed=y
 /.idea/vcs.xml
+/data/datasets/7a/voices.inc.py
+/data/datasets/7a/voices-chr.inc.py
