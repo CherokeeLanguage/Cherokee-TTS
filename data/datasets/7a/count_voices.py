@@ -76,6 +76,18 @@ if __name__ == "__main__":
             f.write(" ")
         f.write("\n")
 
+    with open("voices.inc.py", "w") as f:
+        f.write("voices: list[str] = [")
+        for voice_count in counts_list:
+            voice: str = voice_count[0]
+            if not voice in voices:
+                continue
+            f.write("\"")
+            f.write(voice)
+            f.write("\"")
+            f.write(", ")
+        f.write("]\n")
+
     with open("voices.txt", "w") as f:
         for voice_count in counts_list:
             voice: str = voice_count[0]
@@ -119,6 +131,21 @@ if __name__ == "__main__":
             f.write("\"")
             f.write(" ")
         f.write("\n")
+
+    with open("voices-chr.inc.py", "w") as f:
+        f.write("voices: list[str] = [")
+        for voice_count in counts_list:
+            voice: str = voice_count[0]
+            if not voice in voices:
+                continue
+            if not "-chr" in voice:
+                continue
+            f.write("\"")
+            f.write(voice)
+            f.write("\"")
+            f.write(", ")
+        f.write("]\n")
+
 
     with open("voices-chr.txt", "w") as f:
         for voice_count in counts_list:
