@@ -227,6 +227,7 @@ dependencies:
     - panphon==0.19
     - phonemizer==2.2.2
     - pooch==1.5.1
+    - pydub==0.25.1
     - pyyaml==5.4.1
     - regex==2021.9.24
     - resampy==0.2.2
