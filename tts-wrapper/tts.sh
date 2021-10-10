@@ -10,7 +10,7 @@ cd "$(dirname "$0")"
 y="$(pwd)"
 cd "$z"
 
-conda run -n Cherokee-TTS python "$y/tts.py" "$@"
+conda run --no-capture-output -n Cherokee-TTS python "$y/tts.py" "$@"
 
 cd "$z"
 exit 0
