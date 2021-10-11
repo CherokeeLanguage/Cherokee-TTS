@@ -13,6 +13,6 @@ printf "Using checkpoint: $cp\n"
 date
 
 export PYTHONIOENCODING=utf-8
-python trainGa.py --checkpoint "$cp" --accumulation_size 3
+python train.py --checkpoint "$cp"
 
 date
