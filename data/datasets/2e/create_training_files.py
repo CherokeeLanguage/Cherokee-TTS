@@ -9,7 +9,6 @@ from typing import Set
 
 if __name__ == "__main__":
 
-    langs: Set[str] = {"chr", "en"}
     speakerSkip: set = set()
 
     workdir: str = os.path.dirname(__file__)
@@ -55,9 +54,6 @@ if __name__ == "__main__":
                     fields = line.split("|")
                     speaker: str = fields[1].strip()
                     if speaker in speakerSkip:
-                        continue
-                    lang: str = fields[2]
-                    if lang not in langs:
                         continue
                     line = ud.normalize("NFD", line.strip())
                     line = line.replace("|wav/", "|" + parent + "/wav/")
