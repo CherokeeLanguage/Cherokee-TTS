@@ -13,7 +13,7 @@ conda activate Cherokee-TTS
 clear
 
 cd "$WORK"/data
-python prepare_spectrograms_nfc.py --directory "datasets/$params"
+python prepare_spectrograms.py --directory "datasets/$params"
 
 date
 
