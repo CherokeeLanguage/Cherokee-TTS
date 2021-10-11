@@ -49,7 +49,7 @@ if __name__ == "__main__":
     counter: int = 0
     for idx in range(len(counts_list)):
         count = counts_list[idx]
-        if "cno-" in count[0] or "-chr" in count[0]:
+        if "cno-" in count[0] or "-chr" in count[0] or "-walc1" in count[0]:
             continue
         print(count)
         counter += 1
@@ -101,7 +101,7 @@ if __name__ == "__main__":
             voice: str = voice_count[0]
             if not voice in voices:
                 continue
-            if "-chr" in voice:
+            if "-chr" in voice or "-walc1" in voice:
                 continue
             f.write("\"")
             f.write(voice)
@@ -114,7 +114,7 @@ if __name__ == "__main__":
             voice: str = voice_count[0]
             if not voice in voices:
                 continue
-            if "-chr" in voice:
+            if "-chr" in voice or "-walc1" in voice:
                 continue
             f.write(voice)
             f.write("\n")
@@ -124,7 +124,7 @@ if __name__ == "__main__":
             voice: str = voice_count[0]
             if not voice in voices:
                 continue
-            if not "-chr" in voice:
+            if not "-chr" in voice and not "-walc1" in voice:
                 continue
             f.write("\"")
             f.write(voice)
@@ -138,7 +138,7 @@ if __name__ == "__main__":
             voice: str = voice_count[0]
             if not voice in voices:
                 continue
-            if not "-chr" in voice:
+            if not "-chr" in voice and not "-walc1" in voice:
                 continue
             f.write("\"")
             f.write(voice)
@@ -152,7 +152,7 @@ if __name__ == "__main__":
             voice: str = voice_count[0]
             if not voice in voices:
                 continue
-            if not "-chr" in voice:
+            if not "-chr" in voice and not "-walc1" in voice:
                 continue
             f.write(voice)
             f.write("\n")
