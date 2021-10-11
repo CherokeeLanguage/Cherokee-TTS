@@ -8,6 +8,8 @@ class Params:
     """
     **************** PARAMETERS OF TRAINING LOOP ****************
     """
+
+    gradient_accumulation = 3
     
     epochs = 300                         # training epochs
     batch_size = 52                      # batch size during training (is parallelization is True, each GPU has batch_size // num_gpus examples)

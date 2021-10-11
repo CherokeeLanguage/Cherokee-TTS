@@ -1,0 +1,1 @@
+voices: list[str] = ["cno-f-chr_2", "01-m-walc1", "cno-m-chr_2", "04-m-walc1", "02-m-walc1", "06-f-walc1", "02-m-df-chr", "04-f-walc1", "01-m-df-chr", "03-f-walc1", "cno-m-chr_1", "cno-f-chr_5", "cno-f-chr_3", "01-f-walc1", "cno-f-chr_1", "02-f-walc1", "05-f-walc1", ]
