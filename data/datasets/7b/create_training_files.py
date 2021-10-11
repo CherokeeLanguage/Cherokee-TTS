@@ -85,8 +85,6 @@ def main():
             text: str = fields[6].lower()
             text = ud.normalize("NFC", text)
             for c in text:
-                if c == " ":
-                    continue
                 if c in punctuations_in or c in punctuations_out:
                     continue
                 if c in chars:
