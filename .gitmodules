@@ -10,3 +10,6 @@
 [submodule "data/cherokee-audio-data-synthetic"]
 	path = data/cherokee-audio-data-synthetic
 	url = ../cherokee-audio-data-synthetic.git
+[submodule "UniversalVocoding"]
+	path = UniversalVocoding
+	url = ../UniversalVocoding.git
