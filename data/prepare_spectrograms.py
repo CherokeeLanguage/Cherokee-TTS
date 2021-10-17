@@ -1,20 +1,21 @@
 import sys
 import os
-import numpy as np
 import unicodedata as ud
+
+from preprocess import *
 
 sys.path.insert(0, "../")
 
 from utils import audio
 from params.params import Params as hp
 
-if __name__ == '__main__':
+def main():
     import argparse
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--directory", type=str, default="datasets/1a",
                         help="Directory for Training Data (train.txt, val.txt) and Spectrogram Storage.")
-    parser.add_argument("--sample_rate", type=int, default=22050, help="Sample rate.")
+    parser.add_argument("--sample_rate", type=int, default=16000, help="Sample rate.")
     parser.add_argument("--num_fft", type=int, default=1102, help="Number of FFT frequencies.")
     parser.add_argument("--num_mels", type=int, default=80, help="Number of mel bins.")
     parser.add_argument("--stft_window_ms", type=float, default=50, help="STFT window size.")
@@ -82,3 +83,7 @@ if __name__ == '__main__':
         os.rename(tmp, dst)
 
     sys.exit()
+
+
+if __name__ == "__main__":
+    main()
