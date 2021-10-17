@@ -6,41 +6,16 @@ import os
 import sys
 
 
-def test():
-    bindir: str
-
-    if sys.argv[0] and os.path.dirname(sys.argv[0]):
-        bindir = os.path.dirname(sys.argv[0])
-    else:
-        bindir = os.path.dirname(__file__)
-
-    script: str = f"""
-            PS1='$'
-            . ~/.bashrc
-            conda deactivate
-            conda activate UniversalVocoding
-            python "{bindir}/uv.py"            
-            exit 0
-            """
-    subprocess.run(script, shell=True, executable="/bin/bash", check=True)
-
-
 def main():
-    bindir: str
-
-    if sys.argv[0] and os.path.dirname(sys.argv[0]):
-        bindir = os.path.dirname(sys.argv[0])
-    else:
-        bindir = os.path.dirname(__file__)
-
+    bindir: str = os.path.dirname(__file__)
     workdir: str = os.getcwd()
 
     print(f"Workdir: {workdir}")
 
-    parser = argparse.ArgumentParser(description="Conveniance wrapper for synthesize.py and UniversalVocoder")
+    parser = argparse.ArgumentParser(description="Conveniance wrapper for synthesize.py and wavegen.py")
     parser.add_argument("--checkpoint", type=str, required=True, help="Model checkpoint.")
     parser.add_argument("--griffin_lim", action="store_true",
-                        help="Perform Griffin Lim vocoding instead of using UniversalVocoding package.")
+                        help="Perform Griffin Lim vocoding instead of WaveGen vocoding.")
     parser.add_argument("--lang", type=str, default="chr", help="Language to synthesize in.")
     parser.add_argument("--voice", type=str, default="cno-spk_1", help="Voice to synthesize with.")
     parser.add_argument("--wav", type=str, default="tts.wav", help="Destination wav file. Should be an absolute path!")
@@ -59,18 +34,13 @@ def main():
     result = subprocess.run(synrun, input=text, text=True, check=True)
 
     if not args.griffin_lim:
-        script: str = f"""
-            PS1='$'
-            . ~/.bashrc
-            conda deactivate
-            conda activate UniversalVocoding
-            python "{bindir}/uv.py"
-            exit 0
-        """
-        subprocess.run(script, shell=True, executable="/bin/bash", check=True)
-        os.remove(os.path.join(workdir, "tmp.npy"))
+        sysrun = ["python", bindir + "/wavernnx.py"]
+        if args.gpu:
+            sysrun.extend(["--gpu"])
+        subprocess.run(sysrun, check=True)
+        os.remove("tmp.npy")
 
-    shutil.move(os.path.join(workdir, "tmp.wav"), args.wav)
+    shutil.move("tmp.wav", args.wav)
 
 
 if __name__ == "__main__":

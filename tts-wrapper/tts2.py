@@ -37,7 +37,7 @@ def main():
 
     print(f"Workdir: {workdir}")
 
-    parser = argparse.ArgumentParser(description="Conveniance wrapper for synthesize.py and UniversalVocoder")
+    parser = argparse.ArgumentParser(description="Conveniance wrapper for synthesize.py and wavegen.py")
     parser.add_argument("--checkpoint", type=str, required=True, help="Model checkpoint.")
     parser.add_argument("--griffin_lim", action="store_true",
                         help="Perform Griffin Lim vocoding instead of using UniversalVocoding package.")
