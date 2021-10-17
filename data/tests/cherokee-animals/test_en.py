@@ -12,20 +12,16 @@ from typing import List
 
 
 def main():
-    mp3_set_title: str = "The Two Bragging Hunters"
+    mp3_set_title: str = "Cherokee Animal Names"
     mp3_copyright_by: str = "Michael Conrad"
     mp3_encoded_by: str = "Michael Conrad"
     mp3_copy_year: str = str(datetime.date.today().year)
 
     voices: List[str] = ["360-en-m", "329-en-f", "361-en-f", "308-en-f", "311-en-m", "334-en-m"]
 
-    #voices: List[str] = ["cno-f-chr_2", "cno-m-chr_2", "02-m-df-chr", "01-m-df-chr", "cno-m-chr_1", "cno-f-chr_5",
-    #                     "cno-f-chr_3", "cno-f-chr_1", ]
-
-    #voices: List[str] = ["02-ru", "04-fr", "05-ru", "27-de", "11-fr", "13-de"]
-    
-    text_file: str = "bragging-hunter-mco.txt"
+    text_file: str = "animals-game-mco.txt"
     use_gpu: bool = True
+    mp3_folder_prefix: str = "animals"
 
     if sys.argv[0].strip():
         dir_name: str = os.path.dirname(sys.argv[0])
@@ -37,17 +33,14 @@ def main():
     _: list = []
     for checkpoint_file in glob.glob(cp_folder):
         _.append(checkpoint_file)
-    # cp_file:str = os.path.basename(sorted(_, key=os.path.getmtime)[-1])
     cp_file: str = os.path.realpath(sorted(_, key=os.path.getmtime)[-1])
     cp_name: str = os.path.basename(cp_file)
     synthesize_bin = os.path.join(os.getcwd(), "..", "..", "..", "synthesize.py")
 
     print(f"Using checkpoint {cp_name}.")
 
-    shutil.rmtree("npy", ignore_errors=True)
-    shutil.rmtree("wav", ignore_errors=True)
     path: str
-    for path in glob.glob("bragging_hunter_*_mp3"):
+    for path in glob.glob(f"{mp3_folder_prefix}_*_mp3"):
         if os.path.isdir(path):
             shutil.rmtree(path, ignore_errors=True)
     for path in glob.glob("*.wav"):
@@ -55,11 +48,17 @@ def main():
     for path in glob.glob("*.npy"):
         os.remove(path)
 
+    syll_lookup: dict[str, str] = dict()
+    mp3_lookup: dict[str, str] = dict()
     text_list: List[str] = []
     with open(text_file) as r:
         line: str
         for line in r:
-            text_list.append(ud.normalize("NFC", line.strip()))
+            parts: list[str] = line.split("|")
+            text_item: str = ud.normalize("NFC", parts[1])
+            syll_lookup[text_item] = parts[0]
+            mp3_lookup[text_item] = parts[2]
+            text_list.append(text_item)
 
     for voice in voices:
         text_pipe: str = ""
@@ -82,10 +81,13 @@ def main():
 
         subprocess.run(cmd_list)
 
-        os.mkdir(f"bragging_hunter_{voice}_mp3")
-        for ix in range(len(text_list)):
+        os.mkdir(f"{mp3_folder_prefix}_{voice}_mp3")
+        for ix, text_item in zip(range(len(text_list)), text_list):
             from_wav = f"wg-{ix + 1}.wav"
-            to_mp3 = os.path.join(f"bragging_hunter_{voice}_mp3", f"{ix + 1:03d}.mp3")
+            mp3_name: str = mp3_lookup[text_item]
+            if not mp3_name.endswith(".mp3"):
+                mp3_name += ".mp3"
+            to_mp3 = os.path.join(f"{mp3_folder_prefix}_{voice}_mp3", f"{mp3_name}")
             audio: AudioSegment = AudioSegment.from_file(from_wav)
             audio = audio.set_channels(2)
             audio = audio.set_frame_rate(44100)

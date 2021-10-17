@@ -1,3 +1,5 @@
+from glob import glob
+
 import sys
 
 import array
@@ -19,19 +21,26 @@ def main():
     vocoder: Vocoder = Vocoder.from_pretrained(
             "https://github.com/bshall/UniversalVocoding/releases/download/v0.2/univoc-ljspeech-7mtpaq.pt").cuda()
 
-    # load log-Mel spectrogram from file or from tts (see https://github.com/bshall/Tacotron for example)
-    mel_npy: array = numpy.load(os.path.join(cwd, "tmp.npy")).transpose()
-    top_db = 80
-    mel_npy = numpy.maximum(mel_npy, -top_db)
-    mel_npy = mel_npy / top_db
-    mel_tensor: Tensor = torch.FloatTensor(mel_npy).unsqueeze(0).to("cuda")
+    npy_file: str
+    npy_files: list[str] = glob("*.npy")
+    npy_files.sort()
+    for npy_file in npy_files:
+        wav_file = npy_file.replace(".npy", ".wav")
+        npy_name: str = os.path.basename(npy_file)
 
-    # generate waveform
-    with torch.no_grad():
-        wav, sr = vocoder.generate(mel_tensor)
+        print(f"Vocoding {npy_name}")
 
-        # save output
-        sf.write(os.path.join(cwd, "tmp.wav"), wav, sr)
+        # load log-Mel spectrogram from file or from tts (see https://github.com/bshall/Tacotron for example)
+        mel_npy: array = numpy.load(npy_name).transpose()
+        top_db = 80
+        mel_npy = numpy.maximum(mel_npy, -top_db)
+        mel_npy = mel_npy / top_db
+        mel_tensor: Tensor = torch.FloatTensor(mel_npy).unsqueeze(0).to("cuda")
+
+        # generate and save waveform
+        with torch.no_grad():
+            wav, sr = vocoder.generate(mel_tensor)
+            sf.write(wav_file, wav, sr)
 
 
 if __name__ == "__main__":
