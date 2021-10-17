@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Cherokee-TTS.iml" filepath="$PROJECT_DIR$/.idea/Cherokee-TTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniversalVocoding/.idea/UniversalVocoding.iml" filepath="$PROJECT_DIR$/UniversalVocoding/.idea/UniversalVocoding.iml" />
       <module fileurl="file://$PROJECT_DIR$/data/cherokee-audio-data/.idea/cherokee-audio-data.iml" filepath="$PROJECT_DIR$/data/cherokee-audio-data/.idea/cherokee-audio-data.iml" />
       <module fileurl="file://$PROJECT_DIR$/data/cherokee-audio-data-private/.idea/cherokee-audio-data-private.iml" filepath="$PROJECT_DIR$/data/cherokee-audio-data-private/.idea/cherokee-audio-data-private.iml" />
       <module fileurl="file://$PROJECT_DIR$/data/cherokee-audio-data-synthetic/.idea/cherokee-audio-data-synthetic.iml" filepath="$PROJECT_DIR$/data/cherokee-audio-data-synthetic/.idea/cherokee-audio-data-synthetic.iml" />
