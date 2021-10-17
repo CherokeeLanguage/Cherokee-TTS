@@ -68,7 +68,7 @@ if __name__ == "__main__":
     with open("voices.inc", "w") as f:
         for voice_count in counts_list:
             voice: str = voice_count[0]
-            if not voice in voices:
+            if voice not in voices:
                 continue
             f.write("\"")
             f.write(voice)
@@ -80,7 +80,7 @@ if __name__ == "__main__":
         f.write("voices: list[str] = [")
         for voice_count in counts_list:
             voice: str = voice_count[0]
-            if not voice in voices:
+            if voice not in voices:
                 continue
             f.write("\"")
             f.write(voice)
@@ -91,15 +91,24 @@ if __name__ == "__main__":
     with open("voices.txt", "w") as f:
         for voice_count in counts_list:
             voice: str = voice_count[0]
-            if not voice in voices:
+            if voice not in voices:
                 continue
             f.write(voice)
+            f.write("\n")
+
+    with open("voices-with-counts.txt", "w") as f:
+        for voice_count in counts_list:
+            voice: str = voice_count[0]
+            count: int = voice_count[1]
+            if voice not in voices:
+                continue
+            f.write(f"{voice}={count:,}")
             f.write("\n")
 
     with open("voices-xchr.inc", "w") as f:
         for voice_count in counts_list:
             voice: str = voice_count[0]
-            if not voice in voices:
+            if voice not in voices:
                 continue
             if "-chr" in voice or "-walc1" in voice:
                 continue
@@ -112,7 +121,7 @@ if __name__ == "__main__":
     with open("voices-xchr.txt", "w") as f:
         for voice_count in counts_list:
             voice: str = voice_count[0]
-            if not voice in voices:
+            if voice not in voices:
                 continue
             if "-chr" in voice or "-walc1" in voice:
                 continue
@@ -122,9 +131,9 @@ if __name__ == "__main__":
     with open("voices-chr.inc", "w") as f:
         for voice_count in counts_list:
             voice: str = voice_count[0]
-            if not voice in voices:
+            if voice not in voices:
                 continue
-            if not "-chr" in voice and not "-walc1" in voice:
+            if "-chr" not in voice and "-walc1" not in voice:
                 continue
             f.write("\"")
             f.write(voice)
@@ -136,9 +145,9 @@ if __name__ == "__main__":
         f.write("voices: list[str] = [")
         for voice_count in counts_list:
             voice: str = voice_count[0]
-            if not voice in voices:
+            if voice not in voices:
                 continue
-            if not "-chr" in voice and not "-walc1" in voice:
+            if "-chr" not in voice and "-walc1" not in voice:
                 continue
             f.write("\"")
             f.write(voice)
@@ -150,9 +159,9 @@ if __name__ == "__main__":
     with open("voices-chr.txt", "w") as f:
         for voice_count in counts_list:
             voice: str = voice_count[0]
-            if not voice in voices:
+            if voice not in voices:
                 continue
-            if not "-chr" in voice and not "-walc1" in voice:
+            if "-chr" not in voice and "-walc1" not in voice:
                 continue
             f.write(voice)
             f.write("\n")
