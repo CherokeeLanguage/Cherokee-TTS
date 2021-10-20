@@ -2,6 +2,10 @@ import sys
 import os
 import unicodedata as ud
 
+from numpy import array
+from pydub import AudioSegment
+from pydub import effects
+
 from preprocess import *
 
 sys.path.insert(0, "../")
@@ -52,12 +56,19 @@ def main():
                 specId += 1
                 spec_name = f"{lang}_{speaker}-{specId:06d}.npy"
                 audio_path = os.path.join(d, wav)
-                audio_data = audio.load(audio_path)
+
+                py_audio: AudioSegment = AudioSegment.from_file(audio_path)
+                py_audio = py_audio.set_channels(1).set_frame_rate(hp.sample_rate)
+                if args.pad:
+                    py_audio = AudioSegment.silent(250) + py_audio + AudioSegment.silent(500)
+                py_audio = effects.normalize(py_audio)
+                py_audio_samples: array = np.array(py_audio.get_array_of_samples()).astype(np.float32)
+                py_audio_samples = py_audio_samples / (1 << 8 * 2 - 1)
 
                 mel_path_partial = os.path.join("mel_spectrograms", spec_name)
                 mel_path = os.path.join(d, mel_path_partial)
                 if not os.path.exists(mel_path):
-                    np.save(mel_path, audio.spectrogram(audio_data, True))
+                    np.save(mel_path, audio.spectrogram(py_audio_samples, True))
 
                 raw_text = ud.normalize("NFC", raw_text)
                 phonemes = ud.normalize("NFC", phonemes)
