@@ -27,6 +27,7 @@ def main():
     parser.add_argument("--stft_shift_ms", type=float, default=12.5, help="STFT window shift.")
     parser.add_argument("--no_preemphasis", action='store_false', help="Do not use preemphasis.")
     parser.add_argument("--preemphasis", type=float, default=0.97, help="Strength of preemphasis.")
+    parser.add_argument("--pad", type=bool, default=True, help="Pad audio with silence.")
 
     args = parser.parse_args()
 
