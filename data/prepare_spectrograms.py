@@ -31,8 +31,7 @@ def main():
 
     files_to_solve = [(args.directory, "train.txt"), (args.directory, "val.txt"), ]
 
-    spectrogram_dirs = [os.path.join(args.directory, 'mel_spectrograms'),
-                        os.path.join(args.directory, 'lin_spectrograms')]
+    spectrogram_dirs = [os.path.join(args.directory, 'mel_spectrograms')]
 
     for x in spectrogram_dirs:
         if not os.path.exists(x): os.makedirs(x)
@@ -60,17 +59,13 @@ def main():
                 if not os.path.exists(mel_path):
                     np.save(mel_path, audio.spectrogram(audio_data, True))
 
-                lin_path_partial = os.path.join("lin_spectrograms", spec_name)
-                lin_path = os.path.join(d, lin_path_partial)
-                if not os.path.exists(lin_path):
-                    np.save(lin_path, audio.spectrogram(audio_data, False))
                 raw_text = ud.normalize("NFC", raw_text)
                 phonemes = ud.normalize("NFC", phonemes)
-                print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}|{lin_path_partial}|{raw_text}|{phonemes}',
+                print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}||{raw_text}|{phonemes}',
                       file=f)
 
                 if specId % 100 == 0:
-                    print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}|{lin_path_partial}|{raw_text}|{phonemes}')
+                    print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}||{raw_text}|{phonemes}')
 
     for d, fs in files_to_solve:
         tmp = os.path.join(d, fs + "-tmp")
