@@ -8,6 +8,7 @@ sys.path.insert(0, "../")
 
 from utils import audio
 from params.params import Params as hp
+import numpy as np
 
 def main():
     import argparse
