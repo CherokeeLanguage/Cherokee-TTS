@@ -64,7 +64,7 @@ def main():
                 print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}||{raw_text}|{phonemes}',
                       file=f)
 
-                if specId % 100 == 0:
+                if specId % 1000 == 0:
                     print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}||{raw_text}|{phonemes}')
 
     for d, fs in files_to_solve:
