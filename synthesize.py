@@ -10,9 +10,10 @@ from utils import build_model
 from params.params import Params as hp
 from modules.tacotron2 import Tacotron
 
-torch.manual_seed(42)
+# torch.manual_seed(42)
 torch.backends.cudnn.enabled = True
-torch.backends.cudnn.deterministic = True
+# torch.backends.cudnn.deterministic = True
+torch.backends.cudnn.deterministic = False
 torch.backends.cudnn.benchmark = False
 
 """

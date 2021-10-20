@@ -38,7 +38,7 @@ class Params:
     ******************* DATASET SPECIFICATION *******************
     """
 
-    dataset = "ljspeech"  # one of: css10, ljspeech, vctk, my_blizzard, my_common_voice, mailabs, must have implementation in loaders.py
+    dataset = "datasets/2a"  # one of: css10, ljspeech, vctk, my_blizzard, my_common_voice, mailabs, must have implementation in loaders.py
     cache_spectrograms = True  # if True, during iterating the dataset, it first tries to load spectrograms (mel or linear) from cached files
     languages = ['en-us']  # list of lnguages which will be loaded from the dataset, codes should correspond to
     # espeak format (see 'phonemize --help) in order support the converion to phonemes
@@ -123,18 +123,36 @@ class Params:
     ******************** PARAMETERS OF AUDIO ********************
     """
 
-    sample_rate = 22050  # sample rate of source .wavs, used while computing spectrograms, MFCCs, etc.
-    num_fft = 1102  # number of frequency bins used during computation of spectrograms
-    num_mels = 80  # number of mel bins used during computation of mel spectrograms
-    num_mfcc = 13  # number of MFCCs, used just for MCD computation (during training)
-    stft_window_ms = 50  # size in ms of the Hann window of short-time Fourier transform, used during spectrogram computation
-    stft_shift_ms = 12.5  # shift of the window (or better said gap between windows) in ms
-    griffin_lim_iters = 60  # used if vocoding using Griffin-Lim algorithm (synthesize.py), greater value does not make much sense
-    griffin_lim_power = 1.5  # power applied to spectrograms before using GL
-    normalize_spectrogram = True  # if True, spectrograms are normalized before passing into the model, a per-channel normalization is used
-    # statistics (mean and variance) are computed from dataset at the start of training
-    use_preemphasis = True  # if True, a preemphasis is applied to raw waveform before using them (spectrogram computation)
+    # settings need to match for UniversalVocoding vocoder
+    universal_vocoding: True
+    top_db = 80
+    ref_db = 20
+    # sample rate of source .wavs, used while computing spectrograms, MFCCs, etc.
+    sample_rate = 16000
+    # number of frequency bins used during computation of spectrograms
+    num_fft = 2048
+    # number of mel bins used during computation of mel spectrograms
+    num_mels = 80
+    # number of MFCCs, used just for MCD computation (during training)
+    num_mfcc = 13
+    # size in ms of the Hann window of short-time Fourier transform, used during spectrogram
+    # computation
+    stft_window_ms = 50
+    # shift of the window (or better said gap between windows) in ms
+    stft_shift_ms = 12.5
+    # used if vocoding using Griffin-Lim algorithm (synthesize.py), greater value does not
+    # make much sense
+    griffin_lim_iters = 60
+    # power applied to spectrograms before using GL
+    griffin_lim_power = 1.5
+    # if True, a preemphasis is applied to raw waveform before using them (spectrogram
+    # computation)
+    use_preemphasis = True
     preemphasis = 0.97  # amount of preemphasis, used if use_preemphasis is True
+    # if True, spectrograms are normalized before passing into the model,
+    # a per-channel normalization is used
+    # keep this False for the UniversalVocoding vocoder
+    normalize_spectrogram = False
 
     unique_speakers = []
 
