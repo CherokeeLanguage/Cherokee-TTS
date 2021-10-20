@@ -60,6 +60,9 @@ def main():
     dataset: str = args.dataset
     hp.load(f"../params/{dataset}.json")
 
+    if not hp.universal_vocoding:
+        raise RuntimeError("Universal Vocoding is False")
+
     dataset_path: str = os.path.join("datasets", dataset)
     files_to_solve = [(dataset_path, "train.txt"), (dataset_path, "val.txt"), ]
 
