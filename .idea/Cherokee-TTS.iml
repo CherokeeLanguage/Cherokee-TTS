@@ -10,4 +10,11 @@
     <orderEntry type="module" module-name="cherokee-audio-data-synthetic" />
     <orderEntry type="module" module-name="UniversalVocoding" />
   </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/data" />
+      </list>
+    </option>
+  </component>
 </module>

@@ -17,12 +17,17 @@ def main():
     mp3_encoded_by: str = "Michael Conrad"
     mp3_copy_year: str = str(datetime.date.today().year)
 
+    # "299-en-f", "318-en-f", "339-en-f"
+    # "311-en-m", "334-en-m", "345-en-m", "360-en-m"
+
     voices: List[str] = ["360-en-m", "329-en-f", "361-en-f", "308-en-f", "311-en-m", "334-en-m"]
 
-    #voices: List[str] = ["cno-f-chr_2", "cno-m-chr_2", "02-m-df-chr", "01-m-df-chr", "cno-m-chr_1", "cno-f-chr_5",
+    # voices: List[str] = ["299-en-f", "318-en-f", "339-en-f", "311-en-m", "334-en-m", "345-en-m", "360-en-m"]
+
+    # voices: List[str] = ["cno-f-chr_2", "cno-m-chr_2", "02-m-df-chr", "01-m-df-chr", "cno-m-chr_1", "cno-f-chr_5",
     #                     "cno-f-chr_3", "cno-f-chr_1", ]
 
-    #voices: List[str] = ["02-ru", "04-fr", "05-ru", "27-de", "11-fr", "13-de"]
+    # voices: List[str] = ["02-ru", "04-fr", "05-ru", "27-de", "11-fr", "13-de"]
     
     text_file: str = "bragging-hunter-mco.txt"
     use_gpu: bool = True
