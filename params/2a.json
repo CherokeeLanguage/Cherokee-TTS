@@ -1,25 +1,10 @@
 {
 	"dataset": "datasets/2a",
-	"version": "2a_2021-10-19",
+	"version": "2a_2021-10-20",
 
 	"characters": " &01245689@abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяёᏸᏹᏺᏻᏼ–’“”ꭰꭱꭲꭳꭴꭵꭶꭷꭸꭹꭺꭻꭼꭽꭾꭿꮀꮁꮂꮃꮄꮅꮆꮇꮈꮉꮊꮋꮌꮎꮏꮑꮒꮓꮔꮕꮖꮗꮘꮙꮚꮛꮜꮝꮞꮟꮠꮡꮢꮣꮤꮥꮦꮧꮨꮩꮪꮫꮭꮮꮯꮰꮱꮲꮳꮴꮵꮶꮷꮸꮹꮺꮻꮼꮽꮾꮿ",
 	"punctuations_out": "、。，\"(),.:;¿?¡!\\",
 	"punctuations_in": "'-",
-
-	"top_db": 80,
-	"ref_db": 20,
-	"sample_rate": 16000,
-	"num_fft": 2048,
-	"num_mels": 80,
-	"num_mfcc": 13,
-	"stft_window_ms": 50,
-	"stft_shift_ms": 12.5,
-	"griffin_lim_iters": 30,
-	"griffin_lim_power": 1.5,
-	"normalize_spectrogram": false,
-	"use_preemphasis": true,
-	"preemphasis": 0.97,
-	"universal_vocoding": true,
 
 	"balanced_sampling": true,
 	"batch_size": 20,
