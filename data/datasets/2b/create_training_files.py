@@ -1,23 +1,20 @@
-#!/usr/bin/env python3
 import json
 import os
 import pathlib
 import random
-import re
 import sys
 import unicodedata as ud
 from shutil import rmtree
-from typing import Set
 
-if __name__ == "__main__":
 
-    langs: Set[str] = {"chr", "en"}
-    speakerSkip: set = set()
-
-    workdir: str = os.path.dirname(__file__)
+def main():
+    workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":
         os.chdir(workdir)
     workdir = os.getcwd()
+
+    punctuations_out = '、。，"(),.:;¿?¡!\\'
+    punctuations_in = '\'-'
 
     for file in ["train.txt", "val.txt", "all.txt"]:
         if os.path.exists(file):
@@ -28,40 +25,35 @@ if __name__ == "__main__":
 
     speaker_counts: dict = dict()
 
-    for parent in [ #
-            "../comvoi_mco",  #
-            "../other-audio-data/cstr-vctk-american",  #
-            "../cherokee-audio/beginning-cherokee",  #
-            "../cherokee-audio/cherokee-language-coach-1",  #
-            "../cherokee-audio/cherokee-language-coach-2",  #
-            "../cherokee-audio/durbin-feeling",  #
-            "../cherokee-audio-data/michael-conrad",  #
-            "../cherokee-audio-data/michael-conrad2",  #
-            "../cherokee-audio/sam-hider",  #
-            "../cherokee-audio/see-say-write",  #
-            "../cherokee-audio/thirteen-moons-disk1",  #
-            "../cherokee-audio/thirteen-moons-disk2",  #
-            "../cherokee-audio/thirteen-moons-disk3",  #
-            "../cherokee-audio/thirteen-moons-disk4",  #
-            "../cherokee-audio/thirteen-moons-disk5",  #
-            "../cherokee-audio/cno",  #
-            "../cherokee-audio/wwacc",  #
-            "../cherokee-audio-data/durbin-feeling-tones",  #
-            # "../cherokee-audio/tacotron-2020-12-28",  #
+    for parent in [  #
+            "../../other-audio-data/comvoi_clean",  #
+            "../../other-audio-data/cstr-vctk-american",  #
+            "../../cherokee-audio-data-private/beginning-cherokee",  #
+            "../../cherokee-audio-data-private/cherokee-language-coach-1",  #
+            "../../cherokee-audio-data-private/cherokee-language-coach-2",  #
+            "../../cherokee-audio-data-private/durbin-feeling",  #
+            "../../cherokee-audio-data/durbin-feeling-tones",  #
+            # "../../cherokee-audio-data/michael-conrad",  #
+            "../../cherokee-audio-data/michael-conrad2",  #
+            "../../cherokee-audio-data-private/sam-hider",  #
+            "../../cherokee-audio-data/see-say-write",  #
+            "../../cherokee-audio-data-private/thirteen-moons-disk1",  #
+            "../../cherokee-audio-data-private/thirteen-moons-disk2",  #
+            "../../cherokee-audio-data-private/thirteen-moons-disk3",  #
+            "../../cherokee-audio-data-private/thirteen-moons-disk4",  #
+            "../../cherokee-audio-data-private/thirteen-moons-disk5",  #
+            "../../cherokee-audio-data/cno",  #
+            "../../cherokee-audio-data/walc-1",  #
+            "../../cherokee-audio-data/wwacc",  #
+            # "../../cherokee-audio-data-synthetic/tacotron-2020-12-28",  #
     ]:
         for txt in ["all.txt", "val.txt", "train.txt"]:
-            data_file: str = pathlib.Path(parent).joinpath(txt)
-            with open(data_file, "r") as f:
+            with open(pathlib.Path(parent).joinpath(txt), "r") as f:
                 lines: list = []
                 for line in f:
                     fields = line.split("|")
                     speaker: str = fields[1].strip()
-                    if speaker in speakerSkip:
-                        continue
-                    lang: str = fields[2]
-                    if lang not in langs:
-                        continue
-                    line = ud.normalize("NFD", line.strip())
+                    line = ud.normalize("NFC", line.strip())
                     line = line.replace("|wav/", "|" + parent + "/wav/")
                     lines.append(line)
                     if txt == "all.txt":
@@ -91,10 +83,10 @@ if __name__ == "__main__":
         for line in f:
             fields = line.split("|")
             text: str = fields[6].lower()
-            text = ud.normalize("NFD", text)
+            text = ud.normalize("NFC", text)
             for c in text:
-                # if c in "!\"',.?@&-()*^%$#;":
-                #    continue
+                if c in punctuations_in or c in punctuations_out:
+                    continue
                 if c in chars:
                     continue
                 chars.append(c)
@@ -129,3 +121,7 @@ if __name__ == "__main__":
             v.write(line)
 
     sys.exit()
+
+
+if __name__ == "__main__":
+    main()

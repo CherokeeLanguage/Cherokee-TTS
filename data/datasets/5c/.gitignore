@@ -21,3 +21,6 @@ all.txt
 /voices-xchr.inc
 /voices-xchr.txt
 /langs.txt
+/voices.inc.py
+/voices-chr.inc.py
+/voices-with-counts.txt

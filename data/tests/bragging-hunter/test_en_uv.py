@@ -69,8 +69,10 @@ def main():
             line = text_list[ix]
             text_pipe += f"{ix + 1}|{line}|{voice}|chr\n"
 
-        cmd_list: List[str] = ["python", synthesize_bin, "--output", os.getcwd(), "--save_spec", "--checkpoint",
-                               cp_file]
+        cmd_list: List[str] = ["python", synthesize_bin,  #
+                               "--output", os.getcwd(),  #
+                               "--save_spec", "--checkpoint",  #
+                               cp_file, "--ignore_wav"]
         if not use_gpu:
             cmd_list.append("--cpu")
 

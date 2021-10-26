@@ -1,16 +1,23 @@
 {
+	"dataset": "datasets/5a",
+	"version": "5a-2021-10-23",
+
+	"languages": ["chr", "de", "en", "fr", "ru"],
+	"characters": " &01245689@abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяёᏸᏹᏺᏻᏼ–’“”ꭰꭱꭲꭳꭴꭵꭶꭷꭸꭹꭺꭻꭼꭽꭾꭿꮀꮁꮂꮃꮄꮅꮆꮇꮈꮉꮊꮋꮌꮎꮏꮑꮒꮓꮔꮕꮖꮗꮘꮙꮚꮛꮜꮝꮞꮟꮠꮡꮢꮣꮤꮥꮦꮧꮨꮩꮪꮫꮭꮮꮯꮰꮱꮲꮳꮴꮵꮶꮷꮸꮹꮺꮻꮼꮽꮾꮿ",
+	"speaker_embedding_dimension": 128,
+
 	"balanced_sampling": true,
-	"batch_size": 20,
+	"batch_size": 50,
 	"case_sensitive": false,
-	"characters": " !\"(),-.0123456789:;?abcdefghijklmnoprstuvwxyzæðøŋœɂɐɑɒɔɕəɚɛɜɡɪɲɹɾʁʃʊʐʒʲˈˌ̧̩̪̱̀́̂̃̄̋̌θᵻ“”",
-	"checkpoint_each_epochs": 4,
-	"dataset": "5a",
+
+	"checkpoint_each_epochs": 5,
+
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
 	"epochs": 300,
 	"generator_bottleneck_dim": 4,
-	"generator_dim": 12,
-	"languages": ["chr", "de", "en", "fr", "zh"],
+	"generator_dim": 10,
+
 	"language_embedding_dimension": 0,
 	"learning_rate": 0.001,
 	"learning_rate_decay_each": 10000,
@@ -19,14 +26,10 @@
 	"multi_speaker": true,
 	"perfect_sampling": true,
 	"predict_linear": false,
-	"punctuations_out": " '、。，\"(),.:;¿?¡!\\",
-	"punctuations_in": "\\'-:;",
-	"remove_multiple_wspace": true,
 	"reversal_classifier": true,
-	"reversal_classifier_dim": 256,
-	"reversal_classifier_w": 0.125,
-	"reversal_gradient_clipping": 0.25,
-	"speaker_embedding_dimension": 32,
-	"use_punctuation": true,
-	"version": "5a-2021-05-14-00"
+    "reversal_classifier_dim": 256,
+    "reversal_classifier_w": 0.125,
+    "reversal_gradient_clipping": 0.25
+
+
 }

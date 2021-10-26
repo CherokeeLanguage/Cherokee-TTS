@@ -1,3 +1,5 @@
+from typing import List
+
 import re
 
 import json
@@ -65,9 +67,17 @@ def main():
 
                 random.Random(len(lines)).shuffle(lines)
                 with open(txt, "a") as t:
+                    line: str
                     for line in lines:
-                        t.write(line)
-                        t.write("\n")
+                        fields: List[str] = line.split("|")
+                        good: bool = True
+                        for bad_char in "0123456789&@":
+                            if bad_char in fields[6]:
+                                good = False
+                                break
+                        if good:
+                            t.write(line)
+                            t.write("\n")
 
     with open("speaker-counts.txt", "w") as f:
         print(file=f)

@@ -1,4 +1,6 @@
+from typing import List
 
+from typing import Dict
 from typing import Set
 
 import os
@@ -10,6 +12,7 @@ from shutil import rmtree
 import pathlib
 import re
 from typing import Dict
+from typing import Set
 
 if __name__ == "__main__":
 
@@ -56,14 +59,19 @@ if __name__ == "__main__":
         if counter >= 3:
             break
 
+    voices_by_lang: Dict[str, List[str]] = dict()
     voices: set = set()
     with open("train.txt", "r") as f:
         for line in f:
             fields = line.split("|")
             voice = fields[1]
-            if voice in voices:
-                continue
-            voices.add(voice)
+            lang = fields[2]
+            if lang not in voices_by_lang.keys():
+                voices_by_lang[lang] = list()
+            if voice not in voices_by_lang[lang]:
+                voices_by_lang[lang].append(voice)
+            if voice not in voices:
+                voices.add(voice)
 
     with open("voices.inc", "w") as f:
         for voice_count in counts_list:
@@ -87,6 +95,17 @@ if __name__ == "__main__":
             f.write("\"")
             f.write(", ")
         f.write("]\n")
+        for lang in voices_by_lang.keys():
+            var_lang: str = re.sub("(?i)[^a-z_]", "_", lang)
+            f.write(f"voices_{var_lang}: list[str] = [")
+            lang_voices: List[str] = voices_by_lang[lang]
+            lang_voices.sort()
+            for voice in lang_voices:
+                f.write("\"")
+                f.write(voice)
+                f.write("\"")
+                f.write(", ")
+            f.write("]\n")
 
     with open("voices.txt", "w") as f:
         for voice_count in counts_list:

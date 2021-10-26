@@ -20,7 +20,16 @@ def main():
     # "299-en-f", "318-en-f", "339-en-f"
     # "311-en-m", "334-en-m", "345-en-m", "360-en-m"
 
-    voices: List[str] = ["360-en-m", "329-en-f", "361-en-f", "308-en-f", "311-en-m", "334-en-m"]
+    # voices: List[str] = ["360-en-m", "329-en-f", "361-en-f", "308-en-f", "311-en-m", "334-en-m"]
+
+    voices_en: List[str] = ["294-en-f", "297-en-f", "299-en-f", "300-en-f",  #
+                            "301-en-f", "305-en-f", "306-en-f", "308-en-f",  #
+                            "310-en-f", "311-en-m", "318-en-f", "329-en-f",  #
+                            "330-en-f", "333-en-f", "334-en-m", "339-en-f",  #
+                            "341-en-f", "345-en-m", "360-en-m", "361-en-f",  #
+                            "362-en-f"]
+
+    voices = voices_en
 
     # voices: List[str] = ["299-en-f", "318-en-f", "339-en-f", "311-en-m", "334-en-m", "345-en-m", "360-en-m"]
 
@@ -30,7 +39,7 @@ def main():
     # voices: List[str] = ["02-ru", "04-fr", "05-ru", "27-de", "11-fr", "13-de"]
     
     text_file: str = "bragging-hunter-mco.txt"
-    use_gpu: bool = True
+    use_gpu: bool = False
 
     if sys.argv[0].strip():
         dir_name: str = os.path.dirname(sys.argv[0])

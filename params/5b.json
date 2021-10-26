@@ -1,16 +1,23 @@
 {
+	"dataset": "datasets/5b",
+	"version": "5b-2021-10-24",
+
+	"languages": ["chr", "chr-syl", "de", "en", "fr", "nl", "ru", "zh"],
+	"characters": " &01245689@abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяёᏸᏹᏺᏻᏼ–’“”ꭰꭱꭲꭳꭴꭵꭶꭷꭸꭹꭺꭻꭼꭽꭾꭿꮀꮁꮂꮃꮄꮅꮆꮇꮈꮉꮊꮋꮌꮎꮏꮑꮒꮓꮔꮕꮖꮗꮘꮙꮚꮛꮜꮝꮞꮟꮠꮡꮢꮣꮤꮥꮦꮧꮨꮩꮪꮫꮭꮮꮯꮰꮱꮲꮳꮴꮵꮶꮷꮸꮹꮺꮻꮼꮽꮾꮿ",
+	"speaker_embedding_dimension": 128,
+
 	"balanced_sampling": true,
-	"batch_size": 20,
+	"batch_size": 72,
 	"case_sensitive": false,
-	"characters": " !\"(),-.0123456789:;?^abcdefghijklmnoprstuvwxyzæðøŋœɂɐɑɒɔɕəɚɛɜɡɣɪɭɲɵɹɾʁʃʊʋʐʑʒʲˈˌ̧̩̪̱̀́̂̃̄̋̌θᏸᏹᏺᏻᏼᵻ“”ꭰꭱꭲꭳꭴꭵꭶꭷꭸꭹꭺꭻꭼꭽꭾꭿꮀꮁꮂꮃꮄꮅꮆꮇꮈꮉꮊꮋꮌꮎꮏꮑꮒꮓꮔꮕꮖꮗꮘꮙꮚꮛꮜꮝꮞꮟꮠꮡꮢꮣꮤꮥꮦꮧꮨꮩꮪꮫꮭꮮꮯꮰꮱꮲꮳꮴꮵꮶꮷꮸꮹꮺꮻꮼꮽꮾꮿ",
+
 	"checkpoint_each_epochs": 5,
-	"dataset": "5b",
+
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
 	"epochs": 300,
 	"generator_bottleneck_dim": 4,
-	"generator_dim": 10,	
-	"languages": ["en", "de", "fr", "chr", "chr-syl"],
+	"generator_dim": 10,
+
 	"language_embedding_dimension": 0,
 	"learning_rate": 0.001,
 	"learning_rate_decay_each": 10000,
@@ -21,8 +28,8 @@
 	"predict_linear": false,
 	"reversal_classifier": true,
     "reversal_classifier_dim": 256,
-    "reversal_classifier_w": 0.5,
-    "reversal_gradient_clipping": 0.25,
-	"speaker_embedding_dimension": 97,
-	"version": "5b-2021-05-20"
+    "reversal_classifier_w": 0.125,
+    "reversal_gradient_clipping": 0.25
+
+
 }

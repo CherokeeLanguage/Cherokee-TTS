@@ -32,9 +32,9 @@ def main():
 
         # load log-Mel spectrogram from file or from tts (see https://github.com/bshall/Tacotron for example)
         mel_npy: array = numpy.load(npy_name).transpose()
-        top_db = 80
-        mel_npy = numpy.maximum(mel_npy, -top_db)
-        mel_npy = mel_npy / top_db
+        # top_db = 80
+        # mel_npy = numpy.maximum(mel_npy, -top_db)
+        # mel_npy = mel_npy / top_db
         mel_tensor: Tensor = torch.FloatTensor(mel_npy).unsqueeze(0).to("cuda")
 
         # generate and save waveform
