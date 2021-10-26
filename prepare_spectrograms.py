@@ -1,21 +1,25 @@
-import sys
-import os
 import unicodedata as ud
 
+import argparse
+import numpy as np
+import os
+import sys
 from numpy import array
 from pydub import AudioSegment
 from pydub import effects
 
-from preprocess import *
-
-sys.path.insert(0, "../")
-
-from utils import audio
 from params.params import Params as hp
-import numpy as np
+from preprocess import *
+from utils import audio
+
 
 def main():
-    import argparse
+    argv0: str = sys.argv[0]
+    if argv0:
+        workdir: str = os.path.dirname(argv0)
+        if workdir:
+            os.chdir(workdir)
+    os.chdir("data")
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--directory", type=str, default="datasets/1a",
@@ -61,7 +65,8 @@ def main():
                 py_audio: AudioSegment = AudioSegment.from_file(audio_path)
                 py_audio = py_audio.set_channels(1).set_frame_rate(hp.sample_rate)
                 if args.pad:
-                    py_audio = AudioSegment.silent(250) + py_audio + AudioSegment.silent(500)
+                    # Add 100 ms of silence at the beginning, and 150 ms at the end.
+                    py_audio = AudioSegment.silent(100) + py_audio + AudioSegment.silent(150)
                 py_audio = effects.normalize(py_audio)
                 py_audio_samples: array = np.array(py_audio.get_array_of_samples()).astype(np.float32)
                 py_audio_samples = py_audio_samples / (1 << 8 * 2 - 1)
