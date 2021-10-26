@@ -8,8 +8,7 @@ from numpy import array
 from pydub import AudioSegment
 from pydub import effects
 
-from params.params import Params as hp
-from preprocess import *
+from params.params import Params as params
 from utils import audio
 
 
@@ -35,22 +34,23 @@ def main():
 
     args = parser.parse_args()
 
-    hp.sample_rate = args.sample_rate
-    hp.num_fft = args.num_fft
+    params.sample_rate = args.sample_rate
+    params.num_fft = args.num_fft
 
     files_to_solve = [(args.directory, "train.txt"), (args.directory, "val.txt"), ]
 
     spectrogram_dirs = [os.path.join(args.directory, 'mel_spectrograms')]
 
     for x in spectrogram_dirs:
-        if not os.path.exists(x): os.makedirs(x)
+        if not os.path.exists(x):
+            os.makedirs(x)
 
     metadata = []
     for d, fs in files_to_solve:
         with open(os.path.join(d, fs), 'r', encoding='utf-8') as f:
             metadata.append((d, fs, [line.rstrip().split('|') for line in f]))
 
-    specId: int = 0
+    spec_id: int = 0
     print(f'Please wait, this may take a very long time.')
     for d, fs, m in metadata:
         print(f'Creating spectrograms for: {fs}')
@@ -58,12 +58,12 @@ def main():
         with open(os.path.join(d, fs + "-tmp"), 'w', encoding='utf-8') as f:
             for i in m:
                 idx, speaker, lang, wav, _, _, raw_text, phonemes = i
-                specId += 1
-                spec_name = f"{lang}_{speaker}-{specId:06d}.npy"
+                spec_id += 1
+                spec_name = f"{lang}_{speaker}-{spec_id:06d}.npy"
                 audio_path = os.path.join(d, wav)
 
                 py_audio: AudioSegment = AudioSegment.from_file(audio_path)
-                py_audio = py_audio.set_channels(1).set_frame_rate(hp.sample_rate)
+                py_audio = py_audio.set_channels(1).set_frame_rate(params.sample_rate)
                 if args.pad:
                     # Add 100 ms of silence at the beginning, and 150 ms at the end.
                     py_audio = AudioSegment.silent(100) + py_audio + AudioSegment.silent(150)
@@ -78,10 +78,9 @@ def main():
 
                 raw_text = ud.normalize("NFC", raw_text)
                 phonemes = ud.normalize("NFC", phonemes)
-                print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}||{raw_text}|{phonemes}',
-                      file=f)
+                print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}||{raw_text}|{phonemes}', file=f)
 
-                if specId % 1000 == 0:
+                if spec_id % 1000 == 0:
                     print(f'{idx}|{speaker}|{lang}|{wav}|{mel_path_partial}||{raw_text}|{phonemes}')
 
     for d, fs in files_to_solve:
