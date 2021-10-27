@@ -1,11 +1,11 @@
 {
 	"dataset": "datasets/5c",
-	"version": "5c-2021-10-25",
+	"version": "5c-2021-10-27",
 	"epochs": 600,
+	"speaker_embedding_dimension": 128,
 
 	"languages": ["chr", "de", "en", "fr", "ru"],
 	"characters": " abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяёᏸᏹᏺᏻᏼ–’ꭰꭱꭲꭳꭴꭵꭶꭷꭸꭹꭺꭻꭼꭽꭾꭿꮀꮁꮂꮃꮄꮅꮆꮇꮈꮉꮊꮋꮌꮎꮏꮑꮒꮓꮔꮕꮖꮗꮘꮙꮚꮛꮜꮝꮞꮟꮠꮡꮢꮣꮤꮥꮦꮧꮨꮩꮪꮫꮭꮮꮯꮰꮱꮲꮳꮴꮵꮶꮷꮸꮹꮺꮻꮼꮽꮾꮿ",
-	"speaker_embedding_dimension": 64,
 
 	"balanced_sampling": true,
 	"batch_size": 50,
