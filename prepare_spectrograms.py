@@ -7,9 +7,20 @@ import sys
 from numpy import array
 from pydub import AudioSegment
 from pydub import effects
+from pydub.silence import detect_leading_silence
 
 from params.params import Params as params
 from utils import audio
+
+
+def strip_silence(audio_segment: AudioSegment) -> AudioSegment:
+    def trim_leading_silence(tmp_audio: AudioSegment):
+        return tmp_audio[detect_leading_silence(tmp_audio):]
+
+    def trim_trailing_silence(tmp_audio: AudioSegment):
+        return tmp_audio[detect_leading_silence(tmp_audio.reverse()):].reverse()
+
+    return trim_trailing_silence(trim_leading_silence(audio_segment))
 
 
 def main():
@@ -64,9 +75,12 @@ def main():
 
                 py_audio: AudioSegment = AudioSegment.from_file(audio_path)
                 py_audio = py_audio.set_channels(1).set_frame_rate(params.sample_rate)
+                py_audio = strip_silence(py_audio)
+
                 if args.pad:
                     # Add 100 ms of silence at the beginning, and 150 ms at the end.
                     py_audio = AudioSegment.silent(100) + py_audio + AudioSegment.silent(150)
+
                 py_audio = effects.normalize(py_audio)
                 py_audio_samples: array = np.array(py_audio.get_array_of_samples()).astype(np.float32)
                 py_audio_samples = py_audio_samples / (1 << 8 * 2 - 1)
