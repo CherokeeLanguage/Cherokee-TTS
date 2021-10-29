@@ -47,11 +47,12 @@ def main():
     dataset_path: str = os.path.join("datasets", args.dataset)
     files_to_solve = [(dataset_path, "train.txt"), (dataset_path, "val.txt"), ]
 
-    if not os.path.exists('mel_spectrograms'):
-        os.makedirs('mel_spectrograms')
+    mel_path: str = os.path.join(dataset_path, 'mel_spectrograms')
+    os.makedirs(mel_path, exist_ok=True)
 
-    shutil.rmtree("reference-audio", ignore_errors=True)
-    os.makedirs("reference-audio")
+    mp3_path: str = os.path.join(dataset_path, "reference-audio")
+    shutil.rmtree(mp3_path, ignore_errors=True)
+    os.mkdir(mp3_path)
 
     metadata = []
     for d, fs in files_to_solve:
@@ -63,6 +64,7 @@ def main():
     for d, fs, m in metadata:
         print(f'Creating spectrograms for: {fs}')
         bar: progressbar.ProgressBar = progressbar.ProgressBar(maxval=len(m))
+        bar.start()
         with open(os.path.join(d, fs + "-tmp"), 'w', encoding='utf-8') as f:
             for i in m:
                 idx, speaker, lang, wav, _, _, raw_text, phonemes = i
@@ -84,14 +86,14 @@ def main():
 
                 # Output altered audio (compressed) for manual review
                 mp3_name = f"{lang}_{speaker}-{spec_id:06d}.mp3"
-                ref_audio_mp3: str = os.path.join("reference-audio", mp3_name)
+                ref_audio_mp3: str = os.path.join(mp3_path, mp3_name)
                 if not os.path.exists(ref_audio_mp3):
                     py_audio.export(ref_audio_mp3, format="mp3", parameters=["-qscale:a", "3"])
 
                 py_audio_samples: array = np.array(py_audio.get_array_of_samples()).astype(np.float32)
                 py_audio_samples = py_audio_samples / (1 << 8 * 2 - 1)
                 mel_path_partial = os.path.join("mel_spectrograms", spec_name)
-                mel_path = os.path.join(d, mel_path_partial)
+                mel_path = os.path.join(dataset_path, mel_path_partial)
                 if not os.path.exists(mel_path):
                     np.save(mel_path, audio.spectrogram(py_audio_samples, True))
 
