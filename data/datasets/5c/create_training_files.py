@@ -39,7 +39,7 @@ def main():
             "../../cherokee-audio-data/durbin-feeling-tones",  #
             # "../../cherokee-audio-data/michael-conrad",  #
             "../../cherokee-audio-data/michael-conrad2",  #
-            #  "../../cherokee-audio-data-private/sam-hider",  #
+            "../../cherokee-audio-data-private/sam-hider",  #
             "../../cherokee-audio-data/see-say-write",  #
             "../../cherokee-audio-data-private/thirteen-moons-disk1",  #
             "../../cherokee-audio-data-private/thirteen-moons-disk2",  #
@@ -48,7 +48,7 @@ def main():
             "../../cherokee-audio-data-private/thirteen-moons-disk5",  #
             "../../cherokee-audio-data/cno",  #
             "../../cherokee-audio-data/walc-1",  #
-            #  "../../cherokee-audio-data/wwacc",  #
+            "../../cherokee-audio-data/wwacc",  #
             #  "../../cherokee-audio-data-synthetic/tacotron-2020-12-28",  #
     ]:
         for txt in ["all.txt", "val.txt", "train.txt"]:
