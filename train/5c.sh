@@ -11,7 +11,7 @@ export PYTHONIOENCODING=utf-8
 conda activate Cherokee-TTS
 
 clear
-python prepare_spectrograms.py --directory "datasets/$params"
+python prepare_spectrograms.py --dataset "$params"
 
 date
 
