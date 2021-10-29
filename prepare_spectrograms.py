@@ -78,7 +78,6 @@ def main():
                 # pydub.silence.detect_silence(py_audio, silence_thresh=-40, seek_step=10)
                 # TODO: scan for long silence gaps and either reject the sample or reduce the length of the silence gaps
 
-
                 if args.pad:
                     # Add 100 ms of silence at the beginning, and 150 ms at the end.
                     py_audio = AudioSegment.silent(100) + py_audio + AudioSegment.silent(150)
