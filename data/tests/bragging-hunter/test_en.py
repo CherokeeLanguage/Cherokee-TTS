@@ -39,7 +39,7 @@ def main():
     # voices: List[str] = ["02-ru", "04-fr", "05-ru", "27-de", "11-fr", "13-de"]
     
     text_file: str = "bragging-hunter-mco.txt"
-    use_gpu: bool = False
+    use_gpu: bool = True
 
     if sys.argv[0].strip():
         dir_name: str = os.path.dirname(sys.argv[0])
