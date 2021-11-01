@@ -463,7 +463,7 @@ class TacotronLoss(torch.nn.Module):
         target_stop.requires_grad = False
         
         # standard Tacotron 2 loss, not the emphasis on mel_pre and the mask and weighting of positive class of stop_token
-        stop_balance = torch.tensor([100], device=stop.device, dtype=torch.float32)
+        stop_balance = torch.tensor([hp.stop_balance], device=stop.device, dtype=torch.float32)
         losses = {
             'mel_pre' : 2 * F.mse_loss(pre_prediction, pre_target),
             'mel_pos' : F.mse_loss(post_prediction, post_target),
