@@ -16,6 +16,7 @@ def main():
     mp3_copyright_by: str = "Michael Conrad"
     mp3_encoded_by: str = "Michael Conrad"
     mp3_copy_year: str = str(datetime.date.today().year)
+    mp3_from_gl: bool = True  # Use Griffin-Lim audio and don't vocode if True
 
     # "299-en-f", "318-en-f", "339-en-f"
     # "311-en-m", "334-en-m", "345-en-m", "360-en-m"
@@ -30,6 +31,7 @@ def main():
                             "362-en-f"]
 
     voices = voices_en
+    voices.sort()
 
     # voices: List[str] = ["299-en-f", "318-en-f", "339-en-f", "311-en-m", "334-en-m", "345-en-m", "360-en-m"]
 
@@ -89,16 +91,20 @@ def main():
 
         subprocess.run(cmd_list, input=text_pipe, text=True)
 
-        if use_gpu:
-            cmd_list = ["python", "wavernnx.py"]
-        else:
-            cmd_list = ["python", "wavernnx-cpu.py"]
-
-        subprocess.run(cmd_list)
+        if not mp3_from_gl:
+            if use_gpu:
+                cmd_list = ["python", "wavernnx.py"]
+            else:
+                cmd_list = ["python", "wavernnx-cpu.py"]
+            subprocess.run(cmd_list)
 
         os.mkdir(f"bragging_hunter_{voice}_mp3")
         for ix in range(len(text_list)):
-            from_wav = f"wg-{ix + 1}.wav"
+            from_wav: str
+            if mp3_from_gl:
+                from_wav = f"{ix + 1}.wav"
+            else:
+                from_wav = f"wg-{ix + 1}.wav"
             to_mp3 = os.path.join(f"bragging_hunter_{voice}_mp3", f"{ix + 1:03d}.mp3")
             audio: AudioSegment = AudioSegment.from_file(from_wav)
             audio = audio.set_channels(2)
@@ -123,7 +129,8 @@ def main():
 
             os.remove(f"{ix + 1}.wav")
             os.remove(f"{ix + 1}.npy")
-            os.remove(from_wav)
+            if not mp3_from_gl:
+                os.remove(from_wav)
 
 
 if __name__ == "__main__":
