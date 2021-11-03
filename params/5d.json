@@ -2,7 +2,7 @@
 	"dataset": "datasets/5d",
 	"version": "5d-2021-11-01",
 	"epochs": 300,
-	"speaker_embedding_dimension": 128,
+	"speaker_embedding_dimension": 96,
 
 	"languages": ["chr", "de", "en", "fr", "ru"],
 	"characters": " abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяёᏸᏹᏺᏻᏼ–’ꭰꭱꭲꭳꭴꭵꭶꭷꭸꭹꭺꭻꭼꭽꭾꭿꮀꮁꮂꮃꮄꮅꮆꮇꮈꮉꮊꮋꮌꮎꮏꮑꮒꮓꮔꮕꮖꮗꮘꮙꮚꮛꮜꮝꮞꮟꮠꮡꮢꮣꮤꮥꮦꮧꮨꮩꮪꮫꮭꮮꮯꮰꮱꮲꮳꮴꮵꮶꮷꮸꮹꮺꮻꮼꮽꮾꮿ",
