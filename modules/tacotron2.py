@@ -467,7 +467,7 @@ class TacotronLoss(torch.nn.Module):
         losses = {
             'mel_pre' : 2 * F.mse_loss(pre_prediction, pre_target),
             'mel_pos' : F.mse_loss(post_prediction, post_target),
-            'stop_token' : F.binary_cross_entropy_with_logits(stop, target_stop, pos_weight=stop_balance) / (hp.num_mels + 2),
+            'stop_token' : hp.stop_weight * F.binary_cross_entropy_with_logits(stop, target_stop, pos_weight=stop_balance) / (hp.num_mels + 2),
         }
 
         # loss of the adversarial classifier, if exists

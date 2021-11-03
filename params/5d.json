@@ -9,6 +9,7 @@
 
 	"stop_frames": 16,
 	"stop_balance": 75,
+	"stop_weight": 0.5,
 
 	"balanced_sampling": true,
 	"batch_size": 50,

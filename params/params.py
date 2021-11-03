@@ -10,6 +10,7 @@ class Params:
     """
 
     stop_balance = 100
+    stop_weight = 0.50
 
     gradient_accumulation = 1
     epochs = 300                         # training epochs
