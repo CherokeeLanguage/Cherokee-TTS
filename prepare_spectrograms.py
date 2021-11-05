@@ -13,6 +13,8 @@ from pydub import AudioSegment
 from pydub import effects
 from pydub import silence
 from pydub.silence import detect_leading_silence
+from typing import List
+from typing import List
 
 from params.params import Params as params
 from utils import audio
@@ -93,6 +95,8 @@ def main():
     with open(file_fixed_entries, "w"):
         pass
 
+    skipped_too_short: List[str] = list()
+    skipped_too_long: List[str] = list()
     spec_id: int = 0
     print(f'Please wait, this may take a very long time.')
     for d, fs, m in metadata:
@@ -124,10 +128,6 @@ def main():
                 # pydub.silence.detect_silence(py_audio, silence_thresh=-40, seek_step=10)
                 # TODO: scan for long silence gaps and either reject the sample or reduce the length of the silence gaps
 
-                if args.pad:
-                    # Add 100 ms of silence at the beginning, and 150 ms at the end.
-                    py_audio = AudioSegment.silent(100) + py_audio + AudioSegment.silent(150)
-
                 # Output altered audio (compressed) for manual review
                 mp3_name = f"{lang}_{speaker}-{spec_id:06d}.mp3"
                 ref_audio_mp3: str = os.path.join(mp3_path, mp3_name)
@@ -136,7 +136,7 @@ def main():
                     segments = silence.split_on_silence(py_audio,  #
                                                         min_silence_len=fix_silence,  #
                                                         silence_thresh=-50,  #
-                                                        keep_silence=fix_silence/2)
+                                                        keep_silence=fix_silence / 2)
                     if len(segments) > 1:
                         new_py_audio = AudioSegment.empty()
                         for segment in segments:
@@ -161,6 +161,22 @@ def main():
                         bad_silence_count += 1
                         continue
 
+                if len(py_audio) < params.audio_min_length:
+                    skipped_too_short.append(entry)
+                    bad_audio_mp3: str = os.path.join(mp3_bad_path, f"too-short-{mp3_name}")
+                    py_audio.export(bad_audio_mp3, format="mp3", parameters=["-qscale:a", "3"])
+                    continue
+                    
+                if len(py_audio) > params.audio_max_length:
+                    skipped_too_long.append(entry)
+                    bad_audio_mp3: str = os.path.join(mp3_bad_path, f"too-long-{mp3_name}")
+                    py_audio.export(bad_audio_mp3, format="mp3", parameters=["-qscale:a", "3"])
+                    continue
+
+                if args.pad:
+                    # Add 100 ms of silence at the beginning, and 150 ms at the end.
+                    py_audio = AudioSegment.silent(100) + py_audio + AudioSegment.silent(150)
+
                 if not os.path.exists(ref_audio_mp3):
                     py_audio.export(ref_audio_mp3, format="mp3", parameters=["-qscale:a", "3"])
 
@@ -171,6 +187,16 @@ def main():
 
                 print(entry, file=f)
                 bar.update(bar.currval + 1)
+
+        print(f"Records skipped (>{params.audio_max_length/1000:.02f}): {len(skipped_too_long),}")
+        with open(os.path.join(d, "too-long-" + fs), "w") as w:
+            for entry in skipped_too_long:
+                print(entry, file=w)
+
+        print(f"Records skipped (<{params.audio_min_length/1000:.02f}): {len(skipped_too_short),}")
+        with open(os.path.join(d, "too-short-" + fs), "w") as w:
+            for entry in skipped_too_short:
+                print(entry, file=w)
 
         bar.finish()
 

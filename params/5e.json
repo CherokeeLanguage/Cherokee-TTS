@@ -1,6 +1,6 @@
 {
-	"dataset": "datasets/5d",
-	"version": "5d-2021-11-01",
+	"dataset": "datasets/5e",
+	"version": "5e-2021-11-04",
 	"epochs": 300,
 	"speaker_embedding_dimension": 96,
 
@@ -11,7 +11,7 @@
 	"stop_balance": 75,
 	"stop_weight": 0.5,
 
-	"audio_min_length": 0,
+	"audio_min_length": 1000,
     "audio_max_length": 10000,
 
 	"balanced_sampling": true,

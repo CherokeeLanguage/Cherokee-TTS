@@ -12,6 +12,9 @@ class Params:
     stop_balance = 100
     stop_weight = 0.50
 
+    audio_min_length = 1_000  # Don't use samples shorter than use. (msec).
+    audio_max_length = 20_000  # Don't use samples longer than this. (msec).
+
     gradient_accumulation = 1
     epochs = 300                         # training epochs
     batch_size = 52                      # batch size during training (is parallelization is True, each GPU has batch_size // num_gpus examples)

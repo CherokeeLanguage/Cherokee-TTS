@@ -1,3 +1,5 @@
 train.txt
 val.txt
 reference-audio/
+reference-audio-bad/
+too-*.txt
