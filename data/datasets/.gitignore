@@ -3,3 +3,6 @@ val.txt
 reference-audio/
 reference-audio-bad/
 too-*.txt
+voices-chr.inc.py
+voices-with-counts.txt
+voices.in.py
