@@ -166,7 +166,7 @@ def main():
                     bad_audio_mp3: str = os.path.join(mp3_bad_path, f"too-short-{mp3_name}")
                     py_audio.export(bad_audio_mp3, format="mp3", parameters=["-qscale:a", "3"])
                     continue
-                    
+
                 if len(py_audio) > params.audio_max_length:
                     skipped_too_long.append(entry)
                     bad_audio_mp3: str = os.path.join(mp3_bad_path, f"too-long-{mp3_name}")
