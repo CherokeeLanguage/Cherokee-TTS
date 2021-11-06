@@ -12,7 +12,16 @@ class Params:
     stop_balance = 100
     stop_weight = 0.50
 
-    audio_min_length = 1_000  # Don't use samples shorter than use. (msec).
+    lead_in_silence = 100
+    lead_out_silence = 150
+
+    skip_silence: bool = False  # Skip audio with long periods of silence (>=max_silence_len ms).
+    max_silence_len: int = 500
+
+    fix_silence: bool = True  # Fix audio with long periods of silence (>=fix_silence_len ms)
+    fix_silence_len: int = 400
+
+    audio_min_length = 1_000  # Don't use samples shorter than this. (msec).
     audio_max_length = 20_000  # Don't use samples longer than this. (msec).
 
     gradient_accumulation = 1

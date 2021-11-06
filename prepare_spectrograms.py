@@ -1,5 +1,3 @@
-from dataclasses import dataclass
-
 import shutil
 import unicodedata as ud
 
@@ -14,9 +12,8 @@ from pydub import effects
 from pydub import silence
 from pydub.silence import detect_leading_silence
 from typing import List
-from typing import List
 
-from params.params import Params as params
+from params.params import Params
 from utils import audio
 
 
@@ -33,11 +30,6 @@ def trim_silence(audio_segment: AudioSegment) -> AudioSegment:
     return trim_trailing_silence(trim_leading_silence(audio_segment))
 
 
-@dataclass
-class SpectrogramConfig:
-    pass
-
-
 def main():
     argv0: str = sys.argv[0]
     if argv0:
@@ -46,21 +38,12 @@ def main():
             os.chdir(workdir)
     os.chdir("data")
 
-    max_silence: int = 500
-    fix_silence: int = 400
-
     parser = argparse.ArgumentParser()
     parser.add_argument("--dataset", type=str, default="1a",  #
                         help="Params dataset for Training Data.")
-    parser.add_argument("--pad", type=bool, default=True,  #
-                        help="Pad audio with silence.")
-    parser.add_argument("--skip_silence", type=bool, default=False,  #
-                        help=f"Skip audio with long periods of silence (>={max_silence}ms).")
-    parser.add_argument("--fix_silence", type=bool, default=True,  #
-                        help=f"Fix audio with long periods of silence (>={fix_silence}ms).")
 
     args = parser.parse_args()
-    params.load(f"../params/{args.dataset}.json")
+    Params.load(f"../params/{args.dataset}.json")
 
     dataset_path: str = os.path.join("datasets", args.dataset)
     files_to_solve = [(dataset_path, "train.txt"), (dataset_path, "val.txt"), ]
@@ -107,6 +90,9 @@ def main():
             for i in m:
                 idx, speaker, lang, wav, _, _, raw_text, phonemes = i
 
+                if lang not in Params.languages:
+                    continue
+
                 raw_text = ud.normalize("NFC", raw_text)
                 phonemes = ud.normalize("NFC", phonemes)
 
@@ -121,18 +107,16 @@ def main():
                 audio_path = os.path.join(d, wav)
 
                 py_audio: AudioSegment = AudioSegment.from_file(audio_path)
-                py_audio = py_audio.set_channels(1).set_frame_rate(params.sample_rate)
+                py_audio = py_audio.set_channels(1).set_frame_rate(Params.sample_rate)
                 py_audio = effects.normalize(py_audio)
                 py_audio = trim_silence(py_audio)
-
-                # pydub.silence.detect_silence(py_audio, silence_thresh=-40, seek_step=10)
-                # TODO: scan for long silence gaps and either reject the sample or reduce the length of the silence gaps
 
                 # Output altered audio (compressed) for manual review
                 mp3_name = f"{lang}_{speaker}-{spec_id:06d}.mp3"
                 ref_audio_mp3: str = os.path.join(mp3_path, mp3_name)
 
-                if args.fix_silence:
+                if Params.fix_silence:
+                    fix_silence: int = Params.fix_silence_len
                     segments = silence.split_on_silence(py_audio,  #
                                                         min_silence_len=fix_silence,  #
                                                         silence_thresh=-50,  #
@@ -150,7 +134,8 @@ def main():
                         py_audio.export(fix_audio_mp3, format="mp3", parameters=["-qscale:a", "3"])
                         fix_silence_count += 1
 
-                if args.skip_silence:
+                if Params.skip_silence:
+                    max_silence: int = Params.max_silence_len
                     if silence.detect_silence(py_audio,  #
                                               min_silence_len=max_silence,  #
                                               silence_thresh=-50):
@@ -161,21 +146,25 @@ def main():
                         bad_silence_count += 1
                         continue
 
-                if len(py_audio) < params.audio_min_length:
+                if len(py_audio) < Params.audio_min_length:
                     skipped_too_short.append(entry)
                     bad_audio_mp3: str = os.path.join(mp3_bad_path, f"too-short-{mp3_name}")
                     py_audio.export(bad_audio_mp3, format="mp3", parameters=["-qscale:a", "3"])
                     continue
 
-                if len(py_audio) > params.audio_max_length:
+                if len(py_audio) > Params.audio_max_length:
                     skipped_too_long.append(entry)
                     bad_audio_mp3: str = os.path.join(mp3_bad_path, f"too-long-{mp3_name}")
                     py_audio.export(bad_audio_mp3, format="mp3", parameters=["-qscale:a", "3"])
                     continue
 
-                if args.pad:
-                    # Add 100 ms of silence at the beginning, and 150 ms at the end.
-                    py_audio = AudioSegment.silent(100) + py_audio + AudioSegment.silent(150)
+                if Params.lead_in_silence > 0:
+                    # Add lead_in_silence ms of silence at the beginning
+                    py_audio = AudioSegment.silent(Params.lead_in_silence) + py_audio
+
+                if Params.lead_out_silence > 0:
+                    # Add lead_out_silence ms of silence at the end
+                    py_audio = py_audio + AudioSegment.silent(Params.lead_out_silence)
 
                 if not os.path.exists(ref_audio_mp3):
                     py_audio.export(ref_audio_mp3, format="mp3", parameters=["-qscale:a", "3"])
@@ -188,12 +177,12 @@ def main():
                 print(entry, file=f)
                 bar.update(bar.currval + 1)
 
-        print(f"Records skipped (>{params.audio_max_length/1000:.02f}): {len(skipped_too_long),}")
+        print(f"Records skipped (>{Params.audio_max_length / 1000:.02f}): {len(skipped_too_long),}")
         with open(os.path.join(d, "too-long-" + fs), "w") as w:
             for entry in skipped_too_long:
                 print(entry, file=w)
 
-        print(f"Records skipped (<{params.audio_min_length/1000:.02f}): {len(skipped_too_short),}")
+        print(f"Records skipped (<{Params.audio_min_length / 1000:.02f}): {len(skipped_too_short),}")
         with open(os.path.join(d, "too-short-" + fs), "w") as w:
             for entry in skipped_too_short:
                 print(entry, file=w)

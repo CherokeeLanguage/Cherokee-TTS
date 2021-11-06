@@ -1,3 +1,5 @@
+import json
+
 import datetime
 import glob
 import os
@@ -9,6 +11,8 @@ import unicodedata as ud
 from pydub import AudioSegment
 from pydub import effects
 from typing import List
+from typing import List
+from typing import Tuple
 
 
 def main():
@@ -16,7 +20,8 @@ def main():
     mp3_copyright_by: str = "Michael Conrad"
     mp3_encoded_by: str = "Michael Conrad"
     mp3_copy_year: str = str(datetime.date.today().year)
-    mp3_from_gl: bool = True  # Use Griffin-Lim audio and don't vocode if True
+    mp3_from_gl: bool = False  # Use Griffin-Lim audio and don't vocode if True
+    use_gpu: bool = False
 
     # "299-en-f", "318-en-f", "339-en-f"
     # "311-en-m", "334-en-m", "345-en-m", "360-en-m"
@@ -40,8 +45,7 @@ def main():
 
     # voices: List[str] = ["02-ru", "04-fr", "05-ru", "27-de", "11-fr", "13-de"]
     
-    text_file: str = "bragging-hunter-mco.txt"
-    use_gpu: bool = True
+    text_file: str = "bragging-hunter-mco.txt"    
 
     if sys.argv[0].strip():
         dir_name: str = os.path.dirname(sys.argv[0])
@@ -98,6 +102,8 @@ def main():
                 cmd_list = ["python", "wavernnx-cpu.py"]
             subprocess.run(cmd_list)
 
+        durations: List[Tuple[str, str]] = list()
+        output_mp3_path: str = f"bragging_hunter_{voice}_mp3"
         os.mkdir(f"bragging_hunter_{voice}_mp3")
         for ix in range(len(text_list)):
             from_wav: str
@@ -105,11 +111,13 @@ def main():
                 from_wav = f"{ix + 1}.wav"
             else:
                 from_wav = f"wg-{ix + 1}.wav"
-            to_mp3 = os.path.join(f"bragging_hunter_{voice}_mp3", f"{ix + 1:03d}.mp3")
+            to_mp3 = os.path.join(output_mp3_path, f"{ix + 1:03d}.mp3")
             audio: AudioSegment = AudioSegment.from_file(from_wav)
             audio = audio.set_channels(2)
             audio = audio.set_frame_rate(44100)
             audio = effects.normalize(audio)
+
+            durations.append((to_mp3, audio.duration_seconds))
 
             id3v2_tags: dict = dict()
             id3v2_tags["COMM"] = cp_name
@@ -131,6 +139,8 @@ def main():
             os.remove(f"{ix + 1}.npy")
             if not mp3_from_gl:
                 os.remove(from_wav)
+        with open(os.path.join(output_mp3_path, f"durations-{voice}.json"), "w") as w:
+            json.dump(durations, w, indent=2)
 
 
 if __name__ == "__main__":

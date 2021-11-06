@@ -1,22 +1,38 @@
 {
 	"dataset": "datasets/2a",
-	"version": "2a_2021-10-20",
+	"version": "2a-2021-11-05",
+	"epochs": 300,
+	"speaker_embedding_dimension": 52,
 
-	"characters": " &01245689@abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяёᏸᏹᏺᏻᏼ–’“”ꭰꭱꭲꭳꭴꭵꭶꭷꭸꭹꭺꭻꭼꭽꭾꭿꮀꮁꮂꮃꮄꮅꮆꮇꮈꮉꮊꮋꮌꮎꮏꮑꮒꮓꮔꮕꮖꮗꮘꮙꮚꮛꮜꮝꮞꮟꮠꮡꮢꮣꮤꮥꮦꮧꮨꮩꮪꮫꮭꮮꮯꮰꮱꮲꮳꮴꮵꮶꮷꮸꮹꮺꮻꮼꮽꮾꮿ",
-	"punctuations_out": "、。，\"(),.:;¿?¡!\\",
-	"punctuations_in": "'-",
+	"languages": ["chr", "en"],
+	"characters": " abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяёᏸᏹᏺᏻᏼ–’ꭰꭱꭲꭳꭴꭵꭶꭷꭸꭹꭺꭻꭼꭽꭾꭿꮀꮁꮂꮃꮄꮅꮆꮇꮈꮉꮊꮋꮌꮎꮏꮑꮒꮓꮔꮕꮖꮗꮘꮙꮚꮛꮜꮝꮞꮟꮠꮡꮢꮣꮤꮥꮦꮧꮨꮩꮪꮫꮭꮮꮯꮰꮱꮲꮳꮴꮵꮶꮷꮸꮹꮺꮻꮼꮽꮾꮿ",
+
+	"stop_frames": 16,
+	"stop_balance": 75,
+	"stop_weight": 0.5,
+
+	"audio_min_length": 1000,
+    "audio_max_length": 20000,
+	"lead_in_silence": 100,
+	"lead_out_silence": 150,
+
+	"skip_silence":false,
+    "max_silence_len": 500,
+
+    "fix_silence": true,
+    "fix_silence_len": 400,
 
 	"balanced_sampling": true,
-	"batch_size": 20,
+	"batch_size": 50,
 	"case_sensitive": false,
+
 	"checkpoint_each_epochs": 5,
 
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
-	"epochs": 600,
-	"generator_bottleneck_dim": 1,
-	"generator_dim": 2,
-	"languages": ["chr", "en"],
+	"generator_bottleneck_dim": 4,
+	"generator_dim": 10,
+
 	"language_embedding_dimension": 0,
 	"learning_rate": 0.001,
 	"learning_rate_decay_each": 10000,
@@ -28,7 +44,5 @@
 	"reversal_classifier": true,
     "reversal_classifier_dim": 256,
     "reversal_classifier_w": 0.125,
-    "reversal_gradient_clipping": 0.25,
-	"speaker_embedding_dimension": 64
-
+    "reversal_gradient_clipping": 0.25
 }

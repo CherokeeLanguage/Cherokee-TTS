@@ -39,9 +39,14 @@ if __name__ == "__main__":
             voice_counts_by_lang[lang].add(voice)
 
     with open("voice-counts-by-language.txt", "w") as f:
+        total_voice_count: int = 0
         for lang in sorted(list(voice_counts_by_lang.keys())):
             count: int = len(voice_counts_by_lang[lang])
+            total_voice_count += count
             print(f"{lang}:{count:,}", file=f)
+        print(file=f)
+        print(f"Total:{total_voice_count:,}", file=f)
+        print(file=f)
 
     counts_list: list = list()
     for key in voice_counts.keys():
@@ -85,7 +90,7 @@ if __name__ == "__main__":
         f.write("\n")
 
     with open("voices.inc.py", "w") as f:
-        f.write("voices: list[str] = [")
+        f.write("voices: typing.List[str] = [")
         for voice_count in counts_list:
             voice: str = voice_count[0]
             if voice not in voices:
@@ -97,9 +102,13 @@ if __name__ == "__main__":
         f.write("]\n")
         for lang in voices_by_lang.keys():
             var_lang: str = re.sub("(?i)[^a-z_]", "_", lang)
-            f.write(f"voices_{var_lang}: list[str] = [")
             lang_voices: List[str] = voices_by_lang[lang]
             lang_voices.sort()
+
+            f.write("\n")
+            f.write(f"# {var_lang} {len(lang_voices)}\n")
+            f.write(f"voices_{var_lang}: typing.List[str] = [")
+
             for voice in lang_voices:
                 f.write("\"")
                 f.write(voice)
