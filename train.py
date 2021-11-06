@@ -262,13 +262,17 @@ if __name__ == '__main__':
     if hp.multi_language and hp.balanced_sampling and hp.perfect_sampling:
         dp_devices = args.max_gpus if hp.parallelization and torch.cuda.device_count() > 1 else 1
         train_sampler = PerfectBatchSampler(dataset.train, hp.languages, hp.batch_size,
-                                            data_parallel_devices=dp_devices, shuffle=True, drop_last=True)
-        train_data = DataLoader(dataset.train, batch_sampler=train_sampler, pin_memory=False,
-                                collate_fn=TextToSpeechCollate(False), num_workers=args.loader_workers)
-        eval_sampler = PerfectBatchSampler(dataset.dev, hp.languages, hp.batch_size, data_parallel_devices=dp_devices,
+                                            data_parallel_devices=dp_devices, shuffle=True,  #
+                                            drop_last=True)
+        train_data = DataLoader(dataset.train, batch_sampler=train_sampler, pin_memory=False,  #
+                                collate_fn=TextToSpeechCollate(False),  #
+                                num_workers=args.loader_workers)
+        eval_sampler = PerfectBatchSampler(dataset.dev, hp.languages, hp.batch_size,  #
+                                           data_parallel_devices=dp_devices,  #
                                            shuffle=False)
-        eval_data = DataLoader(dataset.dev, batch_sampler=eval_sampler, pin_memory=False,
-                               collate_fn=TextToSpeechCollate(False), num_workers=args.loader_workers)
+        eval_data = DataLoader(dataset.dev, batch_sampler=eval_sampler, pin_memory=False,  #
+                               collate_fn=TextToSpeechCollate(False),  #
+                               num_workers=args.loader_workers)
     else:
         sampler = RandomImbalancedSampler(dataset.train) if hp.multi_language and hp.balanced_sampling else None
         train_data = DataLoader(dataset.train, batch_size=hp.batch_size, drop_last=True,
