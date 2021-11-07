@@ -1,6 +1,6 @@
 {
-	"dataset": "datasets/5f",
-	"version": "5f-2021-11-04",
+	"dataset": "datasets/5g",
+	"version": "5g-2021-11-06",
 	"epochs": 300,
 	"speaker_embedding_dimension": 119,
 
