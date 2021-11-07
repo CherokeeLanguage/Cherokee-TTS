@@ -18,8 +18,8 @@ def test():
             PS1='$'
             . ~/.bashrc
             conda deactivate
-            conda activate UniversalVocoding
-            python "{bindir}/uv.py"            
+            conda activate Cherokee-TTS
+            python "{bindir}/wavernnx.py"            
             exit 0
             """
     subprocess.run(script, shell=True, executable="/bin/bash", check=True)
@@ -59,12 +59,13 @@ def main():
     result = subprocess.run(synrun, input=text, text=True, check=True)
 
     if not args.griffin_lim:
+        gpu_option: str = "\"--gpu\"" if args.gpu else ""
         script: str = f"""
             PS1='$'
             . ~/.bashrc
             conda deactivate
-            conda activate UniversalVocoding
-            python "{bindir}/uv.py"
+            conda activate Cherokee-TTS
+            python "{bindir}/wavernnx.py" {gpu_option}
             exit 0
         """
         subprocess.run(script, shell=True, executable="/bin/bash", check=True)
