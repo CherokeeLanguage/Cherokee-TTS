@@ -1,4 +1,4 @@
-ID|PSET|DIALOG|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH
+#ID|PSET|DIALOG|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH
 |||Ꮿ|ᏏᏲ|||o:síyo|Hello.
 ||||ᏙᎯ|||tò:hi̋|Healthy or peaceful.
 |||Ꮷ|ᏙᎯ|||tò:hi̋:ju?|Things are well, aren’t they?
