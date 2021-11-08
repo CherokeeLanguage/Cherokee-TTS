@@ -23,8 +23,8 @@
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
 
-	"generator_bottleneck_dim": 8,
-	"generator_dim": 20,
+	"generator_bottleneck_dim": 4,
+	"generator_dim": 10,
 
 	"language_embedding_dimension": 0,
 	"learning_rate": 0.001,
@@ -35,7 +35,7 @@
 	"perfect_sampling": true,
 	"predict_linear": false,
 	"reversal_classifier": true,
-    "reversal_classifier_dim": 256,
-    "reversal_classifier_w": 0.125,
+    "reversal_classifier_dim": 512,
+    "reversal_classifier_w": 0.5,
     "reversal_gradient_clipping": 0.25
 }
