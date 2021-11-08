@@ -11,14 +11,14 @@
 	"stop_balance": 75,
 	"stop_weight": 0.5,
 
-	"audio_min_length": 1000,
-    "audio_max_length": 20000,
+	"audio_min_length": 750,
+    "audio_max_length": 10000,
 
 	"balanced_sampling": true,
 	"batch_size": 50,
 	"case_sensitive": false,
 
-	"checkpoint_each_epochs": 5,
+	"checkpoint_each_epochs": 10,
 
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
@@ -35,7 +35,7 @@
 	"perfect_sampling": true,
 	"predict_linear": false,
 	"reversal_classifier": true,
-    "reversal_classifier_dim": 512,
-    "reversal_classifier_w": 0.5,
+    "reversal_classifier_dim": 256,
+    "reversal_classifier_w": 0.75,
     "reversal_gradient_clipping": 0.25
 }
