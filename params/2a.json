@@ -1,6 +1,6 @@
 {
 	"dataset": "datasets/2a",
-	"version": "2a-2021-11-05",
+	"version": "2a-2021-11-08",
 	"epochs": 300,
 	"speaker_embedding_dimension": 52,
 
@@ -26,7 +26,7 @@
 	"batch_size": 50,
 	"case_sensitive": false,
 
-	"checkpoint_each_epochs": 5,
+	"checkpoint_each_epochs": 10,
 
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
