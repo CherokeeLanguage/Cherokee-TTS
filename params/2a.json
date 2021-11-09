@@ -1,6 +1,6 @@
 {
 	"dataset": "datasets/2a",
-	"version": "2a-2021-11-08",
+	"version": "2a-2021-11-09",
 	"epochs": 300,
 	"speaker_embedding_dimension": 52,
 
@@ -30,8 +30,8 @@
 
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
-	"generator_bottleneck_dim": 4,
-	"generator_dim": 10,
+	"generator_bottleneck_dim": 2,
+	"generator_dim": 5,
 
 	"language_embedding_dimension": 0,
 	"learning_rate": 0.001,
