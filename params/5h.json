@@ -1,15 +1,15 @@
 {
 	"dataset": "datasets/5h",
-	"version": "5h-2021-11-07",
+	"version": "5h-2021-11-09",
 	"epochs": 300,
-	"speaker_embedding_dimension": 128,
+	"speaker_embedding_dimension": 256,
 
 	"languages": ["chr", "de", "en", "fr", "ru"],
 	"characters": " abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяёᏸᏹᏺᏻᏼ–’ꭰꭱꭲꭳꭴꭵꭶꭷꭸꭹꭺꭻꭼꭽꭾꭿꮀꮁꮂꮃꮄꮅꮆꮇꮈꮉꮊꮋꮌꮎꮏꮑꮒꮓꮔꮕꮖꮗꮘꮙꮚꮛꮜꮝꮞꮟꮠꮡꮢꮣꮤꮥꮦꮧꮨꮩꮪꮫꮭꮮꮯꮰꮱꮲꮳꮴꮵꮶꮷꮸꮹꮺꮻꮼꮽꮾꮿ",
 
 	"stop_frames": 16,
-	"stop_balance": 75,
-	"stop_weight": 0.5,
+	"stop_balance": 50,
+	"stop_weight": 0.25,
 
 	"audio_min_length": 750,
     "audio_max_length": 10000,
@@ -36,6 +36,6 @@
 	"predict_linear": false,
 	"reversal_classifier": true,
     "reversal_classifier_dim": 256,
-    "reversal_classifier_w": 0.75,
+    "reversal_classifier_w": 0.125,
     "reversal_gradient_clipping": 0.25
 }
