@@ -39,7 +39,7 @@ def main():
             "../../cherokee-audio-data/durbin-feeling-tones",  #
             # "../../cherokee-audio-data/michael-conrad",  #
             "../../cherokee-audio-data/michael-conrad2",  #
-            "../../cherokee-audio-data-private/sam-hider",  #
+            # "../../cherokee-audio-data-private/sam-hider",  #
             "../../cherokee-audio-data/see-say-write",  #
             "../../cherokee-audio-data-private/thirteen-moons-disk1",  #
             "../../cherokee-audio-data-private/thirteen-moons-disk2",  #
