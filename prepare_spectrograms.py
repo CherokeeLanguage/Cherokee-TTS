@@ -1,3 +1,5 @@
+import subprocess
+
 import shutil
 import unicodedata as ud
 
@@ -11,6 +13,7 @@ from pydub import AudioSegment
 from pydub import effects
 from pydub import silence
 from pydub.silence import detect_leading_silence
+from typing import List
 from typing import List
 
 from params.params import Params
@@ -46,6 +49,11 @@ def main():
     Params.load(f"../params/{args.dataset}.json")
 
     dataset_path: str = os.path.join("datasets", args.dataset)
+
+    # as this code *alters* the train and val files, always regenerate them first!
+    _: List[str] = ["python", os.path.join(dataset_path, "create_training_files.py")]
+    subprocess.run(_, check=True, bufsize=0)
+
     files_to_solve = [(dataset_path, "train.txt"), (dataset_path, "val.txt"), ]
 
     mel_path: str = os.path.join(dataset_path, 'mel_spectrograms')
