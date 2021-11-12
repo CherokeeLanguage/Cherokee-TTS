@@ -20,7 +20,7 @@
 
 	"checkpoint_each_epochs": 5,
 
-	"encoder_dimension": 256,
+	"encoder_dimension": 512,
 	"encoder_type": "generated",
 
 	"generator_bottleneck_dim": 4,
