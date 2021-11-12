@@ -54,16 +54,6 @@ if __name__ == "__main__":
 
     counts_list.sort(key=lambda value: value[1], reverse=True)
 
-    counter: int = 0
-    for idx in range(len(counts_list)):
-        count = counts_list[idx]
-        if "cno-" in count[0] or "-chr" in count[0] or "-walc1" in count[0]:
-            continue
-        print(count)
-        counter += 1
-        if counter >= 3:
-            break
-
     voices_by_lang: Dict[str, List[str]] = dict()
     voices: set = set()
     with open("train.txt", "r") as f:

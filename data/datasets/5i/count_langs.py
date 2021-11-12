@@ -28,12 +28,6 @@ if __name__ == "__main__":
 
     counts_list.sort(key=lambda value: value[1], reverse=True)
 
-    counter: int = 0
-    for idx in range(len(counts_list)):
-        count = counts_list[idx]
-        print(count)
-        counter += 1
-
     langs: set = set()
     with open("train.txt", "r") as f:
         for line in f:
