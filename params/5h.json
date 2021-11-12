@@ -2,14 +2,14 @@
 	"dataset": "datasets/5h",
 	"version": "2021-11-11-5h",
 	"epochs": 300,
-	"speaker_embedding_dimension": 128,
+	"speaker_embedding_dimension": 256,
 
 	"languages": ["chr", "de", "en", "fr", "ru"],
 	"characters": " abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяёᏸᏹᏺᏻᏼ–’ꭰꭱꭲꭳꭴꭵꭶꭷꭸꭹꭺꭻꭼꭽꭾꭿꮀꮁꮂꮃꮄꮅꮆꮇꮈꮉꮊꮋꮌꮎꮏꮑꮒꮓꮔꮕꮖꮗꮘꮙꮚꮛꮜꮝꮞꮟꮠꮡꮢꮣꮤꮥꮦꮧꮨꮩꮪꮫꮭꮮꮯꮰꮱꮲꮳꮴꮵꮶꮷꮸꮹꮺꮻꮼꮽꮾꮿ",
 
 	"stop_frames": 16,
-	"stop_balance": 100,
-	"stop_weight": 1.00,
+	"stop_balance": 25,
+	"stop_weight": 0.25,
 
 	"audio_min_length": 1000,
     "audio_max_length": 10000,
@@ -23,8 +23,8 @@
 	"encoder_dimension": 512,
 	"encoder_type": "generated",
 
-	"generator_bottleneck_dim": 4,
-	"generator_dim": 10,
+	"generator_bottleneck_dim": 8,
+	"generator_dim": 20,
 
 	"language_embedding_dimension": 0,
 	"learning_rate": 0.001,
