@@ -114,10 +114,10 @@ def main():
     with open(text_file) as r:
         line: str
         for line in r:
-            parts: List[str] = line.split("|")
-            text_item: str = ud.normalize("NFC", parts[1])
-            syll_lookup[text_item] = parts[0]
-            mp3_lookup[text_item] = parts[2]
+            parts: List[str] = line.strip().split("|")
+            text_item: str = ud.normalize("NFC", parts[1].strip())
+            syll_lookup[text_item] = parts[0].strip()
+            mp3_lookup[text_item] = parts[2].strip()
             text_list.append(text_item)
 
     for voice in voices:
