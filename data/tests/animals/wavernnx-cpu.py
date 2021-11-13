@@ -22,7 +22,7 @@ if not os.path.isdir(CHECKPOINTS_FOLDER):
     os.mkdir(CHECKPOINTS_FOLDER)
 
 TACOTRON_FOLDER = GIT_FOLDER + "/Cherokee-TTS"
-CHR_FOLDER = TACOTRON_FOLDER+"/data/tests/cherokee-animals"
+CHR_FOLDER = TACOTRON_FOLDER+"/data/tests/animals"
 
 wavernn_chpt = "wavernn_weight.pyt"
 WAVERNN_FOLDER = GIT_FOLDER + "/WaveRNN"
