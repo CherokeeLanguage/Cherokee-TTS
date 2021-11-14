@@ -269,7 +269,7 @@ if __name__ == '__main__':
                                 num_workers=args.loader_workers)
         eval_sampler = PerfectBatchSampler(dataset.dev, hp.languages, hp.batch_size,  #
                                            data_parallel_devices=dp_devices,  #
-                                           shuffle=False)
+                                           shuffle=True)
         eval_data = DataLoader(dataset.dev, batch_sampler=eval_sampler, pin_memory=False,  #
                                collate_fn=TextToSpeechCollate(False),  #
                                num_workers=args.loader_workers)
