@@ -1,9 +1,6 @@
-import subprocess
-
 from typing import List
 
-import re
-
+import subprocess
 import json
 import os
 import pathlib
