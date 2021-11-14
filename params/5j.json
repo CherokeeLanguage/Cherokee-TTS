@@ -1,8 +1,8 @@
 {
 	"dataset": "datasets/5j",
-	"version": "2021-11-12-5j",
+	"version": "2021-11-14-5j",
 	"epochs": 300,
-	"speaker_embedding_dimension": 64,
+	"speaker_embedding_dimension": 128,
 
 	"languages": ["chr", "de", "en", "fr", "nl"],
 	"characters": " abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяё–’",
@@ -15,10 +15,12 @@
     "audio_max_length": 10000,
 
 	"balanced_sampling": true,
+	"perfect_sampling": true,
+
 	"batch_size": 50,
 	"case_sensitive": false,
 
-	"checkpoint_each_epochs": 5,
+	"checkpoint_each_epochs": 10,
 
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
@@ -32,7 +34,6 @@
 	"learning_rate_decay_start": 10000,
 	"multi_language": true,
 	"multi_speaker": true,
-	"perfect_sampling": true,
 	"predict_linear": false,
 	"reversal_classifier": true,
     "reversal_classifier_dim": 256,

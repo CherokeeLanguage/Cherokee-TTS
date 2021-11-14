@@ -34,7 +34,7 @@ def main():
             # "../../cherokee-audio-data-private/beginning-cherokee",  #
             # "../../cherokee-audio-data-private/cherokee-language-coach-1",  #
             # "../../cherokee-audio-data-private/cherokee-language-coach-2",  #
-            # "../../cherokee-audio-data-private/durbin-feeling",  #
+            "../../cherokee-audio-data-private/durbin-feeling",  #
             "../../cherokee-audio-data/durbin-feeling-tones",  #
             # "../../cherokee-audio-data/michael-conrad",  #
             "../../cherokee-audio-data/michael-conrad2",  #
