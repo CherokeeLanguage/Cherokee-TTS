@@ -27,6 +27,7 @@ def main():
     mp3_from_gl: bool = False  # Use Griffin-Lim audio and don't vocode if True
     use_gpu: bool = False
     mp3_folder_prefix: str = "animals"
+    checkpoint_glob: str = "*"  # "2a-2021-05-01-epoch_300-loss_0.0740"  # "*"
 
     # fr 22
     voices_fr: typing.List[str] = ["01-fr", "02-fr", "04-fr", "05-fr", "06-fr", "07-fr", "08-fr", "09-fr", "10-fr",
@@ -85,7 +86,7 @@ def main():
         if dir_name:
             os.chdir(dir_name)
 
-    cp_folder: str = os.path.join(os.getcwd(), "..", "..", "..", "checkpoints", "*")
+    cp_folder: str = os.path.join(os.getcwd(), "..", "..", "..", "checkpoints", checkpoint_glob)
     print(cp_folder)
     _: list = []
     for checkpoint_file in glob.glob(cp_folder):
@@ -139,7 +140,8 @@ def main():
                 cmd_list = ["python", "wavernnx.py"]
             else:
                 cmd_list = ["python", "wavernnx-cpu.py"]
-            subprocess.run(cmd_list)
+            cmd_list = ["python", "diffwave_vocoder.py"]
+            subprocess.run(cmd_list, check=True)
 
         durations: List[Tuple[str, str]] = list()
         output_mp3_path: str = f"{mp3_folder_prefix}_{voice}_mp3"
