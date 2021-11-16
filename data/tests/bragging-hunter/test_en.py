@@ -16,7 +16,16 @@ from typing import List
 from typing import Tuple
 
 
+def cd_script_dir() -> None:
+    if sys.argv[0].strip():
+        dir_name: str = os.path.dirname(sys.argv[0])
+        if dir_name:
+            os.chdir(dir_name)
+
+
 def main():
+    cd_script_dir()
+
     mp3_set_title: str = "The Two Bragging Hunters"
     mp3_copyright_by: str = "Michael Conrad"
     mp3_encoded_by: str = "Michael Conrad"
@@ -51,6 +60,9 @@ def main():
                                     "04-f-walc1", "04-m-walc1", "05-f-walc1", "06-f-walc1", "cno-f-chr_1",
                                     "cno-f-chr_2", "cno-f-chr_3", "cno-f-chr_5", "cno-m-chr_1", "cno-m-chr_2", ]
 
+    # voices CNO
+    voices_chr_cno: typing.List[str] = ["cno-f-chr_2", "cno-f-chr_3", "cno-f-chr_5", "cno-m-chr_1", "cno-m-chr_2"]
+
     # chr_syl 1
     voices_chr_syl: typing.List[str] = ["10-chr", ]
 
@@ -72,11 +84,6 @@ def main():
     # voices: List[str] = ["02-ru", "04-fr", "05-ru", "27-de", "11-fr", "13-de"]
     
     text_file: str = "bragging-hunter-mco.txt"    
-
-    if sys.argv[0].strip():
-        dir_name: str = os.path.dirname(sys.argv[0])
-        if dir_name:
-            os.chdir(dir_name)
 
     cp_folder: str = os.path.join(os.getcwd(), "..", "..", "..", "checkpoints", "*")
     print(cp_folder)
@@ -126,6 +133,7 @@ def main():
                 cmd_list = ["python", "wavernnx.py"]
             else:
                 cmd_list = ["python", "wavernnx-cpu.py"]
+            cmd_list=["python", "diffwave_vocoder.py"]
             subprocess.run(cmd_list)
 
         durations: List[Tuple[str, str]] = list()

@@ -37,7 +37,7 @@ def main():
         spectrogram: Tensor = torch.from_numpy(nd_array).float()
         # spectrogram = 20 * torch.log10(torch.clamp(spectrogram, min=1e-5)) - 20
         spectrogram = torch.clamp((spectrogram + 100) / 100, 0.0, 1.0)
-        audio, sr = diffwave_predict(spectrogram, model_dir, device=torch.device("cpu"))
+        audio, sr = diffwave_predict(spectrogram, model_dir, device=torch.device("cuda"))
         torchaudio.save(wav_file, audio.cpu(), sample_rate=sr)
         bar.update(bar.currval+1)
     bar.finish()
