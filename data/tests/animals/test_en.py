@@ -25,9 +25,12 @@ def main():
     mp3_encoded_by: str = "Michael Conrad"
     mp3_copy_year: str = str(datetime.date.today().year)
     mp3_from_gl: bool = False  # Use Griffin-Lim audio and don't vocode if True
-    use_gpu: bool = False
+    use_gpu: bool = True
     mp3_folder_prefix: str = "animals"
-    checkpoint_glob: str = "*"  # "2a-2021-05-01-epoch_300-loss_0.0740"  # "*"
+    # checkpoint_glob: str = "2021-11-16-5j-epoch_300-loss_0.0746"
+    # checkpoint_glob: str = "2021-11-16-5j-epoch_480-loss_0.0733"
+    # checkpoint_glob: str = "2a-2021-05-01-epoch_300-loss_0.0740"
+    checkpoint_glob: str = "2a-*"
 
     # fr 22
     voices_fr: typing.List[str] = ["01-fr", "02-fr", "04-fr", "05-fr", "06-fr", "07-fr", "08-fr", "09-fr", "10-fr",

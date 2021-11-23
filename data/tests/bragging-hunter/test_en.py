@@ -31,7 +31,11 @@ def main():
     mp3_encoded_by: str = "Michael Conrad"
     mp3_copy_year: str = str(datetime.date.today().year)
     mp3_from_gl: bool = False  # Use Griffin-Lim audio and don't vocode if True
-    use_gpu: bool = False
+    use_gpu: bool = True
+    
+    tts_weights_glob: str = "2a*"
+    # tts_weights_glob: str = "*"
+    
 
     # fr 22
     voices_fr: typing.List[str] = ["01-fr", "02-fr", "04-fr", "05-fr", "06-fr", "07-fr", "08-fr", "09-fr", "10-fr",
@@ -73,7 +77,7 @@ def main():
     # zh 6
     voices_zh: typing.List[str] = ["01-zh", "02-zh", "03-zh", "05-zh", "06-zh", "07-zh", ]
 
-    voices = voices_en
+    voices = voices_chr_cno
     voices.sort()
 
     # voices: List[str] = ["299-en-f", "318-en-f", "339-en-f", "311-en-m", "334-en-m", "345-en-m", "360-en-m"]
@@ -85,8 +89,7 @@ def main():
     
     text_file: str = "bragging-hunter-mco.txt"    
 
-    cp_folder: str = os.path.join(os.getcwd(), "..", "..", "..", "checkpoints", "*")
-    print(cp_folder)
+    cp_folder: str = os.path.join(os.getcwd(), "..", "..", "..", "checkpoints", tts_weights_glob)
     _: list = []
     for checkpoint_file in glob.glob(cp_folder):
         _.append(checkpoint_file)

@@ -13,3 +13,6 @@
 [submodule "UniversalVocoding"]
 	path = UniversalVocoding
 	url = ../UniversalVocoding.git
+[submodule "diffwave"]
+	path = diffwave
+	url = ../../CherokeeLanguage/diffwave.git
