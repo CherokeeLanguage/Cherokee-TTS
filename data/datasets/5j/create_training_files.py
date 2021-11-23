@@ -32,13 +32,13 @@ def main():
             "../../other-audio-data/comvoi_clean",  #
             "../../other-audio-data/cstr-vctk-american",  #
             "../../cherokee-audio-data-private/beginning-cherokee",  #
-            "../../cherokee-audio-data-private/cherokee-language-coach-1",  #
-            "../../cherokee-audio-data-private/cherokee-language-coach-2",  #
+            # "../../cherokee-audio-data-private/cherokee-language-coach-1",  #
+            # "../../cherokee-audio-data-private/cherokee-language-coach-2",  #
             "../../cherokee-audio-data-private/durbin-feeling",  #
             "../../cherokee-audio-data/durbin-feeling-tones",  #
             # "../../cherokee-audio-data/michael-conrad",  #
-            "../../cherokee-audio-data/michael-conrad2",  #
-            "../../cherokee-audio-data-private/sam-hider",  #
+            # "../../cherokee-audio-data/michael-conrad2",  #
+            # "../../cherokee-audio-data-private/sam-hider",  #
             "../../cherokee-audio-data/see-say-write",  #
             # "../../cherokee-audio-data-private/thirteen-moons-disk1",  #
             # "../../cherokee-audio-data-private/thirteen-moons-disk2",  #

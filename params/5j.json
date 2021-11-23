@@ -1,15 +1,15 @@
 {
 	"dataset": "datasets/5j",
-	"version": "2021-11-16-5j",
-	"epochs": 600,
-	"speaker_embedding_dimension": 128,
+	"version": "2021-11-24-5j",
+	"epochs": 300,
+	"speaker_embedding_dimension": 64,
 
 	"languages": ["chr", "de", "en", "fr", "ru"],
 	"characters": " abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяё–’“”",
 
 	"stop_frames": 16,
-	"stop_balance": 10,
-	"stop_weight": 0.1,
+	"stop_balance": 50,
+	"stop_weight": 0.5,
 
 	"audio_min_length": 1000,
     "audio_max_length": 10000,
