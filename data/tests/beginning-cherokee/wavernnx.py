@@ -52,7 +52,7 @@ while os.path.exists(CHR_FOLDER+"/"+str(ix)+".npy"):
 
 idx=1
 for s in y:
-    waveform = generate(model, s, True, #hp.voc_gen_batched,
+    waveform = generate(model, s, hp.voc_gen_batched,
                       hp.voc_target, hp.voc_overlap)
     sf.write("wg-"+str(idx)+".wav", waveform, hp.sample_rate)
     idx+=1
