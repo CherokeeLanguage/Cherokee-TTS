@@ -14,7 +14,6 @@ from pydub import effects
 from pydub import silence
 from pydub.silence import detect_leading_silence
 from typing import List
-from typing import List
 
 from params.params import Params
 from utils import audio
@@ -47,7 +46,10 @@ def main():
 
     args = parser.parse_args()
     Params.load(f"../params/{args.dataset}.json")
-
+    audio.hp = Params
+    hop_frames: int = audio.ms_to_frames(audio.hp.stft_shift_ms)
+    win_frames: int = audio.ms_to_frames(audio.hp.stft_window_ms)
+    print(f"mel parameters: hop = {hop_frames:,}, win = {win_frames:,}")
     dataset_path: str = os.path.join("datasets", args.dataset)
 
     # as this code *alters* the train and val files, always regenerate them first!
@@ -185,12 +187,12 @@ def main():
                 print(entry, file=f)
                 bar.update(bar.currval + 1)
 
-        print(f"Records skipped (>{Params.audio_max_length / 1000:.02f}): {len(skipped_too_long),}")
+        print(f"Records skipped (>{Params.audio_max_length / 1000:.02f}): {len(skipped_too_long):,}")
         with open(os.path.join(d, "too-long-" + fs), "w") as w:
             for entry in skipped_too_long:
                 print(entry, file=w)
 
-        print(f"Records skipped (<{Params.audio_min_length / 1000:.02f}): {len(skipped_too_short),}")
+        print(f"Records skipped (<{Params.audio_min_length / 1000:.02f}): {len(skipped_too_short):,}")
         with open(os.path.join(d, "too-short-" + fs), "w") as w:
             for entry in skipped_too_short:
                 print(entry, file=w)
@@ -198,9 +200,9 @@ def main():
         bar.finish()
 
     if bad_silence_count:
-        print(f"Records skipped because of excessive silence: {bad_silence_count,}")
+        print(f"Records skipped because of excessive silence: {bad_silence_count:,}")
     if fix_silence_count:
-        print(f"Records altered because of excessive silence: {fix_silence_count,}")
+        print(f"Records altered because of excessive silence: {fix_silence_count:,}")
 
     for d, fs in files_to_solve:
         tmp = os.path.join(d, fs + "-tmp")
