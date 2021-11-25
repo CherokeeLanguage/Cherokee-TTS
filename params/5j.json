@@ -1,8 +1,8 @@
 {
   "dataset": "datasets/5j",
-  "version": "2021-11-25-5j-4",
+  "version": "2021-11-25-5j-18",
   "epochs": 25,
-  "speaker_embedding_dimension": 4,
+  "speaker_embedding_dimension": 18,
 
   "languages": ["chr", "de", "en", "fr", "ru"],
   "characters": " abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяёᏸᏹᏺᏻᏼ–’“”ꭰꭱꭲꭳꭴꭵꭶꭷꭸꭹꭺꭻꭼꭽꭾꭿꮀꮁꮂꮃꮄꮅꮆꮇꮈꮉꮊꮋꮌꮎꮏꮑꮒꮓꮔꮕꮖꮗꮘꮙꮚꮛꮜꮝꮞꮟꮠꮡꮢꮣꮤꮥꮦꮧꮨꮩꮪꮫꮭꮮꮯꮰꮱꮲꮳꮴꮵꮶꮷꮸꮹꮺꮻꮼꮽꮾꮿ",
@@ -21,7 +21,7 @@
   "stft_shift_ms": 12.5,
 
   "balanced_sampling": true,
-  "batch_size": 50,
+  "batch_size": 60,
   "case_sensitive": false,
 
   "checkpoint_each_epochs": 5,
