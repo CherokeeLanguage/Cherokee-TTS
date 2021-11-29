@@ -1,8 +1,8 @@
 {
   "dataset": "datasets/5j",
-  "version": "2021-11-28-5j-64",
+  "version": "2021-11-29-5j-72",
   "epochs": 125,
-  "speaker_embedding_dimension": 64,
+  "speaker_embedding_dimension": 72,
 
   "languages": ["chr", "de", "en", "fr", "ru"],
   "characters": " abcdefghijklmnopqrstuvwxyzßàáâäçèéêëìíîïòóôöùúûüāēěīōőūűǎǐǒǔɂ̀́̂̄̋̌абвгдежзийклмнопрстуфхцчшщъыьэюяёᏸᏹᏺᏻᏼ–’“”ꭰꭱꭲꭳꭴꭵꭶꭷꭸꭹꭺꭻꭼꭽꭾꭿꮀꮁꮂꮃꮄꮅꮆꮇꮈꮉꮊꮋꮌꮎꮏꮑꮒꮓꮔꮕꮖꮗꮘꮙꮚꮛꮜꮝꮞꮟꮠꮡꮢꮣꮤꮥꮦꮧꮨꮩꮪꮫꮭꮮꮯꮰꮱꮲꮳꮴꮵꮶꮷꮸꮹꮺꮻꮼꮽꮾꮿ",
