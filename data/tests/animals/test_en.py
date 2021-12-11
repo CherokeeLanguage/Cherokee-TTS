@@ -1,3 +1,5 @@
+from random import Random
+
 import typing
 
 import json
@@ -20,17 +22,21 @@ from typing import Tuple
 
 
 def main():
+    quick_test: bool = True
+    quick_test_size: int = 10
     mp3_set_title: str = "Cherokee Animal Names"
     mp3_copyright_by: str = "Michael Conrad"
     mp3_encoded_by: str = "Michael Conrad"
     mp3_copy_year: str = str(datetime.date.today().year)
     mp3_from_gl: bool = False  # Use Griffin-Lim audio and don't vocode if True
     use_gpu: bool = True
+    use_diffwave: bool = True
     mp3_folder_prefix: str = "animals"
     # checkpoint_glob: str = "2021-11-16-5j-epoch_300-loss_0.0746"
     # checkpoint_glob: str = "2021-11-16-5j-epoch_480-loss_0.0733"
     # checkpoint_glob: str = "2a-2021-05-01-epoch_300-loss_0.0740"
-    checkpoint_glob: str = "2a-*"
+    checkpoint_glob: str = "*_100-loss*"
+    checkpoint_glob: str = "*"
 
     # fr 22
     voices_fr: typing.List[str] = ["01-fr", "02-fr", "04-fr", "05-fr", "06-fr", "07-fr", "08-fr", "09-fr", "10-fr",
@@ -123,6 +129,9 @@ def main():
             syll_lookup[text_item] = parts[0].strip()
             mp3_lookup[text_item] = parts[2].strip()
             text_list.append(text_item)
+    if quick_test:
+        r: Random = Random(0)
+        text_list = r.sample(text_list, quick_test_size)
 
     for voice in voices:
         text_pipe: str = ""
@@ -143,7 +152,8 @@ def main():
                 cmd_list = ["python", "wavernnx.py"]
             else:
                 cmd_list = ["python", "wavernnx-cpu.py"]
-            cmd_list = ["python", "diffwave_vocoder.py"]
+            if use_diffwave:
+                cmd_list = ["python", "diffwave_vocoder.py"]
             subprocess.run(cmd_list, check=True)
 
         durations: List[Tuple[str, str]] = list()

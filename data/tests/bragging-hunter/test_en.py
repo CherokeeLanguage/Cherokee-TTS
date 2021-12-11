@@ -136,7 +136,7 @@ def main():
                 cmd_list = ["python", "wavernnx.py"]
             else:
                 cmd_list = ["python", "wavernnx-cpu.py"]
-            # cmd_list=["python", "diffwave_vocoder.py"]
+            cmd_list=["python", "diffwave_vocoder.py"]
             subprocess.run(cmd_list)
 
         durations: List[Tuple[str, str]] = list()
