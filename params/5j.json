@@ -1,6 +1,6 @@
 {
   "dataset": "datasets/5j",
-  "version": "2021-12-01-5j-80_rc=0625_lr=001",
+  "version": "2021-12-11-5j-diffwave",
   "epochs": 300,
   "speaker_embedding_dimension": 88,
 
