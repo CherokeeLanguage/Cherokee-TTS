@@ -32,9 +32,10 @@ def main():
     mp3_copy_year: str = str(datetime.date.today().year)
     mp3_from_gl: bool = False  # Use Griffin-Lim audio and don't vocode if True
     use_gpu: bool = True
+    use_diffwave: bool = True
     
-    tts_weights_glob: str = "5h*"
-    # tts_weights_glob: str = "*"
+    #tts_weights_glob: str = "5h*"
+    tts_weights_glob: str = "*"
     
 
     # fr 22
@@ -77,7 +78,7 @@ def main():
     # zh 6
     voices_zh: typing.List[str] = ["01-zh", "02-zh", "03-zh", "05-zh", "06-zh", "07-zh", ]
 
-    voices = voices_en
+    voices = voices_chr_cno
     voices.sort()
 
     # voices: List[str] = ["299-en-f", "318-en-f", "339-en-f", "311-en-m", "334-en-m", "345-en-m", "360-en-m"]
@@ -136,7 +137,8 @@ def main():
                 cmd_list = ["python", "wavernnx.py"]
             else:
                 cmd_list = ["python", "wavernnx-cpu.py"]
-            cmd_list=["python", "diffwave_vocoder.py"]
+            if use_diffwave:
+                cmd_list = ["python", "diffwave_vocoder.py"]
             subprocess.run(cmd_list)
 
         durations: List[Tuple[str, str]] = list()
