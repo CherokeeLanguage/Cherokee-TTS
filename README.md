@@ -1,3 +1,5 @@
+<h1 align="center">Archived in favour of using the IMS-Toucan toolkit. (https://github.com/DigitalPhonetics/IMS-Toucan)</h1>
+
 <h1 align="center">Cherokee Speech Synthesis</h1>
 
 <p align="center">
