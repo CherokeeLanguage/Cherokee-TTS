@@ -11,10 +11,10 @@
 ᎣᎦᎾ|o:gana.|ogana.mp3
 ᎤᎦᏐᏣᏁᏓ|u:ksò:ja:ne̋:da.|uksojaneda.mp3
 ᎤᎧᏖᎾ|ukte:na.|uktena.mp3
-ᎤᎫᎫ|u:gù:ku.|ugugu.mp3
+ᎤᎫᎫ|u:gù:ku.|uguku.mp3
 ᎤᎾᎦᏐᏣᏁᏓ|u:naksò:jane̋:da.|unaksojaneda.mp3
 ᎤᎾᏤᏥᏍᏗ|u:naje̋:tsdi.|unajetsdi.mp3
-ᎤᏂᎫᎫ|u:ni:gù:ku.|unigugu.mp3
+ᎤᏂᎫᎫ|u:ni:gù:ku.|uniguku.mp3
 ᎤᏂᏃᏕᎾ|u:ni:nò:de̋:na.|uninodena.mp3
 ᎤᏂᏥᏯ|u:ni:ji:ya.|unijiya.mp3
 ᎤᏃᏕᎾ|u:nò:de̋:na.|unodena.mp3
